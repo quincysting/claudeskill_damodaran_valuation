@@ -1,0 +1,6455 @@
+[
+{
+"kind": "cell",
+"file": "betaChina.xls",
+"sheet": "Industry Averages",
+"cell": "J44",
+"dataset": "betas",
+"region": "China",
+"industry": "Financial Svcs. (Non-bank & Insurance)",
+"column": "Standard deviation of equity",
+"his_header": "Standard deviation of equity",
+"value": 0.5232106438305549
+},
+{
+"kind": "cell",
+"file": "betaChina.xls",
+"sheet": "Industry Averages",
+"cell": "D62",
+"dataset": "betas",
+"region": "China",
+"industry": "Metals & Mining",
+"column": "D/E Ratio",
+"his_header": "D/E Ratio",
+"value": 0.2814500563983074
+},
+{
+"kind": "cell",
+"file": "betaChina.xls",
+"sheet": "Industry Averages",
+"cell": "H74",
+"dataset": "betas",
+"region": "China",
+"industry": "Real Estate (Development)",
+"column": "Unlevered beta corrected for cash",
+"his_header": "Unlevered beta corrected for cash",
+"value": 0.5724750049031126
+},
+{
+"kind": "cell",
+"file": "betaChina.xls",
+"sheet": "Industry Averages",
+"cell": "H26",
+"dataset": "betas",
+"region": "China",
+"industry": "Chemical (Basic)",
+"column": "Unlevered beta corrected for cash",
+"his_header": "Unlevered beta corrected for cash",
+"value": 1.5297022229560384
+},
+{
+"kind": "cell",
+"file": "betaChina.xls",
+"sheet": "Industry Averages",
+"cell": "G37",
+"dataset": "betas",
+"region": "China",
+"industry": "Electrical Equipment",
+"column": "Cash/Firm value",
+"his_header": "Cash/Firm value",
+"value": 0.11471240909182731
+},
+{
+"kind": "cell",
+"file": "betaemerg.xls",
+"sheet": "Industry Averages",
+"cell": "N71",
+"dataset": "betas",
+"region": "Emerging",
+"industry": "Precious Metals",
+"column": "Beta over time: 2024",
+"his_header": "2024",
+"value": 1.345838929875079
+},
+{
+"kind": "cell",
+"file": "betaemerg.xls",
+"sheet": "Industry Averages",
+"cell": "J67",
+"dataset": "betas",
+"region": "Emerging",
+"industry": "Oilfield Svcs/Equip.",
+"column": "Standard deviation of equity",
+"his_header": "Standard deviation of equity",
+"value": 0.3953744190477917
+},
+{
+"kind": "cell",
+"file": "betaemerg.xls",
+"sheet": "Industry Averages",
+"cell": "L31",
+"dataset": "betas",
+"region": "Emerging",
+"industry": "Computers/Peripherals",
+"column": "Beta over time: 2022",
+"his_header": "2022",
+"value": 1.45
+},
+{
+"kind": "cell",
+"file": "betaemerg.xls",
+"sheet": "Industry Averages",
+"cell": "I32",
+"dataset": "betas",
+"region": "Emerging",
+"industry": "Construction Supplies",
+"column": "HiLo Risk",
+"his_header": "HiLo Risk",
+"value": 0.3275296431741721
+},
+{
+"kind": "cell",
+"file": "betaemerg.xls",
+"sheet": "Industry Averages",
+"cell": "D80",
+"dataset": "betas",
+"region": "Emerging",
+"industry": "Retail (Automotive)",
+"column": "D/E Ratio",
+"his_header": "D/E Ratio",
+"value": 0.7448646331304316
+},
+{
+"kind": "cell",
+"file": "betaEurope.xls",
+"sheet": "Industry Averages",
+"cell": "I20",
+"dataset": "betas",
+"region": "Europe",
+"industry": "Beverage (Soft)",
+"column": "HiLo Risk",
+"his_header": "HiLo Risk",
+"value": 0.2374880886652959
+},
+{
+"kind": "cell",
+"file": "betaEurope.xls",
+"sheet": "Industry Averages",
+"cell": "M17",
+"dataset": "betas",
+"region": "Europe",
+"industry": "Bank (Money Center)",
+"column": "Beta over time: 2023",
+"his_header": "2023",
+"value": 0.3686115410275469
+},
+{
+"kind": "cell",
+"file": "betaEurope.xls",
+"sheet": "Industry Averages",
+"cell": "M83",
+"dataset": "betas",
+"region": "Europe",
+"industry": "Retail (General)",
+"column": "Beta over time: 2023",
+"his_header": "2023",
+"value": 0.3928101935354418
+},
+{
+"kind": "cell",
+"file": "betaEurope.xls",
+"sheet": "Industry Averages",
+"cell": "O11",
+"dataset": "betas",
+"region": "Europe",
+"industry": "Advertising",
+"column": "Beta over time: 2025",
+"his_header": "2025",
+"value": 0.815196735576821
+},
+{
+"kind": "cell",
+"file": "betaEurope.xls",
+"sheet": "Industry Averages",
+"cell": "O101",
+"dataset": "betas",
+"region": "Europe",
+"industry": "Transportation (Railroads)",
+"column": "Beta over time: 2025",
+"his_header": "2025",
+"value": 0.778372055533369
+},
+{
+"kind": "cell",
+"file": "betaGlobal.xls",
+"sheet": "Industry Averages",
+"cell": "C14",
+"dataset": "betas",
+"region": "Global",
+"industry": "Apparel",
+"column": "Beta",
+"his_header": "Beta",
+"value": 0.7624174150098879
+},
+{
+"kind": "cell",
+"file": "betaGlobal.xls",
+"sheet": "Industry Averages",
+"cell": "I102",
+"dataset": "betas",
+"region": "Global",
+"industry": "Trucking",
+"column": "HiLo Risk",
+"his_header": "HiLo Risk",
+"value": 0.37075515525660424
+},
+{
+"kind": "cell",
+"file": "betaGlobal.xls",
+"sheet": "Industry Averages",
+"cell": "I17",
+"dataset": "betas",
+"region": "Global",
+"industry": "Bank (Money Center)",
+"column": "HiLo Risk",
+"his_header": "HiLo Risk",
+"value": 0.24885897307915883
+},
+{
+"kind": "cell",
+"file": "betaGlobal.xls",
+"sheet": "Industry Averages",
+"cell": "L89",
+"dataset": "betas",
+"region": "Global",
+"industry": "Semiconductor Equip",
+"column": "Unlevered beta corrected for cash - Over time: 2022",
+"his_header": "2022",
+"value": 1.93
+},
+{
+"kind": "cell",
+"file": "betaGlobal.xls",
+"sheet": "Industry Averages",
+"cell": "P78",
+"dataset": "betas",
+"region": "Global",
+"industry": "Reinsurance",
+"column": "Unlevered beta corrected for cash - Over time: Average (2020-24)",
+"his_header": "Average (2020-24)",
+"value": 1.1148075179238373
+},
+{
+"kind": "cell",
+"file": "betaIndia.xls",
+"sheet": "Industry Averages",
+"cell": "N38",
+"dataset": "betas",
+"region": "India",
+"industry": "Electronics (Consumer & Office)",
+"column": "Beta: 2023",
+"his_header": "Beta: 2023",
+"value": 1.0663693417321418
+},
+{
+"kind": "cell",
+"file": "betaIndia.xls",
+"sheet": "Industry Averages",
+"cell": "K54",
+"dataset": "betas",
+"region": "India",
+"industry": "Hotel/Gaming",
+"column": "Standard deviation in operating income (last 10 years)",
+"his_header": "Standard deviation in operating income (last 10 years)",
+"value": 2.1955857882440397
+},
+{
+"kind": "cell",
+"file": "betaIndia.xls",
+"sheet": "Industry Averages",
+"cell": "N62",
+"dataset": "betas",
+"region": "India",
+"industry": "Metals & Mining",
+"column": "Beta: 2023",
+"his_header": "Beta: 2023",
+"value": 1.0351938274591044
+},
+{
+"kind": "cell",
+"file": "betaIndia.xls",
+"sheet": "Industry Averages",
+"cell": "O12",
+"dataset": "betas",
+"region": "India",
+"industry": "Aerospace/Defense",
+"column": "Beta: 2024",
+"his_header": "Beta: 2024",
+"value": 1.471790738100471
+},
+{
+"kind": "cell",
+"file": "betaIndia.xls",
+"sheet": "Industry Averages",
+"cell": "O76",
+"dataset": "betas",
+"region": "India",
+"industry": "Real Estate (Operations & Services)",
+"column": "Beta: 2024",
+"his_header": "Beta: 2024",
+"value": 0.5223223192360443
+},
+{
+"kind": "cell",
+"file": "betaJapan.xls",
+"sheet": "Industry Averages",
+"cell": "C56",
+"dataset": "betas",
+"region": "Japan",
+"industry": "Information Services",
+"column": "Beta",
+"his_header": "Beta",
+"value": 1.1397132470051083
+},
+{
+"kind": "cell",
+"file": "betaJapan.xls",
+"sheet": "Industry Averages",
+"cell": "I39",
+"dataset": "betas",
+"region": "Japan",
+"industry": "Electronics (General)",
+"column": "HiLo Risk",
+"his_header": "HiLo Risk",
+"value": 0.31560599528666966
+},
+{
+"kind": "cell",
+"file": "betaJapan.xls",
+"sheet": "Industry Averages",
+"cell": "K75",
+"dataset": "betas",
+"region": "Japan",
+"industry": "Real Estate (General/Diversified)",
+"column": "Standard deviation in operating income (last 10 years)",
+"his_header": "Standard deviation in operating income (last 10 years)",
+"value": 0.11720268072258394
+},
+{
+"kind": "cell",
+"file": "betaJapan.xls",
+"sheet": "Industry Averages",
+"cell": "B25",
+"dataset": "betas",
+"region": "Japan",
+"industry": "Cable TV",
+"column": "Number of firms",
+"his_header": "Number of firms",
+"value": 1.0
+},
+{
+"kind": "cell",
+"file": "betaJapan.xls",
+"sheet": "Industry Averages",
+"cell": "F94",
+"dataset": "betas",
+"region": "Japan",
+"industry": "Software (System & Application)",
+"column": "Unlevered beta",
+"his_header": "Unlevered beta",
+"value": 1.532626108095531
+},
+{
+"kind": "cell",
+"file": "betas.xls",
+"sheet": "Industry Averages",
+"cell": "G43",
+"dataset": "betas",
+"region": "US",
+"industry": "Farming/Agriculture",
+"column": "Cash/Firm value",
+"his_header": "Cash/Firm value",
+"value": 0.03873786848086313
+},
+{
+"kind": "cell",
+"file": "betas.xls",
+"sheet": "Industry Averages",
+"cell": "M31",
+"dataset": "betas",
+"region": "US",
+"industry": "Computers/Peripherals",
+"column": "Unlevered beta corrected for cash - Over time: 2023",
+"his_header": "2023",
+"value": 1.227042372213005
+},
+{
+"kind": "cell",
+"file": "betas.xls",
+"sheet": "Industry Averages",
+"cell": "P43",
+"dataset": "betas",
+"region": "US",
+"industry": "Farming/Agriculture",
+"column": "Unlevered beta corrected for cash - Over time: Average (2022-2026)",
+"his_header": "Average (2022-2026)",
+"value": 0.8249397176670415
+},
+{
+"kind": "cell",
+"file": "betas.xls",
+"sheet": "Industry Averages",
+"cell": "L76",
+"dataset": "betas",
+"region": "US",
+"industry": "Real Estate (Operations & Services)",
+"column": "Unlevered beta corrected for cash - Over time: 2022",
+"his_header": "2022",
+"value": 0.8711247503573315
+},
+{
+"kind": "cell",
+"file": "betas.xls",
+"sheet": "Industry Averages",
+"cell": "J44",
+"dataset": "betas",
+"region": "US",
+"industry": "Financial Svcs. (Non-bank & Insurance)",
+"column": "Standard deviation of equity",
+"his_header": "Standard deviation of equity",
+"value": 0.42469192147740364
+},
+{
+"kind": "cell",
+"file": "BuybacksIndustryGlobal.xlsx",
+"sheet": "Sheet1",
+"cell": "E33",
+"dataset": "BuybacksIndustry",
+"region": "Global",
+"industry": "Entertainment",
+"column": "% buying backs",
+"his_header": "% buying backs",
+"value": 0.18963165075034105
+},
+{
+"kind": "cell",
+"file": "BuybacksIndustryGlobal.xlsx",
+"sheet": "Sheet1",
+"cell": "C61",
+"dataset": "BuybacksIndustry",
+"region": "Global",
+"industry": "Paper/Forest Products",
+"column": "Buy back stock",
+"his_header": "Buy back stock",
+"value": 52.0
+},
+{
+"kind": "cell",
+"file": "BuybacksIndustryGlobal.xlsx",
+"sheet": "Sheet1",
+"cell": "E92",
+"dataset": "BuybacksIndustry",
+"region": "Global",
+"industry": "Transportation",
+"column": "% buying backs",
+"his_header": "% buying backs",
+"value": 0.2017738359201774
+},
+{
+"kind": "cell",
+"file": "BuybacksIndustryGlobal.xlsx",
+"sheet": "Sheet1",
+"cell": "E59",
+"dataset": "BuybacksIndustry",
+"region": "Global",
+"industry": "Oilfield Svcs/Equip.",
+"column": "% buying backs",
+"his_header": "% buying backs",
+"value": 0.25986078886310904
+},
+{
+"kind": "cell",
+"file": "BuybacksIndustryGlobal.xlsx",
+"sheet": "Sheet1",
+"cell": "C36",
+"dataset": "BuybacksIndustry",
+"region": "Global",
+"industry": "Financial Svcs. (Non-bank & Insurance)",
+"column": "Buy back stock",
+"his_header": "Buy back stock",
+"value": 268.0
+},
+{
+"kind": "cell",
+"file": "BuybacksIndustryUS.xlsx",
+"sheet": "Sheet1",
+"cell": "F40",
+"dataset": "BuybacksIndustry",
+"region": "US",
+"industry": "Green & Renewable Energy",
+"column": "Buybacks",
+"his_header": "Buybacks",
+"value": 3.244999999999998
+},
+{
+"kind": "cell",
+"file": "BuybacksIndustryUS.xlsx",
+"sheet": "Sheet1",
+"cell": "C43",
+"dataset": "BuybacksIndustry",
+"region": "US",
+"industry": "Heathcare Information and Technology",
+"column": "Buy back stock",
+"his_header": "Buy back stock",
+"value": 50.0
+},
+{
+"kind": "cell",
+"file": "BuybacksIndustryUS.xlsx",
+"sheet": "Sheet1",
+"cell": "B10",
+"dataset": "BuybacksIndustry",
+"region": "US",
+"industry": "Banks (Regional)",
+"column": "# firms",
+"his_header": "# firms",
+"value": 568.0
+},
+{
+"kind": "cell",
+"file": "BuybacksIndustryUS.xlsx",
+"sheet": "Sheet1",
+"cell": "E35",
+"dataset": "BuybacksIndustry",
+"region": "US",
+"industry": "Farming/Agriculture",
+"column": "% buying backs",
+"his_header": "% buying backs",
+"value": 0.34285714285714286
+},
+{
+"kind": "cell",
+"file": "BuybacksIndustryUS.xlsx",
+"sheet": "Sheet1",
+"cell": "H13",
+"dataset": "BuybacksIndustry",
+"region": "US",
+"industry": "Broadcasting",
+"column": "Cash Returned",
+"his_header": "Cash Returned",
+"value": 2430.348
+},
+{
+"kind": "cell",
+"file": "dbtfund.xls",
+"sheet": "Industry Averages",
+"cell": "L13",
+"dataset": "dbtfund",
+"region": "US",
+"industry": "Auto & Truck",
+"column": "Std dev in Stock Prices",
+"his_header": "Std dev in Stock Prices",
+"value": 0.6183460542354303
+},
+{
+"kind": "cell",
+"file": "dbtfund.xls",
+"sheet": "Industry Averages",
+"cell": "O71",
+"dataset": "dbtfund",
+"region": "US",
+"industry": "R.E.I.T.",
+"column": "Capital Spending/Total Assets",
+"his_header": "Capital Spending/Total Assets",
+"value": 0.004129106973143461
+},
+{
+"kind": "cell",
+"file": "dbtfund.xls",
+"sheet": "Industry Averages",
+"cell": "B24",
+"dataset": "dbtfund",
+"region": "US",
+"industry": "Chemical (Basic)",
+"column": "Number of firms",
+"his_header": "Number of firms",
+"value": 29.0
+},
+{
+"kind": "cell",
+"file": "dbtfund.xls",
+"sheet": "Industry Averages",
+"cell": "O91",
+"dataset": "dbtfund",
+"region": "US",
+"industry": "Software (Internet)",
+"column": "Capital Spending/Total Assets",
+"his_header": "Capital Spending/Total Assets",
+"value": 0.12324864885127851
+},
+{
+"kind": "cell",
+"file": "dbtfund.xls",
+"sheet": "Industry Averages",
+"cell": "N73",
+"dataset": "dbtfund",
+"region": "US",
+"industry": "Real Estate (General/Diversified)",
+"column": "Net PP&E/Total Assets",
+"his_header": "Net PP&E/Total Assets",
+"value": 0.13622078049098557
+},
+{
+"kind": "cell",
+"file": "dbtfundChina.xls",
+"sheet": "Industry Averages",
+"cell": "L78",
+"dataset": "dbtfund",
+"region": "China",
+"industry": "Retail (Automotive)",
+"column": "Std dev in Stock Prices",
+"his_header": "Std dev in Stock Prices",
+"value": 0.6787738954559525
+},
+{
+"kind": "cell",
+"file": "dbtfundChina.xls",
+"sheet": "Industry Averages",
+"cell": "J42",
+"dataset": "dbtfund",
+"region": "China",
+"industry": "Financial Svcs. (Non-bank & Insurance)",
+"column": "Effective tax rate",
+"his_header": "Effective tax rate",
+"value": 0.16822931190611573
+},
+{
+"kind": "cell",
+"file": "dbtfundChina.xls",
+"sheet": "Industry Averages",
+"cell": "K48",
+"dataset": "dbtfund",
+"region": "China",
+"industry": "Healthcare Support Services",
+"column": "Institutional Holdings",
+"his_header": "Institutional Holdings",
+"value": 0.07916720000000002
+},
+{
+"kind": "cell",
+"file": "dbtfundChina.xls",
+"sheet": "Industry Averages",
+"cell": "E54",
+"dataset": "dbtfund",
+"region": "China",
+"industry": "Information Services",
+"column": "Market D/E (unadjusted)",
+"his_header": "Market D/E (unadjusted)",
+"value": 0.0028724981467753885
+},
+{
+"kind": "cell",
+"file": "dbtfundChina.xls",
+"sheet": "Industry Averages",
+"cell": "K15",
+"dataset": "dbtfund",
+"region": "China",
+"industry": "Bank (Money Center)",
+"column": "Institutional Holdings",
+"his_header": "Institutional Holdings",
+"value": 0.21185714285714285
+},
+{
+"kind": "cell",
+"file": "dbtfundemerg.xls",
+"sheet": "Industry Averages",
+"cell": "D66",
+"dataset": "dbtfund",
+"region": "Emerging",
+"industry": "Packaging & Container",
+"column": "Market Debt to Capital (Unadjusted)",
+"his_header": "Market Debt to Capital (Unadjusted)",
+"value": 0.2603778946186043
+},
+{
+"kind": "cell",
+"file": "dbtfundemerg.xls",
+"sheet": "Industry Averages",
+"cell": "C32",
+"dataset": "dbtfund",
+"region": "Emerging",
+"industry": "Drugs (Biotechnology)",
+"column": "Book Debt to Capital",
+"his_header": "Book Debt to Capital",
+"value": 0.18749775259495455
+},
+{
+"kind": "cell",
+"file": "dbtfundemerg.xls",
+"sheet": "Industry Averages",
+"cell": "M15",
+"dataset": "dbtfund",
+"region": "Emerging",
+"industry": "Bank (Money Center)",
+"column": "EBITDA/EV",
+"his_header": "EBITDA/EV",
+"value": 0.0010425215032504966
+},
+{
+"kind": "cell",
+"file": "dbtfundemerg.xls",
+"sheet": "Industry Averages",
+"cell": "L11",
+"dataset": "dbtfund",
+"region": "Emerging",
+"industry": "Air Transport",
+"column": "Std dev in Stock Prices",
+"his_header": "Std dev in Stock Prices",
+"value": 0.2940843098062767
+},
+{
+"kind": "cell",
+"file": "dbtfundemerg.xls",
+"sheet": "Industry Averages",
+"cell": "K48",
+"dataset": "dbtfund",
+"region": "Emerging",
+"industry": "Healthcare Support Services",
+"column": "Institutional Holdings",
+"his_header": "Institutional Holdings",
+"value": 0.10546559999999998
+},
+{
+"kind": "cell",
+"file": "dbtfundEurope.xls",
+"sheet": "Industry Averages",
+"cell": "N60",
+"dataset": "dbtfund",
+"region": "Europe",
+"industry": "Metals & Mining",
+"column": "Net PP&E/Total Assets",
+"his_header": "Net PP&E/Total Assets",
+"value": 0.5092472834238969
+},
+{
+"kind": "cell",
+"file": "dbtfundEurope.xls",
+"sheet": "Industry Averages",
+"cell": "F63",
+"dataset": "dbtfund",
+"region": "Europe",
+"industry": "Oil/Gas (Production and Exploration)",
+"column": "Market Debt to Capital (adjusted for leases)",
+"his_header": "Market Debt to Capital (adjusted for leases)",
+"value": 0.46371767391078783
+},
+{
+"kind": "cell",
+"file": "dbtfundEurope.xls",
+"sheet": "Industry Averages",
+"cell": "L25",
+"dataset": "dbtfund",
+"region": "Europe",
+"industry": "Chemical (Diversified)",
+"column": "Std dev in Stock Prices",
+"his_header": "Std dev in Stock Prices",
+"value": 0.27638272008306686
+},
+{
+"kind": "cell",
+"file": "dbtfundEurope.xls",
+"sheet": "Industry Averages",
+"cell": "C16",
+"dataset": "dbtfund",
+"region": "Europe",
+"industry": "Banks (Regional)",
+"column": "Book Debt to Capital",
+"his_header": "Book Debt to Capital",
+"value": 0.685153199741523
+},
+{
+"kind": "cell",
+"file": "dbtfundEurope.xls",
+"sheet": "Industry Averages",
+"cell": "M49",
+"dataset": "dbtfund",
+"region": "Europe",
+"industry": "Heathcare Information and Technology",
+"column": "EBITDA/EV",
+"his_header": "EBITDA/EV",
+"value": 0.05891787440804747
+},
+{
+"kind": "cell",
+"file": "dbtfundGlobal.xls",
+"sheet": "Industry Averages",
+"cell": "I53",
+"dataset": "dbtfund",
+"region": "Global",
+"industry": "Household Products",
+"column": "Debt to EBITDA",
+"his_header": "Debt to EBITDA",
+"value": 2.222740337331038
+},
+{
+"kind": "cell",
+"file": "dbtfundGlobal.xls",
+"sheet": "Industry Averages",
+"cell": "J64",
+"dataset": "dbtfund",
+"region": "Global",
+"industry": "Oil/Gas Distribution",
+"column": "Effective tax rate",
+"his_header": "Effective tax rate",
+"value": 0.12144139205339988
+},
+{
+"kind": "cell",
+"file": "dbtfundGlobal.xls",
+"sheet": "Industry Averages",
+"cell": "G41",
+"dataset": "dbtfund",
+"region": "Global",
+"industry": "Farming/Agriculture",
+"column": "Market D/E (adjusted for leases)",
+"his_header": "Market D/E (adjusted for leases)",
+"value": 0.5904066711724765
+},
+{
+"kind": "cell",
+"file": "dbtfundGlobal.xls",
+"sheet": "Industry Averages",
+"cell": "M93",
+"dataset": "dbtfund",
+"region": "Global",
+"industry": "Steel",
+"column": "EBITDA/EV",
+"his_header": "EBITDA/EV",
+"value": 0.1003208245409465
+},
+{
+"kind": "cell",
+"file": "dbtfundGlobal.xls",
+"sheet": "Industry Averages",
+"cell": "H23",
+"dataset": "dbtfund",
+"region": "Global",
+"industry": "Cable TV",
+"column": "Interest Coverage Ratio",
+"his_header": "Interest Coverage Ratio",
+"value": 2.9110378215609236
+},
+{
+"kind": "cell",
+"file": "dbtfundIndia.xls",
+"sheet": "Industry Averages",
+"cell": "E40",
+"dataset": "dbtfund",
+"region": "India",
+"industry": "Environmental & Waste Services",
+"column": "Market D/E (unadjusted)",
+"his_header": "Market D/E (unadjusted)",
+"value": 0.1418682756187901
+},
+{
+"kind": "cell",
+"file": "dbtfundIndia.xls",
+"sheet": "Industry Averages",
+"cell": "C53",
+"dataset": "dbtfund",
+"region": "India",
+"industry": "Household Products",
+"column": "Book Debt to Capital",
+"his_header": "Book Debt to Capital",
+"value": 0.08622853513507438
+},
+{
+"kind": "cell",
+"file": "dbtfundIndia.xls",
+"sheet": "Industry Averages",
+"cell": "I41",
+"dataset": "dbtfund",
+"region": "India",
+"industry": "Farming/Agriculture",
+"column": "Debt to EBITDA",
+"his_header": "Debt to EBITDA",
+"value": 1.9318447729559671
+},
+{
+"kind": "cell",
+"file": "dbtfundIndia.xls",
+"sheet": "Industry Averages",
+"cell": "D30",
+"dataset": "dbtfund",
+"region": "India",
+"industry": "Construction Supplies",
+"column": "Market Debt to Capital (Unadjusted)",
+"his_header": "Market Debt to Capital (Unadjusted)",
+"value": 0.1837730660579236
+},
+{
+"kind": "cell",
+"file": "dbtfundIndia.xls",
+"sheet": "Industry Averages",
+"cell": "D9",
+"dataset": "dbtfund",
+"region": "India",
+"industry": "Advertising",
+"column": "Market Debt to Capital (Unadjusted)",
+"his_header": "Market Debt to Capital (Unadjusted)",
+"value": 0.04656826334566617
+},
+{
+"kind": "cell",
+"file": "dbtfundJapan.xls",
+"sheet": "Industry Averages",
+"cell": "L95",
+"dataset": "dbtfund",
+"region": "Japan",
+"industry": "Telecom. Equipment",
+"column": "Std dev in Stock Prices",
+"his_header": "Std dev in Stock Prices",
+"value": 0.444052912690555
+},
+{
+"kind": "cell",
+"file": "dbtfundJapan.xls",
+"sheet": "Industry Averages",
+"cell": "O55",
+"dataset": "dbtfund",
+"region": "Japan",
+"industry": "Insurance (General)",
+"column": "Capital Spending/Total Assets",
+"his_header": "Capital Spending/Total Assets",
+"value": 0.001711209382810998
+},
+{
+"kind": "cell",
+"file": "dbtfundJapan.xls",
+"sheet": "Industry Averages",
+"cell": "J63",
+"dataset": "dbtfund",
+"region": "Japan",
+"industry": "Oil/Gas (Production and Exploration)",
+"column": "Effective tax rate",
+"his_header": "Effective tax rate",
+"value": 0.3688238282738473
+},
+{
+"kind": "cell",
+"file": "dbtfundJapan.xls",
+"sheet": "Industry Averages",
+"cell": "L21",
+"dataset": "dbtfund",
+"region": "Japan",
+"industry": "Building Materials",
+"column": "Std dev in Stock Prices",
+"his_header": "Std dev in Stock Prices",
+"value": 0.25188927081477286
+},
+{
+"kind": "cell",
+"file": "dbtfundJapan.xls",
+"sheet": "Industry Averages",
+"cell": "I82",
+"dataset": "dbtfund",
+"region": "Japan",
+"industry": "Retail (Grocery and Food)",
+"column": "Debt to EBITDA",
+"his_header": "Debt to EBITDA",
+"value": 3.496247647980572
+},
+{
+"kind": "cell",
+"file": "debtdetails.xls",
+"sheet": "Industry Values",
+"cell": "D95",
+"dataset": "debtdetails",
+"region": "US",
+"industry": "Telecom. Equipment",
+"column": "Conventional Debt",
+"his_header": "Conventional Debt",
+"value": 58776.81
+},
+{
+"kind": "cell",
+"file": "debtdetails.xls",
+"sheet": "Industry Values",
+"cell": "F46",
+"dataset": "debtdetails",
+"region": "US",
+"industry": "Green & Renewable Energy",
+"column": "Interest expense",
+"his_header": "Interest expense",
+"value": 2399.4579999999996
+},
+{
+"kind": "cell",
+"file": "debtdetails.xls",
+"sheet": "Industry Values",
+"cell": "I12",
+"dataset": "debtdetails",
+"region": "US",
+"industry": "Apparel",
+"column": "Lease Debt (Accounting)",
+"his_header": "Lease Debt (Accounting)",
+"value": 10510.814
+},
+{
+"kind": "cell",
+"file": "debtdetails.xls",
+"sheet": "Industry Values",
+"cell": "K34",
+"dataset": "debtdetails",
+"region": "US",
+"industry": "Education",
+"column": "Debt raised during year",
+"his_header": "Debt raised during year",
+"value": 732.8199999999999
+},
+{
+"kind": "cell",
+"file": "debtdetails.xls",
+"sheet": "Industry Values",
+"cell": "H61",
+"dataset": "debtdetails",
+"region": "US",
+"industry": "Office Equipment & Services",
+"column": "Short term Debt as % of Total Debt",
+"his_header": "Short term Debt as % of Total Debt",
+"value": 0.009577007981439933
+},
+{
+"kind": "cell",
+"file": "debtdetailsChina.xls",
+"sheet": "Industry Averagtes",
+"cell": "K49",
+"dataset": "debtdetails",
+"region": "China",
+"industry": "Heathcare Information and Technology",
+"column": "Debt raised during year",
+"his_header": "Debt raised during year",
+"value": 5710.774999999998
+},
+{
+"kind": "cell",
+"file": "debtdetailsChina.xls",
+"sheet": "Industry Averagtes",
+"cell": "F35",
+"dataset": "debtdetails",
+"region": "China",
+"industry": "Electrical Equipment",
+"column": "Interest expense",
+"his_header": "Interest expense",
+"value": 4215.006000000001
+},
+{
+"kind": "cell",
+"file": "debtdetailsChina.xls",
+"sheet": "Industry Averagtes",
+"cell": "I102",
+"dataset": "debtdetails",
+"region": "China",
+"industry": "Utility (Water)",
+"column": "Lease Debt (Accounting)",
+"his_header": "Lease Debt (Accounting)",
+"value": 0.0
+},
+{
+"kind": "cell",
+"file": "debtdetailsChina.xls",
+"sheet": "Industry Averagtes",
+"cell": "J86",
+"dataset": "debtdetails",
+"region": "China",
+"industry": "Semiconductor",
+"column": "Debt Repaid during year",
+"his_header": "Debt Repaid during year",
+"value": 43167.77300000005
+},
+{
+"kind": "cell",
+"file": "debtdetailsChina.xls",
+"sheet": "Industry Averagtes",
+"cell": "D43",
+"dataset": "debtdetails",
+"region": "China",
+"industry": "Food Processing",
+"column": "Conventional Debt",
+"his_header": "Conventional Debt",
+"value": 68287.27300000002
+},
+{
+"kind": "cell",
+"file": "debtdetailsemerg.xls",
+"sheet": "Indusry Averages",
+"cell": "D89",
+"dataset": "debtdetails",
+"region": "Emerging",
+"industry": "Shoe",
+"column": "Conventional Debt",
+"his_header": "Conventional Debt",
+"value": 7245.574
+},
+{
+"kind": "cell",
+"file": "debtdetailsemerg.xls",
+"sheet": "Indusry Averages",
+"cell": "K56",
+"dataset": "debtdetails",
+"region": "Emerging",
+"industry": "Insurance (Life)",
+"column": "Debt raised during year",
+"his_header": "Debt raised during year",
+"value": 267058.6839999999
+},
+{
+"kind": "cell",
+"file": "debtdetailsemerg.xls",
+"sheet": "Indusry Averages",
+"cell": "E96",
+"dataset": "debtdetails",
+"region": "Emerging",
+"industry": "Telecom. Services",
+"column": "Total Debt with leases",
+"his_header": "Total Debt with leases",
+"value": 187380.14046423635
+},
+{
+"kind": "cell",
+"file": "debtdetailsemerg.xls",
+"sheet": "Indusry Averages",
+"cell": "H22",
+"dataset": "debtdetails",
+"region": "Emerging",
+"industry": "Business & Consumer Services",
+"column": "Short term Debt as % of Total Debt",
+"his_header": "Short term Debt as % of Total Debt",
+"value": 0.5797286620969989
+},
+{
+"kind": "cell",
+"file": "debtdetailsemerg.xls",
+"sheet": "Indusry Averages",
+"cell": "I84",
+"dataset": "debtdetails",
+"region": "Emerging",
+"industry": "Retail (Special Lines)",
+"column": "Lease Debt (Accounting)",
+"his_header": "Lease Debt (Accounting)",
+"value": 1154.5939999999998
+},
+{
+"kind": "cell",
+"file": "debtdetailsEurope.xls",
+"sheet": "Industry Averagtes",
+"cell": "C50",
+"dataset": "debtdetails",
+"region": "Europe",
+"industry": "Homebuilding",
+"column": "Lease Debt (My Estimate)",
+"his_header": "Lease Debt (My Estimate)",
+"value": 0.15495649043259618
+},
+{
+"kind": "cell",
+"file": "debtdetailsEurope.xls",
+"sheet": "Industry Averagtes",
+"cell": "B30",
+"dataset": "debtdetails",
+"region": "Europe",
+"industry": "Construction Supplies",
+"column": "Number of firms",
+"his_header": "Number of firms",
+"value": 119.0
+},
+{
+"kind": "cell",
+"file": "debtdetailsEurope.xls",
+"sheet": "Industry Averagtes",
+"cell": "F102",
+"dataset": "debtdetails",
+"region": "Europe",
+"industry": "Utility (Water)",
+"column": "Interest expense",
+"his_header": "Interest expense",
+"value": 1259.7049999999997
+},
+{
+"kind": "cell",
+"file": "debtdetailsEurope.xls",
+"sheet": "Industry Averagtes",
+"cell": "F58",
+"dataset": "debtdetails",
+"region": "Europe",
+"industry": "Investments & Asset Management",
+"column": "Interest expense",
+"his_header": "Interest expense",
+"value": 1755.026999999999
+},
+{
+"kind": "cell",
+"file": "debtdetailsEurope.xls",
+"sheet": "Industry Averagtes",
+"cell": "D12",
+"dataset": "debtdetails",
+"region": "Europe",
+"industry": "Apparel",
+"column": "Conventional Debt",
+"his_header": "Conventional Debt",
+"value": 170808.792
+},
+{
+"kind": "cell",
+"file": "debtdetailsGlobal.xls",
+"sheet": "Industry Averages",
+"cell": "F62",
+"dataset": "debtdetails",
+"region": "Global",
+"industry": "Oil/Gas (Integrated)",
+"column": "Interest expense",
+"his_header": "Interest expense",
+"value": 32020.411000000004
+},
+{
+"kind": "cell",
+"file": "debtdetailsGlobal.xls",
+"sheet": "Industry Averages",
+"cell": "H73",
+"dataset": "debtdetails",
+"region": "Global",
+"industry": "Real Estate (General/Diversified)",
+"column": "Short term Debt as % of Total Debt",
+"his_header": "Short term Debt as % of Total Debt",
+"value": 0.13212554449615954
+},
+{
+"kind": "cell",
+"file": "debtdetailsGlobal.xls",
+"sheet": "Industry Averages",
+"cell": "B56",
+"dataset": "debtdetails",
+"region": "Global",
+"industry": "Insurance (Life)",
+"column": "Number of firms",
+"his_header": "Number of firms",
+"value": 143.0
+},
+{
+"kind": "cell",
+"file": "debtdetailsGlobal.xls",
+"sheet": "Industry Averages",
+"cell": "C26",
+"dataset": "debtdetails",
+"region": "Global",
+"industry": "Chemical (Specialty)",
+"column": "Lease Debt (My Estimate)",
+"his_header": "Lease Debt (My Estimate)",
+"value": 9261.159587957198
+},
+{
+"kind": "cell",
+"file": "debtdetailsGlobal.xls",
+"sheet": "Industry Averages",
+"cell": "I67",
+"dataset": "debtdetails",
+"region": "Global",
+"industry": "Paper/Forest Products",
+"column": "Lease Debt (Accounting)",
+"his_header": "Lease Debt (Accounting)",
+"value": 190.068
+},
+{
+"kind": "cell",
+"file": "debtdetailsIndia.xls",
+"sheet": "Industry Averages",
+"cell": "K46",
+"dataset": "debtdetails",
+"region": "India",
+"industry": "Green & Renewable Energy",
+"column": "Debt raised during year",
+"his_header": "Debt raised during year",
+"value": 9136.512000000002
+},
+{
+"kind": "cell",
+"file": "debtdetailsIndia.xls",
+"sheet": "Industry Averages",
+"cell": "K23",
+"dataset": "debtdetails",
+"region": "India",
+"industry": "Cable TV",
+"column": "Debt raised during year",
+"his_header": "Debt raised during year",
+"value": 9.15
+},
+{
+"kind": "cell",
+"file": "debtdetailsIndia.xls",
+"sheet": "Industry Averages",
+"cell": "F101",
+"dataset": "debtdetails",
+"region": "India",
+"industry": "Utility (General)",
+"column": "Interest expense",
+"his_header": "Interest expense",
+"value": 0.0
+},
+{
+"kind": "cell",
+"file": "debtdetailsIndia.xls",
+"sheet": "Industry Averages",
+"cell": "G12",
+"dataset": "debtdetails",
+"region": "India",
+"industry": "Apparel",
+"column": "Book interest rate",
+"his_header": "Book interest rate",
+"value": 0.05460204334784275
+},
+{
+"kind": "cell",
+"file": "debtdetailsIndia.xls",
+"sheet": "Industry Averages",
+"cell": "E52",
+"dataset": "debtdetails",
+"region": "India",
+"industry": "Hotel/Gaming",
+"column": "Total Debt with leases",
+"his_header": "Total Debt with leases",
+"value": 4276.211681217013
+},
+{
+"kind": "cell",
+"file": "debtdetailsJapan.xls",
+"sheet": "Indfustry Averages",
+"cell": "K67",
+"dataset": "debtdetails",
+"region": "Japan",
+"industry": "Paper/Forest Products",
+"column": "Debt raised during year",
+"his_header": "Debt raised during year",
+"value": 3154.3079999999995
+},
+{
+"kind": "cell",
+"file": "debtdetailsJapan.xls",
+"sheet": "Indfustry Averages",
+"cell": "K88",
+"dataset": "debtdetails",
+"region": "Japan",
+"industry": "Shipbuilding & Marine",
+"column": "Debt raised during year",
+"his_header": "Debt raised during year",
+"value": 8118.946
+},
+{
+"kind": "cell",
+"file": "debtdetailsJapan.xls",
+"sheet": "Indfustry Averages",
+"cell": "K10",
+"dataset": "debtdetails",
+"region": "Japan",
+"industry": "Aerospace/Defense",
+"column": "Debt raised during year",
+"his_header": "Debt raised during year",
+"value": 140.3
+},
+{
+"kind": "cell",
+"file": "debtdetailsJapan.xls",
+"sheet": "Indfustry Averages",
+"cell": "H68",
+"dataset": "debtdetails",
+"region": "Japan",
+"industry": "Power",
+"column": "Short term Debt as % of Total Debt",
+"his_header": "Short term Debt as % of Total Debt",
+"value": 0.1998424970673833
+},
+{
+"kind": "cell",
+"file": "debtdetailsJapan.xls",
+"sheet": "Indfustry Averages",
+"cell": "B78",
+"dataset": "debtdetails",
+"region": "Japan",
+"industry": "Retail (Automotive)",
+"column": "Number of firms",
+"his_header": "Number of firms",
+"value": 23.0
+},
+{
+"kind": "cell",
+"file": "DebtIndustryGlobal2025.xlsx",
+"sheet": "Debt comfort",
+"cell": "J18",
+"dataset": "DebtIndustry",
+"region": "Global",
+"industry": "Chemical (Basic)",
+"column": "Debt to EBITDA: 3rd Quartile",
+"his_header": "3rd Quartile",
+"value": 4.71
+},
+{
+"kind": "cell",
+"file": "DebtIndustryGlobal2025.xlsx",
+"sheet": "Debt comfort",
+"cell": "H78",
+"dataset": "DebtIndustry",
+"region": "Global",
+"industry": "Retail (Special Lines)",
+"column": "Debt to EBITDA: 1st Quartile",
+"his_header": "1st Quartile",
+"value": 0.23
+},
+{
+"kind": "cell",
+"file": "DebtIndustryGlobal2025.xlsx",
+"sheet": "Debt comfort",
+"cell": "H56",
+"dataset": "DebtIndustry",
+"region": "Global",
+"industry": "Oil/Gas (Integrated)",
+"column": "Debt to EBITDA: 1st Quartile",
+"his_header": "1st Quartile",
+"value": 0.77
+},
+{
+"kind": "cell",
+"file": "DebtIndustryGlobal2025.xlsx",
+"sheet": "Debt comfort",
+"cell": "B17",
+"dataset": "DebtIndustry",
+"region": "Global",
+"industry": "Cable TV",
+"column": "# firms",
+"his_header": "# firms",
+"value": 42.0
+},
+{
+"kind": "cell",
+"file": "DebtIndustryGlobal2025.xlsx",
+"sheet": "Debt comfort",
+"cell": "E27",
+"dataset": "DebtIndustry",
+"region": "Global",
+"industry": "Drugs (Pharmaceutical)",
+"column": "Interest Coverage Ratio: 1st Quartile",
+"his_header": "1st Quartile",
+"value": 3.57692307692308
+},
+{
+"kind": "cell",
+"file": "DebtIndustryGlobal2025.xlsx",
+"sheet": "Debt Load",
+"cell": "D41",
+"dataset": "DebtIndustry",
+"region": "Global",
+"industry": "Healthcare Products",
+"column": "Gross Debt/Capital (Market)",
+"his_header": "Gross Debt/Capital (Market)",
+"value": 0.1217394200592537
+},
+{
+"kind": "cell",
+"file": "DebtIndustryGlobal2025.xlsx",
+"sheet": "Debt Load",
+"cell": "E29",
+"dataset": "DebtIndustry",
+"region": "Global",
+"industry": "Electrical Equipment",
+"column": "Net Debt/Capital (Book)",
+"his_header": "Net Debt/Capital (Book)",
+"value": 0.18699835825293654
+},
+{
+"kind": "cell",
+"file": "DebtIndustryGlobal2025.xlsx",
+"sheet": "Debt Load",
+"cell": "D34",
+"dataset": "DebtIndustry",
+"region": "Global",
+"industry": "Environmental & Waste Services",
+"column": "Gross Debt/Capital (Market)",
+"his_header": "Gross Debt/Capital (Market)",
+"value": 0.2630741054889575
+},
+{
+"kind": "cell",
+"file": "DebtIndustryGlobal2025.xlsx",
+"sheet": "Debt Load",
+"cell": "H78",
+"dataset": "DebtIndustry",
+"region": "Global",
+"industry": "Retail (Special Lines)",
+"column": "Gross Debt to Capital (Book): Median",
+"his_header": "Median",
+"value": 0.3363141524105754
+},
+{
+"kind": "cell",
+"file": "DebtIndustryGlobal2025.xlsx",
+"sheet": "Debt Load",
+"cell": "E44",
+"dataset": "DebtIndustry",
+"region": "Global",
+"industry": "Homebuilding",
+"column": "Net Debt/Capital (Book)",
+"his_header": "Net Debt/Capital (Book)",
+"value": 0.2609477083771522
+},
+{
+"kind": "cell",
+"file": "DebtIndustryUS2025.xlsx",
+"sheet": "Debt comfort",
+"cell": "I29",
+"dataset": "DebtIndustry",
+"region": "US",
+"industry": "Electrical Equipment",
+"column": "Debt to EBITDA: Median",
+"his_header": "Median",
+"value": 2.067492680192883
+},
+{
+"kind": "cell",
+"file": "DebtIndustryUS2025.xlsx",
+"sheet": "Debt comfort",
+"cell": "J37",
+"dataset": "DebtIndustry",
+"region": "US",
+"industry": "Food Processing",
+"column": "Debt to EBITDA: 3rd Quartile",
+"his_header": "3rd Quartile",
+"value": 3.875968992248062
+},
+{
+"kind": "cell",
+"file": "DebtIndustryUS2025.xlsx",
+"sheet": "Debt comfort",
+"cell": "H25",
+"dataset": "DebtIndustry",
+"region": "US",
+"industry": "Diversified",
+"column": "Debt to EBITDA: 1st Quartile",
+"his_header": "1st Quartile",
+"value": 3.80567982971128
+},
+{
+"kind": "cell",
+"file": "DebtIndustryUS2025.xlsx",
+"sheet": "Debt comfort",
+"cell": "C73",
+"dataset": "DebtIndustry",
+"region": "US",
+"industry": "Retail (Building Supply)",
+"column": "Int Cov Ratio",
+"his_header": "Int Cov Ratio",
+"value": 7.681302278560492
+},
+{
+"kind": "cell",
+"file": "DebtIndustryUS2025.xlsx",
+"sheet": "Debt comfort",
+"cell": "F60",
+"dataset": "DebtIndustry",
+"region": "US",
+"industry": "Packaging & Container",
+"column": "Interest Coverage Ratio: Median",
+"his_header": "Median",
+"value": 4.524916943521594
+},
+{
+"kind": "cell",
+"file": "DebtIndustryUS2025.xlsx",
+"sheet": "Debt Load",
+"cell": "K89",
+"dataset": "DebtIndustry",
+"region": "US",
+"industry": "Telecom. Equipment",
+"column": "Gross Debt to Capital (Market): Median",
+"his_header": "Median",
+"value": 0.06204906204906205
+},
+{
+"kind": "cell",
+"file": "DebtIndustryUS2025.xlsx",
+"sheet": "Debt Load",
+"cell": "H86",
+"dataset": "DebtIndustry",
+"region": "US",
+"industry": "Software (System & Application)",
+"column": "Gross Debt to Capital (Book): Median",
+"his_header": "Median",
+"value": 0.1836104969029607
+},
+{
+"kind": "cell",
+"file": "DebtIndustryUS2025.xlsx",
+"sheet": "Debt Load",
+"cell": "D66",
+"dataset": "DebtIndustry",
+"region": "US",
+"industry": "Real Estate (Development)",
+"column": "Gross Debt/Capital (Market)",
+"his_header": "Gross Debt/Capital (Market)",
+"value": 0.5045319836293547
+},
+{
+"kind": "cell",
+"file": "DebtIndustryUS2025.xlsx",
+"sheet": "Debt Load",
+"cell": "B57",
+"dataset": "DebtIndustry",
+"region": "US",
+"industry": "Oil/Gas (Production and Exploration)",
+"column": "# firms",
+"his_header": "# firms",
+"value": 142.0
+},
+{
+"kind": "cell",
+"file": "DebtIndustryUS2025.xlsx",
+"sheet": "Debt Load",
+"cell": "C5",
+"dataset": "DebtIndustry",
+"region": "US",
+"industry": "Air Transport",
+"column": "Gross Debt/Capital (Book)",
+"his_header": "Gross Debt/Capital (Book)",
+"value": 0.7214904649993354
+},
+{
+"kind": "cell",
+"file": "divfcfe.xls",
+"sheet": "Industry Averages",
+"cell": "N33",
+"dataset": "divfcfe",
+"region": "US",
+"industry": "Drugs (Pharmaceutical)",
+"column": "Cash/ Firm Value",
+"his_header": "Cash/ Firm Value",
+"value": 0.031607075278297876
+},
+{
+"kind": "cell",
+"file": "divfcfe.xls",
+"sheet": "Industry Averages",
+"cell": "G62",
+"dataset": "divfcfe",
+"region": "US",
+"industry": "Oil/Gas (Integrated)",
+"column": "Cash Return as % of Net Income",
+"his_header": "Cash Return as % of Net Income",
+"value": 1.4153040158748522
+},
+{
+"kind": "cell",
+"file": "divfcfe.xls",
+"sheet": "Industry Averages",
+"cell": "B23",
+"dataset": "divfcfe",
+"region": "US",
+"industry": "Cable TV",
+"column": "Number of firms",
+"his_header": "Number of firms",
+"value": 9.0
+},
+{
+"kind": "cell",
+"file": "divfcfe.xls",
+"sheet": "Industry Averages",
+"cell": "H13",
+"dataset": "divfcfe",
+"region": "US",
+"industry": "Auto & Truck",
+"column": "Dividends + Buybacks - Stock Issuances",
+"his_header": "Dividends + Buybacks - Stock Issuances",
+"value": 7601.042000000001
+},
+{
+"kind": "cell",
+"file": "divfcfe.xls",
+"sheet": "Industry Averages",
+"cell": "E40",
+"dataset": "divfcfe",
+"region": "US",
+"industry": "Environmental & Waste Services",
+"column": "Payout",
+"his_header": "Payout",
+"value": 0.39802382617858456
+},
+{
+"kind": "cell",
+"file": "divfcfeChina.xls",
+"sheet": "Industry Averages",
+"cell": "G13",
+"dataset": "divfcfe",
+"region": "China",
+"industry": "Auto & Truck",
+"column": "Cash Return as % of Net Income",
+"his_header": "Cash Return as % of Net Income",
+"value": 0.6205484344086347
+},
+{
+"kind": "cell",
+"file": "divfcfeChina.xls",
+"sheet": "Industry Averages",
+"cell": "H37",
+"dataset": "divfcfe",
+"region": "China",
+"industry": "Electronics (General)",
+"column": "Dividends + Buybacks - Stock Issuances",
+"his_header": "Dividends + Buybacks - Stock Issuances",
+"value": 11047.369000000015
+},
+{
+"kind": "cell",
+"file": "divfcfeChina.xls",
+"sheet": "Industry Averages",
+"cell": "N33",
+"dataset": "divfcfe",
+"region": "China",
+"industry": "Drugs (Pharmaceutical)",
+"column": "Cash/ Firm Value",
+"his_header": "Cash/ Firm Value",
+"value": 0.0911968422108323
+},
+{
+"kind": "cell",
+"file": "divfcfeChina.xls",
+"sheet": "Industry Averages",
+"cell": "J31",
+"dataset": "divfcfe",
+"region": "China",
+"industry": "Diversified",
+"column": "FCFE (after debt cash flows)",
+"his_header": "FCFE (after debt cash flows)",
+"value": -95.5130000000006
+},
+{
+"kind": "cell",
+"file": "divfcfeChina.xls",
+"sheet": "Industry Averages",
+"cell": "J96",
+"dataset": "divfcfe",
+"region": "China",
+"industry": "Telecom. Services",
+"column": "FCFE (after debt cash flows)",
+"his_header": "FCFE (after debt cash flows)",
+"value": 14648.643
+},
+{
+"kind": "cell",
+"file": "divfcfeemerg.xls",
+"sheet": "Industry Averages",
+"cell": "D34",
+"dataset": "divfcfe",
+"region": "Emerging",
+"industry": "Education",
+"column": "Net Income",
+"his_header": "Net Income",
+"value": 2882.06
+},
+{
+"kind": "cell",
+"file": "divfcfeemerg.xls",
+"sheet": "Industry Averages",
+"cell": "C79",
+"dataset": "divfcfe",
+"region": "Emerging",
+"industry": "Retail (Building Supply)",
+"column": "Dividends",
+"his_header": "Dividends",
+"value": 803.9534000000001
+},
+{
+"kind": "cell",
+"file": "divfcfeemerg.xls",
+"sheet": "Industry Averages",
+"cell": "I60",
+"dataset": "divfcfe",
+"region": "Emerging",
+"industry": "Metals & Mining",
+"column": "FCFE (before debt cash flows)",
+"his_header": "FCFE (before debt cash flows)",
+"value": 10925.025000000078
+},
+{
+"kind": "cell",
+"file": "divfcfeemerg.xls",
+"sheet": "Industry Averages",
+"cell": "N86",
+"dataset": "divfcfe",
+"region": "Emerging",
+"industry": "Semiconductor",
+"column": "Cash/ Firm Value",
+"his_header": "Cash/ Firm Value",
+"value": 0.06251564568344627
+},
+{
+"kind": "cell",
+"file": "divfcfeemerg.xls",
+"sheet": "Industry Averages",
+"cell": "D98",
+"dataset": "divfcfe",
+"region": "Emerging",
+"industry": "Transportation",
+"column": "Net Income",
+"his_header": "Net Income",
+"value": 17689.885999999988
+},
+{
+"kind": "cell",
+"file": "divfcfeEurope.xls",
+"sheet": "Industry Averages",
+"cell": "M97",
+"dataset": "divfcfe",
+"region": "Europe",
+"industry": "Tobacco",
+"column": "Net Cash Returned/ Net Income",
+"his_header": "Net Cash Returned/ Net Income",
+"value": 1.6614850441784434
+},
+{
+"kind": "cell",
+"file": "divfcfeEurope.xls",
+"sheet": "Industry Averages",
+"cell": "H29",
+"dataset": "divfcfe",
+"region": "Europe",
+"industry": "Computers/Peripherals",
+"column": "Dividends + Buybacks - Stock Issuances",
+"his_header": "Dividends + Buybacks - Stock Issuances",
+"value": 829.2259999999999
+},
+{
+"kind": "cell",
+"file": "divfcfeEurope.xls",
+"sheet": "Industry Averages",
+"cell": "K76",
+"dataset": "divfcfe",
+"region": "Europe",
+"industry": "Reinsurance",
+"column": "Net Cash Returned/FCFE (pre-debt)",
+"his_header": "Net Cash Returned/FCFE (pre-debt)",
+"value": 0.25217329153781326
+},
+{
+"kind": "cell",
+"file": "divfcfeEurope.xls",
+"sheet": "Industry Averages",
+"cell": "L52",
+"dataset": "divfcfe",
+"region": "Europe",
+"industry": "Hotel/Gaming",
+"column": "Net Cash Returned/FCFE (post-debt)",
+"his_header": "Net Cash Returned/FCFE (post-debt)",
+"value": 0.936065599201502
+},
+{
+"kind": "cell",
+"file": "divfcfeEurope.xls",
+"sheet": "Industry Averages",
+"cell": "E55",
+"dataset": "divfcfe",
+"region": "Europe",
+"industry": "Insurance (General)",
+"column": "Payout",
+"his_header": "Payout",
+"value": 0.4130959379274961
+},
+{
+"kind": "cell",
+"file": "divfcfeGlobal.xls",
+"sheet": "Industry Averages",
+"cell": "D67",
+"dataset": "divfcfe",
+"region": "Global",
+"industry": "Paper/Forest Products",
+"column": "Net Income",
+"his_header": "Net Income",
+"value": 2947.9009999999957
+},
+{
+"kind": "cell",
+"file": "divfcfeGlobal.xls",
+"sheet": "Industry Averages",
+"cell": "H76",
+"dataset": "divfcfe",
+"region": "Global",
+"industry": "Reinsurance",
+"column": "Dividends + Buybacks - Stock Issuances",
+"his_header": "Dividends + Buybacks - Stock Issuances",
+"value": 5263.254000000001
+},
+{
+"kind": "cell",
+"file": "divfcfeGlobal.xls",
+"sheet": "Industry Averages",
+"cell": "K77",
+"dataset": "divfcfe",
+"region": "Global",
+"industry": "Restaurant/Dining",
+"column": "Net Cash Returned/FCFE (pre-debt)",
+"his_header": "Net Cash Returned/FCFE (pre-debt)",
+"value": 0.9283369955987297
+},
+{
+"kind": "cell",
+"file": "divfcfeGlobal.xls",
+"sheet": "Industry Averages",
+"cell": "M15",
+"dataset": "divfcfe",
+"region": "Global",
+"industry": "Bank (Money Center)",
+"column": "Net Cash Returned/ Net Income",
+"his_header": "Net Cash Returned/ Net Income",
+"value": 0.22861908767303585
+},
+{
+"kind": "cell",
+"file": "divfcfeGlobal.xls",
+"sheet": "Industry Averages",
+"cell": "K51",
+"dataset": "divfcfe",
+"region": "Global",
+"industry": "Hospitals/Healthcare Facilities",
+"column": "Net Cash Returned/FCFE (pre-debt)",
+"his_header": "Net Cash Returned/FCFE (pre-debt)",
+"value": 1.1938135880505947
+},
+{
+"kind": "cell",
+"file": "divfcfeIndia.xls",
+"sheet": "Industry Averages",
+"cell": "G10",
+"dataset": "divfcfe",
+"region": "India",
+"industry": "Aerospace/Defense",
+"column": "Cash Return as % of Net Income",
+"his_header": "Cash Return as % of Net Income",
+"value": 0.29570507111796573
+},
+{
+"kind": "cell",
+"file": "divfcfeIndia.xls",
+"sheet": "Industry Averages",
+"cell": "F84",
+"dataset": "divfcfe",
+"region": "India",
+"industry": "Retail (Special Lines)",
+"column": "Dividends + Buybacks",
+"his_header": "Dividends + Buybacks",
+"value": 196.33900000000003
+},
+{
+"kind": "cell",
+"file": "divfcfeIndia.xls",
+"sheet": "Industry Averages",
+"cell": "M50",
+"dataset": "divfcfe",
+"region": "India",
+"industry": "Homebuilding",
+"column": "Net Cash Returned/ Net Income",
+"his_header": "Net Cash Returned/ Net Income",
+"value": 0.0
+},
+{
+"kind": "cell",
+"file": "divfcfeIndia.xls",
+"sheet": "Industry Averages",
+"cell": "M71",
+"dataset": "divfcfe",
+"region": "India",
+"industry": "R.E.I.T.",
+"column": "Net Cash Returned/ Net Income",
+"his_header": "Net Cash Returned/ Net Income",
+"value": -1.0374754741661214
+},
+{
+"kind": "cell",
+"file": "divfcfeIndia.xls",
+"sheet": "Industry Averages",
+"cell": "D94",
+"dataset": "divfcfe",
+"region": "India",
+"industry": "Telecom (Wireless)",
+"column": "Net Income",
+"his_header": "Net Income",
+"value": 454.0
+},
+{
+"kind": "cell",
+"file": "divfcfeJapan.xls",
+"sheet": "Industry Averages",
+"cell": "F66",
+"dataset": "divfcfe",
+"region": "Japan",
+"industry": "Packaging & Container",
+"column": "Dividends + Buybacks",
+"his_header": "Dividends + Buybacks",
+"value": 621.5920000000001
+},
+{
+"kind": "cell",
+"file": "divfcfeJapan.xls",
+"sheet": "Industry Averages",
+"cell": "J58",
+"dataset": "divfcfe",
+"region": "Japan",
+"industry": "Investments & Asset Management",
+"column": "FCFE (after debt cash flows)",
+"his_header": "FCFE (after debt cash flows)",
+"value": 163.874
+},
+{
+"kind": "cell",
+"file": "divfcfeJapan.xls",
+"sheet": "Industry Averages",
+"cell": "C17",
+"dataset": "divfcfe",
+"region": "Japan",
+"industry": "Beverage (Alcoholic)",
+"column": "Dividends",
+"his_header": "Dividends",
+"value": 985.4602
+},
+{
+"kind": "cell",
+"file": "divfcfeJapan.xls",
+"sheet": "Industry Averages",
+"cell": "N16",
+"dataset": "divfcfe",
+"region": "Japan",
+"industry": "Banks (Regional)",
+"column": "Cash/ Firm Value",
+"his_header": "Cash/ Firm Value",
+"value": 0.9955522653536667
+},
+{
+"kind": "cell",
+"file": "divfcfeJapan.xls",
+"sheet": "Industry Averages",
+"cell": "N80",
+"dataset": "divfcfe",
+"region": "Japan",
+"industry": "Retail (Distributors)",
+"column": "Cash/ Firm Value",
+"his_header": "Cash/ Firm Value",
+"value": 0.0718952766333687
+},
+{
+"kind": "cell",
+"file": "divfund.xls",
+"sheet": "Industry Averages",
+"cell": "H91",
+"dataset": "divfund",
+"region": "US",
+"industry": "Software (Internet)",
+"column": "ROE",
+"his_header": "ROE",
+"value": -0.01469962217495586
+},
+{
+"kind": "cell",
+"file": "divfund.xls",
+"sheet": "Industry Averages",
+"cell": "I104",
+"dataset": "divfund",
+"region": "US",
+"industry": "Total Market (without financials)",
+"column": "Institutional Holdings",
+"his_header": "Institutional Holdings",
+"value": 0.5180501832743472
+},
+{
+"kind": "cell",
+"file": "divfund.xls",
+"sheet": "Industry Averages",
+"cell": "J56",
+"dataset": "divfund",
+"region": "US",
+"industry": "Insurance (Life)",
+"column": "Std Dev in Stock Prices",
+"his_header": "Std Dev in Stock Prices",
+"value": 0.3515193422631459
+},
+{
+"kind": "cell",
+"file": "divfund.xls",
+"sheet": "Industry Averages",
+"cell": "D46",
+"dataset": "divfund",
+"region": "US",
+"industry": "Green & Renewable Energy",
+"column": "Special Dividends as % of Total Dividends",
+"his_header": "Special Dividends as % of Total Dividends",
+"value": 0.0
+},
+{
+"kind": "cell",
+"file": "divfund.xls",
+"sheet": "Industry Averages",
+"cell": "F64",
+"dataset": "divfund",
+"region": "US",
+"industry": "Oil/Gas Distribution",
+"column": "Dividend Yield",
+"his_header": "Dividend Yield",
+"value": 0.03331542936998488
+},
+{
+"kind": "cell",
+"file": "divfundChina.xls",
+"sheet": "Industry Averages",
+"cell": "E69",
+"dataset": "divfund",
+"region": "China",
+"industry": "Precious Metals",
+"column": "Dividend Payout",
+"his_header": "Dividend Payout",
+"value": 0.3729527571803258
+},
+{
+"kind": "cell",
+"file": "divfundChina.xls",
+"sheet": "Industry Averages",
+"cell": "D49",
+"dataset": "divfund",
+"region": "China",
+"industry": "Heathcare Information and Technology",
+"column": "Special Dividends as % of Total Dividends",
+"his_header": "Special Dividends as % of Total Dividends",
+"value": 0.0
+},
+{
+"kind": "cell",
+"file": "divfundChina.xls",
+"sheet": "Industry Averages",
+"cell": "B20",
+"dataset": "divfund",
+"region": "China",
+"industry": "Brokerage & Investment Banking",
+"column": "Number of firms",
+"his_header": "Number of firms",
+"value": 59.0
+},
+{
+"kind": "cell",
+"file": "divfundChina.xls",
+"sheet": "Industry Averages",
+"cell": "D60",
+"dataset": "divfund",
+"region": "China",
+"industry": "Metals & Mining",
+"column": "Special Dividends as % of Total Dividends",
+"his_header": "Special Dividends as % of Total Dividends",
+"value": 0.0
+},
+{
+"kind": "cell",
+"file": "divfundChina.xls",
+"sheet": "Industry Averages",
+"cell": "I10",
+"dataset": "divfund",
+"region": "China",
+"industry": "Aerospace/Defense",
+"column": "Institutional Holdings",
+"his_header": "Institutional Holdings",
+"value": 0.06861014705882353
+},
+{
+"kind": "cell",
+"file": "divfundemerg.xls",
+"sheet": "Industry Averages",
+"cell": "H12",
+"dataset": "divfund",
+"region": "Emerging",
+"industry": "Apparel",
+"column": "ROE",
+"his_header": "ROE",
+"value": 0.08699403688126596
+},
+{
+"kind": "cell",
+"file": "divfundemerg.xls",
+"sheet": "Industry Averages",
+"cell": "I94",
+"dataset": "divfund",
+"region": "Emerging",
+"industry": "Telecom (Wireless)",
+"column": "Institutional Holdings",
+"his_header": "Institutional Holdings",
+"value": 0.13194775862068966
+},
+{
+"kind": "cell",
+"file": "divfundemerg.xls",
+"sheet": "Industry Averages",
+"cell": "J27",
+"dataset": "divfund",
+"region": "Emerging",
+"industry": "Coal & Related Energy",
+"column": "Std Dev in Stock Prices",
+"his_header": "Std Dev in Stock Prices",
+"value": 0.4070086789139623
+},
+{
+"kind": "cell",
+"file": "divfundemerg.xls",
+"sheet": "Industry Averages",
+"cell": "E38",
+"dataset": "divfund",
+"region": "Emerging",
+"industry": "Engineering/Construction",
+"column": "Dividend Payout",
+"his_header": "Dividend Payout",
+"value": 0.8952843475621458
+},
+{
+"kind": "cell",
+"file": "divfundemerg.xls",
+"sheet": "Industry Averages",
+"cell": "B98",
+"dataset": "divfund",
+"region": "Emerging",
+"industry": "Transportation",
+"column": "Number of firms",
+"his_header": "Number of firms",
+"value": 330.0
+},
+{
+"kind": "cell",
+"file": "divfundEurope.xls",
+"sheet": "Indusry Averages",
+"cell": "E44",
+"dataset": "divfund",
+"region": "Europe",
+"industry": "Food Wholesalers",
+"column": "Dividend Payout",
+"his_header": "Dividend Payout",
+"value": 0.0038420062640288537
+},
+{
+"kind": "cell",
+"file": "divfundEurope.xls",
+"sheet": "Indusry Averages",
+"cell": "B40",
+"dataset": "divfund",
+"region": "Europe",
+"industry": "Environmental & Waste Services",
+"column": "Number of firms",
+"his_header": "Number of firms",
+"value": 48.0
+},
+{
+"kind": "cell",
+"file": "divfundEurope.xls",
+"sheet": "Indusry Averages",
+"cell": "H76",
+"dataset": "divfund",
+"region": "Europe",
+"industry": "Reinsurance",
+"column": "ROE",
+"his_header": "ROE",
+"value": 0.21763301136666843
+},
+{
+"kind": "cell",
+"file": "divfundEurope.xls",
+"sheet": "Indusry Averages",
+"cell": "F35",
+"dataset": "divfund",
+"region": "Europe",
+"industry": "Electrical Equipment",
+"column": "Dividend Yield",
+"his_header": "Dividend Yield",
+"value": 0.012157993614034216
+},
+{
+"kind": "cell",
+"file": "divfundEurope.xls",
+"sheet": "Indusry Averages",
+"cell": "G43",
+"dataset": "divfund",
+"region": "Europe",
+"industry": "Food Processing",
+"column": "Market Cap (US $ millions)",
+"his_header": "Market Cap (US $ millions)",
+"value": 567657.290999999
+},
+{
+"kind": "cell",
+"file": "divfundGlobal.xls",
+"sheet": "Industry Averages",
+"cell": "B88",
+"dataset": "divfund",
+"region": "Global",
+"industry": "Shipbuilding & Marine",
+"column": "Number of firms",
+"his_header": "Number of firms",
+"value": 359.0
+},
+{
+"kind": "cell",
+"file": "divfundGlobal.xls",
+"sheet": "Industry Averages",
+"cell": "I25",
+"dataset": "divfund",
+"region": "Global",
+"industry": "Chemical (Diversified)",
+"column": "Institutional Holdings",
+"his_header": "Institutional Holdings",
+"value": 0.2801181967213115
+},
+{
+"kind": "cell",
+"file": "divfundGlobal.xls",
+"sheet": "Industry Averages",
+"cell": "J44",
+"dataset": "divfund",
+"region": "Global",
+"industry": "Food Wholesalers",
+"column": "Std Dev in Stock Prices",
+"his_header": "Std Dev in Stock Prices",
+"value": 0.35990669601267816
+},
+{
+"kind": "cell",
+"file": "divfundGlobal.xls",
+"sheet": "Industry Averages",
+"cell": "H75",
+"dataset": "divfund",
+"region": "Global",
+"industry": "Recreation",
+"column": "ROE",
+"his_header": "ROE",
+"value": 0.038863687147947946
+},
+{
+"kind": "cell",
+"file": "divfundGlobal.xls",
+"sheet": "Industry Averages",
+"cell": "D101",
+"dataset": "divfund",
+"region": "Global",
+"industry": "Utility (General)",
+"column": "Special Dividends as % of Total Dividends",
+"his_header": "Special Dividends as % of Total Dividends",
+"value": 0.0
+},
+{
+"kind": "cell",
+"file": "divfundIndia.xls",
+"sheet": "Industry Averages",
+"cell": "H47",
+"dataset": "divfund",
+"region": "India",
+"industry": "Healthcare Products",
+"column": "ROE",
+"his_header": "ROE",
+"value": 0.09561155884262633
+},
+{
+"kind": "cell",
+"file": "divfundIndia.xls",
+"sheet": "Industry Averages",
+"cell": "I10",
+"dataset": "divfund",
+"region": "India",
+"industry": "Aerospace/Defense",
+"column": "Institutional Holdings",
+"his_header": "Institutional Holdings",
+"value": 0.08598500000000002
+},
+{
+"kind": "cell",
+"file": "divfundIndia.xls",
+"sheet": "Industry Averages",
+"cell": "I87",
+"dataset": "divfund",
+"region": "India",
+"industry": "Semiconductor Equip",
+"column": "Institutional Holdings",
+"his_header": "Institutional Holdings",
+"value": 0.030600000000000002
+},
+{
+"kind": "cell",
+"file": "divfundIndia.xls",
+"sheet": "Industry Averages",
+"cell": "F63",
+"dataset": "divfund",
+"region": "India",
+"industry": "Oil/Gas (Production and Exploration)",
+"column": "Dividend Yield",
+"his_header": "Dividend Yield",
+"value": 0.02631726450960798
+},
+{
+"kind": "cell",
+"file": "divfundIndia.xls",
+"sheet": "Industry Averages",
+"cell": "C13",
+"dataset": "divfund",
+"region": "India",
+"industry": "Auto & Truck",
+"column": "Total Dividends (US $ millions)",
+"his_header": "Total Dividends (US $ millions)",
+"value": 2536.894
+},
+{
+"kind": "cell",
+"file": "divfundJapan.xls",
+"sheet": "Industry Averages",
+"cell": "B69",
+"dataset": "divfund",
+"region": "Japan",
+"industry": "Precious Metals",
+"column": "Number of firms",
+"his_header": "Number of firms",
+"value": 2.0
+},
+{
+"kind": "cell",
+"file": "divfundJapan.xls",
+"sheet": "Industry Averages",
+"cell": "D67",
+"dataset": "divfund",
+"region": "Japan",
+"industry": "Paper/Forest Products",
+"column": "Special Dividends as % of Total Dividends",
+"his_header": "Special Dividends as % of Total Dividends",
+"value": 0.0
+},
+{
+"kind": "cell",
+"file": "divfundJapan.xls",
+"sheet": "Industry Averages",
+"cell": "I93",
+"dataset": "divfund",
+"region": "Japan",
+"industry": "Steel",
+"column": "Institutional Holdings",
+"his_header": "Institutional Holdings",
+"value": 0.20355625000000008
+},
+{
+"kind": "cell",
+"file": "divfundJapan.xls",
+"sheet": "Industry Averages",
+"cell": "I61",
+"dataset": "divfund",
+"region": "Japan",
+"industry": "Office Equipment & Services",
+"column": "Institutional Holdings",
+"his_header": "Institutional Holdings",
+"value": 0.13865230769230766
+},
+{
+"kind": "cell",
+"file": "divfundJapan.xls",
+"sheet": "Industry Averages",
+"cell": "I27",
+"dataset": "divfund",
+"region": "Japan",
+"industry": "Coal & Related Energy",
+"column": "Institutional Holdings",
+"his_header": "Institutional Holdings",
+"value": 0.1001
+},
+{
+"kind": "cell",
+"file": "DividendsIndustryGlobal.xlsx",
+"sheet": "Sheet1",
+"cell": "G45",
+"dataset": "DividendsIndustry",
+"region": "Global",
+"industry": "Hospitals/Healthcare Facilities",
+"column": "Dividend Yield",
+"his_header": "Dividend Yield",
+"value": 0.010772323911309997
+},
+{
+"kind": "cell",
+"file": "DividendsIndustryGlobal.xlsx",
+"sheet": "Sheet1",
+"cell": "M17",
+"dataset": "DividendsIndustry",
+"region": "Global",
+"industry": "Cable TV",
+"column": "Dividend Payout Ratio: Median",
+"his_header": "Median",
+"value": 0.7278820375335121
+},
+{
+"kind": "cell",
+"file": "DividendsIndustryGlobal.xlsx",
+"sheet": "Sheet1",
+"cell": "G69",
+"dataset": "DividendsIndustry",
+"region": "Global",
+"industry": "Recreation",
+"column": "Dividend Yield",
+"his_header": "Dividend Yield",
+"value": 0.01846628654419059
+},
+{
+"kind": "cell",
+"file": "DividendsIndustryGlobal.xlsx",
+"sheet": "Sheet1",
+"cell": "H54",
+"dataset": "DividendsIndustry",
+"region": "Global",
+"industry": "Metals & Mining",
+"column": "Dividend Payout",
+"his_header": "Dividend Payout",
+"value": 0.6847480041941229
+},
+{
+"kind": "cell",
+"file": "DividendsIndustryGlobal.xlsx",
+"sheet": "Sheet1",
+"cell": "N73",
+"dataset": "DividendsIndustry",
+"region": "Global",
+"industry": "Retail (Building Supply)",
+"column": "Dividend Payout Ratio: 3rd Quartile",
+"his_header": "3rd Quartile",
+"value": 0.7678571428571428
+},
+{
+"kind": "cell",
+"file": "DividendsIndustryUS.xlsx",
+"sheet": "Sheet1",
+"cell": "I3",
+"dataset": "DividendsIndustry",
+"region": "US",
+"industry": "Advertising",
+"column": "Dividend Yield: 1st Quartile",
+"his_header": "1st Quartile",
+"value": 0.01357159013797783
+},
+{
+"kind": "cell",
+"file": "DividendsIndustryUS.xlsx",
+"sheet": "Sheet1",
+"cell": "G66",
+"dataset": "DividendsIndustry",
+"region": "US",
+"industry": "Real Estate (Development)",
+"column": "Dividend Yield",
+"his_header": "Dividend Yield",
+"value": 0.0
+},
+{
+"kind": "cell",
+"file": "DividendsIndustryUS.xlsx",
+"sheet": "Sheet1",
+"cell": "N53",
+"dataset": "DividendsIndustry",
+"region": "US",
+"industry": "Machinery",
+"column": "Dividend Payout Ratio: 3rd Quartile",
+"his_header": "3rd Quartile",
+"value": 0.4414867396233856
+},
+{
+"kind": "cell",
+"file": "DividendsIndustryUS.xlsx",
+"sheet": "Sheet1",
+"cell": "C9",
+"dataset": "DividendsIndustry",
+"region": "US",
+"industry": "Bank (Money Center)",
+"column": "Pay dividends",
+"his_header": "Pay dividends",
+"value": 11.0
+},
+{
+"kind": "cell",
+"file": "DividendsIndustryUS.xlsx",
+"sheet": "Sheet1",
+"cell": "N6",
+"dataset": "DividendsIndustry",
+"region": "US",
+"industry": "Apparel",
+"column": "Dividend Payout Ratio: 3rd Quartile",
+"his_header": "3rd Quartile",
+"value": 1.554817275747508
+},
+{
+"kind": "cell",
+"file": "EVA.xls",
+"sheet": "Industry Averages",
+"cell": "E80",
+"dataset": "EVA",
+"region": "US",
+"industry": "Precious Metals",
+"column": "Cost of Equity",
+"his_header": "Cost of Equity",
+"value": 0.07681060504482207
+},
+{
+"kind": "cell",
+"file": "EVA.xls",
+"sheet": "Industry Averages",
+"cell": "L77",
+"dataset": "EVA",
+"region": "US",
+"industry": "Packaging & Container",
+"column": "BV of Capital",
+"his_header": "BV of Capital",
+"value": 61886.54527309754
+},
+{
+"kind": "cell",
+"file": "EVA.xls",
+"sheet": "Industry Averages",
+"cell": "E82",
+"dataset": "EVA",
+"region": "US",
+"industry": "R.E.I.T.",
+"column": "Cost of Equity",
+"his_header": "Cost of Equity",
+"value": 0.06812421147550282
+},
+{
+"kind": "cell",
+"file": "EVA.xls",
+"sheet": "Industry Averages",
+"cell": "H66",
+"dataset": "EVA",
+"region": "US",
+"industry": "Insurance (General)",
+"column": "Equity EVA (US $ millions)",
+"his_header": "Equity EVA (US $ millions)",
+"value": 4479.953033913128
+},
+{
+"kind": "cell",
+"file": "EVA.xls",
+"sheet": "Industry Averages",
+"cell": "D61",
+"dataset": "EVA",
+"region": "US",
+"industry": "Homebuilding",
+"column": "ROE",
+"his_header": "ROE",
+"value": 0.14231430358554786
+},
+{
+"kind": "cell",
+"file": "EVAChina.xls",
+"sheet": "Industry Averages",
+"cell": "G28",
+"dataset": "EVA",
+"region": "China",
+"industry": "Beverage (Alcoholic)",
+"column": "BV of Equity",
+"his_header": "BV of Equity",
+"value": 101445.3
+},
+{
+"kind": "cell",
+"file": "EVAChina.xls",
+"sheet": "Industry Averages",
+"cell": "P53",
+"dataset": "EVA",
+"region": "China",
+"industry": "Financial Svcs. (Non-bank & Insurance)",
+"column": "Cost of Debt",
+"his_header": "Cost of Debt",
+"value": 0.056613
+},
+{
+"kind": "cell",
+"file": "EVAChina.xls",
+"sheet": "Industry Averages",
+"cell": "J43",
+"dataset": "EVA",
+"region": "China",
+"industry": "Drugs (Biotechnology)",
+"column": "Cost of Capital",
+"his_header": "Cost of Capital",
+"value": 0.12207806702472807
+},
+{
+"kind": "cell",
+"file": "EVAChina.xls",
+"sheet": "Industry Averages",
+"cell": "K51",
+"dataset": "EVA",
+"region": "China",
+"industry": "Environmental & Waste Services",
+"column": "(ROC - WACC)",
+"his_header": "(ROC - WACC)",
+"value": -0.05941582134273897
+},
+{
+"kind": "cell",
+"file": "EVAChina.xls",
+"sheet": "Industry Averages",
+"cell": "Q80",
+"dataset": "EVA",
+"region": "China",
+"industry": "Precious Metals",
+"column": "Tax Rate",
+"his_header": "Tax Rate",
+"value": 0.16344601729893263
+},
+{
+"kind": "cell",
+"file": "EVAemerg.xls",
+"sheet": "Industry Averages",
+"cell": "R55",
+"dataset": "EVA",
+"region": "Emerging",
+"industry": "Food Wholesalers",
+"column": "After-tax Cost of Debt",
+"his_header": "After-tax Cost of Debt",
+"value": 0.047983520800000005
+},
+{
+"kind": "cell",
+"file": "EVAemerg.xls",
+"sheet": "Industry Averages",
+"cell": "S86",
+"dataset": "EVA",
+"region": "Emerging",
+"industry": "Recreation",
+"column": "D/(D+E)",
+"his_header": "D/(D+E)",
+"value": 0.19062918962741388
+},
+{
+"kind": "cell",
+"file": "EVAemerg.xls",
+"sheet": "Industry Averages",
+"cell": "I89",
+"dataset": "EVA",
+"region": "Emerging",
+"industry": "Retail (Automotive)",
+"column": "ROC",
+"his_header": "ROC",
+"value": 0.0960418083253458
+},
+{
+"kind": "cell",
+"file": "EVAemerg.xls",
+"sheet": "Industry Averages",
+"cell": "F59",
+"dataset": "EVA",
+"region": "Emerging",
+"industry": "Healthcare Support Services",
+"column": "(ROE - COE)",
+"his_header": "(ROE - COE)",
+"value": -0.061854130849975646
+},
+{
+"kind": "cell",
+"file": "EVAemerg.xls",
+"sheet": "Industry Averages",
+"cell": "P85",
+"dataset": "EVA",
+"region": "Emerging",
+"industry": "Real Estate (Operations & Services)",
+"column": "Cost of Debt",
+"his_header": "Cost of Debt",
+"value": 0.064072
+},
+{
+"kind": "cell",
+"file": "EVAEurope.xls",
+"sheet": "Industry Averages",
+"cell": "N54",
+"dataset": "EVA",
+"region": "Europe",
+"industry": "Food Processing",
+"column": "E/(D+E)",
+"his_header": "E/(D+E)",
+"value": 0.7400303941263314
+},
+{
+"kind": "cell",
+"file": "EVAEurope.xls",
+"sheet": "Industry Averages",
+"cell": "F83",
+"dataset": "EVA",
+"region": "Europe",
+"industry": "Real Estate (Development)",
+"column": "(ROE - COE)",
+"his_header": "(ROE - COE)",
+"value": -0.04270882356700082
+},
+{
+"kind": "cell",
+"file": "EVAEurope.xls",
+"sheet": "Industry Averages",
+"cell": "F41",
+"dataset": "EVA",
+"region": "Europe",
+"industry": "Construction Supplies",
+"column": "(ROE - COE)",
+"his_header": "(ROE - COE)",
+"value": 0.09771906036668693
+},
+{
+"kind": "cell",
+"file": "EVAEurope.xls",
+"sheet": "Industry Averages",
+"cell": "O40",
+"dataset": "EVA",
+"region": "Europe",
+"industry": "Computers/Peripherals",
+"column": "Std Dev in Stock",
+"his_header": "Std Dev in Stock",
+"value": 0.4929198047193483
+},
+{
+"kind": "cell",
+"file": "EVAEurope.xls",
+"sheet": "Industry Averages",
+"cell": "R113",
+"dataset": "EVA",
+"region": "Europe",
+"industry": "Utility (Water)",
+"column": "After-tax Cost of Debt",
+"his_header": "After-tax Cost of Debt",
+"value": 0.041070036799999994
+},
+{
+"kind": "cell",
+"file": "EVAGlobal.xls",
+"sheet": "Industry Averages",
+"cell": "Q48",
+"dataset": "EVA",
+"region": "Global",
+"industry": "Electronics (General)",
+"column": "Tax Rate",
+"his_header": "Tax Rate",
+"value": 0.11886169364404699
+},
+{
+"kind": "cell",
+"file": "EVAGlobal.xls",
+"sheet": "Industry Averages",
+"cell": "D21",
+"dataset": "EVA",
+"region": "Global",
+"industry": "Aerospace/Defense",
+"column": "ROE",
+"his_header": "ROE",
+"value": 0.184497379944047
+},
+{
+"kind": "cell",
+"file": "EVAGlobal.xls",
+"sheet": "Industry Averages",
+"cell": "O91",
+"dataset": "EVA",
+"region": "Global",
+"industry": "Retail (Distributors)",
+"column": "Std Dev in Stock",
+"his_header": "Std Dev in Stock",
+"value": 0.38602638039912335
+},
+{
+"kind": "cell",
+"file": "EVAGlobal.xls",
+"sheet": "Industry Averages",
+"cell": "R85",
+"dataset": "EVA",
+"region": "Global",
+"industry": "Real Estate (Operations & Services)",
+"column": "After-tax Cost of Debt",
+"his_header": "After-tax Cost of Debt",
+"value": 0.043136139999999996
+},
+{
+"kind": "cell",
+"file": "EVAGlobal.xls",
+"sheet": "Industry Averages",
+"cell": "F36",
+"dataset": "EVA",
+"region": "Global",
+"industry": "Chemical (Diversified)",
+"column": "(ROE - COE)",
+"his_header": "(ROE - COE)",
+"value": -0.05920228923605839
+},
+{
+"kind": "cell",
+"file": "EVAIndia.xls",
+"sheet": "Industry Averages",
+"cell": "Q98",
+"dataset": "EVA",
+"region": "India",
+"industry": "Semiconductor Equip",
+"column": "Tax Rate",
+"his_header": "Tax Rate",
+"value": 0.12395833333333334
+},
+{
+"kind": "cell",
+"file": "EVAIndia.xls",
+"sheet": "Industry Averages",
+"cell": "R85",
+"dataset": "EVA",
+"region": "India",
+"industry": "Real Estate (Operations & Services)",
+"column": "After-tax Cost of Debt",
+"his_header": "After-tax Cost of Debt",
+"value": 0.04695039999999999
+},
+{
+"kind": "cell",
+"file": "EVAIndia.xls",
+"sheet": "Industry Averages",
+"cell": "L100",
+"dataset": "EVA",
+"region": "India",
+"industry": "Shoe",
+"column": "BV of Capital",
+"his_header": "BV of Capital",
+"value": 853.5004
+},
+{
+"kind": "cell",
+"file": "EVAIndia.xls",
+"sheet": "Industry Averages",
+"cell": "K114",
+"dataset": "EVA",
+"region": "India",
+"industry": "Total Market",
+"column": "(ROC - WACC)",
+"his_header": "(ROC - WACC)",
+"value": -0.016023544570471768
+},
+{
+"kind": "cell",
+"file": "EVAIndia.xls",
+"sheet": "Industry Averages",
+"cell": "J57",
+"dataset": "EVA",
+"region": "India",
+"industry": "Green & Renewable Energy",
+"column": "Cost of Capital",
+"his_header": "Cost of Capital",
+"value": 0.10223861679625171
+},
+{
+"kind": "cell",
+"file": "EVAJapan.xls",
+"sheet": "Industry Averages",
+"cell": "O98",
+"dataset": "EVA",
+"region": "Japan",
+"industry": "Semiconductor Equip",
+"column": "Std Dev in Stock",
+"his_header": "Std Dev in Stock",
+"value": 0.4593685593740406
+},
+{
+"kind": "cell",
+"file": "EVAJapan.xls",
+"sheet": "Industry Averages",
+"cell": "C59",
+"dataset": "EVA",
+"region": "Japan",
+"industry": "Healthcare Support Services",
+"column": "Beta",
+"his_header": "Beta",
+"value": 0.9113462708284431
+},
+{
+"kind": "cell",
+"file": "EVAJapan.xls",
+"sheet": "Industry Averages",
+"cell": "F76",
+"dataset": "EVA",
+"region": "Japan",
+"industry": "Oilfield Svcs/Equip.",
+"column": "(ROE - COE)",
+"his_header": "(ROE - COE)",
+"value": -0.02083062016248171
+},
+{
+"kind": "cell",
+"file": "EVAJapan.xls",
+"sheet": "Industry Averages",
+"cell": "D37",
+"dataset": "EVA",
+"region": "Japan",
+"industry": "Chemical (Specialty)",
+"column": "ROE",
+"his_header": "ROE",
+"value": 0.09744611405472296
+},
+{
+"kind": "cell",
+"file": "EVAJapan.xls",
+"sheet": "Industry Averages",
+"cell": "D101",
+"dataset": "EVA",
+"region": "Japan",
+"industry": "Software (Entertainment)",
+"column": "ROE",
+"his_header": "ROE",
+"value": 0.07848522171406005
+},
+{
+"kind": "cell",
+"file": "IndustryMarginsGlobal.xlsx",
+"sheet": "Margins",
+"cell": "J58",
+"dataset": "IndustryMargins",
+"region": "Global",
+"industry": "Oil/Gas (Production and Exploration)",
+"column": "Operating Margin: Median",
+"his_header": "Median",
+"value": 0.121311475409836
+},
+{
+"kind": "cell",
+"file": "IndustryMarginsGlobal.xlsx",
+"sheet": "Margins",
+"cell": "L7",
+"dataset": "IndustryMargins",
+"region": "Global",
+"industry": "Apparel",
+"column": "Net Profit Margin: First Quartile",
+"his_header": "First Quartile",
+"value": -0.0226142742582197
+},
+{
+"kind": "cell",
+"file": "IndustryMarginsGlobal.xlsx",
+"sheet": "Margins",
+"cell": "H4",
+"dataset": "IndustryMargins",
+"region": "Global",
+"industry": "Advertising",
+"column": "Gross Margin: Third Quartile",
+"his_header": "Third Quartile",
+"value": 0.569321533923304
+},
+{
+"kind": "cell",
+"file": "IndustryMarginsGlobal.xlsx",
+"sheet": "Margins",
+"cell": "M10",
+"dataset": "IndustryMargins",
+"region": "Global",
+"industry": "Bank (Money Center)",
+"column": "Net Profit Margin: Median",
+"his_header": "Median",
+"value": 0.328182755952893
+},
+{
+"kind": "cell",
+"file": "IndustryMarginsGlobal.xlsx",
+"sheet": "Margins",
+"cell": "H70",
+"dataset": "IndustryMargins",
+"region": "Global",
+"industry": "Recreation",
+"column": "Gross Margin: Third Quartile",
+"his_header": "Third Quartile",
+"value": 0.523300970873786
+},
+{
+"kind": "cell",
+"file": "IndustryMarginsUS.xlsx",
+"sheet": "Margins",
+"cell": "N21",
+"dataset": "IndustryMargins",
+"region": "US",
+"industry": "Chemical (Specialty)",
+"column": "Net Profit Margin: Third Quartile",
+"his_header": "Third Quartile",
+"value": 0.08807588075880758
+},
+{
+"kind": "cell",
+"file": "IndustryMarginsUS.xlsx",
+"sheet": "Margins",
+"cell": "D92",
+"dataset": "IndustryMargins",
+"region": "US",
+"industry": "Tobacco",
+"column": "Operating Margin",
+"his_header": "Operating Margin",
+"value": 0.436838876460752
+},
+{
+"kind": "cell",
+"file": "IndustryMarginsUS.xlsx",
+"sheet": "Margins",
+"cell": "K90",
+"dataset": "IndustryMargins",
+"region": "US",
+"industry": "Telecom. Equipment",
+"column": "Operating Margin: Third Quartile",
+"his_header": "Third Quartile",
+"value": 0.1335102937452413
+},
+{
+"kind": "cell",
+"file": "IndustryMarginsUS.xlsx",
+"sheet": "Margins",
+"cell": "L41",
+"dataset": "IndustryMargins",
+"region": "US",
+"industry": "Green & Renewable Energy",
+"column": "Net Profit Margin: First Quartile",
+"his_header": "First Quartile",
+"value": -0.4700598802395209
+},
+{
+"kind": "cell",
+"file": "IndustryMarginsUS.xlsx",
+"sheet": "Margins",
+"cell": "L35",
+"dataset": "IndustryMargins",
+"region": "US",
+"industry": "Environmental & Waste Services",
+"column": "Net Profit Margin: First Quartile",
+"his_header": "First Quartile",
+"value": -0.6386292834890965
+},
+{
+"kind": "cell",
+"file": "IndustryReturnsGlobal.xlsx",
+"sheet": "Accountinng Returns",
+"cell": "E69",
+"dataset": "IndustryReturns",
+"region": "Global",
+"industry": "Recreation",
+"column": "Return on Equity: 1st Quarter",
+"his_header": "1st Quarter",
+"value": -0.03307086614173228
+},
+{
+"kind": "cell",
+"file": "IndustryReturnsGlobal.xlsx",
+"sheet": "Accountinng Returns",
+"cell": "D36",
+"dataset": "IndustryReturns",
+"region": "Global",
+"industry": "Financial Svcs. (Non-bank & Insurance)",
+"column": "ROIC",
+"his_header": "ROIC",
+"value": 0.013274094490488999
+},
+{
+"kind": "cell",
+"file": "IndustryReturnsGlobal.xlsx",
+"sheet": "Accountinng Returns",
+"cell": "C52",
+"dataset": "IndustryReturns",
+"region": "Global",
+"industry": "Investments & Asset Management",
+"column": "ROE",
+"his_header": "ROE",
+"value": 0.12013792528457075
+},
+{
+"kind": "cell",
+"file": "IndustryReturnsGlobal.xlsx",
+"sheet": "Accountinng Returns",
+"cell": "D44",
+"dataset": "IndustryReturns",
+"region": "Global",
+"industry": "Homebuilding",
+"column": "ROIC",
+"his_header": "ROIC",
+"value": 0.12944992182124807
+},
+{
+"kind": "cell",
+"file": "IndustryReturnsGlobal.xlsx",
+"sheet": "Accountinng Returns",
+"cell": "D79",
+"dataset": "IndustryReturns",
+"region": "Global",
+"industry": "Rubber& Tires",
+"column": "ROIC",
+"his_header": "ROIC",
+"value": 0.10643771868246624
+},
+{
+"kind": "cell",
+"file": "IndustryReturnsGlobal.xlsx",
+"sheet": "Excess Returns",
+"cell": "H14",
+"dataset": "IndustryReturns",
+"region": "Global",
+"industry": "Brokerage & Investment Banking",
+"column": "Return on Invested Capital - Cost of Capital: Aggregated spread",
+"his_header": "Aggregated spread",
+"value": -0.06974347916853324
+},
+{
+"kind": "cell",
+"file": "IndustryReturnsGlobal.xlsx",
+"sheet": "Excess Returns",
+"cell": "H10",
+"dataset": "IndustryReturns",
+"region": "Global",
+"industry": "Banks (Regional)",
+"column": "Return on Invested Capital - Cost of Capital: Aggregated spread",
+"his_header": "Aggregated spread",
+"value": -0.0518141521285992
+},
+{
+"kind": "cell",
+"file": "IndustryReturnsGlobal.xlsx",
+"sheet": "Excess Returns",
+"cell": "H22",
+"dataset": "IndustryReturns",
+"region": "Global",
+"industry": "Computer Services",
+"column": "Return on Invested Capital - Cost of Capital: Aggregated spread",
+"his_header": "Aggregated spread",
+"value": 0.14579653814604926
+},
+{
+"kind": "cell",
+"file": "IndustryReturnsGlobal.xlsx",
+"sheet": "Excess Returns",
+"cell": "C79",
+"dataset": "IndustryReturns",
+"region": "Global",
+"industry": "Rubber& Tires",
+"column": "Return on Equity - Cost of Equity: Aggregated spread",
+"his_header": "Aggregated spread",
+"value": -0.03846599030950785
+},
+{
+"kind": "cell",
+"file": "IndustryReturnsGlobal.xlsx",
+"sheet": "Excess Returns",
+"cell": "L89",
+"dataset": "IndustryReturns",
+"region": "Global",
+"industry": "Telecom. Equipment",
+"column": "Return on Invested Capital - Cost of Capital: % <5%",
+"his_header": "% <5%",
+"value": 0.8398169336384439
+},
+{
+"kind": "cell",
+"file": "IndustryReturnsUS.xlsx",
+"sheet": "Accountinng Returns",
+"cell": "G41",
+"dataset": "IndustryReturns",
+"region": "US",
+"industry": "Healthcare Products",
+"column": "Return on Equity: 3rd Quarter",
+"his_header": "3rd Quarter",
+"value": 0.06402526557565318
+},
+{
+"kind": "cell",
+"file": "IndustryReturnsUS.xlsx",
+"sheet": "Accountinng Returns",
+"cell": "I55",
+"dataset": "IndustryReturns",
+"region": "US",
+"industry": "Office Equipment & Services",
+"column": "Return on Invested Capital: Median",
+"his_header": "Median",
+"value": 0.1345296735475517
+},
+{
+"kind": "cell",
+"file": "IndustryReturnsUS.xlsx",
+"sheet": "Accountinng Returns",
+"cell": "C91",
+"dataset": "IndustryReturns",
+"region": "US",
+"industry": "Tobacco",
+"column": "ROE",
+"his_header": "ROE",
+"value": -1.5481984305750487
+},
+{
+"kind": "cell",
+"file": "IndustryReturnsUS.xlsx",
+"sheet": "Accountinng Returns",
+"cell": "H81",
+"dataset": "IndustryReturns",
+"region": "US",
+"industry": "Semiconductor Equip",
+"column": "Return on Invested Capital: 1st Quarter",
+"his_header": "1st Quarter",
+"value": -0.04002872281665831
+},
+{
+"kind": "cell",
+"file": "IndustryReturnsUS.xlsx",
+"sheet": "Accountinng Returns",
+"cell": "H59",
+"dataset": "IndustryReturns",
+"region": "US",
+"industry": "Oilfield Svcs/Equip.",
+"column": "Return on Invested Capital: 1st Quarter",
+"his_header": "1st Quarter",
+"value": -0.01067357946988254
+},
+{
+"kind": "cell",
+"file": "IndustryReturnsUS.xlsx",
+"sheet": "Excess Returns",
+"cell": "H6",
+"dataset": "IndustryReturns",
+"region": "US",
+"industry": "Apparel",
+"column": "Return on Invested Capital - Cost of Capital: Aggregated spread",
+"his_header": "Aggregated spread",
+"value": 0.08829791286116094
+},
+{
+"kind": "cell",
+"file": "IndustryReturnsUS.xlsx",
+"sheet": "Excess Returns",
+"cell": "J42",
+"dataset": "IndustryReturns",
+"region": "US",
+"industry": "Healthcare Support Services",
+"column": "Return on Invested Capital - Cost of Capital: % Negative",
+"his_header": "% Negative",
+"value": 0.6538461538461539
+},
+{
+"kind": "cell",
+"file": "IndustryReturnsUS.xlsx",
+"sheet": "Excess Returns",
+"cell": "G46",
+"dataset": "IndustryReturns",
+"region": "US",
+"industry": "Hotel/Gaming",
+"column": "Return on Equity - Cost of Equity: % <5%",
+"his_header": "% <5%",
+"value": 0.7777777777777778
+},
+{
+"kind": "cell",
+"file": "IndustryReturnsUS.xlsx",
+"sheet": "Excess Returns",
+"cell": "H3",
+"dataset": "IndustryReturns",
+"region": "US",
+"industry": "Advertising",
+"column": "Return on Invested Capital - Cost of Capital: Aggregated spread",
+"his_header": "Aggregated spread",
+"value": 0.28060989846620443
+},
+{
+"kind": "cell",
+"file": "IndustryReturnsUS.xlsx",
+"sheet": "Excess Returns",
+"cell": "K13",
+"dataset": "IndustryReturns",
+"region": "US",
+"industry": "Broadcasting",
+"column": "Return on Invested Capital - Cost of Capital: % >5%",
+"his_header": "% >5%",
+"value": 0.2916666666666667
+},
+{
+"kind": "cell",
+"file": "margin.xls",
+"sheet": "Industry Averages",
+"cell": "B47",
+"dataset": "margin",
+"region": "US",
+"industry": "Green & Renewable Energy",
+"column": "Number of firms",
+"his_header": "Number of firms",
+"value": 15.0
+},
+{
+"kind": "cell",
+"file": "margin.xls",
+"sheet": "Industry Averages",
+"cell": "I105",
+"dataset": "margin",
+"region": "US",
+"industry": "Total Market (without financials)",
+"column": "After-tax Lease Adjusted Margin",
+"his_header": "After-tax Lease Adjusted Margin",
+"value": 0.12127852745283665
+},
+{
+"kind": "cell",
+"file": "margin.xls",
+"sheet": "Industry Averages",
+"cell": "S31",
+"dataset": "margin",
+"region": "US",
+"industry": "Construction Supplies",
+"column": "Lease Expense/Sales",
+"his_header": "Lease Expense/Sales",
+"value": 0.006356840008120158
+},
+{
+"kind": "cell",
+"file": "margin.xls",
+"sheet": "Industry Averages",
+"cell": "B23",
+"dataset": "margin",
+"region": "US",
+"industry": "Business & Consumer Services",
+"column": "Number of firms",
+"his_header": "Number of firms",
+"value": 155.0
+},
+{
+"kind": "cell",
+"file": "margin.xls",
+"sheet": "Industry Averages",
+"cell": "K61",
+"dataset": "margin",
+"region": "US",
+"industry": "Metals & Mining",
+"column": "After-tax Lease & R&D adj Margin",
+"his_header": "After-tax Lease & R&D adj Margin",
+"value": 0.2315230175699508
+},
+{
+"kind": "cell",
+"file": "marginChina.xls",
+"sheet": "Industry Averages",
+"cell": "S90",
+"dataset": "margin",
+"region": "China",
+"industry": "Shoe",
+"column": "Lease Expense/Sales",
+"his_header": "Lease Expense/Sales",
+"value": 0.004914642103825551
+},
+{
+"kind": "cell",
+"file": "marginChina.xls",
+"sheet": "Industry Averages",
+"cell": "R11",
+"dataset": "margin",
+"region": "China",
+"industry": "Aerospace/Defense",
+"column": "Stock-Based Compensation/Sales",
+"his_header": "Stock-Based Compensation/Sales",
+"value": 0.0011525005253204457
+},
+{
+"kind": "cell",
+"file": "marginChina.xls",
+"sheet": "Industry Averages",
+"cell": "G39",
+"dataset": "margin",
+"region": "China",
+"industry": "Engineering/Construction",
+"column": "After-tax Unadjusted Operating Margin",
+"his_header": "After-tax Unadjusted Operating Margin",
+"value": 0.03377579010941351
+},
+{
+"kind": "cell",
+"file": "marginChina.xls",
+"sheet": "Industry Averages",
+"cell": "O92",
+"dataset": "margin",
+"region": "China",
+"industry": "Software (Internet)",
+"column": "COGS/Sales",
+"his_header": "COGS/Sales",
+"value": 0.9033588644780982
+},
+{
+"kind": "cell",
+"file": "marginChina.xls",
+"sheet": "Industry Averages",
+"cell": "K38",
+"dataset": "margin",
+"region": "China",
+"industry": "Electronics (General)",
+"column": "After-tax Lease & R&D adj Margin",
+"his_header": "After-tax Lease & R&D adj Margin",
+"value": 0.050321319524106796
+},
+{
+"kind": "cell",
+"file": "marginemerg.xls",
+"sheet": "Industry Averages",
+"cell": "R60",
+"dataset": "margin",
+"region": "Emerging",
+"industry": "Machinery",
+"column": "Stock-Based Compensation/Sales",
+"his_header": "Stock-Based Compensation/Sales",
+"value": 0.002026021056064117
+},
+{
+"kind": "cell",
+"file": "marginemerg.xls",
+"sheet": "Industry Averages",
+"cell": "K47",
+"dataset": "margin",
+"region": "Emerging",
+"industry": "Green & Renewable Energy",
+"column": "After-tax Lease & R&D adj Margin",
+"his_header": "After-tax Lease & R&D adj Margin",
+"value": 0.32909527359498986
+},
+{
+"kind": "cell",
+"file": "marginemerg.xls",
+"sheet": "Industry Averages",
+"cell": "G72",
+"dataset": "margin",
+"region": "Emerging",
+"industry": "R.E.I.T.",
+"column": "After-tax Unadjusted Operating Margin",
+"his_header": "After-tax Unadjusted Operating Margin",
+"value": 0.6089818310441326
+},
+{
+"kind": "cell",
+"file": "marginemerg.xls",
+"sheet": "Industry Averages",
+"cell": "G67",
+"dataset": "margin",
+"region": "Emerging",
+"industry": "Packaging & Container",
+"column": "After-tax Unadjusted Operating Margin",
+"his_header": "After-tax Unadjusted Operating Margin",
+"value": 0.04562120627682395
+},
+{
+"kind": "cell",
+"file": "marginemerg.xls",
+"sheet": "Industry Averages",
+"cell": "Q59",
+"dataset": "margin",
+"region": "Emerging",
+"industry": "Investments & Asset Management",
+"column": "SG&A/ Sales",
+"his_header": "SG&A/ Sales",
+"value": 0.16286617769897194
+},
+{
+"kind": "cell",
+"file": "marginEurope.xls",
+"sheet": "Industry Averages",
+"cell": "L68",
+"dataset": "margin",
+"region": "Europe",
+"industry": "Paper/Forest Products",
+"column": "EBITDA/Sales",
+"his_header": "EBITDA/Sales",
+"value": 0.1383906451531957
+},
+{
+"kind": "cell",
+"file": "marginEurope.xls",
+"sheet": "Industry Averages",
+"cell": "B38",
+"dataset": "margin",
+"region": "Europe",
+"industry": "Electronics (General)",
+"column": "Number of firms",
+"his_header": "Number of firms",
+"value": 142.0
+},
+{
+"kind": "cell",
+"file": "marginEurope.xls",
+"sheet": "Industry Averages",
+"cell": "O93",
+"dataset": "margin",
+"region": "Europe",
+"industry": "Software (System & Application)",
+"column": "COGS/Sales",
+"his_header": "COGS/Sales",
+"value": 0.34791507228501506
+},
+{
+"kind": "cell",
+"file": "marginEurope.xls",
+"sheet": "Industry Averages",
+"cell": "K56",
+"dataset": "margin",
+"region": "Europe",
+"industry": "Insurance (General)",
+"column": "After-tax Lease & R&D adj Margin",
+"his_header": "After-tax Lease & R&D adj Margin",
+"value": 0.11790848814020226
+},
+{
+"kind": "cell",
+"file": "marginEurope.xls",
+"sheet": "Industry Averages",
+"cell": "L75",
+"dataset": "margin",
+"region": "Europe",
+"industry": "Real Estate (Operations & Services)",
+"column": "EBITDA/Sales",
+"his_header": "EBITDA/Sales",
+"value": 0.3329719584840142
+},
+{
+"kind": "cell",
+"file": "marginGlobal.xls",
+"sheet": "Industry Averages",
+"cell": "D23",
+"dataset": "margin",
+"region": "Global",
+"industry": "Business & Consumer Services",
+"column": "Net Margin",
+"his_header": "Net Margin",
+"value": 0.05833827925809312
+},
+{
+"kind": "cell",
+"file": "marginGlobal.xls",
+"sheet": "Industry Averages",
+"cell": "F65",
+"dataset": "margin",
+"region": "Global",
+"industry": "Oil/Gas Distribution",
+"column": "Pre-tax Unadjusted Operating Margin",
+"his_header": "Pre-tax Unadjusted Operating Margin",
+"value": 0.1724183769141509
+},
+{
+"kind": "cell",
+"file": "marginGlobal.xls",
+"sheet": "Industry Averages",
+"cell": "R99",
+"dataset": "margin",
+"region": "Global",
+"industry": "Transportation",
+"column": "Stock-Based Compensation/Sales",
+"his_header": "Stock-Based Compensation/Sales",
+"value": 0.0037139590379202773
+},
+{
+"kind": "cell",
+"file": "marginGlobal.xls",
+"sheet": "Industry Averages",
+"cell": "L36",
+"dataset": "margin",
+"region": "Global",
+"industry": "Electrical Equipment",
+"column": "EBITDA/Sales",
+"his_header": "EBITDA/Sales",
+"value": 0.10541358312333061
+},
+{
+"kind": "cell",
+"file": "marginGlobal.xls",
+"sheet": "Industry Averages",
+"cell": "O22",
+"dataset": "margin",
+"region": "Global",
+"industry": "Building Materials",
+"column": "COGS/Sales",
+"his_header": "COGS/Sales",
+"value": 0.6829176664979176
+},
+{
+"kind": "cell",
+"file": "marginIndia.xls",
+"sheet": "Industry Averages",
+"cell": "D32",
+"dataset": "margin",
+"region": "India",
+"industry": "Diversified",
+"column": "Net Margin",
+"his_header": "Net Margin",
+"value": 0.1581449969914366
+},
+{
+"kind": "cell",
+"file": "marginIndia.xls",
+"sheet": "Industry Averages",
+"cell": "I36",
+"dataset": "margin",
+"region": "India",
+"industry": "Electrical Equipment",
+"column": "After-tax Lease Adjusted Margin",
+"his_header": "After-tax Lease Adjusted Margin",
+"value": 0.0773745591475879
+},
+{
+"kind": "cell",
+"file": "marginIndia.xls",
+"sheet": "Industry Averages",
+"cell": "B84",
+"dataset": "margin",
+"region": "India",
+"industry": "Retail (REITs)",
+"column": "Number of firms",
+"his_header": "Number of firms",
+"value": 1.0
+},
+{
+"kind": "cell",
+"file": "marginIndia.xls",
+"sheet": "Industry Averages",
+"cell": "F34",
+"dataset": "margin",
+"region": "India",
+"industry": "Drugs (Pharmaceutical)",
+"column": "Pre-tax Unadjusted Operating Margin",
+"his_header": "Pre-tax Unadjusted Operating Margin",
+"value": 0.1887129446399009
+},
+{
+"kind": "cell",
+"file": "marginIndia.xls",
+"sheet": "Industry Averages",
+"cell": "G34",
+"dataset": "margin",
+"region": "India",
+"industry": "Drugs (Pharmaceutical)",
+"column": "After-tax Unadjusted Operating Margin",
+"his_header": "After-tax Unadjusted Operating Margin",
+"value": 0.15241461443455473
+},
+{
+"kind": "cell",
+"file": "marginJapan.xls",
+"sheet": "Industry Averages",
+"cell": "F53",
+"dataset": "margin",
+"region": "Japan",
+"industry": "Hotel/Gaming",
+"column": "Pre-tax Unadjusted Operating Margin",
+"his_header": "Pre-tax Unadjusted Operating Margin",
+"value": 0.0822978348144602
+},
+{
+"kind": "cell",
+"file": "marginJapan.xls",
+"sheet": "Industry Averages",
+"cell": "F83",
+"dataset": "margin",
+"region": "Japan",
+"industry": "Retail (Grocery and Food)",
+"column": "Pre-tax Unadjusted Operating Margin",
+"his_header": "Pre-tax Unadjusted Operating Margin",
+"value": 0.03477162485714922
+},
+{
+"kind": "cell",
+"file": "marginJapan.xls",
+"sheet": "Industry Averages",
+"cell": "M10",
+"dataset": "margin",
+"region": "Japan",
+"industry": "Advertising",
+"column": "EBITDASG&A/Sales",
+"his_header": "EBITDASG&A/Sales",
+"value": 0.5589934829470211
+},
+{
+"kind": "cell",
+"file": "marginJapan.xls",
+"sheet": "Industry Averages",
+"cell": "K36",
+"dataset": "margin",
+"region": "Japan",
+"industry": "Electrical Equipment",
+"column": "After-tax Lease & R&D adj Margin",
+"his_header": "After-tax Lease & R&D adj Margin",
+"value": 0.05858246840079977
+},
+{
+"kind": "cell",
+"file": "marginJapan.xls",
+"sheet": "Industry Averages",
+"cell": "E80",
+"dataset": "margin",
+"region": "Japan",
+"industry": "Retail (Building Supply)",
+"column": "Pre-tax, Pre-stock compensation Operating Margin",
+"his_header": "Pre-tax, Pre-stock compensation Operating Margin",
+"value": 0.07121670757800502
+},
+{
+"kind": "cell",
+"file": "mgnroc.xls",
+"sheet": "Industry Averages",
+"cell": "C74",
+"dataset": "mgnroc",
+"region": "US",
+"industry": "Real Estate (General/Diversified)",
+"column": "After-tax Operating Margin",
+"his_header": "After-tax Operating Margin",
+"value": 0.21060922855195446
+},
+{
+"kind": "cell",
+"file": "mgnroc.xls",
+"sheet": "Industry Averages",
+"cell": "B13",
+"dataset": "mgnroc",
+"region": "US",
+"industry": "Apparel",
+"column": "Number of firms",
+"his_header": "Number of firms",
+"value": 35.0
+},
+{
+"kind": "cell",
+"file": "mgnroc.xls",
+"sheet": "Industry Averages",
+"cell": "B25",
+"dataset": "mgnroc",
+"region": "US",
+"industry": "Chemical (Basic)",
+"column": "Number of firms",
+"his_header": "Number of firms",
+"value": 29.0
+},
+{
+"kind": "cell",
+"file": "mgnroc.xls",
+"sheet": "Industry Averages",
+"cell": "C39",
+"dataset": "mgnroc",
+"region": "US",
+"industry": "Engineering/Construction",
+"column": "After-tax Operating Margin",
+"his_header": "After-tax Operating Margin",
+"value": 0.05836071446695041
+},
+{
+"kind": "cell",
+"file": "mgnroc.xls",
+"sheet": "Industry Averages",
+"cell": "D84",
+"dataset": "mgnroc",
+"region": "US",
+"industry": "Retail (REITs)",
+"column": "Sales/ Invested Capital (LTM)",
+"his_header": "Sales/ Invested Capital (LTM)",
+"value": 0.1358141102577872
+},
+{
+"kind": "cell",
+"file": "taxrate.xls",
+"sheet": "Industry Averages",
+"cell": "F88",
+"dataset": "taxrate",
+"region": "US",
+"industry": "Semiconductor Equip",
+"column": "Cash Taxes/Accrual Taxes",
+"his_header": "Cash Taxes/Accrual Taxes",
+"value": 0.9996083092498631
+},
+{
+"kind": "cell",
+"file": "taxrate.xls",
+"sheet": "Industry Averages",
+"cell": "J45",
+"dataset": "taxrate",
+"region": "US",
+"industry": "Food Wholesalers",
+"column": "Cash Tax Rates: Average across only money-making companies",
+"his_header": "Average across only money-making companies",
+"value": 0.255154210175891
+},
+{
+"kind": "cell",
+"file": "taxrate.xls",
+"sheet": "Industry Averages",
+"cell": "F61",
+"dataset": "taxrate",
+"region": "US",
+"industry": "Metals & Mining",
+"column": "Cash Taxes/Accrual Taxes",
+"his_header": "Cash Taxes/Accrual Taxes",
+"value": 0.8808767116447715
+},
+{
+"kind": "cell",
+"file": "taxrate.xls",
+"sheet": "Industry Averages",
+"cell": "C78",
+"dataset": "taxrate",
+"region": "US",
+"industry": "Restaurant/Dining",
+"column": "Total Taxable Income",
+"his_header": "Total Taxable Income",
+"value": 24531.681999999997
+},
+{
+"kind": "cell",
+"file": "taxrate.xls",
+"sheet": "Industry Averages",
+"cell": "J81",
+"dataset": "taxrate",
+"region": "US",
+"industry": "Retail (Distributors)",
+"column": "Cash Tax Rates: Average across only money-making companies",
+"his_header": "Average across only money-making companies",
+"value": 0.2061248554111423
+},
+{
+"kind": "cell",
+"file": "wacc.xls",
+"sheet": "Industry Averages",
+"cell": "B51",
+"dataset": "wacc",
+"region": "US",
+"industry": "Environmental & Waste Services",
+"column": "Number of Firms",
+"his_header": "Number of Firms",
+"value": 53.0
+},
+{
+"kind": "cell",
+"file": "wacc.xls",
+"sheet": "Industry Averages",
+"cell": "L45",
+"dataset": "wacc",
+"region": "US",
+"industry": "Education",
+"column": "Cost of Capital (Local Currency)",
+"his_header": "Cost of Capital (Local Currency)",
+"value": 0.06753811810806143
+},
+{
+"kind": "cell",
+"file": "wacc.xls",
+"sheet": "Industry Averages",
+"cell": "L111",
+"dataset": "wacc",
+"region": "US",
+"industry": "Trucking",
+"column": "Cost of Capital (Local Currency)",
+"his_header": "Cost of Capital (Local Currency)",
+"value": 0.07521676753085837
+},
+{
+"kind": "cell",
+"file": "wacc.xls",
+"sheet": "Industry Averages",
+"cell": "D45",
+"dataset": "wacc",
+"region": "US",
+"industry": "Education",
+"column": "Cost of Equity",
+"his_header": "Cost of Equity",
+"value": 0.07432838926321207
+},
+{
+"kind": "cell",
+"file": "wacc.xls",
+"sheet": "Industry Averages",
+"cell": "K70",
+"dataset": "wacc",
+"region": "US",
+"industry": "Machinery",
+"column": "Cost of Capital",
+"his_header": "Cost of Capital",
+"value": 0.07699565637316959
+},
+{
+"kind": "cell",
+"file": "waccChina.xls",
+"sheet": "Industry Averages",
+"cell": "E112",
+"dataset": "wacc",
+"region": "China",
+"industry": "Utility (General)",
+"column": "E/(D+E)",
+"his_header": "E/(D+E)",
+"value": 0.5802392921186466
+},
+{
+"kind": "cell",
+"file": "waccChina.xls",
+"sheet": "Industry Averages",
+"cell": "G105",
+"dataset": "wacc",
+"region": "China",
+"industry": "Telecom (Wireless)",
+"column": "Cost of Debt",
+"his_header": "Cost of Debt",
+"value": 0.054372
+},
+{
+"kind": "cell",
+"file": "waccChina.xls",
+"sheet": "Industry Averages",
+"cell": "F30",
+"dataset": "wacc",
+"region": "China",
+"industry": "Broadcasting",
+"column": "Std Dev in Stock",
+"his_header": "Std Dev in Stock",
+"value": 0.3291469001323402
+},
+{
+"kind": "cell",
+"file": "waccChina.xls",
+"sheet": "Industry Averages",
+"cell": "K46",
+"dataset": "wacc",
+"region": "China",
+"industry": "Electrical Equipment",
+"column": "Cost of Capital",
+"his_header": "Cost of Capital",
+"value": 0.12321437214233222
+},
+{
+"kind": "cell",
+"file": "waccChina.xls",
+"sheet": "Industry Averages",
+"cell": "C63",
+"dataset": "wacc",
+"region": "China",
+"industry": "Hotel/Gaming",
+"column": "Beta",
+"his_header": "Beta",
+"value": 1.2441515739378293
+},
+{
+"kind": "cell",
+"file": "WACCdistn.xlsx",
+"sheet": "Sheet1",
+"cell": "B13",
+"dataset": "WACCdistn",
+"region": "Global",
+"industry": "Brokerage & Investment Banking",
+"column": "# firms",
+"his_header": "# firms",
+"value": 606.0
+},
+{
+"kind": "cell",
+"file": "WACCdistn.xlsx",
+"sheet": "Sheet1",
+"cell": "C6",
+"dataset": "WACCdistn",
+"region": "Global",
+"industry": "Auto & Truck",
+"column": "First Decile",
+"his_header": "First Decile",
+"value": 0.0864302005685868
+},
+{
+"kind": "cell",
+"file": "WACCdistn.xlsx",
+"sheet": "Sheet1",
+"cell": "D17",
+"dataset": "WACCdistn",
+"region": "Global",
+"industry": "Chemical (Basic)",
+"column": "First Quartile",
+"his_header": "First Quartile",
+"value": 0.08895032145916501
+},
+{
+"kind": "cell",
+"file": "WACCdistn.xlsx",
+"sheet": "Sheet1",
+"cell": "F54",
+"dataset": "WACCdistn",
+"region": "Global",
+"industry": "Office Equipment & Services",
+"column": "Third Quartile",
+"his_header": "Third Quartile",
+"value": 0.09870421640455462
+},
+{
+"kind": "cell",
+"file": "WACCdistn.xlsx",
+"sheet": "Sheet1",
+"cell": "C34",
+"dataset": "WACCdistn",
+"region": "Global",
+"industry": "Farming/Agriculture",
+"column": "First Decile",
+"his_header": "First Decile",
+"value": 0.06878126958310633
+},
+{
+"kind": "cell",
+"file": "waccemerg.xls",
+"sheet": "Industry Averages",
+"cell": "J81",
+"dataset": "wacc",
+"region": "Emerging",
+"industry": "Publishing & Newspapers",
+"column": "D/(D+E)",
+"his_header": "D/(D+E)",
+"value": 0.09659101228907008
+},
+{
+"kind": "cell",
+"file": "waccemerg.xls",
+"sheet": "Industry Averages",
+"cell": "F108",
+"dataset": "wacc",
+"region": "Emerging",
+"industry": "Tobacco",
+"column": "Std Dev in Stock",
+"his_header": "Std Dev in Stock",
+"value": 0.3479014930829385
+},
+{
+"kind": "cell",
+"file": "waccemerg.xls",
+"sheet": "Industry Averages",
+"cell": "D99",
+"dataset": "wacc",
+"region": "Emerging",
+"industry": "Shipbuilding & Marine",
+"column": "Cost of Equity",
+"his_header": "Cost of Equity",
+"value": 0.09778575603793199
+},
+{
+"kind": "cell",
+"file": "waccemerg.xls",
+"sheet": "Industry Averages",
+"cell": "B27",
+"dataset": "wacc",
+"region": "Emerging",
+"industry": "Banks (Regional)",
+"column": "Number of Firms",
+"his_header": "Number of Firms",
+"value": 104.0
+},
+{
+"kind": "cell",
+"file": "waccemerg.xls",
+"sheet": "Industry Averages",
+"cell": "K73",
+"dataset": "wacc",
+"region": "Emerging",
+"industry": "Oil/Gas (Integrated)",
+"column": "Cost of Capital",
+"his_header": "Cost of Capital",
+"value": 0.08570808900913889
+},
+{
+"kind": "cell",
+"file": "waccEurope.xls",
+"sheet": "Industry Averages",
+"cell": "E22",
+"dataset": "wacc",
+"region": "Europe",
+"industry": "Air Transport",
+"column": "E/(D+E)",
+"his_header": "E/(D+E)",
+"value": 0.5960961035893544
+},
+{
+"kind": "cell",
+"file": "waccEurope.xls",
+"sheet": "Industry Averages",
+"cell": "J73",
+"dataset": "wacc",
+"region": "Europe",
+"industry": "Oil/Gas (Integrated)",
+"column": "D/(D+E)",
+"his_header": "D/(D+E)",
+"value": 0.16222387239590008
+},
+{
+"kind": "cell",
+"file": "waccEurope.xls",
+"sheet": "Industry Averages",
+"cell": "E78",
+"dataset": "wacc",
+"region": "Europe",
+"industry": "Paper/Forest Products",
+"column": "E/(D+E)",
+"his_header": "E/(D+E)",
+"value": 0.7168643655056556
+},
+{
+"kind": "cell",
+"file": "waccEurope.xls",
+"sheet": "Industry Averages",
+"cell": "L84",
+"dataset": "wacc",
+"region": "Europe",
+"industry": "Real Estate (General/Diversified)",
+"column": "Cost of Capital (Euros)",
+"his_header": "Cost of Capital (Euros)",
+"value": 0.045773635546732194
+},
+{
+"kind": "cell",
+"file": "waccEurope.xls",
+"sheet": "Industry Averages",
+"cell": "F93",
+"dataset": "wacc",
+"region": "Europe",
+"industry": "Retail (Grocery and Food)",
+"column": "Std Dev in Stock",
+"his_header": "Std Dev in Stock",
+"value": 0.39324248747737517
+},
+{
+"kind": "cell",
+"file": "waccGlobal.xls",
+"sheet": "Industry Averages",
+"cell": "J75",
+"dataset": "wacc",
+"region": "Global",
+"industry": "Oil/Gas Distribution",
+"column": "D/(D+E)",
+"his_header": "D/(D+E)",
+"value": 0.3809583505341432
+},
+{
+"kind": "cell",
+"file": "waccGlobal.xls",
+"sheet": "Industry Averages",
+"cell": "D68",
+"dataset": "wacc",
+"region": "Global",
+"industry": "Insurance (Prop/Cas.)",
+"column": "Cost of Equity",
+"his_header": "Cost of Equity",
+"value": 0.06381183465032403
+},
+{
+"kind": "cell",
+"file": "waccGlobal.xls",
+"sheet": "Industry Averages",
+"cell": "D85",
+"dataset": "wacc",
+"region": "Global",
+"industry": "Real Estate (Operations & Services)",
+"column": "Cost of Equity",
+"his_header": "Cost of Equity",
+"value": 0.08351317795986439
+},
+{
+"kind": "cell",
+"file": "waccGlobal.xls",
+"sheet": "Industry Averages",
+"cell": "B45",
+"dataset": "wacc",
+"region": "Global",
+"industry": "Education",
+"column": "Number of Firms",
+"his_header": "Number of Firms",
+"value": 281.0
+},
+{
+"kind": "cell",
+"file": "waccGlobal.xls",
+"sheet": "Industry Averages",
+"cell": "J106",
+"dataset": "wacc",
+"region": "Global",
+"industry": "Telecom. Equipment",
+"column": "D/(D+E)",
+"his_header": "D/(D+E)",
+"value": 0.08779880078294833
+},
+{
+"kind": "cell",
+"file": "waccIndia.xls",
+"sheet": "Industry Averages",
+"cell": "C57",
+"dataset": "wacc",
+"region": "India",
+"industry": "Green & Renewable Energy",
+"column": "Beta",
+"his_header": "Beta",
+"value": 1.2755407722254428
+},
+{
+"kind": "cell",
+"file": "waccIndia.xls",
+"sheet": "Industry Averages",
+"cell": "C90",
+"dataset": "wacc",
+"region": "India",
+"industry": "Retail (Building Supply)",
+"column": "Beta",
+"his_header": "Beta",
+"value": 1.1884831470808612
+},
+{
+"kind": "cell",
+"file": "waccIndia.xls",
+"sheet": "Industry Averages",
+"cell": "F62",
+"dataset": "wacc",
+"region": "India",
+"industry": "Hospitals/Healthcare Facilities",
+"column": "Std Dev in Stock",
+"his_header": "Std Dev in Stock",
+"value": 0.3890058976004369
+},
+{
+"kind": "cell",
+"file": "waccIndia.xls",
+"sheet": "Industry Averages",
+"cell": "F56",
+"dataset": "wacc",
+"region": "India",
+"industry": "Furn/Home Furnishings",
+"column": "Std Dev in Stock",
+"his_header": "Std Dev in Stock",
+"value": 0.3917354023121497
+},
+{
+"kind": "cell",
+"file": "waccIndia.xls",
+"sheet": "Industry Averages",
+"cell": "B37",
+"dataset": "wacc",
+"region": "India",
+"industry": "Chemical (Specialty)",
+"column": "Number of Firms",
+"his_header": "Number of Firms",
+"value": 202.0
+},
+{
+"kind": "cell",
+"file": "waccJapan.xls",
+"sheet": "Industry Averages",
+"cell": "G46",
+"dataset": "wacc",
+"region": "Japan",
+"industry": "Electrical Equipment",
+"column": "Cost of Debt",
+"his_header": "Cost of Debt",
+"value": 0.051006
+},
+{
+"kind": "cell",
+"file": "waccJapan.xls",
+"sheet": "Industry Averages",
+"cell": "K47",
+"dataset": "wacc",
+"region": "Japan",
+"industry": "Electronics (Consumer & Office)",
+"column": "Cost of Capital",
+"his_header": "Cost of Capital",
+"value": 0.10550238496338112
+},
+{
+"kind": "cell",
+"file": "waccJapan.xls",
+"sheet": "Industry Averages",
+"cell": "K25",
+"dataset": "wacc",
+"region": "Japan",
+"industry": "Auto Parts",
+"column": "Cost of Capital",
+"his_header": "Cost of Capital",
+"value": 0.09325217546061405
+},
+{
+"kind": "cell",
+"file": "waccJapan.xls",
+"sheet": "Industry Averages",
+"cell": "G50",
+"dataset": "wacc",
+"region": "Japan",
+"industry": "Entertainment",
+"column": "Cost of Debt",
+"his_header": "Cost of Debt",
+"value": 0.054372
+},
+{
+"kind": "cell",
+"file": "waccJapan.xls",
+"sheet": "Industry Averages",
+"cell": "J83",
+"dataset": "wacc",
+"region": "Japan",
+"industry": "Real Estate (Development)",
+"column": "D/(D+E)",
+"his_header": "D/(D+E)",
+"value": 0.5537345252968243
+},
+{
+"kind": "table",
+"file": "histretSP.xlsx",
+"cell": "D35",
+"table": "history",
+"key": 1942,
+"column": "3-month T.Bill",
+"value": 0.003425
+},
+{
+"kind": "table",
+"file": "histretSP.xlsx",
+"cell": "F57",
+"table": "history",
+"key": 1964,
+"column": "Baa Corporate Bond",
+"value": 0.05161739272285027
+},
+{
+"kind": "table",
+"file": "histretSP.xlsx",
+"cell": "E46",
+"table": "history",
+"key": 1953,
+"column": "US T. Bond (10-year)",
+"value": 0.04143840258908851
+},
+{
+"kind": "table",
+"file": "histretSP.xlsx",
+"cell": "U86",
+"table": "history",
+"key": 1993,
+"column": "Inflation Rate",
+"value": 0.027484099999999997
+},
+{
+"kind": "table",
+"file": "histretSP.xlsx",
+"cell": "D25",
+"table": "history",
+"key": 1932,
+"column": "3-month T.Bill",
+"value": 0.0107
+},
+{
+"kind": "table",
+"file": "histretSP.xlsx",
+"cell": "C106",
+"table": "history",
+"key": 2013,
+"column": "US Small cap (bottom decile)",
+"value": 0.503
+},
+{
+"kind": "table",
+"file": "histretSP.xlsx",
+"cell": "C115",
+"table": "history",
+"key": 2022,
+"column": "US Small cap (bottom decile)",
+"value": -0.22899999999999998
+},
+{
+"kind": "table",
+"file": "histretSP.xlsx",
+"cell": "G30",
+"table": "history",
+"key": 1937,
+"column": "Real Estate",
+"value": 0.025633912223270494
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "B121",
+"start": 1928,
+"end": 2025,
+"path": [
+"nominal",
+"S&P 500 (includes dividends)",
+"arithmetic"
+],
+"value": 0.11854651059830723
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "B126",
+"start": 1928,
+"end": 2025,
+"path": [
+"nominal",
+"S&P 500 (includes dividends)",
+"geometric"
+],
+"value": 0.10017714854008042
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "C121",
+"start": 1928,
+"end": 2025,
+"path": [
+"nominal",
+"US Small cap (bottom decile)",
+"arithmetic"
+],
+"value": 0.17775204081632645
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "C126",
+"start": 1928,
+"end": 2025,
+"path": [
+"nominal",
+"US Small cap (bottom decile)",
+"geometric"
+],
+"value": 0.0015622247648960919,
+"his_error": "the sheet's column J (value of $100 in small caps) is =100*(1+C) every year, not cumulative, so the sheet's geometric small-cap return is wrong"
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "D121",
+"start": 1928,
+"end": 2025,
+"path": [
+"nominal",
+"3-month T.Bill",
+"arithmetic"
+],
+"value": 0.03414946014236051
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "D126",
+"start": 1928,
+"end": 2025,
+"path": [
+"nominal",
+"3-month T.Bill",
+"geometric"
+],
+"value": 0.03371627767530261
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "E121",
+"start": 1928,
+"end": 2025,
+"path": [
+"nominal",
+"US T. Bond (10-year)",
+"arithmetic"
+],
+"value": 0.04822361658701881
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "E126",
+"start": 1928,
+"end": 2025,
+"path": [
+"nominal",
+"US T. Bond (10-year)",
+"geometric"
+],
+"value": 0.045345855650651634
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "F121",
+"start": 1928,
+"end": 2025,
+"path": [
+"nominal",
+"Baa Corporate Bond",
+"arithmetic"
+],
+"value": 0.06901917641888142
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "F126",
+"start": 1928,
+"end": 2025,
+"path": [
+"nominal",
+"Baa Corporate Bond",
+"geometric"
+],
+"value": 0.06629571024862857
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "G121",
+"start": 1928,
+"end": 2025,
+"path": [
+"nominal",
+"Real Estate",
+"arithmetic"
+],
+"value": 0.043778034381844015
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "G126",
+"start": 1928,
+"end": 2025,
+"path": [
+"nominal",
+"Real Estate",
+"geometric"
+],
+"value": 0.0419795490349999
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "H121",
+"start": 1928,
+"end": 2025,
+"path": [
+"nominal",
+"Gold*",
+"arithmetic"
+],
+"value": 0.07360957346469868
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "H126",
+"start": 1928,
+"end": 2025,
+"path": [
+"nominal",
+"Gold*",
+"geometric"
+],
+"value": 0.0560913234673297
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "L122",
+"start": 1928,
+"end": 2025,
+"path": [
+"premiums",
+"Stocks - T.Bills",
+"arithmetic"
+],
+"value": 0.08439705045594673
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "M122",
+"start": 1928,
+"end": 2025,
+"path": [
+"premiums",
+"Stocks - T.Bonds",
+"arithmetic"
+],
+"value": 0.07032289401128841
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "Q122",
+"start": 1928,
+"end": 2025,
+"path": [
+"premiums",
+"Small Cap Premium (small cap - S&P 500)",
+"arithmetic"
+],
+"value": 0.05920553021801922
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "L127",
+"start": 1928,
+"end": 2025,
+"path": [
+"premiums",
+"Stocks - T.Bills",
+"geometric"
+],
+"value": 0.06646087086477781
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "M127",
+"start": 1928,
+"end": 2025,
+"path": [
+"premiums",
+"Stocks - T.Bonds",
+"geometric"
+],
+"value": 0.054831292889428784
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "Q127",
+"start": 1928,
+"end": 2025,
+"path": [
+"premiums",
+"Small Cap Premium (small cap - S&P 500)",
+"geometric"
+],
+"value": -0.09861492377518433,
+"his_error": "built on the sheet's non-cumulative small-cap column J (see the sheet's C126)"
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "V122",
+"start": 1928,
+"end": 2025,
+"path": [
+"real",
+"S&P 500 (includes dividends)",
+"arithmetic"
+],
+"value": 0.08608526564002537
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "V126",
+"start": 1928,
+"end": 2025,
+"path": [
+"real",
+"S&P 500 (includes dividends)",
+"geometric"
+],
+"value": 0.06776258429759907
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "W122",
+"start": 1928,
+"end": 2025,
+"path": [
+"real",
+"US Small cap (bottom decile)",
+"arithmetic"
+],
+"value": 0.14376314502064302
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "W126",
+"start": 1928,
+"end": 2025,
+"path": [
+"real",
+"US Small cap (bottom decile)",
+"geometric"
+],
+"value": 0.08682473066105412
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "X122",
+"start": 1928,
+"end": 2025,
+"path": [
+"real",
+"3-month T.Bill",
+"arithmetic"
+],
+"value": 0.003982703883685071
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "X126",
+"start": 1928,
+"end": 2025,
+"path": [
+"real",
+"3-month T.Bill",
+"geometric"
+],
+"value": 0.0032598527843941127
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "Y122",
+"start": 1928,
+"end": 2025,
+"path": [
+"real",
+"US T. Bond (10-year)",
+"arithmetic"
+],
+"value": 0.01833594540015657
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "Y126",
+"start": 1928,
+"end": 2025,
+"path": [
+"real",
+"US T. Bond (10-year)",
+"geometric"
+],
+"value": 0.014546788029074609
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "Z122",
+"start": 1928,
+"end": 2025,
+"path": [
+"real",
+"Baa Corporate Bond",
+"arithmetic"
+],
+"value": 0.03855947925062167
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "Z126",
+"start": 1928,
+"end": 2025,
+"path": [
+"real",
+"Baa Corporate Bond",
+"geometric"
+],
+"value": 0.03487939620574765
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "AA122",
+"start": 1928,
+"end": 2025,
+"path": [
+"real",
+"Real Estate",
+"arithmetic"
+],
+"value": 0.012503694740057627
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "AA126",
+"start": 1928,
+"end": 2025,
+"path": [
+"real",
+"Real Estate",
+"geometric"
+],
+"value": 0.011279663042670363
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "AB122",
+"start": 1928,
+"end": 2025,
+"path": [
+"real",
+"Gold*",
+"arithmetic"
+],
+"value": 0.040701806449634476
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "AB126",
+"start": 1928,
+"end": 2025,
+"path": [
+"real",
+"Gold*",
+"geometric"
+],
+"value": 0.02497566168878307
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "B122",
+"start": 1976,
+"end": 2025,
+"path": [
+"nominal",
+"S&P 500 (includes dividends)",
+"arithmetic"
+],
+"value": 0.13168705089926344
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "B127",
+"start": 1976,
+"end": 2025,
+"path": [
+"nominal",
+"S&P 500 (includes dividends)",
+"geometric"
+],
+"value": 0.11923769669423323
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "C122",
+"start": 1976,
+"end": 2025,
+"path": [
+"nominal",
+"US Small cap (bottom decile)",
+"arithmetic"
+],
+"value": 0.147852
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "C127",
+"start": 1976,
+"end": 2025,
+"path": [
+"nominal",
+"US Small cap (bottom decile)",
+"geometric"
+],
+"value": -0.006280654951724141,
+"his_error": "the sheet's column J (value of $100 in small caps) is =100*(1+C) every year, not cumulative, so the sheet's geometric small-cap return is wrong"
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "D122",
+"start": 1976,
+"end": 2025,
+"path": [
+"nominal",
+"3-month T.Bill",
+"arithmetic"
+],
+"value": 0.04369764184790777
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "D127",
+"start": 1976,
+"end": 2025,
+"path": [
+"nominal",
+"3-month T.Bill",
+"geometric"
+],
+"value": 0.04313963099264728
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "E122",
+"start": 1976,
+"end": 2025,
+"path": [
+"nominal",
+"US T. Bond (10-year)",
+"arithmetic"
+],
+"value": 0.06604721883232947
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "E127",
+"start": 1976,
+"end": 2025,
+"path": [
+"nominal",
+"US T. Bond (10-year)",
+"geometric"
+],
+"value": 0.06132098294415922
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "F122",
+"start": 1976,
+"end": 2025,
+"path": [
+"nominal",
+"Baa Corporate Bond",
+"arithmetic"
+],
+"value": 0.08859150972613422
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "F127",
+"start": 1976,
+"end": 2025,
+"path": [
+"nominal",
+"Baa Corporate Bond",
+"geometric"
+],
+"value": 0.08540765267094796
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "G122",
+"start": 1976,
+"end": 2025,
+"path": [
+"nominal",
+"Real Estate",
+"arithmetic"
+],
+"value": 0.05320546837780813
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "G127",
+"start": 1976,
+"end": 2025,
+"path": [
+"nominal",
+"Real Estate",
+"geometric"
+],
+"value": 0.05165376861504045
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "H122",
+"start": 1976,
+"end": 2025,
+"path": [
+"nominal",
+"Gold*",
+"arithmetic"
+],
+"value": 0.09379121151789956
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "H127",
+"start": 1976,
+"end": 2025,
+"path": [
+"nominal",
+"Gold*",
+"geometric"
+],
+"value": 0.07105315952240199
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "L123",
+"start": 1976,
+"end": 2025,
+"path": [
+"premiums",
+"Stocks - T.Bills",
+"arithmetic"
+],
+"value": 0.08798940905135567
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "M123",
+"start": 1976,
+"end": 2025,
+"path": [
+"premiums",
+"Stocks - T.Bonds",
+"arithmetic"
+],
+"value": 0.06563983206693397
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "Q123",
+"start": 1976,
+"end": 2025,
+"path": [
+"premiums",
+"Small Cap Premium (small cap - S&P 500)",
+"arithmetic"
+],
+"value": 0.01616494910073657
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "L128",
+"start": 1976,
+"end": 2025,
+"path": [
+"premiums",
+"Stocks - T.Bills",
+"geometric"
+],
+"value": 0.07609806570158595
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "M128",
+"start": 1976,
+"end": 2025,
+"path": [
+"premiums",
+"Stocks - T.Bonds",
+"geometric"
+],
+"value": 0.05791671375007401
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "Q128",
+"start": 1976,
+"end": 2025,
+"path": [
+"premiums",
+"Small Cap Premium (small cap - S&P 500)",
+"geometric"
+],
+"value": -0.12551835164595737,
+"his_error": "built on the sheet's non-cumulative small-cap column J (see the sheet's C126)"
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "V123",
+"start": 1976,
+"end": 2025,
+"path": [
+"real",
+"S&P 500 (includes dividends)",
+"arithmetic"
+],
+"value": 0.09265968231808355
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "V127",
+"start": 1976,
+"end": 2025,
+"path": [
+"real",
+"S&P 500 (includes dividends)",
+"geometric"
+],
+"value": 0.0804158290645487
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "W123",
+"start": 1976,
+"end": 2025,
+"path": [
+"real",
+"US Small cap (bottom decile)",
+"arithmetic"
+],
+"value": 0.10765174466729283
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "W127",
+"start": 1976,
+"end": 2025,
+"path": [
+"real",
+"US Small cap (bottom decile)",
+"geometric"
+],
+"value": 0.0823519756590585
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "X123",
+"start": 1976,
+"end": 2025,
+"path": [
+"real",
+"3-month T.Bill",
+"arithmetic"
+],
+"value": 0.007299508562515274
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "X127",
+"start": 1976,
+"end": 2025,
+"path": [
+"real",
+"3-month T.Bill",
+"geometric"
+],
+"value": 0.006957300113974441
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "Y123",
+"start": 1976,
+"end": 2025,
+"path": [
+"real",
+"US T. Bond (10-year)",
+"arithmetic"
+],
+"value": 0.029952737164556157
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "Y127",
+"start": 1976,
+"end": 2025,
+"path": [
+"real",
+"US T. Bond (10-year)",
+"geometric"
+],
+"value": 0.02450801387229906
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "Z123",
+"start": 1976,
+"end": 2025,
+"path": [
+"real",
+"Baa Corporate Bond",
+"arithmetic"
+],
+"value": 0.051644446504175254
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "Z127",
+"start": 1976,
+"end": 2025,
+"path": [
+"real",
+"Baa Corporate Bond",
+"geometric"
+],
+"value": 0.04775921361220714
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "AA123",
+"start": 1976,
+"end": 2025,
+"path": [
+"real",
+"Real Estate",
+"arithmetic"
+],
+"value": 0.016488194105856443
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "AA127",
+"start": 1976,
+"end": 2025,
+"path": [
+"real",
+"Real Estate",
+"geometric"
+],
+"value": 0.01517611644337169
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "AB123",
+"start": 1976,
+"end": 2025,
+"path": [
+"real",
+"Gold*",
+"arithmetic"
+],
+"value": 0.05426729726328434
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "AB127",
+"start": 1976,
+"end": 2025,
+"path": [
+"real",
+"Gold*",
+"geometric"
+],
+"value": 0.03390262027042268
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "B123",
+"start": 2016,
+"end": 2025,
+"path": [
+"nominal",
+"S&P 500 (includes dividends)",
+"arithmetic"
+],
+"value": 0.15748087515437395
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "B128",
+"start": 2016,
+"end": 2025,
+"path": [
+"nominal",
+"S&P 500 (includes dividends)",
+"geometric"
+],
+"value": 0.14678457455054938
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "C123",
+"start": 2016,
+"end": 2025,
+"path": [
+"nominal",
+"US Small cap (bottom decile)",
+"arithmetic"
+],
+"value": 0.09194999999999998
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "C128",
+"start": 2016,
+"end": 2025,
+"path": [
+"nominal",
+"US Small cap (bottom decile)",
+"geometric"
+],
+"value": 0.02517248815675588,
+"his_error": "the sheet's column J (value of $100 in small caps) is =100*(1+C) every year, not cumulative, so the sheet's geometric small-cap return is wrong"
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "D123",
+"start": 2016,
+"end": 2025,
+"path": [
+"nominal",
+"3-month T.Bill",
+"arithmetic"
+],
+"value": 0.02251
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "D128",
+"start": 2016,
+"end": 2025,
+"path": [
+"nominal",
+"3-month T.Bill",
+"geometric"
+],
+"value": 0.022336936808812435
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "E123",
+"start": 2016,
+"end": 2025,
+"path": [
+"nominal",
+"US T. Bond (10-year)",
+"arithmetic"
+],
+"value": 0.012237197483352105
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "E128",
+"start": 2016,
+"end": 2025,
+"path": [
+"nominal",
+"US T. Bond (10-year)",
+"geometric"
+],
+"value": 0.008918155487982471
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "F123",
+"start": 2016,
+"end": 2025,
+"path": [
+"nominal",
+"Baa Corporate Bond",
+"arithmetic"
+],
+"value": 0.04656471330835828
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "F128",
+"start": 2016,
+"end": 2025,
+"path": [
+"nominal",
+"Baa Corporate Bond",
+"geometric"
+],
+"value": 0.042909742075804225
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "G123",
+"start": 2016,
+"end": 2025,
+"path": [
+"nominal",
+"Real Estate",
+"arithmetic"
+],
+"value": 0.06587580422788837
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "G128",
+"start": 2016,
+"end": 2025,
+"path": [
+"nominal",
+"Real Estate",
+"geometric"
+],
+"value": 0.06492005561290393
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "H123",
+"start": 2016,
+"end": 2025,
+"path": [
+"nominal",
+"Gold*",
+"arithmetic"
+],
+"value": 0.1653135388030078
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "H128",
+"start": 2016,
+"end": 2025,
+"path": [
+"nominal",
+"Gold*",
+"geometric"
+],
+"value": 0.1513697999584005
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "L124",
+"start": 2016,
+"end": 2025,
+"path": [
+"premiums",
+"Stocks - T.Bills",
+"arithmetic"
+],
+"value": 0.13497087515437395
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "M124",
+"start": 2016,
+"end": 2025,
+"path": [
+"premiums",
+"Stocks - T.Bonds",
+"arithmetic"
+],
+"value": 0.14524367767102184
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "Q124",
+"start": 2016,
+"end": 2025,
+"path": [
+"premiums",
+"Small Cap Premium (small cap - S&P 500)",
+"arithmetic"
+],
+"value": -0.06553087515437397
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "L129",
+"start": 2016,
+"end": 2025,
+"path": [
+"premiums",
+"Stocks - T.Bills",
+"geometric"
+],
+"value": 0.12444763774173695
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "M129",
+"start": 2016,
+"end": 2025,
+"path": [
+"premiums",
+"Stocks - T.Bonds",
+"geometric"
+],
+"value": 0.13786641906256691
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "Q129",
+"start": 2016,
+"end": 2025,
+"path": [
+"premiums",
+"Small Cap Premium (small cap - S&P 500)",
+"geometric"
+],
+"value": -0.1216120863937935,
+"his_error": "built on the sheet's non-cumulative small-cap column J (see the sheet's C126)"
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "V124",
+"start": 2016,
+"end": 2025,
+"path": [
+"real",
+"S&P 500 (includes dividends)",
+"arithmetic"
+],
+"value": 0.12224209489716764
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "V128",
+"start": 2016,
+"end": 2025,
+"path": [
+"real",
+"S&P 500 (includes dividends)",
+"geometric"
+],
+"value": 0.11117710635233591
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "W124",
+"start": 2016,
+"end": 2025,
+"path": [
+"real",
+"US Small cap (bottom decile)",
+"arithmetic"
+],
+"value": 0.0590330423109738
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "W128",
+"start": 2016,
+"end": 2025,
+"path": [
+"real",
+"US Small cap (bottom decile)",
+"geometric"
+],
+"value": 0.04512899993869213
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "X124",
+"start": 2016,
+"end": 2025,
+"path": [
+"real",
+"3-month T.Bill",
+"arithmetic"
+],
+"value": -0.009062783346478887
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "X128",
+"start": 2016,
+"end": 2025,
+"path": [
+"real",
+"3-month T.Bill",
+"geometric"
+],
+"value": -0.00940645316444877
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "Y124",
+"start": 2016,
+"end": 2025,
+"path": [
+"real",
+"US T. Bond (10-year)",
+"arithmetic"
+],
+"value": -0.018017791170784715
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "Y128",
+"start": 2016,
+"end": 2025,
+"path": [
+"real",
+"US T. Bond (10-year)",
+"geometric"
+],
+"value": -0.022408583581749242
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "Z124",
+"start": 2016,
+"end": 2025,
+"path": [
+"real",
+"Baa Corporate Bond",
+"arithmetic"
+],
+"value": 0.015157405249884015
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "Z128",
+"start": 2016,
+"end": 2025,
+"path": [
+"real",
+"Baa Corporate Bond",
+"geometric"
+],
+"value": 0.01052756995849502
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "AA124",
+"start": 2016,
+"end": 2025,
+"path": [
+"real",
+"Real Estate",
+"arithmetic"
+],
+"value": 0.03251280474583178
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "AA128",
+"start": 2016,
+"end": 2025,
+"path": [
+"real",
+"Real Estate",
+"geometric"
+],
+"value": 0.0318544669614893
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "AB124",
+"start": 2016,
+"end": 2025,
+"path": [
+"real",
+"Gold*",
+"arithmetic"
+],
+"value": 0.13054596852655131
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "AB128",
+"start": 2016,
+"end": 2025,
+"path": [
+"real",
+"Gold*",
+"geometric"
+],
+"value": 0.1156199612823181
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "N122",
+"start": 1928,
+"end": 2025,
+"path": [
+"premiums",
+"Stocks - T.Bills",
+"std_error"
+],
+"value": 0.020006045480970704,
+"his_error": "the sheet's formula is STDEV of 98 years (1928-2025) divided by sqrt(97)"
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "O122",
+"start": 1928,
+"end": 2024,
+"path": [
+"premiums",
+"Stocks - T.Bonds",
+"std_error"
+],
+"value": 0.021243404039561403
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "R122",
+"start": 1928,
+"end": 2025,
+"path": [
+"premiums",
+"Small Cap Premium (small cap - S&P 500)",
+"std_error"
+],
+"value": 0.027902960698906135,
+"his_error": "the sheet's formula is STDEV of 98 years (1928-2025) divided by sqrt(97)"
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "N123",
+"start": 1975,
+"end": 2024,
+"path": [
+"premiums",
+"Stocks - T.Bills",
+"std_error"
+],
+"value": 0.023013399602414136
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "O123",
+"start": 1975,
+"end": 2024,
+"path": [
+"premiums",
+"Stocks - T.Bonds",
+"std_error"
+],
+"value": 0.02673558996452267
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "R123",
+"start": 1975,
+"end": 2024,
+"path": [
+"premiums",
+"Small Cap Premium (small cap - S&P 500)",
+"std_error"
+],
+"value": 0.027623454522685373
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "N124",
+"start": 2015,
+"end": 2024,
+"path": [
+"premiums",
+"Stocks - T.Bills",
+"std_error"
+],
+"value": 0.050359055344274546
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "O124",
+"start": 2015,
+"end": 2024,
+"path": [
+"premiums",
+"Stocks - T.Bonds",
+"std_error"
+],
+"value": 0.04010234528260873
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "R124",
+"start": 2015,
+"end": 2024,
+"path": [
+"premiums",
+"Small Cap Premium (small cap - S&P 500)",
+"std_error"
+],
+"value": 0.03580024072984586
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "AH123",
+"start": 1929,
+"end": 2025,
+"path": [
+"real_premiums",
+"Stocks - T.Bills",
+"std_error"
+],
+"value": 0.019417538803082997,
+"his_error": "the sheet's formula is STDEV of 97 years (1929-2025) divided by sqrt(98)"
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "AI123",
+"start": 1929,
+"end": 2025,
+"path": [
+"real_premiums",
+"Stocks - T.Bonds",
+"std_error"
+],
+"value": 0.020459200471776354,
+"his_error": "the sheet's formula is STDEV of 97 years (1929-2025) divided by sqrt(98)"
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "AH124",
+"start": 1976,
+"end": 2025,
+"path": [
+"real_premiums",
+"Stocks - T.Bills",
+"std_error"
+],
+"value": 0.02192437258590837
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "AI124",
+"start": 1976,
+"end": 2025,
+"path": [
+"real_premiums",
+"Stocks - T.Bonds",
+"std_error"
+],
+"value": 0.025445638312477054
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "AH125",
+"start": 2016,
+"end": 2025,
+"path": [
+"real_premiums",
+"Stocks - T.Bills",
+"std_error"
+],
+"value": 0.046760654974350925
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "AI125",
+"start": 2016,
+"end": 2025,
+"path": [
+"real_premiums",
+"Stocks - T.Bonds",
+"std_error"
+],
+"value": 0.035861148950711075
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "T53",
+"start": 1928,
+"end": 1960,
+"path": [
+"premiums",
+"Stocks - T.Bonds",
+"geometric"
+],
+"value": 0.061119788031217315
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "T73",
+"start": 1928,
+"end": 1980,
+"path": [
+"premiums",
+"Stocks - T.Bonds",
+"geometric"
+],
+"value": 0.05731870525758964
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "T93",
+"start": 1928,
+"end": 2000,
+"path": [
+"premiums",
+"Stocks - T.Bonds",
+"geometric"
+],
+"value": 0.055111895842923087
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "T101",
+"start": 1928,
+"end": 2008,
+"path": [
+"premiums",
+"Stocks - T.Bonds",
+"geometric"
+],
+"value": 0.0387958688686898
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "T113",
+"start": 1928,
+"end": 2020,
+"path": [
+"premiums",
+"Stocks - T.Bonds",
+"geometric"
+],
+"value": 0.0484426634144246
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "T118",
+"start": 1928,
+"end": 2025,
+"path": [
+"premiums",
+"Stocks - T.Bonds",
+"geometric"
+],
+"value": 0.054831292889428784
+},
+{
+"kind": "period",
+"file": "histretSP.xlsx",
+"cell": "E17",
+"start": 1928,
+"end": 2025,
+"path": [
+"premiums",
+"Stocks - T.Bonds",
+"geometric"
+],
+"value": 0.054831292889428784
+},
+{
+"kind": "table",
+"file": "histimpl.xlsx",
+"cell": "K29",
+"table": "implied_erp",
+"key": 1981,
+"column": "T.Bond Rate",
+"value": 0.1398
+},
+{
+"kind": "table",
+"file": "histimpl.xlsx",
+"cell": "F17",
+"table": "implied_erp",
+"key": 1969,
+"column": "Dividends*",
+"value": 3.2405120000000003
+},
+{
+"kind": "table",
+"file": "histimpl.xlsx",
+"cell": "M64",
+"table": "implied_erp",
+"key": 2016,
+"column": "Smoothed Growth",
+"value": 0.02642645669281276
+},
+{
+"kind": "table",
+"file": "histimpl.xlsx",
+"cell": "L38",
+"table": "implied_erp",
+"key": 1990,
+"column": "Bond-Bill",
+"value": 0.002599999999999991
+},
+{
+"kind": "table",
+"file": "histimpl.xlsx",
+"cell": "I38",
+"table": "implied_erp",
+"key": 1990,
+"column": "Change in Dividends",
+"value": 0.052616919290063624
+},
+{
+"kind": "table",
+"file": "histimpl.xlsx",
+"cell": "H42",
+"table": "implied_erp",
+"key": 1994,
+"column": "Change in Earnings",
+"value": 0.1802973977695168
+},
+{
+"kind": "table",
+"file": "histimpl.xlsx",
+"cell": "L11",
+"table": "implied_erp",
+"key": 1963,
+"column": "Bond-Bill",
+"value": 0.0102
+},
+{
+"kind": "table",
+"file": "histimpl.xlsx",
+"cell": "L10",
+"table": "implied_erp",
+"key": 1962,
+"column": "Bond-Bill",
+"value": 0.011199999999999998
+},
+{
+"kind": "implied_avg",
+"file": "histimpl.xlsx",
+"cell": "C78",
+"start": 1960,
+"end": 2025,
+"field": "Implied ERP (FCFE)",
+"value": 0.042476923076923086
+},
+{
+"kind": "implied_avg",
+"file": "histimpl.xlsx",
+"cell": "D78",
+"start": 1960,
+"end": 2025,
+"field": "ERP + Riskfree Rate",
+"value": 0.09926769230769233
+},
+{
+"kind": "implied_avg",
+"file": "histimpl.xlsx",
+"cell": "C79",
+"start": 2006,
+"end": 2025,
+"field": "Implied ERP (FCFE)",
+"value": 0.05158
+},
+{
+"kind": "implied_avg",
+"file": "histimpl.xlsx",
+"cell": "D79",
+"start": 2006,
+"end": 2025,
+"field": "ERP + Riskfree Rate",
+"value": 0.08038000000000001
+},
+{
+"kind": "implied_avg",
+"file": "histimpl.xlsx",
+"cell": "C80",
+"start": 2016,
+"end": 2025,
+"field": "Implied ERP (FCFE)",
+"value": 0.04999
+},
+{
+"kind": "implied_avg",
+"file": "histimpl.xlsx",
+"cell": "D80",
+"start": 2016,
+"end": 2025,
+"field": "ERP + Riskfree Rate",
+"value": 0.07841000000000001
+},
+{
+"kind": "table",
+"file": "histimpl.xlsx",
+"cell": "C81",
+"table": "implied_erp",
+"key": 2024,
+"column": "Implied ERP (FCFE)",
+"value": 0.0433
+},
+{
+"kind": "table",
+"file": "histimpl.xlsx",
+"cell": "D81",
+"table": "implied_erp",
+"key": 2024,
+"column": "Implied ERP (FCFE)",
+"value": 0.0423,
+"his_error": "the sheet's =C82+K72 adds the ERP in C82 to the T.Bond rate of row 72 (should be C81 + K72)"
+},
+{
+"kind": "table",
+"file": "histimpl.xlsx",
+"cell": "C82",
+"table": "implied_erp",
+"key": 2025,
+"column": "Implied ERP (FCFE)",
+"value": 0.0423
+},
+{
+"kind": "table",
+"file": "histimpl.xlsx",
+"cell": "D82",
+"table": "implied_erp",
+"key": 2025,
+"column": "Implied ERP (FCFE)",
+"value": 0.0423
+},
+{
+"kind": "table",
+"file": "ERPbymonth.xlsx",
+"cell": "L218",
+"table": "erp_monthly",
+"key": "2026-09",
+"column": "ERP (Smoothed)",
+"value": 0.0605
+},
+{
+"kind": "table",
+"file": "ERPbymonth.xlsx",
+"cell": "B183",
+"table": "erp_monthly",
+"key": "2023-10",
+"column": "S&P 500",
+"value": 4288
+},
+{
+"kind": "table",
+"file": "ERPbymonth.xlsx",
+"cell": "B31",
+"table": "erp_monthly",
+"key": "2011-02",
+"column": "S&P 500",
+"value": 1286
+},
+{
+"kind": "table",
+"file": "ERPbymonth.xlsx",
+"cell": "B90",
+"table": "erp_monthly",
+"key": "2016-01",
+"column": "S&P 500",
+"value": 2044
+},
+{
+"kind": "table",
+"file": "ERPbymonth.xlsx",
+"cell": "M134",
+"table": "erp_monthly",
+"key": "2019-09",
+"column": "ERP (Normalized)",
+"value": 0.0368
+},
+{
+"kind": "table",
+"file": "ERPbymonth.xlsx",
+"cell": "J112",
+"table": "erp_monthly",
+"key": "2017-11",
+"column": "ERP (T12m)",
+"value": 0.0481
+},
+{
+"kind": "table",
+"file": "ERPbymonth.xlsx",
+"cell": "I137",
+"table": "erp_monthly",
+"key": "2019-12",
+"column": "ERP (T12 m with sustainable payout)",
+"value": 0.0489
+},
+{
+"kind": "table",
+"file": "ERPbymonth.xlsx",
+"cell": "H88",
+"table": "erp_monthly",
+"key": "2015-11",
+"column": "Expected growth rate",
+"value": 0.0629
+},
+{
+"kind": "company",
+"file": "indname.xlsx",
+"cell": "row 45483",
+"company": "Software Effective Solutions Corp. (OTCPK:SFWJ)",
+"field": "industry",
+"value": "Software (System & Application)"
+},
+{
+"kind": "company",
+"file": "indname.xlsx",
+"cell": "row 45483",
+"company": "Software Effective Solutions Corp. (OTCPK:SFWJ)",
+"field": "country",
+"value": "Philippines"
+},
+{
+"kind": "company",
+"file": "indname.xlsx",
+"cell": "row 45483",
+"company": "Software Effective Solutions Corp. (OTCPK:SFWJ)",
+"field": "sub_group",
+"value": "Small Asia"
+},
+{
+"kind": "company",
+"file": "indname.xlsx",
+"cell": "row 13240",
+"company": "Biofil Chemicals and Pharmaceuticals Limited (BSE:524396)",
+"field": "industry",
+"value": "Drugs (Pharmaceutical)"
+},
+{
+"kind": "company",
+"file": "indname.xlsx",
+"cell": "row 13240",
+"company": "Biofil Chemicals and Pharmaceuticals Limited (BSE:524396)",
+"field": "country",
+"value": "India"
+},
+{
+"kind": "company",
+"file": "indname.xlsx",
+"cell": "row 13240",
+"company": "Biofil Chemicals and Pharmaceuticals Limited (BSE:524396)",
+"field": "sub_group",
+"value": "India"
+},
+{
+"kind": "company",
+"file": "indname.xlsx",
+"cell": "row 1537",
+"company": "NAK Stoffe AG (HMSE:NAK)",
+"field": "industry",
+"value": "Apparel"
+},
+{
+"kind": "company",
+"file": "indname.xlsx",
+"cell": "row 1537",
+"company": "NAK Stoffe AG (HMSE:NAK)",
+"field": "country",
+"value": "Germany"
+},
+{
+"kind": "company",
+"file": "indname.xlsx",
+"cell": "row 1537",
+"company": "NAK Stoffe AG (HMSE:NAK)",
+"field": "sub_group",
+"value": "EU & Environs"
+},
+{
+"kind": "company",
+"file": "indname.xlsx",
+"cell": "row 28660",
+"company": "National Securities Depository Limited (BSE:544467)",
+"field": "industry",
+"value": "Investments & Asset Management"
+},
+{
+"kind": "company",
+"file": "indname.xlsx",
+"cell": "row 28660",
+"company": "National Securities Depository Limited (BSE:544467)",
+"field": "country",
+"value": "India"
+},
+{
+"kind": "company",
+"file": "indname.xlsx",
+"cell": "row 28660",
+"company": "National Securities Depository Limited (BSE:544467)",
+"field": "sub_group",
+"value": "India"
+},
+{
+"kind": "company",
+"file": "indname.xlsx",
+"cell": "row 25312",
+"company": "Media Lab S.p.A. (ENXTPA:MLLAB)",
+"field": "industry",
+"value": "Heathcare Information and Technology"
+},
+{
+"kind": "company",
+"file": "indname.xlsx",
+"cell": "row 25312",
+"company": "Media Lab S.p.A. (ENXTPA:MLLAB)",
+"field": "country",
+"value": "Italy"
+},
+{
+"kind": "company",
+"file": "indname.xlsx",
+"cell": "row 25312",
+"company": "Media Lab S.p.A. (ENXTPA:MLLAB)",
+"field": "sub_group",
+"value": "EU & Environs"
+},
+{
+"kind": "company",
+"file": "indname.xlsx",
+"cell": "row 8107",
+"company": "ASTech Co., Ltd. (KOSDAQ:A453860)",
+"field": "industry",
+"value": "Chemical (Specialty)"
+},
+{
+"kind": "company",
+"file": "indname.xlsx",
+"cell": "row 8107",
+"company": "ASTech Co., Ltd. (KOSDAQ:A453860)",
+"field": "country",
+"value": "South Korea"
+},
+{
+"kind": "company",
+"file": "indname.xlsx",
+"cell": "row 8107",
+"company": "ASTech Co., Ltd. (KOSDAQ:A453860)",
+"field": "sub_group",
+"value": "Small Asia"
+}
+]

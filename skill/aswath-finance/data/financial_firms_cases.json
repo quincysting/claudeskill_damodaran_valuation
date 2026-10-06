@@ -1,0 +1,2565 @@
+[
+ {
+  "name": "CitiVal2023 (source file)",
+  "inputs": {
+   "model": "bank_fcfe",
+   "template": "CitiVal2023",
+   "tier1_capital": 169145,
+   "book_equity": 182194,
+   "risk_adjusted_assets": 1142985,
+   "net_income": 14845,
+   "asset_growth": 0.03,
+   "target_tier1_ratio": 0.15,
+   "target_roe": 0.095,
+   "stable_growth": 0.03,
+   "shares_outstanding": 1958.3,
+   "price": 46.32,
+   "cost_of_equity": 0.1167,
+   "stable_cost_of_equity": 0.1167,
+   "failure_probability": 0
+  },
+  "expected": {
+   "value_per_share": 68.58414580149062,
+   "value_per_share_adjusted": 68.58414580149062
+  }
+ },
+ {
+  "name": "CitiVal2023 branch: failure 10%",
+  "inputs": {
+   "model": "bank_fcfe",
+   "template": "CitiVal2023",
+   "tier1_capital": 169145,
+   "book_equity": 182194,
+   "risk_adjusted_assets": 1142985,
+   "net_income": 14845,
+   "asset_growth": 0.03,
+   "target_tier1_ratio": 0.15,
+   "target_roe": 0.095,
+   "stable_growth": 0.03,
+   "shares_outstanding": 1958.3,
+   "price": 46.32,
+   "cost_of_equity": 0.1167,
+   "stable_cost_of_equity": 0.1167,
+   "failure_probability": 0.1
+  },
+  "expected": {
+   "value_per_share": 68.58414580149062,
+   "value_per_share_adjusted": 61.72573122134156
+  }
+ },
+ {
+  "name": "CitiVal2023 branch: stable ke 10%, g 2%",
+  "inputs": {
+   "model": "bank_fcfe",
+   "template": "CitiVal2023",
+   "tier1_capital": 169145,
+   "book_equity": 182194,
+   "risk_adjusted_assets": 1142985,
+   "net_income": 14845,
+   "asset_growth": 0.03,
+   "target_tier1_ratio": 0.15,
+   "target_roe": 0.095,
+   "stable_growth": 0.02,
+   "shares_outstanding": 1958.3,
+   "price": 46.32,
+   "cost_of_equity": 0.1167,
+   "stable_cost_of_equity": 0.1,
+   "failure_probability": 0
+  },
+  "expected": {
+   "value_per_share": 80.28024008334283,
+   "value_per_share_adjusted": 80.28024008334283
+  }
+ },
+ {
+  "name": "CitiVal2023 branch: asset growth 6%, Tier1 18%, ROE 12%",
+  "inputs": {
+   "model": "bank_fcfe",
+   "template": "CitiVal2023",
+   "tier1_capital": 169145,
+   "book_equity": 182194,
+   "risk_adjusted_assets": 1142985,
+   "net_income": 14845,
+   "asset_growth": 0.06,
+   "target_tier1_ratio": 0.18,
+   "target_roe": 0.12,
+   "stable_growth": 0.03,
+   "shares_outstanding": 1958.3,
+   "price": 46.32,
+   "cost_of_equity": 0.1167,
+   "stable_cost_of_equity": 0.1167,
+   "failure_probability": 0
+  },
+  "expected": {
+   "value_per_share": 92.31115412659614,
+   "value_per_share_adjusted": 92.31115412659614
+  }
+ },
+ {
+  "name": "DeutscheBank2016 (source file)",
+  "inputs": {
+   "model": "bank_fcfe",
+   "template": "DeutscheBank2016",
+   "tier1_capital": 65282.0,
+   "tier1_capital_adjustment": -10000.0,
+   "book_equity": 74609.0,
+   "risk_adjusted_assets": 445570.0,
+   "net_income": -8851.0,
+   "asset_growth": 0.01,
+   "tier1_ratio_next_year": 0.1374,
+   "target_tier1_ratio": 0.1567,
+   "target_roe": 0.0585,
+   "target_roe_10": 0.0944,
+   "stable_growth": 0.01,
+   "cost_of_equity": 0.102,
+   "stable_cost_of_equity": 0.0944,
+   "price": 13.33,
+   "shares_outstanding": 1386.0,
+   "failure_probability": 0.1
+  },
+  "expected": {
+   "value_per_share": 22.971673268318145,
+   "value_per_share_adjusted": 20.67450594148633
+  }
+ },
+ {
+  "name": "DeutscheBank2016 branch: DOJ fine 14bn, median risk",
+  "inputs": {
+   "model": "bank_fcfe",
+   "template": "DeutscheBank2016",
+   "tier1_capital": 65282,
+   "tier1_capital_adjustment": -14000,
+   "book_equity": 74609,
+   "risk_adjusted_assets": 445570,
+   "net_income": -8851,
+   "asset_growth": 0.01,
+   "tier1_ratio_next_year": 0.1374,
+   "target_tier1_ratio": 0.1567,
+   "target_roe": 0.0585,
+   "target_roe_10": 0.0944,
+   "stable_growth": 0.01,
+   "cost_of_equity": 0.0943,
+   "stable_cost_of_equity": 0.0944,
+   "price": 13.33,
+   "shares_outstanding": 1386,
+   "failure_probability": 0.1
+  },
+  "expected": {
+   "value_per_share": 21.248526252483142,
+   "value_per_share_adjusted": 19.12367362723483
+  }
+ },
+ {
+  "name": "DeutscheBank2016 branch: median Tier1 target and ROE",
+  "inputs": {
+   "model": "bank_fcfe",
+   "template": "DeutscheBank2016",
+   "tier1_capital": 65282,
+   "tier1_capital_adjustment": -10000,
+   "book_equity": 74609,
+   "risk_adjusted_assets": 445570,
+   "net_income": -8851,
+   "asset_growth": 0.01,
+   "tier1_ratio_next_year": 0.1374,
+   "target_tier1_ratio": 0.1296,
+   "target_roe": 0.0585,
+   "target_roe_10": 0.0991,
+   "stable_growth": 0.01,
+   "cost_of_equity": 0.102,
+   "stable_cost_of_equity": 0.0944,
+   "price": 13.33,
+   "shares_outstanding": 1386,
+   "failure_probability": 0.1
+  },
+  "expected": {
+   "value_per_share": 24.664654502006485,
+   "value_per_share_adjusted": 22.198189051805837
+  }
+ },
+ {
+  "name": "DeutscheBank2016 branch: no wipeout, 2% growth",
+  "inputs": {
+   "model": "bank_fcfe",
+   "template": "DeutscheBank2016",
+   "tier1_capital": 65282,
+   "tier1_capital_adjustment": -10000,
+   "book_equity": 74609,
+   "risk_adjusted_assets": 445570,
+   "net_income": -8851,
+   "asset_growth": 0.02,
+   "tier1_ratio_next_year": 0.1374,
+   "target_tier1_ratio": 0.1567,
+   "target_roe": 0.0585,
+   "target_roe_10": 0.0944,
+   "stable_growth": 0.02,
+   "cost_of_equity": 0.102,
+   "stable_cost_of_equity": 0.0944,
+   "price": 13.33,
+   "shares_outstanding": 1386,
+   "failure_probability": 0
+  },
+  "expected": {
+   "value_per_share": 22.983668897780056,
+   "value_per_share_adjusted": 22.983668897780056
+  }
+ },
+ {
+  "name": "eqexret (source file)",
+  "inputs": {
+   "model": "excess_return",
+   "net_income": 4791.0,
+   "book_equity": 17997.0,
+   "book_equity_last_year": 15518.0,
+   "eps": 4.75,
+   "dps": 0.92,
+   "shares_outstanding": 1120.713,
+   "beta": 1.15,
+   "riskfree_rate": 0.05,
+   "erp": 0.04,
+   "years": 10,
+   "stable_growth": 0.05,
+   "gradual": true,
+   "roe_high": 0.25,
+   "retention_high": 0.8063157894736842,
+   "roe_stable": 0.15,
+   "beta_stable": 1.1,
+   "erp_stable": 0.04
+  },
+  "expected": {
+   "value_per_share": 74.94403890048454
+  }
+ },
+ {
+  "name": "eqexret branch: normalized: average net income",
+  "inputs": {
+   "model": "excess_return",
+   "net_income": 4791,
+   "book_equity": 17997,
+   "book_equity_last_year": 15518,
+   "eps": 4.75,
+   "dps": 0.92,
+   "shares_outstanding": 1120.713,
+   "beta": 1.15,
+   "riskfree_rate": 0.05,
+   "erp": 0.04,
+   "years": 10,
+   "stable_growth": 0.05,
+   "gradual": true,
+   "normalize_earnings": {
+    "approach": 1,
+    "net_income_history": [
+     1662,
+     2533,
+     1876,
+     1933,
+     2122
+    ]
+   },
+   "roe_high": 0.25,
+   "retention_high": 0.8063157894736842,
+   "roe_stable": 0.15,
+   "beta_stable": 1.1,
+   "erp_stable": 0.04
+  },
+  "expected": {
+   "value_per_share": 74.94403890048454
+  }
+ },
+ {
+  "name": "eqexret branch: normalized: ROE",
+  "inputs": {
+   "model": "excess_return",
+   "net_income": 4791,
+   "book_equity": 17997,
+   "book_equity_last_year": 15518,
+   "eps": 4.75,
+   "dps": 0.92,
+   "shares_outstanding": 1120.713,
+   "beta": 1.15,
+   "riskfree_rate": 0.05,
+   "erp": 0.04,
+   "years": 10,
+   "stable_growth": 0.05,
+   "gradual": true,
+   "normalize_earnings": {
+    "approach": 2,
+    "roe": 0.22
+   },
+   "roe_high": 0.25,
+   "retention_high": 0.8063157894736842,
+   "roe_stable": 0.15,
+   "beta_stable": 1.1,
+   "erp_stable": 0.04
+  },
+  "expected": {
+   "value_per_share": 74.94403890048454
+  }
+ },
+ {
+  "name": "eqexret branch: no high/stable overrides",
+  "inputs": {
+   "model": "excess_return",
+   "net_income": 4791,
+   "book_equity": 17997,
+   "book_equity_last_year": 15518,
+   "eps": 4.75,
+   "dps": 0.92,
+   "shares_outstanding": 1120.713,
+   "beta": 1.15,
+   "riskfree_rate": 0.05,
+   "erp": 0.04,
+   "years": 10,
+   "stable_growth": 0.05,
+   "gradual": true,
+   "beta_stable": 1.1,
+   "erp_stable": 0.04
+  },
+  "expected": {
+   "value_per_share": 246.06703795831498
+  }
+ },
+ {
+  "name": "eqexret branch: no gradual, payout 50%, beta unchanged",
+  "inputs": {
+   "model": "excess_return",
+   "net_income": 4791,
+   "book_equity": 17997,
+   "book_equity_last_year": 15518,
+   "eps": 4.75,
+   "dps": 0.92,
+   "shares_outstanding": 1120.713,
+   "beta": 1.15,
+   "riskfree_rate": 0.05,
+   "erp": 0.04,
+   "years": 10,
+   "stable_growth": 0.05,
+   "gradual": false,
+   "roe_high": 0.25,
+   "retention_high": 0.8063157894736842,
+   "roe_stable": 0.15,
+   "stable_payout": 0.5
+  },
+  "expected": {
+   "value_per_share": 92.71653928877467
+  }
+ },
+ {
+  "name": "eqexret branch: 5 years",
+  "inputs": {
+   "model": "excess_return",
+   "net_income": 4791,
+   "book_equity": 17997,
+   "book_equity_last_year": 15518,
+   "eps": 4.75,
+   "dps": 0.92,
+   "shares_outstanding": 1120.713,
+   "beta": 1.15,
+   "riskfree_rate": 0.05,
+   "erp": 0.04,
+   "years": 5,
+   "stable_growth": 0.05,
+   "gradual": true,
+   "roe_high": 0.25,
+   "retention_high": 0.8063157894736842,
+   "roe_stable": 0.15,
+   "beta_stable": 1.1,
+   "erp_stable": 0.04
+  },
+  "expected": {
+   "value_per_share": 51.138183725778866
+  }
+ },
+ {
+  "name": "eqexret branch: 7 years",
+  "inputs": {
+   "model": "excess_return",
+   "net_income": 4791,
+   "book_equity": 17997,
+   "book_equity_last_year": 15518,
+   "eps": 4.75,
+   "dps": 0.92,
+   "shares_outstanding": 1120.713,
+   "beta": 1.15,
+   "riskfree_rate": 0.05,
+   "erp": 0.04,
+   "years": 7,
+   "stable_growth": 0.05,
+   "gradual": true,
+   "roe_high": 0.25,
+   "retention_high": 0.8063157894736842,
+   "roe_stable": 0.15,
+   "beta_stable": 1.1,
+   "erp_stable": 0.04
+  },
+  "expected": {
+   "value_per_share": 59.662449618378645
+  }
+ },
+ {
+  "name": "divginzu (source file)",
+  "inputs": {
+   "model": "ddm",
+   "book_equity_last_year": 292332.0,
+   "net_income": 49552.0,
+   "dividends": 13463.0,
+   "shares_outstanding": 2908.3,
+   "price": 198.06,
+   "beta": 1.06,
+   "riskfree_rate": 0.045,
+   "erp": 0.05048256515320995,
+   "years": 10,
+   "gradual": true,
+   "roe_high": 0.15,
+   "retention_high": 0.7283056183403294,
+   "roe_stable": 0.12
+  },
+  "expected": {
+   "value_per_share": 231.16078301658587,
+   "value_assets_in_place": 172.9557355765722,
+   "value_stable_growth": 35.000052554056055,
+   "value_extraordinary_growth": 23.204994885957603
+  }
+ },
+ {
+  "name": "divginzu branch: direct growth 8%",
+  "inputs": {
+   "model": "ddm",
+   "book_equity_last_year": 292332,
+   "net_income": 49552,
+   "dividends": 13463,
+   "shares_outstanding": 2908.3,
+   "price": 198.06,
+   "beta": 1.06,
+   "riskfree_rate": 0.045,
+   "erp": 0.050482565153209945,
+   "years": 10,
+   "gradual": true,
+   "roe_high": 0.15,
+   "retention_high": 0.7283056183403294,
+   "roe_stable": 0.12,
+   "growth": 0.08
+  },
+  "expected": {
+   "value_per_share": 199.09690763036633,
+   "value_assets_in_place": 172.9557355765722,
+   "value_stable_growth": 35.000052554056055,
+   "value_extraordinary_growth": -8.858880500261932
+  }
+ },
+ {
+  "name": "divginzu branch: no high/stable overrides",
+  "inputs": {
+   "model": "ddm",
+   "book_equity_last_year": 292332,
+   "net_income": 49552,
+   "dividends": 13463,
+   "shares_outstanding": 2908.3,
+   "price": 198.06,
+   "beta": 1.06,
+   "riskfree_rate": 0.045,
+   "erp": 0.050482565153209945,
+   "years": 10,
+   "gradual": true
+  },
+  "expected": {
+   "value_per_share": 286.3876320217225,
+   "value_assets_in_place": 172.9557355765722,
+   "value_stable_growth": 71.44140029484413,
+   "value_extraordinary_growth": 41.99049615030614
+  }
+ },
+ {
+  "name": "divginzu branch: no gradual",
+  "inputs": {
+   "model": "ddm",
+   "book_equity_last_year": 292332,
+   "net_income": 49552,
+   "dividends": 13463,
+   "shares_outstanding": 2908.3,
+   "price": 198.06,
+   "beta": 1.06,
+   "riskfree_rate": 0.045,
+   "erp": 0.050482565153209945,
+   "years": 10,
+   "gradual": false,
+   "roe_high": 0.15,
+   "retention_high": 0.7283056183403294,
+   "roe_stable": 0.12
+  },
+  "expected": {
+   "value_per_share": 250.6638100172996,
+   "value_assets_in_place": 172.9557355765722,
+   "value_stable_growth": 35.000052554056055,
+   "value_extraordinary_growth": 42.70802188667133
+  }
+ },
+ {
+  "name": "divginzu branch: g 3%, payout 55%, beta 0.9",
+  "inputs": {
+   "model": "ddm",
+   "book_equity_last_year": 292332,
+   "net_income": 49552,
+   "dividends": 13463,
+   "shares_outstanding": 2908.3,
+   "price": 198.06,
+   "beta": 1.06,
+   "riskfree_rate": 0.045,
+   "erp": 0.050482565153209945,
+   "years": 10,
+   "gradual": true,
+   "roe_high": 0.15,
+   "retention_high": 0.7283056183403294,
+   "roe_stable": 0.12,
+   "stable_growth": 0.03,
+   "stable_payout": 0.55,
+   "beta_stable": 0.9
+  },
+  "expected": {
+   "value_per_share": 184.62087131156284,
+   "value_assets_in_place": 188.4034112587326,
+   "value_stable_growth": -28.69111980121329,
+   "value_extraordinary_growth": 24.908579854043523
+  }
+ },
+ {
+  "name": "divginzu branch: 15 years",
+  "inputs": {
+   "model": "ddm",
+   "book_equity_last_year": 292332,
+   "net_income": 49552,
+   "dividends": 13463,
+   "shares_outstanding": 2908.3,
+   "price": 198.06,
+   "beta": 1.06,
+   "riskfree_rate": 0.045,
+   "erp": 0.050482565153209945,
+   "years": 15,
+   "gradual": true,
+   "roe_high": 0.15,
+   "retention_high": 0.7283056183403294,
+   "roe_stable": 0.12
+  },
+  "expected": {
+   "value_per_share": 255.44991885847043,
+   "value_assets_in_place": 172.9557355765722,
+   "value_stable_growth": 35.000052554056055,
+   "value_extraordinary_growth": 47.49413072784216
+  }
+ },
+ {
+  "name": "divginzu branch: 5 years",
+  "inputs": {
+   "model": "ddm",
+   "book_equity_last_year": 292332,
+   "net_income": 49552,
+   "dividends": 13463,
+   "shares_outstanding": 2908.3,
+   "price": 198.06,
+   "beta": 1.06,
+   "riskfree_rate": 0.045,
+   "erp": 0.050482565153209945,
+   "years": 5,
+   "gradual": true,
+   "roe_high": 0.15,
+   "retention_high": 0.7283056183403294,
+   "roe_stable": 0.12
+  },
+  "expected": {
+   "value_per_share": 207.14818837275095,
+   "value_assets_in_place": 172.9557355765722,
+   "value_stable_growth": 35.000052554056055,
+   "value_extraordinary_growth": -0.8075997578773126
+  }
+ },
+ {
+  "name": "divginzu branch: 7 years",
+  "inputs": {
+   "model": "ddm",
+   "book_equity_last_year": 292332,
+   "net_income": 49552,
+   "dividends": 13463,
+   "shares_outstanding": 2908.3,
+   "price": 198.06,
+   "beta": 1.06,
+   "riskfree_rate": 0.045,
+   "erp": 0.050482565153209945,
+   "years": 7,
+   "gradual": true,
+   "roe_high": 0.15,
+   "retention_high": 0.7283056183403294,
+   "roe_stable": 0.12
+  },
+  "expected": {
+   "value_per_share": 216.62829112698566,
+   "value_assets_in_place": 172.9557355765722,
+   "value_stable_growth": 35.000052554056055,
+   "value_extraordinary_growth": 8.672502996357395
+  }
+ },
+ {
+  "name": "fcfeginzu (source file)",
+  "inputs": {
+   "model": "fcfe",
+   "net_income": 249.6,
+   "interest_income_after_tax": 20.008000000000003,
+   "book_equity": 2046.4,
+   "book_equity_last_year": 1903.7,
+   "cash": 398.8,
+   "cash_last_year": 500.20000000000005,
+   "market_cap": 8670.0,
+   "shares_outstanding": 398.03,
+   "capex": 315.5,
+   "depreciation": 255.5,
+   "change_wc": 105.99999999999932,
+   "net_debt_issued": 34.700000000000045,
+   "beta": 1.03,
+   "riskfree_rate": 0.045,
+   "erp": 0.049088658672710644,
+   "years": 10,
+   "stable_growth": 0.04,
+   "gradual": true,
+   "normalize_earnings": {
+    "approach": 1,
+    "net_income_history": [
+     553.54,
+     569.1,
+     249.6
+    ]
+   },
+   "roe_stable": 0.1
+  },
+  "expected": {
+   "value_per_share": 18.92386570536663
+  }
+ },
+ {
+  "name": "fcfeginzu branch: reported earnings",
+  "inputs": {
+   "model": "fcfe",
+   "net_income": 249.6,
+   "interest_income_after_tax": 20.008000000000003,
+   "book_equity": 2046.4,
+   "book_equity_last_year": 1903.7,
+   "cash": 398.8,
+   "cash_last_year": 500.20000000000005,
+   "market_cap": 8670,
+   "shares_outstanding": 398.03,
+   "capex": 315.5,
+   "depreciation": 255.5,
+   "change_wc": 105.99999999999932,
+   "net_debt_issued": 34.700000000000045,
+   "beta": 1.03,
+   "riskfree_rate": 0.045,
+   "erp": 0.04908865867271064,
+   "years": 10,
+   "stable_growth": 0.04,
+   "gradual": true,
+   "roe_stable": 0.1,
+   "replicate_sheet_bugs": true
+  },
+  "expected": {
+   "value_per_share": 9.317540685298022
+  }
+ },
+ {
+  "name": "fcfeginzu branch: normalized ROE",
+  "inputs": {
+   "model": "fcfe",
+   "net_income": 249.6,
+   "interest_income_after_tax": 20.008000000000003,
+   "book_equity": 2046.4,
+   "book_equity_last_year": 1903.7,
+   "cash": 398.8,
+   "cash_last_year": 500.20000000000005,
+   "market_cap": 8670,
+   "shares_outstanding": 398.03,
+   "capex": 315.5,
+   "depreciation": 255.5,
+   "change_wc": 105.99999999999932,
+   "net_debt_issued": 34.700000000000045,
+   "beta": 1.03,
+   "riskfree_rate": 0.045,
+   "erp": 0.04908865867271064,
+   "years": 10,
+   "stable_growth": 0.04,
+   "gradual": true,
+   "normalize_earnings": {
+    "approach": 2,
+    "roe": 0.22
+   },
+   "roe_stable": 0.1
+  },
+  "expected": {
+   "value_per_share": 17.31361468019918
+  }
+ },
+ {
+  "name": "fcfeginzu branch: normalized reinvestment 1/1/1",
+  "inputs": {
+   "model": "fcfe",
+   "net_income": 249.6,
+   "interest_income_after_tax": 20.008000000000003,
+   "book_equity": 2046.4,
+   "book_equity_last_year": 1903.7,
+   "cash": 398.8,
+   "cash_last_year": 500.20000000000005,
+   "market_cap": 8670,
+   "shares_outstanding": 398.03,
+   "capex": 315.5,
+   "depreciation": 255.5,
+   "change_wc": 105.99999999999932,
+   "net_debt_issued": 34.700000000000045,
+   "beta": 1.03,
+   "riskfree_rate": 0.045,
+   "erp": 0.04908865867271064,
+   "years": 10,
+   "stable_growth": 0.04,
+   "gradual": true,
+   "normalize_earnings": {
+    "approach": 1,
+    "net_income_history": [
+     553.54,
+     569.1,
+     249.6
+    ]
+   },
+   "normalize_reinvestment": {
+    "net_capex": {
+     "approach": 1,
+     "net_capex_history": [
+      2141,
+      3127,
+      3812,
+      2219
+     ],
+     "ebit_history": [
+      21510,
+      14970,
+      23183,
+      35872
+     ]
+    },
+    "working_capital": {
+     "approach": 1,
+     "revenues": 263989,
+     "revenues_last_year": 213199,
+     "non_cash_wc": 1748
+    },
+    "net_debt": {
+     "approach": 1,
+     "book_debt": 8293
+    }
+   },
+   "roe_stable": 0.1
+  },
+  "expected": {
+   "value_per_share": 1653.2061066821318
+  }
+ },
+ {
+  "name": "fcfeginzu branch: normalized reinvestment 2/2/2",
+  "inputs": {
+   "model": "fcfe",
+   "net_income": 249.6,
+   "interest_income_after_tax": 20.008000000000003,
+   "book_equity": 2046.4,
+   "book_equity_last_year": 1903.7,
+   "cash": 398.8,
+   "cash_last_year": 500.20000000000005,
+   "market_cap": 8670,
+   "shares_outstanding": 398.03,
+   "capex": 315.5,
+   "depreciation": 255.5,
+   "change_wc": 105.99999999999932,
+   "net_debt_issued": 34.700000000000045,
+   "beta": 1.03,
+   "riskfree_rate": 0.045,
+   "erp": 0.04908865867271064,
+   "years": 10,
+   "stable_growth": 0.04,
+   "gradual": true,
+   "normalize_earnings": {
+    "approach": 1,
+    "net_income_history": [
+     553.54,
+     569.1,
+     249.6
+    ]
+   },
+   "normalize_reinvestment": {
+    "net_capex": {
+     "approach": 2,
+     "net_capex_to_ebit": 0.22,
+     "ebit": 35872
+    },
+    "working_capital": {
+     "approach": 2,
+     "revenues": 263989,
+     "revenues_last_year": 213199,
+     "wc_to_revenue": 0.22
+    },
+    "net_debt": {
+     "approach": 2,
+     "book_debt": 8293
+    }
+   },
+   "roe_stable": 0.1
+  },
+  "expected": {
+   "value_per_share": -2578320240.195754
+  }
+ },
+ {
+  "name": "fcfeginzu branch: normalized reinvestment 0/0/3",
+  "inputs": {
+   "model": "fcfe",
+   "net_income": 249.6,
+   "interest_income_after_tax": 20.008000000000003,
+   "book_equity": 2046.4,
+   "book_equity_last_year": 1903.7,
+   "cash": 398.8,
+   "cash_last_year": 500.20000000000005,
+   "market_cap": 8670,
+   "shares_outstanding": 398.03,
+   "capex": 315.5,
+   "depreciation": 255.5,
+   "change_wc": 105.99999999999932,
+   "net_debt_issued": 34.700000000000045,
+   "beta": 1.03,
+   "riskfree_rate": 0.045,
+   "erp": 0.04908865867271064,
+   "years": 10,
+   "stable_growth": 0.04,
+   "gradual": true,
+   "normalize_earnings": {
+    "approach": 1,
+    "net_income_history": [
+     553.54,
+     569.1,
+     249.6
+    ]
+   },
+   "normalize_reinvestment": {
+    "net_debt": {
+     "approach": 3,
+     "debt_ratio": 0.15
+    }
+   },
+   "roe_stable": 0.1
+  },
+  "expected": {
+   "value_per_share": 28.80158791483632
+  }
+ },
+ {
+  "name": "fcfeginzu branch: R&D capitalized",
+  "inputs": {
+   "model": "fcfe",
+   "net_income": 249.6,
+   "interest_income_after_tax": 20.008000000000003,
+   "book_equity": 2046.4,
+   "book_equity_last_year": 1903.7,
+   "cash": 398.8,
+   "cash_last_year": 500.20000000000005,
+   "market_cap": 8670,
+   "shares_outstanding": 398.03,
+   "capex": 315.5,
+   "depreciation": 255.5,
+   "change_wc": 105.99999999999932,
+   "net_debt_issued": 34.700000000000045,
+   "beta": 1.03,
+   "riskfree_rate": 0.045,
+   "erp": 0.04908865867271064,
+   "years": 10,
+   "stable_growth": 0.04,
+   "gradual": true,
+   "rd": {
+    "life": 5,
+    "current": 9000,
+    "past": [
+     8000,
+     7500,
+     7000,
+     6500,
+     6000
+    ]
+   },
+   "normalize_earnings": {
+    "approach": 1,
+    "net_income_history": [
+     553.54,
+     569.1,
+     249.6
+    ]
+   },
+   "roe_stable": 0.1
+  },
+  "expected": {
+   "value_per_share": 20.445646448831525
+  }
+ },
+ {
+  "name": "fcfeginzu branch: direct growth 8%",
+  "inputs": {
+   "model": "fcfe",
+   "net_income": 249.6,
+   "interest_income_after_tax": 20.008000000000003,
+   "book_equity": 2046.4,
+   "book_equity_last_year": 1903.7,
+   "cash": 398.8,
+   "cash_last_year": 500.20000000000005,
+   "market_cap": 8670,
+   "shares_outstanding": 398.03,
+   "capex": 315.5,
+   "depreciation": 255.5,
+   "change_wc": 105.99999999999932,
+   "net_debt_issued": 34.700000000000045,
+   "beta": 1.03,
+   "riskfree_rate": 0.045,
+   "erp": 0.04908865867271064,
+   "years": 10,
+   "stable_growth": 0.04,
+   "gradual": true,
+   "normalize_earnings": {
+    "approach": 1,
+    "net_income_history": [
+     553.54,
+     569.1,
+     249.6
+    ]
+   },
+   "growth": 0.08,
+   "roe_stable": 0.1
+  },
+  "expected": {
+   "value_per_share": 17.23169939022267
+  }
+ },
+ {
+  "name": "fcfeginzu branch: high-growth overrides",
+  "inputs": {
+   "model": "fcfe",
+   "net_income": 249.6,
+   "interest_income_after_tax": 20.008000000000003,
+   "book_equity": 2046.4,
+   "book_equity_last_year": 1903.7,
+   "cash": 398.8,
+   "cash_last_year": 500.20000000000005,
+   "market_cap": 8670,
+   "shares_outstanding": 398.03,
+   "capex": 315.5,
+   "depreciation": 255.5,
+   "change_wc": 105.99999999999932,
+   "net_debt_issued": 34.700000000000045,
+   "beta": 1.03,
+   "riskfree_rate": 0.045,
+   "erp": 0.04908865867271064,
+   "years": 10,
+   "stable_growth": 0.04,
+   "gradual": true,
+   "normalize_earnings": {
+    "approach": 1,
+    "net_income_history": [
+     553.54,
+     569.1,
+     249.6
+    ]
+   },
+   "roe_high": 0.15,
+   "reinvestment_rate_high": 0.30017923878385705,
+   "roe_stable": 0.1
+  },
+  "expected": {
+   "value_per_share": 14.34002014134883
+  }
+ },
+ {
+  "name": "fcfeginzu branch: stable ROE switched off",
+  "inputs": {
+   "model": "fcfe",
+   "net_income": 249.6,
+   "interest_income_after_tax": 20.008000000000003,
+   "book_equity": 2046.4,
+   "book_equity_last_year": 1903.7,
+   "cash": 398.8,
+   "cash_last_year": 500.20000000000005,
+   "market_cap": 8670,
+   "shares_outstanding": 398.03,
+   "capex": 315.5,
+   "depreciation": 255.5,
+   "change_wc": 105.99999999999932,
+   "net_debt_issued": 34.700000000000045,
+   "beta": 1.03,
+   "riskfree_rate": 0.045,
+   "erp": 0.04908865867271064,
+   "years": 10,
+   "stable_growth": 0.04,
+   "gradual": true,
+   "normalize_earnings": {
+    "approach": 1,
+    "net_income_history": [
+     553.54,
+     569.1,
+     249.6
+    ]
+   },
+   "stable_reinvestment_rate": 0.39999999999999997
+  },
+  "expected": {
+   "value_per_share": 18.92386570536664
+  }
+ },
+ {
+  "name": "fcfeginzu branch: no gradual, stable ERR 30%, beta 0.8",
+  "inputs": {
+   "model": "fcfe",
+   "net_income": 249.6,
+   "interest_income_after_tax": 20.008000000000003,
+   "book_equity": 2046.4,
+   "book_equity_last_year": 1903.7,
+   "cash": 398.8,
+   "cash_last_year": 500.20000000000005,
+   "market_cap": 8670,
+   "shares_outstanding": 398.03,
+   "capex": 315.5,
+   "depreciation": 255.5,
+   "change_wc": 105.99999999999932,
+   "net_debt_issued": 34.700000000000045,
+   "beta": 1.03,
+   "riskfree_rate": 0.045,
+   "erp": 0.04908865867271064,
+   "years": 10,
+   "stable_growth": 0.04,
+   "gradual": false,
+   "normalize_earnings": {
+    "approach": 1,
+    "net_income_history": [
+     553.54,
+     569.1,
+     249.6
+    ]
+   },
+   "roe_stable": 0.1,
+   "stable_reinvestment_rate": 0.3,
+   "beta_stable": 0.8
+  },
+  "expected": {
+   "value_per_share": 27.229483976068625
+  }
+ },
+ {
+  "name": "fcfeginzu branch: 0 years",
+  "inputs": {
+   "model": "fcfe",
+   "net_income": 249.6,
+   "interest_income_after_tax": 20.008000000000003,
+   "book_equity": 2046.4,
+   "book_equity_last_year": 1903.7,
+   "cash": 398.8,
+   "cash_last_year": 500.20000000000005,
+   "market_cap": 8670,
+   "shares_outstanding": 398.03,
+   "capex": 315.5,
+   "depreciation": 255.5,
+   "change_wc": 105.99999999999932,
+   "net_debt_issued": 34.700000000000045,
+   "beta": 1.03,
+   "riskfree_rate": 0.045,
+   "erp": 0.04908865867271064,
+   "years": 0,
+   "stable_growth": 0.04,
+   "gradual": true,
+   "normalize_earnings": {
+    "approach": 1,
+    "net_income_history": [
+     553.54,
+     569.1,
+     249.6
+    ]
+   },
+   "roe_stable": 0.1
+  },
+  "expected": {
+   "value_per_share": 13.343785968722349
+  }
+ },
+ {
+  "name": "fcfeginzu branch: 5 years",
+  "inputs": {
+   "model": "fcfe",
+   "net_income": 249.6,
+   "interest_income_after_tax": 20.008000000000003,
+   "book_equity": 2046.4,
+   "book_equity_last_year": 1903.7,
+   "cash": 398.8,
+   "cash_last_year": 500.20000000000005,
+   "market_cap": 8670,
+   "shares_outstanding": 398.03,
+   "capex": 315.5,
+   "depreciation": 255.5,
+   "change_wc": 105.99999999999932,
+   "net_debt_issued": 34.700000000000045,
+   "beta": 1.03,
+   "riskfree_rate": 0.045,
+   "erp": 0.04908865867271064,
+   "years": 5,
+   "stable_growth": 0.04,
+   "gradual": true,
+   "normalize_earnings": {
+    "approach": 1,
+    "net_income_history": [
+     553.54,
+     569.1,
+     249.6
+    ]
+   },
+   "roe_stable": 0.1
+  },
+  "expected": {
+   "value_per_share": 15.892257047456889
+  }
+ },
+ {
+  "name": "fcfeginzu branch: 7 years",
+  "inputs": {
+   "model": "fcfe",
+   "net_income": 249.6,
+   "interest_income_after_tax": 20.008000000000003,
+   "book_equity": 2046.4,
+   "book_equity_last_year": 1903.7,
+   "cash": 398.8,
+   "cash_last_year": 500.20000000000005,
+   "market_cap": 8670,
+   "shares_outstanding": 398.03,
+   "capex": 315.5,
+   "depreciation": 255.5,
+   "change_wc": 105.99999999999932,
+   "net_debt_issued": 34.700000000000045,
+   "beta": 1.03,
+   "riskfree_rate": 0.045,
+   "erp": 0.04908865867271064,
+   "years": 7,
+   "stable_growth": 0.04,
+   "gradual": true,
+   "normalize_earnings": {
+    "approach": 1,
+    "net_income_history": [
+     553.54,
+     569.1,
+     249.6
+    ]
+   },
+   "roe_stable": 0.1
+  },
+  "expected": {
+   "value_per_share": 17.099096404866483
+  }
+ },
+ {
+  "name": "ddmst (source file)",
+  "inputs": {
+   "model": "ddm_stable",
+   "eps": 4.33,
+   "payout": 0.63,
+   "growth": 0.06,
+   "beta": 0.95,
+   "riskfree_rate": 0.07,
+   "erp": 0.055
+  },
+  "expected": {
+   "value_per_share": 46.450987951807235
+  }
+ },
+ {
+  "name": "ddmst branch: direct ke 11%",
+  "inputs": {
+   "model": "ddm_stable",
+   "eps": 4.33,
+   "payout": 0.63,
+   "growth": 0.06,
+   "beta": 0.95,
+   "riskfree_rate": 0.07,
+   "erp": 0.055,
+   "cost_of_equity": 0.11
+  },
+  "expected": {
+   "value_per_share": 57.831480000000006
+  }
+ },
+ {
+  "name": "ddmst branch: g 4%",
+  "inputs": {
+   "model": "ddm_stable",
+   "eps": 4.33,
+   "payout": 0.63,
+   "growth": 0.04,
+   "beta": 0.95,
+   "riskfree_rate": 0.07,
+   "erp": 0.055
+  },
+  "expected": {
+   "value_per_share": 34.492595744680855
+  }
+ },
+ {
+  "name": "ddm2st (source file)",
+  "inputs": {
+   "model": "ddm_2stage",
+   "eps": 5.49,
+   "dps": 2.3058,
+   "years": 5,
+   "beta": 0.95,
+   "riskfree_rate": 0.07,
+   "erp": 0.055,
+   "eps_5y_ago": 1.62,
+   "outside_growth": 0.17,
+   "net_income": 2122.0,
+   "book_equity_last_year": 6155.0,
+   "growth_weights": [
+    0.4,
+    0.4,
+    0.19999999999999996
+   ],
+   "stable_growth": 0.08,
+   "roe_stable": 0.34476035743298133,
+   "roe_high": 0.34476035743298133,
+   "retention_high": 0.5800000000000001
+  },
+  "expected": {
+   "value_per_share": 177.53847651929308,
+   "value_assets_in_place": 18.861349693251533,
+   "value_stable_growth": 40.07981007006209,
+   "value_extraordinary_growth": 118.59731675597948
+  }
+ },
+ {
+  "name": "ddm2st branch: direct ke 11%",
+  "inputs": {
+   "model": "ddm_2stage",
+   "eps": 5.49,
+   "dps": 2.3058,
+   "years": 5,
+   "beta": 0.95,
+   "riskfree_rate": 0.07,
+   "erp": 0.055,
+   "eps_5y_ago": 1.62,
+   "outside_growth": 0.17,
+   "net_income": 2122,
+   "book_equity_last_year": 6155,
+   "growth_weights": [
+    0.4,
+    0.4,
+    0.19999999999999996
+   ],
+   "stable_growth": 0.08,
+   "roe_stable": 0.34476035743298133,
+   "cost_of_equity": 0.11,
+   "roe_high": 0.34476035743298133,
+   "retention_high": 0.5800000000000001
+  },
+  "expected": {
+   "value_per_share": 187.2424069660605,
+   "value_assets_in_place": 18.861349693251533,
+   "value_stable_growth": 40.07981007006209,
+   "value_extraordinary_growth": 128.3012472027469
+  }
+ },
+ {
+  "name": "ddm2st branch: high inputs off",
+  "inputs": {
+   "model": "ddm_2stage",
+   "eps": 5.49,
+   "dps": 2.3058,
+   "years": 5,
+   "beta": 0.95,
+   "riskfree_rate": 0.07,
+   "erp": 0.055,
+   "eps_5y_ago": 1.62,
+   "outside_growth": 0.17,
+   "net_income": 2122,
+   "book_equity_last_year": 6155,
+   "growth_weights": [
+    0.4,
+    0.4,
+    0.19999999999999996
+   ],
+   "stable_growth": 0.08,
+   "roe_stable": 0.34476035743298133
+  },
+  "expected": {
+   "value_per_share": 177.53847651929308,
+   "value_assets_in_place": 18.861349693251533,
+   "value_stable_growth": 40.07981007006209,
+   "value_extraordinary_growth": 118.59731675597948
+  }
+ },
+ {
+  "name": "ddm2st branch: stable payout 60%, beta 1",
+  "inputs": {
+   "model": "ddm_2stage",
+   "eps": 5.49,
+   "dps": 2.3058,
+   "years": 5,
+   "beta": 0.95,
+   "riskfree_rate": 0.07,
+   "erp": 0.055,
+   "eps_5y_ago": 1.62,
+   "outside_growth": 0.17,
+   "net_income": 2122,
+   "book_equity_last_year": 6155,
+   "growth_weights": [
+    0.4,
+    0.4,
+    0.19999999999999996
+   ],
+   "stable_growth": 0.08,
+   "roe_stable": 0.34476035743298133,
+   "roe_high": 0.34476035743298133,
+   "retention_high": 0.5800000000000001,
+   "stable_payout": 0.6,
+   "beta_stable": 1.0
+  },
+  "expected": {
+   "value_per_share": 134.19289825602723,
+   "value_assets_in_place": 18.4464,
+   "value_stable_growth": 36.89280000000001,
+   "value_extraordinary_growth": 78.85369825602723
+  }
+ },
+ {
+  "name": "ddm2st branch: 8 years, weights .2/.2",
+  "inputs": {
+   "model": "ddm_2stage",
+   "eps": 5.49,
+   "dps": 2.3058,
+   "years": 8,
+   "beta": 0.95,
+   "riskfree_rate": 0.07,
+   "erp": 0.055,
+   "eps_5y_ago": 1.62,
+   "outside_growth": 0.17,
+   "net_income": 2122,
+   "book_equity_last_year": 6155,
+   "growth_weights": [
+    0.2,
+    0.2,
+    0.6000000000000001
+   ],
+   "stable_growth": 0.08,
+   "roe_stable": 0.34476035743298133,
+   "roe_high": 0.34476035743298133,
+   "retention_high": 0.5800000000000001
+  },
+  "expected": {
+   "value_per_share": 222.068471284916,
+   "value_assets_in_place": 18.861349693251533,
+   "value_stable_growth": 40.07981007006209,
+   "value_extraordinary_growth": 163.1273115216024
+  }
+ },
+ {
+  "name": "ddm3st (source file)",
+  "inputs": {
+   "model": "ddm_3stage",
+   "eps": 1.43,
+   "dps": 0.56,
+   "beta": 1.1,
+   "riskfree_rate": 0.07,
+   "erp": 0.055,
+   "years": 10,
+   "eps_5y_ago": 0.61,
+   "outside_growth": 0.17,
+   "net_income": 0.0,
+   "book_equity_last_year": 0.0,
+   "growth_weights": [
+    0.2,
+    0.4,
+    0.4
+   ],
+   "transition_years": 8,
+   "stable_growth": 0.08,
+   "roe_stable": 0.2
+  },
+  "expected": {
+   "value_per_share": 19.945505410290917
+  }
+ },
+ {
+  "name": "ddm3st branch: direct ke 12%",
+  "inputs": {
+   "model": "ddm_3stage",
+   "eps": 1.43,
+   "dps": 0.56,
+   "beta": 1.1,
+   "riskfree_rate": 0.07,
+   "erp": 0.055,
+   "years": 10,
+   "eps_5y_ago": 0.61,
+   "outside_growth": 0.17,
+   "net_income": 0,
+   "book_equity_last_year": 0,
+   "growth_weights": [
+    0.2,
+    0.4,
+    0.4
+   ],
+   "transition_years": 8,
+   "stable_growth": 0.08,
+   "roe_stable": 0.2,
+   "cost_of_equity": 0.12
+  },
+  "expected": {
+   "value_per_share": 21.665430668666033
+  }
+ },
+ {
+  "name": "ddm3st branch: fundamental growth",
+  "inputs": {
+   "model": "ddm_3stage",
+   "eps": 1.43,
+   "dps": 0.56,
+   "beta": 1.1,
+   "riskfree_rate": 0.07,
+   "erp": 0.055,
+   "years": 10,
+   "eps_5y_ago": 0.61,
+   "outside_growth": 0.17,
+   "net_income": 10,
+   "book_equity_last_year": 50,
+   "growth_weights": [
+    0.2,
+    0.4,
+    0.4
+   ],
+   "transition_years": 8,
+   "stable_growth": 0.08,
+   "roe_stable": 0.2
+  },
+  "expected": {
+   "value_per_share": 32.91230621003217
+  }
+ },
+ {
+  "name": "ddm3st branch: high inputs on",
+  "inputs": {
+   "model": "ddm_3stage",
+   "eps": 1.43,
+   "dps": 0.56,
+   "beta": 1.1,
+   "riskfree_rate": 0.07,
+   "erp": 0.055,
+   "years": 10,
+   "eps_5y_ago": 0.61,
+   "outside_growth": 0.17,
+   "net_income": 10,
+   "book_equity_last_year": 50,
+   "growth_weights": [
+    0.2,
+    0.4,
+    0.4
+   ],
+   "transition_years": 8,
+   "stable_growth": 0.08,
+   "roe_stable": 0.2,
+   "roe_high": 0.2,
+   "retention_high": 0.6083916083916083
+  },
+  "expected": {
+   "value_per_share": 32.91230621003217
+  }
+ },
+ {
+  "name": "ddm3st branch: fixed transition payout & beta",
+  "inputs": {
+   "model": "ddm_3stage",
+   "eps": 1.43,
+   "dps": 0.56,
+   "beta": 1.1,
+   "riskfree_rate": 0.07,
+   "erp": 0.055,
+   "years": 10,
+   "eps_5y_ago": 0.61,
+   "outside_growth": 0.17,
+   "net_income": 0,
+   "book_equity_last_year": 0,
+   "growth_weights": [
+    0.2,
+    0.4,
+    0.4
+   ],
+   "transition_years": 8,
+   "stable_growth": 0.08,
+   "roe_stable": 0.2,
+   "transition_payout": 0.5,
+   "transition_beta": 1.0
+  },
+  "expected": {
+   "value_per_share": 20.437455508286323
+  }
+ },
+ {
+  "name": "ddm3st branch: stable payout & beta",
+  "inputs": {
+   "model": "ddm_3stage",
+   "eps": 1.43,
+   "dps": 0.56,
+   "beta": 1.1,
+   "riskfree_rate": 0.07,
+   "erp": 0.055,
+   "years": 10,
+   "eps_5y_ago": 0.61,
+   "outside_growth": 0.17,
+   "net_income": 0,
+   "book_equity_last_year": 0,
+   "growth_weights": [
+    0.2,
+    0.4,
+    0.4
+   ],
+   "transition_years": 8,
+   "stable_growth": 0.08,
+   "roe_stable": 0.2,
+   "stable_payout": 0.55,
+   "beta_stable": 0.9
+  },
+  "expected": {
+   "value_per_share": 22.274013191031322
+  }
+ },
+ {
+  "name": "ddm3st branch: 6 + 4 years",
+  "inputs": {
+   "model": "ddm_3stage",
+   "eps": 1.43,
+   "dps": 0.56,
+   "beta": 1.1,
+   "riskfree_rate": 0.07,
+   "erp": 0.055,
+   "years": 6,
+   "eps_5y_ago": 0.61,
+   "outside_growth": 0.17,
+   "net_income": 0,
+   "book_equity_last_year": 0,
+   "growth_weights": [
+    0.2,
+    0.4,
+    0.4
+   ],
+   "transition_years": 4,
+   "stable_growth": 0.08,
+   "roe_stable": 0.2
+  },
+  "expected": {
+   "value_per_share": 19.299416779302724
+  }
+ },
+ {
+  "name": "fcfest (source file)",
+  "inputs": {
+   "model": "fcfe_stable",
+   "eps": 5.45,
+   "capex": 2.0,
+   "depreciation": 1.7469204927211646,
+   "change_wc": 0.6,
+   "debt_ratio": 0.2997,
+   "beta": 1.1,
+   "riskfree_rate": 0.07,
+   "erp": 0.055,
+   "growth": 0.06,
+   "roe_stable": 0.12
+  },
+  "expected": {
+   "value_per_share": 40.97163120567375
+  }
+ },
+ {
+  "name": "fcfest branch: offset capex",
+  "inputs": {
+   "model": "fcfe_stable",
+   "eps": 5.45,
+   "capex": 2,
+   "depreciation": 1.7469204927211646,
+   "change_wc": 0.6,
+   "debt_ratio": 0.2997,
+   "beta": 1.1,
+   "riskfree_rate": 0.07,
+   "erp": 0.055,
+   "growth": 0.06,
+   "offset_capex": true,
+   "roe_stable": 0.12
+  },
+  "expected": {
+   "value_per_share": 75.6256624113475
+  }
+ },
+ {
+  "name": "fcfest branch: reported capex",
+  "inputs": {
+   "model": "fcfe_stable",
+   "eps": 5.45,
+   "capex": 2,
+   "depreciation": 1.7469204927211646,
+   "change_wc": 0.6,
+   "debt_ratio": 0.2997,
+   "beta": 1.1,
+   "riskfree_rate": 0.07,
+   "erp": 0.055,
+   "growth": 0.06
+  },
+  "expected": {
+   "value_per_share": 72.96090391937291
+  }
+ },
+ {
+  "name": "fcfest branch: direct ke 11%",
+  "inputs": {
+   "model": "fcfe_stable",
+   "eps": 5.45,
+   "capex": 2,
+   "depreciation": 1.7469204927211646,
+   "change_wc": 0.6,
+   "debt_ratio": 0.2997,
+   "beta": 1.1,
+   "riskfree_rate": 0.07,
+   "erp": 0.055,
+   "growth": 0.06,
+   "roe_stable": 0.12,
+   "cost_of_equity": 0.11
+  },
+  "expected": {
+   "value_per_share": 57.769999999999996
+  }
+ },
+ {
+  "name": "fcfe2st (source file)",
+  "inputs": {
+   "model": "fcfe_2stage",
+   "eps": 4.0,
+   "dps": 0.25,
+   "capex": 3.7,
+   "depreciation": 1.7,
+   "revenues": 20.0,
+   "working_capital": 8.0,
+   "change_wc": 1.0,
+   "years": 5,
+   "beta": 1.3,
+   "riskfree_rate": 0.07,
+   "erp": 0.055,
+   "eps_5y_ago": 0.49,
+   "outside_growth": 0.19,
+   "net_income": 1077.0,
+   "interest_expense": 53.85,
+   "book_debt": 600.0,
+   "book_debt_last_year": 550.0,
+   "book_equity": 5445.0,
+   "book_equity_last_year": 5130.0,
+   "tax_rate": 0.36,
+   "growth_weights": [
+    0.1,
+    0.4,
+    0.5
+   ],
+   "stable_growth": 0.06,
+   "beta_stable": 1.1,
+   "capex_growth": 0.2,
+   "depreciation_growth": 0.2,
+   "revenue_growth": 0.18,
+   "revenue_growth_stable": 0.06,
+   "roe_stable": 0.12
+  },
+  "expected": {
+   "value_per_share": 51.56356021001768,
+   "value_assets_in_place": 9.944572792181246,
+   "value_stable_growth": 9.567948546009278,
+   "value_extraordinary_growth": 32.05103887182715
+  }
+ },
+ {
+  "name": "fcfe2st branch: direct ke 13%",
+  "inputs": {
+   "model": "fcfe_2stage",
+   "eps": 4,
+   "dps": 0.25,
+   "capex": 3.7,
+   "depreciation": 1.7,
+   "revenues": 20,
+   "working_capital": 8.0,
+   "change_wc": 1,
+   "years": 5,
+   "beta": 1.3,
+   "riskfree_rate": 0.07,
+   "erp": 0.055,
+   "eps_5y_ago": 0.49,
+   "outside_growth": 0.19,
+   "net_income": 1077,
+   "interest_expense": 53.85,
+   "book_debt": 600,
+   "book_debt_last_year": 550,
+   "book_equity": 5445,
+   "book_equity_last_year": 5130,
+   "tax_rate": 0.36,
+   "growth_weights": [
+    0.1,
+    0.4,
+    0.5
+   ],
+   "stable_growth": 0.06,
+   "cost_of_equity": 0.13,
+   "beta_stable": 1.1,
+   "capex_growth": 0.2,
+   "depreciation_growth": 0.2,
+   "revenue_growth": 0.18,
+   "revenue_growth_stable": 0.06,
+   "roe_stable": 0.12
+  },
+  "expected": {
+   "value_per_share": 54.08744663844608,
+   "value_assets_in_place": 9.944572792181246,
+   "value_stable_growth": 9.567948546009278,
+   "value_extraordinary_growth": 34.57492530025556
+  }
+ },
+ {
+  "name": "fcfe2st branch: high inputs on",
+  "inputs": {
+   "model": "fcfe_2stage",
+   "eps": 4,
+   "dps": 0.25,
+   "capex": 3.7,
+   "depreciation": 1.7,
+   "revenues": 20,
+   "working_capital": 8.0,
+   "change_wc": 1,
+   "years": 5,
+   "beta": 1.3,
+   "riskfree_rate": 0.07,
+   "erp": 0.055,
+   "eps_5y_ago": 0.49,
+   "outside_growth": 0.19,
+   "net_income": 1077,
+   "interest_expense": 53.85,
+   "book_debt": 600,
+   "book_debt_last_year": 550,
+   "book_equity": 5445,
+   "book_equity_last_year": 5130,
+   "tax_rate": 0.36,
+   "growth_weights": [
+    0.1,
+    0.4,
+    0.5
+   ],
+   "stable_growth": 0.06,
+   "roc_high": 0.19568028169014084,
+   "de_high": 0.11019283746556474,
+   "retention_high": 0.9375,
+   "interest_rate_high": 0.08975,
+   "beta_stable": 1.1,
+   "capex_growth": 0.2,
+   "depreciation_growth": 0.2,
+   "revenue_growth": 0.18,
+   "revenue_growth_stable": 0.06,
+   "roe_stable": 0.12
+  },
+  "expected": {
+   "value_per_share": 51.563560210017684,
+   "value_assets_in_place": 9.944572792181246,
+   "value_stable_growth": 9.567948546009278,
+   "value_extraordinary_growth": 32.05103887182716
+  }
+ },
+ {
+  "name": "fcfe2st branch: items grow with earnings",
+  "inputs": {
+   "model": "fcfe_2stage",
+   "eps": 4,
+   "dps": 0.25,
+   "capex": 3.7,
+   "depreciation": 1.7,
+   "revenues": 20,
+   "working_capital": 8.0,
+   "change_wc": 1,
+   "years": 5,
+   "beta": 1.3,
+   "riskfree_rate": 0.07,
+   "erp": 0.055,
+   "eps_5y_ago": 0.49,
+   "outside_growth": 0.19,
+   "net_income": 1077,
+   "interest_expense": 53.85,
+   "book_debt": 600,
+   "book_debt_last_year": 550,
+   "book_equity": 5445,
+   "book_equity_last_year": 5130,
+   "tax_rate": 0.36,
+   "growth_weights": [
+    0.1,
+    0.4,
+    0.5
+   ],
+   "stable_growth": 0.06,
+   "beta_stable": 1.1,
+   "roe_stable": 0.12
+  },
+  "expected": {
+   "value_per_share": 48.56095103038674,
+   "value_assets_in_place": 9.944572792181246,
+   "value_stable_growth": 9.567948546009278,
+   "value_extraordinary_growth": 29.048429692196216
+  }
+ },
+ {
+  "name": "fcfe2st branch: WC 30%, debt 30%/20%",
+  "inputs": {
+   "model": "fcfe_2stage",
+   "eps": 4,
+   "dps": 0.25,
+   "capex": 3.7,
+   "depreciation": 1.7,
+   "revenues": 20,
+   "working_capital": 8.0,
+   "change_wc": 1,
+   "years": 5,
+   "beta": 1.3,
+   "riskfree_rate": 0.07,
+   "erp": 0.055,
+   "eps_5y_ago": 0.49,
+   "outside_growth": 0.19,
+   "net_income": 1077,
+   "interest_expense": 53.85,
+   "book_debt": 600,
+   "book_debt_last_year": 550,
+   "book_equity": 5445,
+   "book_equity_last_year": 5130,
+   "tax_rate": 0.36,
+   "growth_weights": [
+    0.1,
+    0.4,
+    0.5
+   ],
+   "stable_growth": 0.06,
+   "beta_stable": 1.1,
+   "capex_growth": 0.2,
+   "depreciation_growth": 0.2,
+   "revenue_growth": 0.18,
+   "revenue_growth_stable": 0.06,
+   "wc_to_revenue": 0.3,
+   "debt_ratio_capex": 0.3,
+   "debt_ratio_wc": 0.2,
+   "roe_stable": 0.12,
+   "replicate_sheet_bugs": true
+  },
+  "expected": {
+   "value_per_share": 56.436912353198636,
+   "value_assets_in_place": 13.793103448275861,
+   "value_stable_growth": 13.27072633895818,
+   "value_extraordinary_growth": 29.37308256596459
+  }
+ },
+ {
+  "name": "fcfe2st branch: offset stable capex",
+  "inputs": {
+   "model": "fcfe_2stage",
+   "eps": 4,
+   "dps": 0.25,
+   "capex": 3.7,
+   "depreciation": 1.7,
+   "revenues": 20,
+   "working_capital": 8.0,
+   "change_wc": 1,
+   "years": 5,
+   "beta": 1.3,
+   "riskfree_rate": 0.07,
+   "erp": 0.055,
+   "eps_5y_ago": 0.49,
+   "outside_growth": 0.19,
+   "net_income": 1077,
+   "interest_expense": 53.85,
+   "book_debt": 600,
+   "book_debt_last_year": 550,
+   "book_equity": 5445,
+   "book_equity_last_year": 5130,
+   "tax_rate": 0.36,
+   "growth_weights": [
+    0.1,
+    0.4,
+    0.5
+   ],
+   "stable_growth": 0.06,
+   "beta_stable": 1.1,
+   "capex_growth": 0.2,
+   "depreciation_growth": 0.2,
+   "revenue_growth": 0.18,
+   "revenue_growth_stable": 0.06,
+   "offset_capex_stable": true,
+   "roe_stable": 0.12
+  },
+  "expected": {
+   "value_per_share": 87.48434233771435,
+   "value_assets_in_place": 9.944572792181246,
+   "value_stable_growth": 9.567948546009278,
+   "value_extraordinary_growth": 67.97182099952383
+  }
+ },
+ {
+  "name": "fcfe2st branch: stable capex/dep ratio",
+  "inputs": {
+   "model": "fcfe_2stage",
+   "eps": 4,
+   "dps": 0.25,
+   "capex": 3.7,
+   "depreciation": 1.7,
+   "revenues": 20,
+   "working_capital": 8.0,
+   "change_wc": 1,
+   "years": 5,
+   "beta": 1.3,
+   "riskfree_rate": 0.07,
+   "erp": 0.055,
+   "eps_5y_ago": 0.49,
+   "outside_growth": 0.19,
+   "net_income": 1077,
+   "interest_expense": 53.85,
+   "book_debt": 600,
+   "book_debt_last_year": 550,
+   "book_equity": 5445,
+   "book_equity_last_year": 5130,
+   "tax_rate": 0.36,
+   "growth_weights": [
+    0.1,
+    0.4,
+    0.5
+   ],
+   "stable_growth": 0.06,
+   "beta_stable": 1.1,
+   "capex_growth": 0.2,
+   "depreciation_growth": 0.2,
+   "revenue_growth": 0.18,
+   "revenue_growth_stable": 0.06,
+   "capex_to_depreciation_stable": 1.5
+  },
+  "expected": {
+   "value_per_share": 72.70470069487466,
+   "value_assets_in_place": 9.944572792181246,
+   "value_stable_growth": 9.567948546009278,
+   "value_extraordinary_growth": 53.192179356684136
+  }
+ },
+ {
+  "name": "fcfe2st branch: stable beta unchanged",
+  "inputs": {
+   "model": "fcfe_2stage",
+   "eps": 4,
+   "dps": 0.25,
+   "capex": 3.7,
+   "depreciation": 1.7,
+   "revenues": 20,
+   "working_capital": 8.0,
+   "change_wc": 1,
+   "years": 5,
+   "beta": 1.3,
+   "riskfree_rate": 0.07,
+   "erp": 0.055,
+   "eps_5y_ago": 0.49,
+   "outside_growth": 0.19,
+   "net_income": 1077,
+   "interest_expense": 53.85,
+   "book_debt": 600,
+   "book_debt_last_year": 550,
+   "book_equity": 5445,
+   "book_equity_last_year": 5130,
+   "tax_rate": 0.36,
+   "growth_weights": [
+    0.1,
+    0.4,
+    0.5
+   ],
+   "stable_growth": 0.06,
+   "capex_growth": 0.2,
+   "depreciation_growth": 0.2,
+   "revenue_growth": 0.18,
+   "revenue_growth_stable": 0.06,
+   "roe_stable": 0.12
+  },
+  "expected": {
+   "value_per_share": 45.73830098881963,
+   "value_assets_in_place": 9.171496462047015,
+   "value_stable_growth": 7.707433039087116,
+   "value_extraordinary_growth": 28.8593714876855
+  }
+ },
+ {
+  "name": "fcfe2st branch: 8 years",
+  "inputs": {
+   "model": "fcfe_2stage",
+   "eps": 4,
+   "dps": 0.25,
+   "capex": 3.7,
+   "depreciation": 1.7,
+   "revenues": 20,
+   "working_capital": 8.0,
+   "change_wc": 1,
+   "years": 8,
+   "beta": 1.3,
+   "riskfree_rate": 0.07,
+   "erp": 0.055,
+   "eps_5y_ago": 0.49,
+   "outside_growth": 0.19,
+   "net_income": 1077,
+   "interest_expense": 53.85,
+   "book_debt": 600,
+   "book_debt_last_year": 550,
+   "book_equity": 5445,
+   "book_equity_last_year": 5130,
+   "tax_rate": 0.36,
+   "growth_weights": [
+    0.1,
+    0.4,
+    0.5
+   ],
+   "stable_growth": 0.06,
+   "beta_stable": 1.1,
+   "capex_growth": 0.2,
+   "depreciation_growth": 0.2,
+   "revenue_growth": 0.18,
+   "revenue_growth_stable": 0.06,
+   "roe_stable": 0.12
+  },
+  "expected": {
+   "value_per_share": 70.113664963557,
+   "value_assets_in_place": 9.944572792181246,
+   "value_stable_growth": 9.567948546009278,
+   "value_extraordinary_growth": 50.601143625366475
+  }
+ },
+ {
+  "name": "fcfe3st (source file)",
+  "inputs": {
+   "model": "fcfe_3stage",
+   "eps": 0.85,
+   "dps": 0.0,
+   "capex": 1.0,
+   "depreciation": 0.8,
+   "revenues": 12.5,
+   "working_capital": 5.0,
+   "change_wc": 0.5,
+   "beta": 1.1,
+   "riskfree_rate": 0.07,
+   "erp": 0.055,
+   "years": 5,
+   "book_debt": 16.1,
+   "book_equity": 29.5,
+   "growth_weights": [
+    0.0,
+    1.0,
+    0.0
+   ],
+   "transition_years": 10,
+   "stable_growth": 0.05,
+   "outside_growth": 0.2,
+   "beta_stable": 0.9,
+   "debt_ratio_capex": 0.15,
+   "debt_ratio_wc": 0.15,
+   "roe_stable": 0.12
+  },
+  "expected": {
+   "value_per_share": 12.608011584017325
+  }
+ },
+ {
+  "name": "fcfe3st branch: direct ke 12%",
+  "inputs": {
+   "model": "fcfe_3stage",
+   "eps": 0.85,
+   "dps": 0,
+   "capex": 1,
+   "depreciation": 0.8,
+   "revenues": 12.5,
+   "working_capital": 5,
+   "change_wc": 0.5,
+   "beta": 1.1,
+   "riskfree_rate": 0.07,
+   "erp": 0.055,
+   "years": 5,
+   "book_debt": 16.1,
+   "book_equity": 29.5,
+   "growth_weights": [
+    0,
+    1,
+    0
+   ],
+   "transition_years": 10,
+   "stable_growth": 0.05,
+   "cost_of_equity": 0.12,
+   "outside_growth": 0.2,
+   "beta_stable": 0.9,
+   "debt_ratio_capex": 0.15,
+   "debt_ratio_wc": 0.15,
+   "roe_stable": 0.12
+  },
+  "expected": {
+   "value_per_share": 13.213282167032768
+  }
+ },
+ {
+  "name": "fcfe3st branch: historical + fundamental growth",
+  "inputs": {
+   "model": "fcfe_3stage",
+   "eps": 0.85,
+   "dps": 0,
+   "capex": 1,
+   "depreciation": 0.8,
+   "revenues": 12.5,
+   "working_capital": 5,
+   "change_wc": 0.5,
+   "beta": 1.1,
+   "riskfree_rate": 0.07,
+   "erp": 0.055,
+   "years": 5,
+   "book_debt": 16.1,
+   "book_equity": 29.5,
+   "growth_weights": [
+    0.3,
+    0.4,
+    0.3
+   ],
+   "transition_years": 10,
+   "stable_growth": 0.05,
+   "eps_5y_ago": 0.9,
+   "outside_growth": 0.2,
+   "net_income": 10,
+   "interest_expense": 2.5,
+   "book_debt_last_year": 15.2,
+   "book_equity_last_year": 28.1,
+   "tax_rate": 0.45,
+   "beta_stable": 0.9,
+   "debt_ratio_capex": 0.15,
+   "debt_ratio_wc": 0.15,
+   "roe_stable": 0.12
+  },
+  "expected": {
+   "value_per_share": 11.689553171447868
+  }
+ },
+ {
+  "name": "fcfe3st branch: fundamental overrides",
+  "inputs": {
+   "model": "fcfe_3stage",
+   "eps": 0.85,
+   "dps": 0,
+   "capex": 1,
+   "depreciation": 0.8,
+   "revenues": 12.5,
+   "working_capital": 5,
+   "change_wc": 0.5,
+   "beta": 1.1,
+   "riskfree_rate": 0.07,
+   "erp": 0.055,
+   "years": 5,
+   "book_debt": 16.1,
+   "book_equity": 29.5,
+   "growth_weights": [
+    0,
+    0.5,
+    0.5
+   ],
+   "transition_years": 10,
+   "stable_growth": 0.05,
+   "outside_growth": 0.2,
+   "net_income": 10,
+   "interest_expense": 2.5,
+   "book_debt_last_year": 15.2,
+   "book_equity_last_year": 28.1,
+   "tax_rate": 0.45,
+   "roc_high": 0.25,
+   "de_high": 0.5457627118644068,
+   "retention_high": 1,
+   "interest_rate_high": 0.15527950310559005,
+   "beta_stable": 0.9,
+   "debt_ratio_capex": 0.15,
+   "debt_ratio_wc": 0.15,
+   "roe_stable": 0.12
+  },
+  "expected": {
+   "value_per_share": 18.166716030508304
+  }
+ },
+ {
+  "name": "fcfe3st branch: own item growth rates",
+  "inputs": {
+   "model": "fcfe_3stage",
+   "eps": 0.85,
+   "dps": 0,
+   "capex": 1,
+   "depreciation": 0.8,
+   "revenues": 12.5,
+   "working_capital": 5,
+   "change_wc": 0.5,
+   "beta": 1.1,
+   "riskfree_rate": 0.07,
+   "erp": 0.055,
+   "years": 5,
+   "book_debt": 16.1,
+   "book_equity": 29.5,
+   "growth_weights": [
+    0,
+    1,
+    0
+   ],
+   "transition_years": 10,
+   "stable_growth": 0.05,
+   "outside_growth": 0.2,
+   "beta_stable": 0.9,
+   "capex_growth": 0.2,
+   "depreciation_growth": 0.2,
+   "revenue_growth": 0.18,
+   "capex_growth_transition": 0.12,
+   "depreciation_growth_transition": 0.12,
+   "revenue_growth_transition": 0.12,
+   "revenue_growth_stable": 0.06,
+   "debt_ratio_capex": 0.15,
+   "debt_ratio_wc": 0.15,
+   "roe_stable": 0.12
+  },
+  "expected": {
+   "value_per_share": 14.345421015181685
+  }
+ },
+ {
+  "name": "fcfe3st branch: WC 30%",
+  "inputs": {
+   "model": "fcfe_3stage",
+   "eps": 0.85,
+   "dps": 0,
+   "capex": 1,
+   "depreciation": 0.8,
+   "revenues": 12.5,
+   "working_capital": 5,
+   "change_wc": 0.5,
+   "beta": 1.1,
+   "riskfree_rate": 0.07,
+   "erp": 0.055,
+   "years": 5,
+   "book_debt": 16.1,
+   "book_equity": 29.5,
+   "growth_weights": [
+    0,
+    1,
+    0
+   ],
+   "transition_years": 10,
+   "stable_growth": 0.05,
+   "outside_growth": 0.2,
+   "beta_stable": 0.9,
+   "wc_to_revenue": 0.3,
+   "debt_ratio_capex": 0.15,
+   "debt_ratio_wc": 0.15,
+   "roe_stable": 0.12
+  },
+  "expected": {
+   "value_per_share": 15.278564585836504
+  }
+ },
+ {
+  "name": "fcfe3st branch: current debt mix",
+  "inputs": {
+   "model": "fcfe_3stage",
+   "eps": 0.85,
+   "dps": 0,
+   "capex": 1,
+   "depreciation": 0.8,
+   "revenues": 12.5,
+   "working_capital": 5,
+   "change_wc": 0.5,
+   "beta": 1.1,
+   "riskfree_rate": 0.07,
+   "erp": 0.055,
+   "years": 5,
+   "book_debt": 16.1,
+   "book_equity": 29.5,
+   "growth_weights": [
+    0,
+    1,
+    0
+   ],
+   "transition_years": 10,
+   "stable_growth": 0.05,
+   "outside_growth": 0.2,
+   "beta_stable": 0.9,
+   "roe_stable": 0.12
+  },
+  "expected": {
+   "value_per_share": 15.98860462970626
+  }
+ },
+ {
+  "name": "fcfe3st branch: offset stable capex",
+  "inputs": {
+   "model": "fcfe_3stage",
+   "eps": 0.85,
+   "dps": 0,
+   "capex": 1,
+   "depreciation": 0.8,
+   "revenues": 12.5,
+   "working_capital": 5,
+   "change_wc": 0.5,
+   "beta": 1.1,
+   "riskfree_rate": 0.07,
+   "erp": 0.055,
+   "years": 5,
+   "book_debt": 16.1,
+   "book_equity": 29.5,
+   "growth_weights": [
+    0,
+    1,
+    0
+   ],
+   "transition_years": 10,
+   "stable_growth": 0.05,
+   "outside_growth": 0.2,
+   "beta_stable": 0.9,
+   "debt_ratio_capex": 0.15,
+   "debt_ratio_wc": 0.15,
+   "offset_capex_stable": true,
+   "roe_stable": 0.12
+  },
+  "expected": {
+   "value_per_share": 15.49103239113042
+  }
+ },
+ {
+  "name": "fcfe3st branch: stable capex/dep ratio",
+  "inputs": {
+   "model": "fcfe_3stage",
+   "eps": 0.85,
+   "dps": 0,
+   "capex": 1,
+   "depreciation": 0.8,
+   "revenues": 12.5,
+   "working_capital": 5,
+   "change_wc": 0.5,
+   "beta": 1.1,
+   "riskfree_rate": 0.07,
+   "erp": 0.055,
+   "years": 5,
+   "book_debt": 16.1,
+   "book_equity": 29.5,
+   "growth_weights": [
+    0,
+    1,
+    0
+   ],
+   "transition_years": 10,
+   "stable_growth": 0.05,
+   "outside_growth": 0.2,
+   "beta_stable": 0.9,
+   "debt_ratio_capex": 0.15,
+   "debt_ratio_wc": 0.15,
+   "capex_to_depreciation_stable": 1.25
+  },
+  "expected": {
+   "value_per_share": 12.262049087163742
+  }
+ },
+ {
+  "name": "fcfe3st branch: fixed transition beta",
+  "inputs": {
+   "model": "fcfe_3stage",
+   "eps": 0.85,
+   "dps": 0,
+   "capex": 1,
+   "depreciation": 0.8,
+   "revenues": 12.5,
+   "working_capital": 5,
+   "change_wc": 0.5,
+   "beta": 1.1,
+   "riskfree_rate": 0.07,
+   "erp": 0.055,
+   "years": 5,
+   "book_debt": 16.1,
+   "book_equity": 29.5,
+   "growth_weights": [
+    0,
+    1,
+    0
+   ],
+   "transition_years": 10,
+   "stable_growth": 0.05,
+   "outside_growth": 0.2,
+   "transition_beta": 1.0,
+   "beta_stable": 0.9,
+   "debt_ratio_capex": 0.15,
+   "debt_ratio_wc": 0.15,
+   "roe_stable": 0.12
+  },
+  "expected": {
+   "value_per_share": 12.574925159237079
+  }
+ },
+ {
+  "name": "fcfe3st branch: stable beta unchanged",
+  "inputs": {
+   "model": "fcfe_3stage",
+   "eps": 0.85,
+   "dps": 0,
+   "capex": 1,
+   "depreciation": 0.8,
+   "revenues": 12.5,
+   "working_capital": 5,
+   "change_wc": 0.5,
+   "beta": 1.1,
+   "riskfree_rate": 0.07,
+   "erp": 0.055,
+   "years": 5,
+   "book_debt": 16.1,
+   "book_equity": 29.5,
+   "growth_weights": [
+    0,
+    1,
+    0
+   ],
+   "transition_years": 10,
+   "stable_growth": 0.05,
+   "outside_growth": 0.2,
+   "debt_ratio_capex": 0.15,
+   "debt_ratio_wc": 0.15,
+   "roe_stable": 0.12
+  },
+  "expected": {
+   "value_per_share": 10.794254894282378
+  }
+ },
+ {
+  "name": "fcfe3st branch: 3 + 5 years",
+  "inputs": {
+   "model": "fcfe_3stage",
+   "eps": 0.85,
+   "dps": 0,
+   "capex": 1,
+   "depreciation": 0.8,
+   "revenues": 12.5,
+   "working_capital": 5,
+   "change_wc": 0.5,
+   "beta": 1.1,
+   "riskfree_rate": 0.07,
+   "erp": 0.055,
+   "years": 3,
+   "book_debt": 16.1,
+   "book_equity": 29.5,
+   "growth_weights": [
+    0,
+    1,
+    0
+   ],
+   "transition_years": 5,
+   "stable_growth": 0.05,
+   "outside_growth": 0.2,
+   "beta_stable": 0.9,
+   "debt_ratio_capex": 0.15,
+   "debt_ratio_wc": 0.15,
+   "roe_stable": 0.12
+  },
+  "expected": {
+   "value_per_share": 9.860020466840757
+  }
+ },
+ {
+  "name": "fcfevsddm (source file)",
+  "inputs": {
+   "model": "fcfe_vs_ddm",
+   "net_income": 100.0,
+   "dividends": 30.0,
+   "capex": 75.0,
+   "depreciation": 50.0,
+   "revenues": 1000.0,
+   "working_capital": 50.0,
+   "net_debt_cash_flow": 10.0,
+   "years": 5,
+   "growth": 0.1,
+   "beta": 1.0,
+   "riskfree_rate": 0.05,
+   "erp": 0.04,
+   "stable_growth": 0.04,
+   "roe_stable": 0.12,
+   "cash_reinvestment_rate": 0.07
+  },
+  "expected": {
+   "value_fcfe": 1864.9339387510233,
+   "value_ddm": 1855.6758272711943
+  }
+ },
+ {
+  "name": "fcfevsddm branch: cash reinvested at ke",
+  "inputs": {
+   "model": "fcfe_vs_ddm",
+   "net_income": 100,
+   "dividends": 30,
+   "capex": 75,
+   "depreciation": 50,
+   "revenues": 1000,
+   "working_capital": 50,
+   "net_debt_cash_flow": 10,
+   "years": 5,
+   "growth": 0.1,
+   "beta": 1,
+   "riskfree_rate": 0.05,
+   "erp": 0.04,
+   "stable_growth": 0.04,
+   "roe_stable": 0.12
+  },
+  "expected": {
+   "value_fcfe": 1864.9339387510233,
+   "value_ddm": 1864.9339387510236
+  }
+ },
+ {
+  "name": "fcfevsddm branch: stable beta 1.2",
+  "inputs": {
+   "model": "fcfe_vs_ddm",
+   "net_income": 100,
+   "dividends": 30,
+   "capex": 75,
+   "depreciation": 50,
+   "revenues": 1000,
+   "working_capital": 50,
+   "net_debt_cash_flow": 10,
+   "years": 5,
+   "growth": 0.1,
+   "beta": 1,
+   "riskfree_rate": 0.05,
+   "erp": 0.04,
+   "stable_growth": 0.04,
+   "roe_stable": 0.12,
+   "beta_stable": 1.2,
+   "cash_reinvestment_rate": 0.07
+  },
+  "expected": {
+   "value_fcfe": 1664.733508990059,
+   "value_ddm": 1655.4753975102296
+  }
+ },
+ {
+  "name": "fcfevsddm branch: 8 years",
+  "inputs": {
+   "model": "fcfe_vs_ddm",
+   "net_income": 100,
+   "dividends": 30,
+   "capex": 75,
+   "depreciation": 50,
+   "revenues": 1000,
+   "working_capital": 50,
+   "net_debt_cash_flow": 10,
+   "years": 8,
+   "growth": 0.1,
+   "beta": 1,
+   "riskfree_rate": 0.05,
+   "erp": 0.04,
+   "stable_growth": 0.04,
+   "roe_stable": 0.12,
+   "cash_reinvestment_rate": 0.07
+  },
+  "expected": {
+   "value_fcfe": 2162.554214984848,
+   "value_ddm": 2136.858476623992
+  }
+ }
+]

@@ -1,0 +1,15 @@
+Scenario                                             value/share  vs price
+Base case (sep_2026_inputs.json)                           81.40    -45.2%
+June-model beta weights (xAI at $100m, stale)              88.91    -40.2%
+Riskfree back at June 4.56% (terminal coc 8.25%)           89.59    -39.7%
+Terminal cost of capital = June model's 8.25%              95.89    -35.5%
+Terminal cost of capital = rf + mature ERP 9.37%           72.52    -51.2%
+xAI 2036 revenue $80bn (April 2026 view)                   73.14    -50.8%
+xAI 2036 revenue $240bn                                    89.67    -39.7%
+Starlink target margin 50%                                 75.14    -49.5%
+Starlink target margin 70%                                 87.67    -41.0%
+xAI sales-to-capital 0.5 in yrs 1-5 (H1-26 capex pace)       77.44    -47.9%
+All 2036 revenue targets x0.75                             62.58    -57.9%
+All 2036 revenue targets x1.25                            100.23    -32.6%
+
+BREAKEVEN: 2036 revenue targets x1.893 (total $795bn vs the model's $420bn, same margins and reinvestment efficiency) make value = $148.68

@@ -1,0 +1,447 @@
+[
+ {
+  "name": "template branch: baseline",
+  "custom": [
+   "branch"
+  ],
+  "inputs": {
+   "revenues": 21765.4,
+   "ebit": 3060.9,
+   "book_equity": 10667.8,
+   "book_debt": 45063,
+   "cash": 19000,
+   "non_operating_assets": 21119,
+   "minority_interests": 1558,
+   "shares_outstanding": 4315,
+   "price": 72.28,
+   "effective_tax_rate": 0.175,
+   "marginal_tax_rate": 0.25,
+   "growth_next_year": 0.05,
+   "margin_next_year": 0.14063146094259696,
+   "growth_years_2_5": 0.05,
+   "target_margin": 0.14063146094259696,
+   "margin_convergence_year": 5,
+   "riskfree_rate": 0.0458,
+   "initial_cost_of_capital": 0.0705501574064654,
+   "sales_to_capital_1_5": 1.708537671031893,
+   "sales_to_capital_6_10": 1.708537671031893,
+   "mature_erp": 0.0423
+  },
+  "expected_value_per_share": 7.187840270062114
+ },
+ {
+  "name": "template branch: failure V 20% @50%",
+  "custom": [
+   "branch"
+  ],
+  "inputs": {
+   "revenues": 21765.4,
+   "ebit": 3060.9,
+   "book_equity": 10667.8,
+   "book_debt": 45063,
+   "cash": 19000,
+   "non_operating_assets": 21119,
+   "minority_interests": 1558,
+   "shares_outstanding": 4315,
+   "price": 72.28,
+   "effective_tax_rate": 0.175,
+   "marginal_tax_rate": 0.25,
+   "growth_next_year": 0.05,
+   "margin_next_year": 0.14063146094259696,
+   "growth_years_2_5": 0.05,
+   "target_margin": 0.14063146094259696,
+   "margin_convergence_year": 5,
+   "riskfree_rate": 0.0458,
+   "initial_cost_of_capital": 0.0705501574064654,
+   "sales_to_capital_1_5": 1.708537671031893,
+   "sales_to_capital_6_10": 1.708537671031893,
+   "mature_erp": 0.0423,
+   "failure_probability": 0.2,
+   "failure_proceeds_basis": "V",
+   "failure_proceeds_pct": 0.5
+  },
+  "expected_value_per_share": 6.31837258141048
+ },
+ {
+  "name": "template branch: failure B 30% @40%",
+  "custom": [
+   "branch"
+  ],
+  "inputs": {
+   "revenues": 21765.4,
+   "ebit": 3060.9,
+   "book_equity": 10667.8,
+   "book_debt": 45063,
+   "cash": 19000,
+   "non_operating_assets": 21119,
+   "minority_interests": 1558,
+   "shares_outstanding": 4315,
+   "price": 72.28,
+   "effective_tax_rate": 0.175,
+   "marginal_tax_rate": 0.25,
+   "growth_next_year": 0.05,
+   "margin_next_year": 0.14063146094259696,
+   "growth_years_2_5": 0.05,
+   "target_margin": 0.14063146094259696,
+   "margin_convergence_year": 5,
+   "riskfree_rate": 0.0458,
+   "initial_cost_of_capital": 0.0705501574064654,
+   "sales_to_capital_1_5": 1.708537671031893,
+   "sales_to_capital_6_10": 1.708537671031893,
+   "mature_erp": 0.0423,
+   "failure_probability": 0.3,
+   "failure_proceeds_basis": "B",
+   "failure_proceeds_pct": 0.4
+  },
+  "expected_value_per_share": 6.129308814767698
+ },
+ {
+  "name": "template branch: lag 0",
+  "custom": [
+   "branch"
+  ],
+  "inputs": {
+   "revenues": 21765.4,
+   "ebit": 3060.9,
+   "book_equity": 10667.8,
+   "book_debt": 45063,
+   "cash": 19000,
+   "non_operating_assets": 21119,
+   "minority_interests": 1558,
+   "shares_outstanding": 4315,
+   "price": 72.28,
+   "effective_tax_rate": 0.175,
+   "marginal_tax_rate": 0.25,
+   "growth_next_year": 0.05,
+   "margin_next_year": 0.14063146094259696,
+   "growth_years_2_5": 0.05,
+   "target_margin": 0.14063146094259696,
+   "margin_convergence_year": 5,
+   "riskfree_rate": 0.0458,
+   "initial_cost_of_capital": 0.0705501574064654,
+   "sales_to_capital_1_5": 1.708537671031893,
+   "sales_to_capital_6_10": 1.708537671031893,
+   "mature_erp": 0.0423,
+   "reinvestment_lag": 0
+  },
+  "expected_value_per_share": 7.236902026138079
+ },
+ {
+  "name": "template branch: lag 2",
+  "custom": [
+   "branch"
+  ],
+  "inputs": {
+   "revenues": 21765.4,
+   "ebit": 3060.9,
+   "book_equity": 10667.8,
+   "book_debt": 45063,
+   "cash": 19000,
+   "non_operating_assets": 21119,
+   "minority_interests": 1558,
+   "shares_outstanding": 4315,
+   "price": 72.28,
+   "effective_tax_rate": 0.175,
+   "marginal_tax_rate": 0.25,
+   "growth_next_year": 0.05,
+   "margin_next_year": 0.14063146094259696,
+   "growth_years_2_5": 0.05,
+   "target_margin": 0.14063146094259696,
+   "margin_convergence_year": 5,
+   "riskfree_rate": 0.0458,
+   "initial_cost_of_capital": 0.0705501574064654,
+   "sales_to_capital_1_5": 1.708537671031893,
+   "sales_to_capital_6_10": 1.708537671031893,
+   "mature_erp": 0.0423,
+   "reinvestment_lag": 2
+  },
+  "expected_value_per_share": 7.137703421243694
+ },
+ {
+  "name": "template branch: lag 3",
+  "custom": [
+   "branch"
+  ],
+  "inputs": {
+   "revenues": 21765.4,
+   "ebit": 3060.9,
+   "book_equity": 10667.8,
+   "book_debt": 45063,
+   "cash": 19000,
+   "non_operating_assets": 21119,
+   "minority_interests": 1558,
+   "shares_outstanding": 4315,
+   "price": 72.28,
+   "effective_tax_rate": 0.175,
+   "marginal_tax_rate": 0.25,
+   "growth_next_year": 0.05,
+   "margin_next_year": 0.14063146094259696,
+   "growth_years_2_5": 0.05,
+   "target_margin": 0.14063146094259696,
+   "margin_convergence_year": 5,
+   "riskfree_rate": 0.0458,
+   "initial_cost_of_capital": 0.0705501574064654,
+   "sales_to_capital_1_5": 1.708537671031893,
+   "sales_to_capital_6_10": 1.708537671031893,
+   "mature_erp": 0.0423,
+   "reinvestment_lag": 3
+  },
+  "expected_value_per_share": 7.086533133696583
+ },
+ {
+  "name": "template branch: keep effective tax",
+  "custom": [
+   "branch"
+  ],
+  "inputs": {
+   "revenues": 21765.4,
+   "ebit": 3060.9,
+   "book_equity": 10667.8,
+   "book_debt": 45063,
+   "cash": 19000,
+   "non_operating_assets": 21119,
+   "minority_interests": 1558,
+   "shares_outstanding": 4315,
+   "price": 72.28,
+   "effective_tax_rate": 0.175,
+   "marginal_tax_rate": 0.25,
+   "growth_next_year": 0.05,
+   "margin_next_year": 0.14063146094259696,
+   "growth_years_2_5": 0.05,
+   "target_margin": 0.14063146094259696,
+   "margin_convergence_year": 5,
+   "riskfree_rate": 0.0458,
+   "initial_cost_of_capital": 0.0705501574064654,
+   "sales_to_capital_1_5": 1.708537671031893,
+   "sales_to_capital_6_10": 1.708537671031893,
+   "mature_erp": 0.0423,
+   "keep_effective_tax": true
+  },
+  "expected_value_per_share": 7.807394892624966
+ },
+ {
+  "name": "template branch: NOL (sheet 731.4)",
+  "custom": [
+   "branch"
+  ],
+  "inputs": {
+   "revenues": 21765.4,
+   "ebit": 3060.9,
+   "book_equity": 10667.8,
+   "book_debt": 45063,
+   "cash": 19000,
+   "non_operating_assets": 21119,
+   "minority_interests": 1558,
+   "shares_outstanding": 4315,
+   "price": 72.28,
+   "effective_tax_rate": 0.175,
+   "marginal_tax_rate": 0.25,
+   "growth_next_year": 0.05,
+   "margin_next_year": 0.14063146094259696,
+   "growth_years_2_5": 0.05,
+   "target_margin": 0.14063146094259696,
+   "margin_convergence_year": 5,
+   "riskfree_rate": 0.0458,
+   "initial_cost_of_capital": 0.0705501574064654,
+   "sales_to_capital_1_5": 1.708537671031893,
+   "sales_to_capital_6_10": 1.708537671031893,
+   "mature_erp": 0.0423,
+   "nol": 731.4000000000001
+  },
+  "expected_value_per_share": 7.215548270445166
+ },
+ {
+  "name": "template branch: loss-making + NOL",
+  "custom": [
+   "branch"
+  ],
+  "inputs": {
+   "revenues": 21765.4,
+   "ebit": -1500,
+   "book_equity": 10667.8,
+   "book_debt": 45063,
+   "cash": 19000,
+   "non_operating_assets": 21119,
+   "minority_interests": 1558,
+   "shares_outstanding": 4315,
+   "price": 72.28,
+   "effective_tax_rate": 0.175,
+   "marginal_tax_rate": 0.25,
+   "growth_next_year": 0.05,
+   "margin_next_year": -0.06891672103430214,
+   "growth_years_2_5": 0.05,
+   "target_margin": -0.06891672103430214,
+   "margin_convergence_year": 5,
+   "riskfree_rate": 0.0458,
+   "initial_cost_of_capital": 0.0705501574064654,
+   "sales_to_capital_1_5": 1.708537671031893,
+   "sales_to_capital_6_10": 1.708537671031893,
+   "mature_erp": 0.0423,
+   "nol": 731.4000000000001
+  },
+  "expected_value_per_share": -8.265382876617576
+ },
+ {
+  "name": "template branch: riskfree after 10",
+  "custom": [
+   "branch"
+  ],
+  "inputs": {
+   "revenues": 21765.4,
+   "ebit": 3060.9,
+   "book_equity": 10667.8,
+   "book_debt": 45063,
+   "cash": 19000,
+   "non_operating_assets": 21119,
+   "minority_interests": 1558,
+   "shares_outstanding": 4315,
+   "price": 72.28,
+   "effective_tax_rate": 0.175,
+   "marginal_tax_rate": 0.25,
+   "growth_next_year": 0.05,
+   "margin_next_year": 0.14063146094259696,
+   "growth_years_2_5": 0.05,
+   "target_margin": 0.14063146094259696,
+   "margin_convergence_year": 5,
+   "riskfree_rate": 0.0458,
+   "initial_cost_of_capital": 0.0705501574064654,
+   "sales_to_capital_1_5": 1.708537671031893,
+   "sales_to_capital_6_10": 1.708537671031893,
+   "mature_erp": 0.0423,
+   "riskfree_after_10": 0.03
+  },
+  "expected_value_per_share": 8.311365710064745
+ },
+ {
+  "name": "template branch: terminal growth -2%",
+  "custom": [
+   "branch"
+  ],
+  "inputs": {
+   "revenues": 21765.4,
+   "ebit": 3060.9,
+   "book_equity": 10667.8,
+   "book_debt": 45063,
+   "cash": 19000,
+   "non_operating_assets": 21119,
+   "minority_interests": 1558,
+   "shares_outstanding": 4315,
+   "price": 72.28,
+   "effective_tax_rate": 0.175,
+   "marginal_tax_rate": 0.25,
+   "growth_next_year": 0.05,
+   "margin_next_year": 0.14063146094259696,
+   "growth_years_2_5": 0.05,
+   "target_margin": 0.14063146094259696,
+   "margin_convergence_year": 5,
+   "riskfree_rate": 0.0458,
+   "initial_cost_of_capital": 0.0705501574064654,
+   "sales_to_capital_1_5": 1.708537671031893,
+   "sales_to_capital_6_10": 1.708537671031893,
+   "mature_erp": 0.0423,
+   "terminal_growth": -0.02
+  },
+  "expected_value_per_share": 5.819622734402908
+ },
+ {
+  "name": "template branch: trapped cash",
+  "custom": [
+   "branch"
+  ],
+  "inputs": {
+   "revenues": 21765.4,
+   "ebit": 3060.9,
+   "book_equity": 10667.8,
+   "book_debt": 45063,
+   "cash": 19000,
+   "non_operating_assets": 21119,
+   "minority_interests": 1558,
+   "shares_outstanding": 4315,
+   "price": 72.28,
+   "effective_tax_rate": 0.175,
+   "marginal_tax_rate": 0.25,
+   "growth_next_year": 0.05,
+   "margin_next_year": 0.14063146094259696,
+   "growth_years_2_5": 0.05,
+   "target_margin": 0.14063146094259696,
+   "margin_convergence_year": 5,
+   "riskfree_rate": 0.0458,
+   "initial_cost_of_capital": 0.0705501574064654,
+   "sales_to_capital_1_5": 1.708537671031893,
+   "sales_to_capital_6_10": 1.708537671031893,
+   "mature_erp": 0.0423,
+   "trapped_cash": 5000,
+   "trapped_cash_tax_rate": 0.1
+  },
+  "expected_value_per_share": 7.014027987327467
+ },
+ {
+  "name": "template branch: options @price",
+  "custom": [
+   "branch"
+  ],
+  "inputs": {
+   "revenues": 21765.4,
+   "ebit": 3060.9,
+   "book_equity": 10667.8,
+   "book_debt": 45063,
+   "cash": 19000,
+   "non_operating_assets": 21119,
+   "minority_interests": 1558,
+   "shares_outstanding": 4315,
+   "price": 72.28,
+   "effective_tax_rate": 0.175,
+   "marginal_tax_rate": 0.25,
+   "growth_next_year": 0.05,
+   "margin_next_year": 0.14063146094259696,
+   "growth_years_2_5": 0.05,
+   "target_margin": 0.14063146094259696,
+   "margin_convergence_year": 5,
+   "riskfree_rate": 0.0458,
+   "initial_cost_of_capital": 0.0705501574064654,
+   "sales_to_capital_1_5": 1.708537671031893,
+   "sales_to_capital_6_10": 1.708537671031893,
+   "mature_erp": 0.0423,
+   "options": {
+    "number": 50,
+    "strike": 60,
+    "maturity": 5,
+    "volatility": 0.3,
+    "price_basis": "price"
+   }
+  },
+  "expected_value_per_share": 6.83543896301093
+ },
+ {
+  "name": "template branch: coc+roic override",
+  "custom": [
+   "branch"
+  ],
+  "inputs": {
+   "revenues": 21765.4,
+   "ebit": 3060.9,
+   "book_equity": 10667.8,
+   "book_debt": 45063,
+   "cash": 19000,
+   "non_operating_assets": 21119,
+   "minority_interests": 1558,
+   "shares_outstanding": 4315,
+   "price": 72.28,
+   "effective_tax_rate": 0.175,
+   "marginal_tax_rate": 0.25,
+   "growth_next_year": 0.05,
+   "margin_next_year": 0.14063146094259696,
+   "growth_years_2_5": 0.05,
+   "target_margin": 0.14063146094259696,
+   "margin_convergence_year": 5,
+   "riskfree_rate": 0.0458,
+   "initial_cost_of_capital": 0.0705501574064654,
+   "sales_to_capital_1_5": 1.708537671031893,
+   "sales_to_capital_6_10": 1.708537671031893,
+   "mature_erp": 0.0423,
+   "terminal_cost_of_capital": 0.0705501574064654,
+   "terminal_roic": 0.12
+  },
+  "expected_value_per_share": 13.64490313008897
+ }
+]

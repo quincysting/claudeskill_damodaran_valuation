@@ -1,0 +1,1121 @@
+[
+ {
+  "name": "synergyvaluation",
+  "source": "synergyvaluation.xls",
+  "url": "https://pages.stern.nyu.edu/~adamodar/pc/synergyvaluation.xls",
+  "custom": [],
+  "inputs": {
+   "mode": "synergy",
+   "riskfree_rate": 0.0425,
+   "erp": 0.04,
+   "acquirer": {
+    "beta": 1.2,
+    "pre_tax_cost_of_debt": 0.05,
+    "tax_rate": 0.3,
+    "debt_to_capital": 0.1,
+    "revenues": 1000.0,
+    "ebit": 50.0,
+    "pretax_roc": 0.15,
+    "reinvestment_rate": 0.7,
+    "years": 5.0
+   },
+   "target": {
+    "beta": 0.9,
+    "pre_tax_cost_of_debt": 0.05,
+    "tax_rate": 0.3,
+    "debt_to_capital": 0.1,
+    "revenues": 500.0,
+    "ebit": 25.0,
+    "pretax_roc": 0.15,
+    "reinvestment_rate": 0.7,
+    "years": 5.0
+   },
+   "combined": {
+    "pre_tax_cost_of_debt": 0.05,
+    "tax_rate": 0.3,
+    "debt_to_capital": 0.1,
+    "revenues": 1500.0,
+    "ebit": 75.0,
+    "pretax_roc": 0.15,
+    "reinvestment_rate": 0.7,
+    "years": 5.0
+   }
+  },
+  "expected": {
+   "acquirer.value": 458.18723334955746,
+   "target.value": 271.497294732754,
+   "combined.value": 729.7906727773976,
+   "synergy": 0.10614469508607272,
+   "combined.beta": 1.0883775312683641,
+   "combined.stable_cost_of_capital": 0.08101662379421222
+  }
+ },
+ {
+  "name": "synergyvaluation branch: baseline",
+  "source": "synergyvaluation.xlsx",
+  "url": "https://pages.stern.nyu.edu/~adamodar/pc/synergyvaluation.xls",
+  "custom": [
+   "branch"
+  ],
+  "inputs": {
+   "mode": "synergy",
+   "riskfree_rate": 0.0425,
+   "erp": 0.04,
+   "acquirer": {
+    "beta": 1.2,
+    "pre_tax_cost_of_debt": 0.05,
+    "tax_rate": 0.3,
+    "debt_to_capital": 0.1,
+    "revenues": 1000,
+    "ebit": 50,
+    "pretax_roc": 0.15,
+    "reinvestment_rate": 0.7,
+    "years": 5
+   },
+   "target": {
+    "beta": 0.9,
+    "pre_tax_cost_of_debt": 0.05,
+    "tax_rate": 0.3,
+    "debt_to_capital": 0.1,
+    "revenues": 500,
+    "ebit": 25,
+    "pretax_roc": 0.15,
+    "reinvestment_rate": 0.7,
+    "years": 5
+   },
+   "combined": {
+    "pre_tax_cost_of_debt": 0.05,
+    "tax_rate": 0.3,
+    "debt_to_capital": 0.1,
+    "revenues": 1500,
+    "ebit": 75,
+    "pretax_roc": 0.15,
+    "reinvestment_rate": 0.7,
+    "years": 5
+   }
+  },
+  "expected": {
+   "acquirer.value": 458.18723334955746,
+   "target.value": 271.49729473275215,
+   "combined.value": 729.790672777397,
+   "synergy": 0.10614469508743696,
+   "combined.beta": 1.0883775312683648,
+   "combined.stable_cost_of_capital": 0.08101662379421222
+  }
+ },
+ {
+  "name": "synergyvaluation branch: cost synergy EBIT 90",
+  "source": "synergyvaluation.xlsx",
+  "url": "https://pages.stern.nyu.edu/~adamodar/pc/synergyvaluation.xls",
+  "custom": [
+   "branch"
+  ],
+  "inputs": {
+   "mode": "synergy",
+   "riskfree_rate": 0.0425,
+   "erp": 0.04,
+   "acquirer": {
+    "beta": 1.2,
+    "pre_tax_cost_of_debt": 0.05,
+    "tax_rate": 0.3,
+    "debt_to_capital": 0.1,
+    "revenues": 1000,
+    "ebit": 50,
+    "pretax_roc": 0.15,
+    "reinvestment_rate": 0.7,
+    "years": 5
+   },
+   "target": {
+    "beta": 0.9,
+    "pre_tax_cost_of_debt": 0.05,
+    "tax_rate": 0.3,
+    "debt_to_capital": 0.1,
+    "revenues": 500,
+    "ebit": 25,
+    "pretax_roc": 0.15,
+    "reinvestment_rate": 0.7,
+    "years": 5
+   },
+   "combined": {
+    "pre_tax_cost_of_debt": 0.05,
+    "tax_rate": 0.3,
+    "debt_to_capital": 0.1,
+    "revenues": 1500,
+    "ebit": 90,
+    "pretax_roc": 0.15,
+    "reinvestment_rate": 0.7,
+    "years": 5
+   }
+  },
+  "expected": {
+   "acquirer.value": 458.18723334955746,
+   "target.value": 271.49729473275215,
+   "combined.value": 875.7488073328764,
+   "synergy": 146.06427925056676,
+   "combined.beta": 1.0883775312683648,
+   "combined.stable_cost_of_capital": 0.08101662379421222
+  }
+ },
+ {
+  "name": "synergyvaluation branch: growth synergy",
+  "source": "synergyvaluation.xlsx",
+  "url": "https://pages.stern.nyu.edu/~adamodar/pc/synergyvaluation.xls",
+  "custom": [
+   "branch"
+  ],
+  "inputs": {
+   "mode": "synergy",
+   "riskfree_rate": 0.0425,
+   "erp": 0.04,
+   "acquirer": {
+    "beta": 1.2,
+    "pre_tax_cost_of_debt": 0.05,
+    "tax_rate": 0.3,
+    "debt_to_capital": 0.1,
+    "revenues": 1000,
+    "ebit": 50,
+    "pretax_roc": 0.15,
+    "reinvestment_rate": 0.7,
+    "years": 5
+   },
+   "target": {
+    "beta": 0.9,
+    "pre_tax_cost_of_debt": 0.05,
+    "tax_rate": 0.3,
+    "debt_to_capital": 0.1,
+    "revenues": 500,
+    "ebit": 25,
+    "pretax_roc": 0.15,
+    "reinvestment_rate": 0.7,
+    "years": 5
+   },
+   "combined": {
+    "pre_tax_cost_of_debt": 0.05,
+    "tax_rate": 0.3,
+    "debt_to_capital": 0.1,
+    "revenues": 1500,
+    "ebit": 75,
+    "pretax_roc": 0.2,
+    "reinvestment_rate": 0.8,
+    "years": 5
+   }
+  },
+  "expected": {
+   "acquirer.value": 458.18723334955746,
+   "target.value": 271.49729473275215,
+   "combined.value": 835.5885557620833,
+   "synergy": 105.90402767977366,
+   "combined.beta": 1.0883775312683648,
+   "combined.stable_cost_of_capital": 0.08101662379421222
+  }
+ },
+ {
+  "name": "synergyvaluation branch: debt capacity",
+  "source": "synergyvaluation.xlsx",
+  "url": "https://pages.stern.nyu.edu/~adamodar/pc/synergyvaluation.xls",
+  "custom": [
+   "branch"
+  ],
+  "inputs": {
+   "mode": "synergy",
+   "riskfree_rate": 0.0425,
+   "erp": 0.04,
+   "acquirer": {
+    "beta": 1.2,
+    "pre_tax_cost_of_debt": 0.05,
+    "tax_rate": 0.3,
+    "debt_to_capital": 0.1,
+    "revenues": 1000,
+    "ebit": 50,
+    "pretax_roc": 0.15,
+    "reinvestment_rate": 0.7,
+    "years": 5
+   },
+   "target": {
+    "beta": 0.9,
+    "pre_tax_cost_of_debt": 0.05,
+    "tax_rate": 0.3,
+    "debt_to_capital": 0.1,
+    "revenues": 500,
+    "ebit": 25,
+    "pretax_roc": 0.15,
+    "reinvestment_rate": 0.7,
+    "years": 5
+   },
+   "combined": {
+    "pre_tax_cost_of_debt": 0.055,
+    "tax_rate": 0.3,
+    "debt_to_capital": 0.3,
+    "revenues": 1500,
+    "ebit": 75,
+    "pretax_roc": 0.15,
+    "reinvestment_rate": 0.7,
+    "years": 5
+   }
+  },
+  "expected": {
+   "acquirer.value": 458.18723334955746,
+   "target.value": 271.49729473275215,
+   "combined.value": 763.5197469242155,
+   "synergy": 33.835218841905885,
+   "combined.beta": 1.3127852696742133,
+   "combined.stable_cost_of_capital": 0.07813776046673518
+  }
+ },
+ {
+  "name": "synergyvaluation branch: tax synergy",
+  "source": "synergyvaluation.xlsx",
+  "url": "https://pages.stern.nyu.edu/~adamodar/pc/synergyvaluation.xls",
+  "custom": [
+   "branch"
+  ],
+  "inputs": {
+   "mode": "synergy",
+   "riskfree_rate": 0.0425,
+   "erp": 0.04,
+   "acquirer": {
+    "beta": 1.2,
+    "pre_tax_cost_of_debt": 0.05,
+    "tax_rate": 0.3,
+    "debt_to_capital": 0.1,
+    "revenues": 1000,
+    "ebit": 50,
+    "pretax_roc": 0.15,
+    "reinvestment_rate": 0.7,
+    "years": 5
+   },
+   "target": {
+    "beta": 0.9,
+    "pre_tax_cost_of_debt": 0.05,
+    "tax_rate": 0.3,
+    "debt_to_capital": 0.1,
+    "revenues": 500,
+    "ebit": 25,
+    "pretax_roc": 0.15,
+    "reinvestment_rate": 0.7,
+    "years": 5
+   },
+   "combined": {
+    "pre_tax_cost_of_debt": 0.05,
+    "tax_rate": 0.25,
+    "debt_to_capital": 0.1,
+    "revenues": 1500,
+    "ebit": 75,
+    "pretax_roc": 0.15,
+    "reinvestment_rate": 0.7,
+    "years": 5
+   }
+  },
+  "expected": {
+   "acquirer.value": 458.18723334955746,
+   "target.value": 271.49729473275215,
+   "combined.value": 794.828790909482,
+   "synergy": 65.14426282717238,
+   "combined.beta": 1.093987724728511,
+   "combined.stable_cost_of_capital": 0.08146902907150198
+  }
+ },
+ {
+  "name": "synergyvaluation branch: dissimilar firms",
+  "source": "synergyvaluation.xlsx",
+  "url": "https://pages.stern.nyu.edu/~adamodar/pc/synergyvaluation.xls",
+  "custom": [
+   "branch"
+  ],
+  "inputs": {
+   "mode": "synergy",
+   "riskfree_rate": 0.0425,
+   "erp": 0.04,
+   "acquirer": {
+    "beta": 1.5,
+    "pre_tax_cost_of_debt": 0.05,
+    "tax_rate": 0.35,
+    "debt_to_capital": 0.3,
+    "revenues": 1000,
+    "ebit": 50,
+    "pretax_roc": 0.15,
+    "reinvestment_rate": 0.7,
+    "years": 3
+   },
+   "target": {
+    "beta": 0.7,
+    "pre_tax_cost_of_debt": 0.05,
+    "tax_rate": 0.2,
+    "debt_to_capital": 0.05,
+    "revenues": 500,
+    "ebit": 40,
+    "pretax_roc": 0.25,
+    "reinvestment_rate": 0.4,
+    "years": 8
+   },
+   "combined": {
+    "pre_tax_cost_of_debt": 0.05,
+    "tax_rate": 0.3,
+    "debt_to_capital": 0.1,
+    "revenues": 1500,
+    "ebit": 95,
+    "pretax_roc": 0.15,
+    "reinvestment_rate": 0.7,
+    "years": 6
+   }
+  },
+  "expected": {
+   "acquirer.value": 429.166800222309,
+   "target.value": 685.9328507328028,
+   "combined.value": 1035.9857244707105,
+   "synergy": -79.11392648440142,
+   "combined.beta": 0.9319718256567734,
+   "combined.stable_cost_of_capital": 0.07484577527493978
+  }
+ },
+ {
+  "name": "synergyvaluation branch: rf 3%, ERP 5.5%",
+  "source": "synergyvaluation.xlsx",
+  "url": "https://pages.stern.nyu.edu/~adamodar/pc/synergyvaluation.xls",
+  "custom": [
+   "branch"
+  ],
+  "inputs": {
+   "mode": "synergy",
+   "riskfree_rate": 0.03,
+   "erp": 0.055,
+   "acquirer": {
+    "beta": 1.2,
+    "pre_tax_cost_of_debt": 0.05,
+    "tax_rate": 0.3,
+    "debt_to_capital": 0.1,
+    "revenues": 1000,
+    "ebit": 50,
+    "pretax_roc": 0.15,
+    "reinvestment_rate": 0.7,
+    "years": 5
+   },
+   "target": {
+    "beta": 0.9,
+    "pre_tax_cost_of_debt": 0.05,
+    "tax_rate": 0.3,
+    "debt_to_capital": 0.1,
+    "revenues": 500,
+    "ebit": 25,
+    "pretax_roc": 0.15,
+    "reinvestment_rate": 0.7,
+    "years": 5
+   },
+   "combined": {
+    "pre_tax_cost_of_debt": 0.05,
+    "tax_rate": 0.3,
+    "debt_to_capital": 0.1,
+    "revenues": 1500,
+    "ebit": 75,
+    "pretax_roc": 0.15,
+    "reinvestment_rate": 0.7,
+    "years": 5
+   }
+  },
+  "expected": {
+   "acquirer.value": 421.90274717605877,
+   "target.value": 264.58347930250426,
+   "combined.value": 686.6736413769657,
+   "synergy": 0.18741489840272152,
+   "combined.beta": 1.0843748924171168,
+   "combined.stable_cost_of_capital": 0.08433743750000001
+  }
+ },
+ {
+  "name": "controlvalue",
+  "source": "controlvalue.xls",
+  "url": "https://pages.stern.nyu.edu/~adamodar/pc/controlvalue.xls",
+  "custom": [],
+  "inputs": {
+   "mode": "control",
+   "riskfree_rate": 0.02,
+   "erp": 0.06,
+   "status_quo": {
+    "beta": 0.9,
+    "pre_tax_cost_of_debt": 0.04,
+    "tax_rate": 0.4,
+    "debt_to_capital": 0.28,
+    "revenues": 54365.0,
+    "ebit": 6657.0,
+    "pretax_roc": 0.1106,
+    "reinvestment_rate": 0.3,
+    "years": 5.0
+   },
+   "optimal": {
+    "pre_tax_cost_of_debt": 0.045,
+    "tax_rate": 0.4,
+    "debt_to_capital": 0.4,
+    "revenues": 54365.0,
+    "ebit": 7322.700000000001,
+    "pretax_roc": 0.125,
+    "reinvestment_rate": 0.2,
+    "years": 5.0
+   }
+  },
+  "expected": {
+   "status_quo.value": 68466.87549998055,
+   "optimal.value": 76150.33847398034,
+   "value_of_control": 7683.462973999791,
+   "optimal.beta": 1.0216216216216216,
+   "optimal.cost_of_capital": 0.059578378378378385
+  }
+ },
+ {
+  "name": "controlvalue branch: baseline",
+  "source": "controlvalue.xlsx",
+  "url": "https://pages.stern.nyu.edu/~adamodar/pc/controlvalue.xls",
+  "custom": [
+   "branch"
+  ],
+  "inputs": {
+   "mode": "control",
+   "riskfree_rate": 0.02,
+   "erp": 0.06,
+   "status_quo": {
+    "beta": 0.9,
+    "pre_tax_cost_of_debt": 0.04,
+    "tax_rate": 0.4,
+    "debt_to_capital": 0.28,
+    "revenues": 54365,
+    "ebit": 6657,
+    "pretax_roc": 0.1106,
+    "reinvestment_rate": 0.3,
+    "years": 5
+   },
+   "optimal": {
+    "pre_tax_cost_of_debt": 0.045,
+    "tax_rate": 0.4,
+    "debt_to_capital": 0.4,
+    "revenues": 54365,
+    "ebit": 7322.700000000001,
+    "pretax_roc": 0.125,
+    "reinvestment_rate": 0.2,
+    "years": 5
+   }
+  },
+  "expected": {
+   "status_quo.value": 68466.87549998055,
+   "optimal.value": 76150.33847398034,
+   "value_of_control": 7683.462973999791,
+   "optimal.beta": 1.0216216216216216,
+   "optimal.cost_of_capital": 0.059578378378378385
+  }
+ },
+ {
+  "name": "controlvalue branch: more debt, higher kd",
+  "source": "controlvalue.xlsx",
+  "url": "https://pages.stern.nyu.edu/~adamodar/pc/controlvalue.xls",
+  "custom": [
+   "branch"
+  ],
+  "inputs": {
+   "mode": "control",
+   "riskfree_rate": 0.02,
+   "erp": 0.06,
+   "status_quo": {
+    "beta": 0.9,
+    "pre_tax_cost_of_debt": 0.04,
+    "tax_rate": 0.4,
+    "debt_to_capital": 0.28,
+    "revenues": 54365,
+    "ebit": 6657,
+    "pretax_roc": 0.1106,
+    "reinvestment_rate": 0.3,
+    "years": 5
+   },
+   "optimal": {
+    "pre_tax_cost_of_debt": 0.05,
+    "tax_rate": 0.4,
+    "debt_to_capital": 0.5,
+    "revenues": 54365,
+    "ebit": 7322.700000000001,
+    "pretax_roc": 0.125,
+    "reinvestment_rate": 0.2,
+    "years": 5
+   }
+  },
+  "expected": {
+   "status_quo.value": 68466.87549998055,
+   "optimal.value": 75550.44955649531,
+   "value_of_control": 7083.574056514757,
+   "optimal.beta": 1.1675675675675676,
+   "optimal.cost_of_capital": 0.06002702702702703
+  }
+ },
+ {
+  "name": "controlvalue branch: tax change",
+  "source": "controlvalue.xlsx",
+  "url": "https://pages.stern.nyu.edu/~adamodar/pc/controlvalue.xls",
+  "custom": [
+   "branch"
+  ],
+  "inputs": {
+   "mode": "control",
+   "riskfree_rate": 0.02,
+   "erp": 0.06,
+   "status_quo": {
+    "beta": 0.9,
+    "pre_tax_cost_of_debt": 0.04,
+    "tax_rate": 0.35,
+    "debt_to_capital": 0.28,
+    "revenues": 54365,
+    "ebit": 6657,
+    "pretax_roc": 0.1106,
+    "reinvestment_rate": 0.3,
+    "years": 5
+   },
+   "optimal": {
+    "pre_tax_cost_of_debt": 0.045,
+    "tax_rate": 0.25,
+    "debt_to_capital": 0.4,
+    "revenues": 54365,
+    "ebit": 7322.700000000001,
+    "pretax_roc": 0.125,
+    "reinvestment_rate": 0.2,
+    "years": 5
+   }
+  },
+  "expected": {
+   "status_quo.value": 73985.51765037113,
+   "optimal.value": 89319.21087644025,
+   "value_of_control": 15333.693226069125,
+   "optimal.beta": 1.0776053215077606,
+   "optimal.cost_of_capital": 0.06429379157427938
+  }
+ },
+ {
+  "name": "controlvalue branch: better ROC, more reinvestment",
+  "source": "controlvalue.xlsx",
+  "url": "https://pages.stern.nyu.edu/~adamodar/pc/controlvalue.xls",
+  "custom": [
+   "branch"
+  ],
+  "inputs": {
+   "mode": "control",
+   "riskfree_rate": 0.02,
+   "erp": 0.06,
+   "status_quo": {
+    "beta": 0.9,
+    "pre_tax_cost_of_debt": 0.04,
+    "tax_rate": 0.4,
+    "debt_to_capital": 0.28,
+    "revenues": 54365,
+    "ebit": 6657,
+    "pretax_roc": 0.1106,
+    "reinvestment_rate": 0.3,
+    "years": 5
+   },
+   "optimal": {
+    "pre_tax_cost_of_debt": 0.045,
+    "tax_rate": 0.4,
+    "debt_to_capital": 0.4,
+    "revenues": 54365,
+    "ebit": 7322.700000000001,
+    "pretax_roc": 0.2,
+    "reinvestment_rate": 0.5,
+    "years": 5
+   }
+  },
+  "expected": {
+   "status_quo.value": 68466.87549998055,
+   "optimal.value": 86367.05789530868,
+   "value_of_control": 17900.182395328127,
+   "optimal.beta": 1.0216216216216216,
+   "optimal.cost_of_capital": 0.059578378378378385
+  }
+ },
+ {
+  "name": "controlvalue branch: growth periods 3 / 10",
+  "source": "controlvalue.xlsx",
+  "url": "https://pages.stern.nyu.edu/~adamodar/pc/controlvalue.xls",
+  "custom": [
+   "branch"
+  ],
+  "inputs": {
+   "mode": "control",
+   "riskfree_rate": 0.02,
+   "erp": 0.06,
+   "status_quo": {
+    "beta": 0.9,
+    "pre_tax_cost_of_debt": 0.04,
+    "tax_rate": 0.4,
+    "debt_to_capital": 0.28,
+    "revenues": 54365,
+    "ebit": 6657,
+    "pretax_roc": 0.1106,
+    "reinvestment_rate": 0.3,
+    "years": 3
+   },
+   "optimal": {
+    "pre_tax_cost_of_debt": 0.045,
+    "tax_rate": 0.4,
+    "debt_to_capital": 0.4,
+    "revenues": 54365,
+    "ebit": 7322.700000000001,
+    "pretax_roc": 0.125,
+    "reinvestment_rate": 0.2,
+    "years": 10
+   }
+  },
+  "expected": {
+   "status_quo.value": 68253.67325826544,
+   "optimal.value": 76900.66904457702,
+   "value_of_control": 8646.995786311585,
+   "optimal.beta": 1.0216216216216216,
+   "optimal.cost_of_capital": 0.059578378378378385
+  }
+ },
+ {
+  "name": "controlvalue branch: status quo EBIT 5000 (optimal EBIT default 1.1x)",
+  "source": "controlvalue.xlsx",
+  "url": "https://pages.stern.nyu.edu/~adamodar/pc/controlvalue.xls",
+  "custom": [
+   "branch"
+  ],
+  "inputs": {
+   "mode": "control",
+   "riskfree_rate": 0.02,
+   "erp": 0.06,
+   "status_quo": {
+    "beta": 0.9,
+    "pre_tax_cost_of_debt": 0.04,
+    "tax_rate": 0.4,
+    "debt_to_capital": 0.28,
+    "revenues": 54365,
+    "ebit": 5000,
+    "pretax_roc": 0.1106,
+    "reinvestment_rate": 0.3,
+    "years": 5
+   },
+   "optimal": {
+    "pre_tax_cost_of_debt": 0.045,
+    "tax_rate": 0.4,
+    "debt_to_capital": 0.4,
+    "revenues": 54365,
+    "pretax_roc": 0.125,
+    "reinvestment_rate": 0.2,
+    "years": 5
+   }
+  },
+  "expected": {
+   "status_quo.value": 51424.722472570655,
+   "optimal.value": 57195.687602508886,
+   "value_of_control": 5770.965129938231,
+   "optimal.beta": 1.0216216216216216,
+   "optimal.cost_of_capital": 0.059578378378378385
+  }
+ },
+ {
+  "name": "controlvalue branch: rf 4%, ERP 5%",
+  "source": "controlvalue.xlsx",
+  "url": "https://pages.stern.nyu.edu/~adamodar/pc/controlvalue.xls",
+  "custom": [
+   "branch"
+  ],
+  "inputs": {
+   "mode": "control",
+   "riskfree_rate": 0.04,
+   "erp": 0.05,
+   "status_quo": {
+    "beta": 0.9,
+    "pre_tax_cost_of_debt": 0.04,
+    "tax_rate": 0.4,
+    "debt_to_capital": 0.28,
+    "revenues": 54365,
+    "ebit": 6657,
+    "pretax_roc": 0.1106,
+    "reinvestment_rate": 0.3,
+    "years": 5
+   },
+   "optimal": {
+    "pre_tax_cost_of_debt": 0.045,
+    "tax_rate": 0.4,
+    "debt_to_capital": 0.4,
+    "revenues": 54365,
+    "ebit": 7322.700000000001,
+    "pretax_roc": 0.125,
+    "reinvestment_rate": 0.2,
+    "years": 5
+   }
+  },
+  "expected": {
+   "status_quo.value": 60796.81981356135,
+   "optimal.value": 70010.24813119782,
+   "value_of_control": 9213.42831763647,
+   "optimal.beta": 1.0216216216216216,
+   "optimal.cost_of_capital": 0.06544864864864866
+  }
+ },
+ {
+  "name": "controlvalue branch: ROC below WACC",
+  "source": "controlvalue.xlsx",
+  "url": "https://pages.stern.nyu.edu/~adamodar/pc/controlvalue.xls",
+  "custom": [
+   "branch"
+  ],
+  "inputs": {
+   "mode": "control",
+   "riskfree_rate": 0.02,
+   "erp": 0.06,
+   "status_quo": {
+    "beta": 0.9,
+    "pre_tax_cost_of_debt": 0.04,
+    "tax_rate": 0.4,
+    "debt_to_capital": 0.28,
+    "revenues": 54365,
+    "ebit": 6657,
+    "pretax_roc": 0.06,
+    "reinvestment_rate": 0.5,
+    "years": 5
+   },
+   "optimal": {
+    "pre_tax_cost_of_debt": 0.045,
+    "tax_rate": 0.4,
+    "debt_to_capital": 0.4,
+    "revenues": 54365,
+    "ebit": 7322.700000000001,
+    "pretax_roc": 0.125,
+    "reinvestment_rate": 0.2,
+    "years": 5
+   }
+  },
+  "expected": {
+   "status_quo.value": 64333.26532911125,
+   "optimal.value": 76150.33847398034,
+   "value_of_control": 11817.073144869093,
+   "optimal.beta": 1.0216216216216216,
+   "optimal.cost_of_capital": 0.059578378378378385
+  }
+ },
+ {
+  "name": "KFTcontrolvalue",
+  "source": "KFTcontrolvalue.xls",
+  "url": "https://pages.stern.nyu.edu/~adamodar/pc/blog/KFTcontrolvalue.xls",
+  "custom": [
+   "C27 typed as 0.2 over =C16 (0.3): growth uses C27, cash flows use C16 -> expected_growth passed"
+  ],
+  "inputs": {
+   "mode": "control",
+   "riskfree_rate": 0.02,
+   "erp": 0.06,
+   "status_quo": {
+    "beta": 1.1,
+    "pre_tax_cost_of_debt": 0.04,
+    "tax_rate": 0.4,
+    "debt_to_capital": 0.28,
+    "revenues": 54365.0,
+    "ebit": 6657.0,
+    "pretax_roc": 0.1106,
+    "reinvestment_rate": 0.3,
+    "years": 5.0
+   },
+   "optimal": {
+    "pre_tax_cost_of_debt": 0.045,
+    "tax_rate": 0.4,
+    "debt_to_capital": 0.4,
+    "revenues": 54365.0,
+    "ebit": 7322.700000000001,
+    "pretax_roc": 0.125,
+    "reinvestment_rate": 0.3,
+    "years": 5.0,
+    "expected_growth": 0.015
+   }
+  },
+  "expected": {
+   "status_quo.value": 59179.87074277265,
+   "optimal.value": 64586.544730508154,
+   "value_of_control": 5406.673987735507,
+   "optimal.beta": 1.2486486486486486,
+   "optimal.cost_of_capital": 0.06775135135135135
+  }
+ },
+ {
+  "name": "SABControl",
+  "source": "SABControl.xls",
+  "url": "https://pages.stern.nyu.edu/~adamodar/pc/blog/SABControl.xls",
+  "custom": [
+   "optimal beta C6 unlevers/relevers with the effective tax rate (rows shifted in the extended source sheet): passed as a levered beta",
+   "stable ROC = ROC (B20 = B27): excess returns continue"
+  ],
+  "inputs": {
+   "mode": "control",
+   "riskfree_rate": 0.02,
+   "erp": 0.08896004066877541,
+   "status_quo": {
+    "unlevered_beta": 0.7120197751375488,
+    "pre_tax_cost_of_debt": 0.032,
+    "marginal_tax_rate": 0.3,
+    "effective_tax_rate": 0.26356107660455486,
+    "debt_to_capital": 0.1467,
+    "revenues": 22130.0,
+    "ebit": 4420.0,
+    "pretax_roc": 0.14020173824779547,
+    "reinvestment_rate": 0.1602,
+    "years": 5.0,
+    "stable_roc": "roc",
+    "cash": 1027.0,
+    "cross_holdings": 20243.088021397303,
+    "debt": 12918.0,
+    "minority_interests": 1183.0
+   },
+   "optimal": {
+    "beta": 0.8289469958685932,
+    "pre_tax_cost_of_debt": 0.032,
+    "marginal_tax_rate": 0.3,
+    "effective_tax_rate": 0.26356107660455486,
+    "debt_to_capital": 0.1882,
+    "ebit": 4420.0,
+    "pretax_roc": 0.17159516990634627,
+    "reinvestment_rate": 0.3329,
+    "years": 5.0
+   }
+  },
+  "expected": {
+   "status_quo.value": 43747.242252379954,
+   "optimal.value": 48449.41535823946,
+   "value_of_control": 4702.173105859503,
+   "status_quo.equity": 50916.33027377726,
+   "optimal.equity": 55618.503379636764,
+   "status_quo.beta": 0.7977074708001233
+  }
+ },
+ {
+  "name": "InbevSABrestrusynergy",
+  "source": "InbevSABrestrusynergy.xls",
+  "url": "https://pages.stern.nyu.edu/~adamodar/pc/blog/InbevSABrestrusynergy.xls",
+  "custom": [
+   "stable ROC = ROC in perpetuity (row 6), TV growth = riskfree",
+   "combined D/E, ERP, revenues, years left to the engine's defaults (the sheet's status-quo column rules)",
+   "SABMiller inputs are the restructured (optimal) values from SABControl.xls; EBIT is the lease-adjusted 'Earnings & Cash Flows' row"
+  ],
+  "inputs": {
+   "mode": "synergy",
+   "riskfree_rate": 0.02,
+   "acquirer": {
+    "erp": 0.08177334492831181,
+    "marginal_tax_rate": 0.3,
+    "beta": 0.8471844603678338,
+    "unlevered_beta": 0.698091051982149,
+    "default_spread": 0.01,
+    "effective_tax_rate": 0.18,
+    "debt_to_equity": 0.3051043023733921,
+    "revenues": 45762.0,
+    "ebit": 14772.126677060083,
+    "roc": 0.12103179520272475,
+    "reinvestment_rate": 0.5099393323784058,
+    "years": 5.0,
+    "stable_roc": "roc",
+    "cash": 6784.0,
+    "debt": 53014.85990645925,
+    "shares": 1605.8
+   },
+   "target": {
+    "erp": 0.08896004066877541,
+    "marginal_tax_rate": 0.3,
+    "beta": 0.803375856394086,
+    "unlevered_beta": 0.69,
+    "default_spread": 0.012,
+    "effective_tax_rate": 0.2636,
+    "debt_to_equity": 0.23183050012318307,
+    "revenues": 22130.0,
+    "ebit": 4420.406505146577,
+    "roc": 0.12636936218568814,
+    "reinvestment_rate": 0.3329,
+    "years": 5.0,
+    "stable_roc": "roc",
+    "cash": 1027.0,
+    "debt": 12917.967474267118,
+    "shares": 1619.2
+   },
+   "combined": {
+    "marginal_tax_rate": 0.3,
+    "effective_tax_rate": 0.1991926267281106,
+    "default_spread": 0.01,
+    "operating_margin": 0.3,
+    "roc": 0.12,
+    "reinvestment_rate": 0.5,
+    "stable_roc": "roc",
+    "terminal_weights": "current_value"
+   }
+  },
+  "expected": {
+   "acquirer.value": 211952.8044076762,
+   "target.value": 50065.35326190421,
+   "acquirer.equity": 165721.94450121693,
+   "target.equity": 38174.38578763709,
+   "combined.beta": 0.8542115876314178,
+   "combined.cost_of_capital": 0.07453988932964735,
+   "combined.value": 276609.9216038979,
+   "synergy": 14591.763934317481,
+   "max_value_to_pay": 52766.14972195457,
+   "max_price_per_share": 32.587790095080635,
+   "breakeven_exchange_ratio": 0.315766710873322
+  }
+ },
+ {
+  "name": "TWCComcast",
+  "source": "TWCComcast.xls",
+  "url": "https://pages.stern.nyu.edu/~adamodar/pc/blog/TWCComcast.xls",
+  "custom": [
+   "stable ROC = ROC in perpetuity (row 6), TV growth = riskfree",
+   "combined D/E, ERP, revenues, years left to the engine's defaults (the sheet's status-quo column rules)",
+   "combined after-tax kd E35 uses the effective tax rate: passed as after_tax_cost_of_debt"
+  ],
+  "inputs": {
+   "mode": "synergy",
+   "riskfree_rate": 0.0275,
+   "acquirer": {
+    "erp": 0.05,
+    "marginal_tax_rate": 0.4,
+    "beta": 1.094609776482365,
+    "unlevered_beta": 0.8959634146341464,
+    "default_spread": 0.013,
+    "effective_tax_rate": 0.3338,
+    "debt_to_equity": 0.36952096965055387,
+    "revenues": 64657.0,
+    "ebit": 13563.0,
+    "roc": 0.09480533571128959,
+    "reinvestment_rate": 0.537878491274741,
+    "years": 5.0,
+    "stable_roc": "roc",
+    "cash": 5291.0,
+    "debt": 51562.217063098986,
+    "shares": 2606.5
+   },
+   "target": {
+    "erp": 0.05,
+    "marginal_tax_rate": 0.4,
+    "beta": 0.9738983281534067,
+    "unlevered_beta": 0.71,
+    "default_spread": 0.0225,
+    "effective_tax_rate": 0.3225,
+    "debt_to_equity": 0.6194796435525981,
+    "revenues": 22120.0,
+    "ebit": 4699.0,
+    "roc": 0.1029670206368507,
+    "reinvestment_rate": 0.05880748375563402,
+    "years": 5.0,
+    "stable_roc": "roc",
+    "cash": 525.0,
+    "debt": 25767.255773570316,
+    "shares": 277.9
+   },
+   "combined": {
+    "marginal_tax_rate": 0.4,
+    "effective_tax_rate": 0.33089239404227355,
+    "default_spread": 0.0135,
+    "operating_margin": 0.2175,
+    "roc": 0.09678650297737298,
+    "reinvestment_rate": 0.45,
+    "stable_roc": "roc",
+    "terminal_weights": "current_value",
+    "after_tax_cost_of_debt": 0.027433411844266786
+   }
+  },
+  "expected": {
+   "acquirer.value": 176573.9392642723,
+   "target.value": 72827.22223890372,
+   "acquirer.equity": 130302.72220117332,
+   "target.equity": 47584.966465333404,
+   "combined.beta": 1.061187258145128,
+   "combined.cost_of_capital": 0.06446247598377829
+  },
+  "unmatched": {
+   "combined.value": [
+    254225.9809177431,
+    "the sheet's E44 multiplies by (1+D2) and D2 is blank: TV drops the (1+riskfree) growth factor"
+   ],
+   "synergy": [
+    4824.819414567057,
+    "the sheet's E44 multiplies by (1+D2) and D2 is blank: TV drops the (1+riskfree) growth factor"
+   ],
+   "max_value_to_pay": [
+    52409.78587990046,
+    "the sheet's E44 multiplies by (1+D2) and D2 is blank: TV drops the (1+riskfree) growth factor"
+   ],
+   "max_price_per_share": [
+    188.59224857826723,
+    "the sheet's E44 multiplies by (1+D2) and D2 is blank: TV drops the (1+riskfree) growth factor"
+   ],
+   "breakeven_exchange_ratio": [
+    3.772489842233144,
+    "the sheet's E44 multiplies by (1+D2) and D2 is blank: TV drops the (1+riskfree) growth factor"
+   ]
+  }
+ },
+ {
+  "name": "TWCComcast (replicate_sheet_bugs)",
+  "source": "TWCComcast.xls",
+  "url": "https://pages.stern.nyu.edu/~adamodar/pc/blog/TWCComcast.xls",
+  "custom": [
+   "stable ROC = ROC in perpetuity (row 6), TV growth = riskfree",
+   "combined D/E, ERP, revenues, years left to the engine's defaults (the sheet's status-quo column rules)",
+   "combined after-tax kd E35 uses the effective tax rate: passed as after_tax_cost_of_debt"
+  ],
+  "inputs": {
+   "mode": "synergy",
+   "riskfree_rate": 0.0275,
+   "acquirer": {
+    "erp": 0.05,
+    "marginal_tax_rate": 0.4,
+    "beta": 1.094609776482365,
+    "unlevered_beta": 0.8959634146341464,
+    "default_spread": 0.013,
+    "effective_tax_rate": 0.3338,
+    "debt_to_equity": 0.36952096965055387,
+    "revenues": 64657.0,
+    "ebit": 13563.0,
+    "roc": 0.09480533571128959,
+    "reinvestment_rate": 0.537878491274741,
+    "years": 5.0,
+    "stable_roc": "roc",
+    "cash": 5291.0,
+    "debt": 51562.217063098986,
+    "shares": 2606.5
+   },
+   "target": {
+    "erp": 0.05,
+    "marginal_tax_rate": 0.4,
+    "beta": 0.9738983281534067,
+    "unlevered_beta": 0.71,
+    "default_spread": 0.0225,
+    "effective_tax_rate": 0.3225,
+    "debt_to_equity": 0.6194796435525981,
+    "revenues": 22120.0,
+    "ebit": 4699.0,
+    "roc": 0.1029670206368507,
+    "reinvestment_rate": 0.05880748375563402,
+    "years": 5.0,
+    "stable_roc": "roc",
+    "cash": 525.0,
+    "debt": 25767.255773570316,
+    "shares": 277.9
+   },
+   "combined": {
+    "marginal_tax_rate": 0.4,
+    "effective_tax_rate": 0.33089239404227355,
+    "default_spread": 0.0135,
+    "operating_margin": 0.2175,
+    "roc": 0.09678650297737298,
+    "reinvestment_rate": 0.45,
+    "stable_roc": "roc",
+    "terminal_weights": "current_value",
+    "after_tax_cost_of_debt": 0.027433411844266786
+   },
+   "replicate_sheet_bugs": true
+  },
+  "expected": {
+   "acquirer.value": 176573.9392642723,
+   "target.value": 72827.22223890372,
+   "acquirer.equity": 130302.72220117332,
+   "target.equity": 47584.966465333404,
+   "combined.beta": 1.061187258145128,
+   "combined.cost_of_capital": 0.06446247598377829,
+   "combined.value": 254225.9809177431,
+   "synergy": 4824.819414567057,
+   "max_value_to_pay": 52409.78587990046,
+   "max_price_per_share": 188.59224857826723,
+   "breakeven_exchange_ratio": 3.772489842233144
+  }
+ }
+]

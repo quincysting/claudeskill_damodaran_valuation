@@ -1,0 +1,55 @@
+{
+ "_what": "SPCX (SpaceX) valuation as of 2026-09-25: Damodaran's June 2026 model and story, updated for Q2-2026 filings and current market data",
+ "_sources": {
+  "story (2036 segment revenues, target margins, sales-to-capital, convergence year, base segment margins, terminal ROIC 15%)": "DAMODARAN June 2026 model, unchanged: SpaceX2026IPOUpdated.xlsx; post https://aswathdamodaran.blogspot.com/2026/06/a-weeks-ago-i-assessed-value-of-spacex.html (base segment margins kept: the 10-Q does not disclose segment profit)",
+  "segment base revenues (TTM to 2026-06-30)": "FILING: Damodaran's FY2025 segment revenues + H1-2026 - H1-2025 from SpaceX Q2-2026 10-Q Note 3 (Space 4,086+1,581-1,611; Connectivity 11,387+7,548-5,062; AI 3,201+3,379-1,465), https://www.sec.gov/Archives/edgar/data/0001181412/000162828026052535/spcx-20260630.htm",
+  "ebit (TTM)": "FILING: FY2025 -2,589 + H1-2026 -2,086 - H1-2025 -943 (10-Q statements of operations)",
+  "rd.current (TTM)": "FILING: FY2025 8,643 + H1-2026 7,062 - H1-2025 3,515; earlier years = Damodaran's June inputs",
+  "cash": "FILING: cash 93,522 + marketable securities 6,487 at 2026-06-30 (includes the IPO's $85,675m net proceeds, so ipo_proceeds = 0)",
+  "book_debt": "FILING: current 2,525 + long-term 36,839 debt and finance leases at 2026-06-30",
+  "book_equity": "FILING: total shareholders' equity 127,224 at 2026-06-30",
+  "shares_outstanding": "FILING: 10-Q cover (2026-07-28): Class A 7,696.29m + Class B 5,485.49m",
+  "price": "MARKET: SPCX close 2026-09-25, $148.68 (https://www.coingecko.com/en/stocks/spacex)",
+  "riskfree_rate": "MARKET: US 10-year Treasury 5.17% on 2026-09-25 (https://www.cnbc.com/2026/09/25/treasury-yields-bonds-debt.html); Damodaran's company models use the T-bond rate",
+  "cost_of_capital_inputs": "DAMODARAN METHOD (the June SpaceX cost-of-capital sheet, reproduced exactly at 8.3745%): multi-business global beta weighted by revenues (now TTM segment revenues; the June sheet still carried a $100m xAI weight), ERP by the June sheet's operating-country weights with the July-2026 ERPs (country_risk.py: US 4.42%, China 5.07%; rest of world = 6.18% from the June sheet), the June sheet's Ba2/BB rating with the Jan-2026 spread table, TTM interest 1,945+1,293-858, 3-year maturity from the June sheet",
+  "terminal_cost_of_capital": "DAMODARAN 8.25% steady-state choice, moved with the riskfree rate (+0.61pts: 5.17% - 4.56%), as Damodaran's industry-average method adjusts for riskfree changes",
+  "mature_erp": "DAMODARAN July 2026 country-risk update: mature market ERP 4.20% (country_risk.py, ctrypremJuly26.xlsx)",
+  "tax rates, options": "DAMODARAN June inputs (effective 10%, marginal 25%; options excluded as in Damodaran's model; option counts not disclosed in the 10-Q)"
+ },
+ "segments": [
+  {"name": "Launch (Space segment)", "base_revenue": 4056, "revenue_2036": 40000, "base_margin": 0.08, "target_margin": 0.45, "sales_to_capital_1_5": 3, "sales_to_capital_6_10": 4},
+  {"name": "Starlink (Connectivity segment)", "base_revenue": 13873, "revenue_2036": 120000, "base_margin": 0.10, "target_margin": 0.60, "sales_to_capital_1_5": 3, "sales_to_capital_6_10": 5},
+  {"name": "xAI (AI segment)", "base_revenue": 5115, "revenue_2036": 160000, "base_margin": -0.05, "target_margin": 0.25, "sales_to_capital_1_5": 1.5, "sales_to_capital_6_10": 2.5},
+  {"name": "Other (expansion options)", "starts_after_year5": true, "revenue_2036": 100000, "base_margin": 0.0, "target_margin": 0.30, "sales_to_capital_1_5": 5, "sales_to_capital_6_10": 5}
+ ],
+ "margin_convergence_year": 10,
+ "ebit": -3732,
+ "rd": {"life": 5, "current": 12190, "past": [3464, 2105, 1800, 1600, 1200]},
+ "book_equity": 127224,
+ "book_debt": 39364,
+ "cash": 100009,
+ "non_operating_assets": 0,
+ "minority_interests": 0,
+ "shares_outstanding": 13181.78,
+ "price": 148.68,
+ "effective_tax_rate": 0.1,
+ "marginal_tax_rate": 0.25,
+ "riskfree_rate": 0.0517,
+ "mature_erp": 0.042,
+ "cost_of_capital_inputs": {
+  "approach": "detailed", "shares_outstanding": 13181.78, "price": 148.68,
+  "beta": {"approach": "multi_global", "businesses": [
+   {"industry": "Aerospace/Defense", "revenues": 4056},
+   {"industry": "Telecom. Services", "revenues": 13873},
+   {"industry": "Software (System & Application)", "revenues": 5115}]},
+  "erp": {"approach": "countries", "weights": {
+   "US": {"revenues": 15207, "erp": 0.0442},
+   "China": {"revenues": 6662, "erp": 0.0507},
+   "Rest of the World": {"revenues": 9667, "erp": 0.0618}}},
+  "debt": {"approach": "rating", "rating": "Ba2/BB", "book_debt": 39364, "interest_expense": 2380, "maturity": 3}
+ },
+ "terminal_cost_of_capital": 0.0886,
+ "terminal_roic": 0.15,
+ "industry_us": "Aerospace/Defense",
+ "revenues_last_year": 18674
+}

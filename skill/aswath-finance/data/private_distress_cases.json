@@ -1,0 +1,2292 @@
+[
+ {
+  "name": "liqdisc.xls (source file): restricted stock discount",
+  "tool": "illiquidity",
+  "inputs": {
+   "revenues": 209.0,
+   "block": 1.0,
+   "profitable": 1.0
+  },
+  "expected": {
+   "restricted_stock_discount": 0.19095516638888976
+  }
+ },
+ {
+  "name": "liqdisc.xls (source file): bid-ask spread discount",
+  "tool": "illiquidity",
+  "inputs": {
+   "revenues": 209.0,
+   "profitable": 1.0,
+   "cash_to_value": 0.03,
+   "volume_to_value": 0.0
+  },
+  "expected": {
+   "bid_ask_discount": 0.1177668646456774
+  }
+ },
+ {
+  "name": "liqdisc.xls (source file): Sheet2 table rev 5 profitable",
+  "tool": "illiquidity",
+  "inputs": {
+   "revenues": 5.0,
+   "profitable": 1
+  },
+  "expected": {
+   "restricted_stock_discount": 0.2626
+  }
+ },
+ {
+  "name": "liqdisc.xls (source file): Sheet2 table rev 5 loss",
+  "tool": "illiquidity",
+  "inputs": {
+   "revenues": 5.0,
+   "profitable": 0
+  },
+  "expected": {
+   "restricted_stock_discount": 0.3421
+  }
+ },
+ {
+  "name": "liqdisc.xls (source file): Sheet2 table rev 10 profitable",
+  "tool": "illiquidity",
+  "inputs": {
+   "revenues": 10.0,
+   "profitable": 1
+  },
+  "expected": {
+   "restricted_stock_discount": 0.25
+  }
+ },
+ {
+  "name": "liqdisc.xls (source file): Sheet2 table rev 10 loss",
+  "tool": "illiquidity",
+  "inputs": {
+   "revenues": 10.0,
+   "profitable": 0
+  },
+  "expected": {
+   "restricted_stock_discount": 0.3315
+  }
+ },
+ {
+  "name": "liqdisc.xls (source file): Sheet2 table rev 15 profitable",
+  "tool": "illiquidity",
+  "inputs": {
+   "revenues": 15.0,
+   "profitable": 1
+  },
+  "expected": {
+   "restricted_stock_discount": 0.2425
+  }
+ },
+ {
+  "name": "liqdisc.xls (source file): Sheet2 table rev 15 loss",
+  "tool": "illiquidity",
+  "inputs": {
+   "revenues": 15.0,
+   "profitable": 0
+  },
+  "expected": {
+   "restricted_stock_discount": 0.3252
+  }
+ },
+ {
+  "name": "liqdisc.xls (source file): Sheet2 table rev 20 profitable",
+  "tool": "illiquidity",
+  "inputs": {
+   "revenues": 20.0,
+   "profitable": 1
+  },
+  "expected": {
+   "restricted_stock_discount": 0.2371
+  }
+ },
+ {
+  "name": "liqdisc.xls (source file): Sheet2 table rev 20 loss",
+  "tool": "illiquidity",
+  "inputs": {
+   "revenues": 20.0,
+   "profitable": 0
+  },
+  "expected": {
+   "restricted_stock_discount": 0.3207
+  }
+ },
+ {
+  "name": "liqdisc.xls (source file): Sheet2 table rev 25 profitable",
+  "tool": "illiquidity",
+  "inputs": {
+   "revenues": 25.0,
+   "profitable": 1
+  },
+  "expected": {
+   "restricted_stock_discount": 0.2329
+  }
+ },
+ {
+  "name": "liqdisc.xls (source file): Sheet2 table rev 25 loss",
+  "tool": "illiquidity",
+  "inputs": {
+   "revenues": 25.0,
+   "profitable": 0
+  },
+  "expected": {
+   "restricted_stock_discount": 0.3172
+  }
+ },
+ {
+  "name": "liqdisc.xls (source file): Sheet2 table rev 30 profitable",
+  "tool": "illiquidity",
+  "inputs": {
+   "revenues": 30.0,
+   "profitable": 1
+  },
+  "expected": {
+   "restricted_stock_discount": 0.2294
+  }
+ },
+ {
+  "name": "liqdisc.xls (source file): Sheet2 table rev 30 loss",
+  "tool": "illiquidity",
+  "inputs": {
+   "revenues": 30.0,
+   "profitable": 0
+  },
+  "expected": {
+   "restricted_stock_discount": 0.3142
+  }
+ },
+ {
+  "name": "liqdisc.xls (source file): Sheet2 table rev 35 profitable",
+  "tool": "illiquidity",
+  "inputs": {
+   "revenues": 35.0,
+   "profitable": 1
+  },
+  "expected": {
+   "restricted_stock_discount": 0.2264
+  }
+ },
+ {
+  "name": "liqdisc.xls (source file): Sheet2 table rev 35 loss",
+  "tool": "illiquidity",
+  "inputs": {
+   "revenues": 35.0,
+   "profitable": 0
+  },
+  "expected": {
+   "restricted_stock_discount": 0.3117
+  }
+ },
+ {
+  "name": "liqdisc.xls (source file): Sheet2 table rev 40 profitable",
+  "tool": "illiquidity",
+  "inputs": {
+   "revenues": 40.0,
+   "profitable": 1
+  },
+  "expected": {
+   "restricted_stock_discount": 0.2239
+  }
+ },
+ {
+  "name": "liqdisc.xls (source file): Sheet2 table rev 40 loss",
+  "tool": "illiquidity",
+  "inputs": {
+   "revenues": 40.0,
+   "profitable": 0
+  },
+  "expected": {
+   "restricted_stock_discount": 0.3096
+  }
+ },
+ {
+  "name": "liqdisc.xls (source file): Sheet2 table rev 45 profitable",
+  "tool": "illiquidity",
+  "inputs": {
+   "revenues": 45.0,
+   "profitable": 1
+  },
+  "expected": {
+   "restricted_stock_discount": 0.2216
+  }
+ },
+ {
+  "name": "liqdisc.xls (source file): Sheet2 table rev 45 loss",
+  "tool": "illiquidity",
+  "inputs": {
+   "revenues": 45.0,
+   "profitable": 0
+  },
+  "expected": {
+   "restricted_stock_discount": 0.3077
+  }
+ },
+ {
+  "name": "liqdisc.xls (source file): Sheet2 table rev 50 profitable",
+  "tool": "illiquidity",
+  "inputs": {
+   "revenues": 50.0,
+   "profitable": 1
+  },
+  "expected": {
+   "restricted_stock_discount": 0.2195
+  }
+ },
+ {
+  "name": "liqdisc.xls (source file): Sheet2 table rev 50 loss",
+  "tool": "illiquidity",
+  "inputs": {
+   "revenues": 50.0,
+   "profitable": 0
+  },
+  "expected": {
+   "restricted_stock_discount": 0.3059
+  }
+ },
+ {
+  "name": "liqdisc.xls (source file): Sheet2 table rev 100 profitable",
+  "tool": "illiquidity",
+  "inputs": {
+   "revenues": 100.0,
+   "profitable": 1
+  },
+  "expected": {
+   "restricted_stock_discount": 0.2059
+  }
+ },
+ {
+  "name": "liqdisc.xls (source file): Sheet2 table rev 100 loss",
+  "tool": "illiquidity",
+  "inputs": {
+   "revenues": 100.0,
+   "profitable": 0
+  },
+  "expected": {
+   "restricted_stock_discount": 0.2945
+  }
+ },
+ {
+  "name": "liqdisc.xls (source file): Sheet2 table rev 200 profitable",
+  "tool": "illiquidity",
+  "inputs": {
+   "revenues": 200.0,
+   "profitable": 1
+  },
+  "expected": {
+   "restricted_stock_discount": 0.1919
+  }
+ },
+ {
+  "name": "liqdisc.xls (source file): Sheet2 table rev 200 loss",
+  "tool": "illiquidity",
+  "inputs": {
+   "revenues": 200.0,
+   "profitable": 0
+  },
+  "expected": {
+   "restricted_stock_discount": 0.2827
+  }
+ },
+ {
+  "name": "liqdisc.xls (source file): Sheet2 table rev 300 profitable",
+  "tool": "illiquidity",
+  "inputs": {
+   "revenues": 300.0,
+   "profitable": 1
+  },
+  "expected": {
+   "restricted_stock_discount": 0.1835
+  }
+ },
+ {
+  "name": "liqdisc.xls (source file): Sheet2 table rev 300 loss",
+  "tool": "illiquidity",
+  "inputs": {
+   "revenues": 300.0,
+   "profitable": 0
+  },
+  "expected": {
+   "restricted_stock_discount": 0.2757
+  }
+ },
+ {
+  "name": "liqdisc.xls (source file): Sheet2 table rev 400 profitable",
+  "tool": "illiquidity",
+  "inputs": {
+   "revenues": 400.0,
+   "profitable": 1
+  },
+  "expected": {
+   "restricted_stock_discount": 0.1775
+  }
+ },
+ {
+  "name": "liqdisc.xls (source file): Sheet2 table rev 400 loss",
+  "tool": "illiquidity",
+  "inputs": {
+   "revenues": 400.0,
+   "profitable": 0
+  },
+  "expected": {
+   "restricted_stock_discount": 0.2706
+  }
+ },
+ {
+  "name": "liqdisc.xls (source file): Sheet2 table rev 500 profitable",
+  "tool": "illiquidity",
+  "inputs": {
+   "revenues": 500.0,
+   "profitable": 1
+  },
+  "expected": {
+   "restricted_stock_discount": 0.1728
+  }
+ },
+ {
+  "name": "liqdisc.xls (source file): Sheet2 table rev 500 loss",
+  "tool": "illiquidity",
+  "inputs": {
+   "revenues": 500.0,
+   "profitable": 0
+  },
+  "expected": {
+   "restricted_stock_discount": 0.2667
+  }
+ },
+ {
+  "name": "liqdisc.xls (source file): Sheet2 table rev 1000 profitable",
+  "tool": "illiquidity",
+  "inputs": {
+   "revenues": 1000.0,
+   "profitable": 1
+  },
+  "expected": {
+   "restricted_stock_discount": 0.1579
+  }
+ },
+ {
+  "name": "liqdisc.xls (source file): Sheet2 table rev 1000 loss",
+  "tool": "illiquidity",
+  "inputs": {
+   "revenues": 1000.0,
+   "profitable": 0
+  },
+  "expected": {
+   "restricted_stock_discount": 0.2542
+  }
+ },
+ {
+  "name": "minoritydiscount.xls (source file): minority discount",
+  "tool": "minority",
+  "inputs": {
+   "optimal_value": 14700.0,
+   "status_quo_value": 12500.0,
+   "majority_stake": 0.51,
+   "minority_stake": 0.49
+  },
+  "expected": {
+   "minority_discount": 0.14965986394557823,
+   "majority_stake_value": 7497.0
+  }
+ },
+ {
+  "name": "pvtdiscrate.xls (source file): private cost of capital",
+  "tool": "private_coc",
+  "inputs": {
+   "unlevered_beta": 1.02,
+   "approach": "T",
+   "premium": 0.1,
+   "correlation": 0.45,
+   "riskfree_rate": 0.06,
+   "erp": 0.055,
+   "tax_rate": 0.4,
+   "debt_to_capital": 0.15,
+   "pre_tax_cost_of_debt": 0.07
+  },
+  "expected": {
+   "total_beta": 2.506666666666667,
+   "cost_of_equity": 0.19786666666666666,
+   "after_tax_cost_of_debt": 0.042,
+   "cost_of_capital": 0.17448666666666665
+  }
+ },
+ {
+  "name": "distress.xls (source file): probability of distress from bond price",
+  "tool": "bond_distress",
+  "inputs": {
+   "coupon_rate": 0.12,
+   "maturity": 8.0,
+   "riskfree_rate": 0.05,
+   "price": 653.0
+  },
+  "expected": {
+   "annual_probability": 0.13531709403063646,
+   "probability_5y": 0.5166247973245933,
+   "probability_10y": 0.7663484134385095
+  }
+ },
+ {
+  "name": "normearn.xls (source file): normalized EBIT (approach 3)",
+  "tool": "normalized_ebit",
+  "inputs": {
+   "approach": 3.0,
+   "average_ebit": 3500.0,
+   "average_roc": 0.22,
+   "revenues": 12154.0,
+   "book_debt": 0.0,
+   "book_equity": 11722.0,
+   "history": {
+    "revenues": [
+     2032.0,
+     2376.0,
+     2779.0,
+     3155.0,
+     3248.0
+    ],
+    "ebit": [
+     186.0,
+     454.0,
+     529.0,
+     448.0,
+     383.0
+    ]
+   }
+  },
+  "expected": {
+   "normalized_ebit": 1788.6681383370124,
+   "sector_margin": 0.14716703458425312
+  }
+ },
+ {
+  "name": "complscore.xls (source file): complexity score",
+  "tool": "complexity",
+  "inputs": {
+   "businesses": 2.0,
+   "one_time_pct": 0.2,
+   "unspecified_income_pct": 0.15,
+   "volatile_items_pct": 0.05,
+   "foreign_revenue_pct": 1.0,
+   "different_tax_books": "Yes",
+   "tax_haven_hq": "Yes",
+   "volatile_tax_rate": "Yes",
+   "volatile_capex": "Yes",
+   "frequent_acquisitions": "Yes",
+   "stock_acquisitions": "Yes",
+   "unspecified_wc": "Yes",
+   "volatile_wc": "Yes",
+   "off_balance_sheet_assets": "Yes",
+   "big_buybacks": "Yes",
+   "volatile_roc": "Yes",
+   "roc_above_industry": "Yes",
+   "emerging_market_pct": 0.3,
+   "debt_traded": "Yes",
+   "has_rating": "Yes",
+   "off_balance_sheet_debt": "No"
+  },
+  "expected": {
+   "complexity_score": 51.5
+  }
+ },
+ {
+  "name": "fcffneg.xls (source file): FCFF valuation, money-losing firm",
+  "tool": "fcffneg",
+  "inputs": {
+   "revenues": 3789.0,
+   "capital_spending": 4289.0,
+   "depreciation": 1381.0,
+   "tax_rate": 0.35,
+   "cash": 1477.0,
+   "book_debt": 7271.0,
+   "book_equity": 15807.0,
+   "nol": 2075.0,
+   "public": true,
+   "price": 12.57,
+   "shares_outstanding": 886.467,
+   "market_debt": 7271.0,
+   "beta": 2.0,
+   "riskfree_rate": 0.054,
+   "erp": 0.04,
+   "cost_of_debt": 0.089,
+   "revenue_growth": [
+    0.0,
+    0.3,
+    0.25,
+    0.2,
+    0.1,
+    0.1,
+    0.1,
+    0.08,
+    0.06,
+    0.05
+   ],
+   "ebitda_margin": [
+    0.0,
+    0.075,
+    0.15,
+    0.225,
+    0.3
+   ],
+   "capex_growth": [
+    -0.2,
+    -0.5,
+    -0.5,
+    -0.5,
+    0.05,
+    0.05,
+    0.05,
+    0.05
+   ],
+   "depreciation_growth": [
+    0.1,
+    0.1,
+    0.1,
+    0.1,
+    -0.5,
+    -0.5
+   ],
+   "working_capital_pct": 0.03,
+   "stable_growth": 0.05,
+   "stable_ebitda_margin": 0.33,
+   "stable_working_capital_pct": 0.03,
+   "replicate_sheet_bugs": true,
+   "stable_beta": 1.0,
+   "stable_cost_of_debt": 0.08,
+   "stable_roc": 0.09,
+   "options": {
+    "number": 38.0,
+    "strike": 13.375,
+    "maturity": 8.4,
+    "volatility": 0.5,
+    "dividend_yield": 0.0,
+    "riskfree_rate": 0.065
+   }
+  },
+  "expected": {
+   "value_per_share": 11.081753703892744,
+   "value_of_firm": 15917.340181292873,
+   "pv_high_growth": 2446.419060292443,
+   "options_value": 299.7312206641817
+  }
+ },
+ {
+  "name": "fcffsimpleginzu.xlsx: A14 text: BB, 10 yr",
+  "tool": "failure",
+  "inputs": {
+   "rating": "BB",
+   "years": 10
+  },
+  "expected": {
+   "failure_probability": 0.11779999999999999
+  }
+ },
+ {
+  "name": "fcffsimpleginzu.xlsx: A31 text: technology (Information), age 6",
+  "tool": "failure",
+  "inputs": {
+   "sector": "Information",
+   "age": 6
+  },
+  "expected": {
+   "failure_probability": 0.11700000000000005
+  }
+ },
+ {
+  "name": "fcffsimpleginzu.xlsx: cell L19: All Sectors, age 0",
+  "tool": "failure",
+  "inputs": {
+   "sector": "All Sectors",
+   "age": 0
+  },
+  "expected": {
+   "failure_probability": 0.672
+  }
+ },
+ {
+  "name": "fcffsimpleginzu.xlsx: cell L22: All Sectors, age 3",
+  "tool": "failure",
+  "inputs": {
+   "sector": "All Sectors",
+   "age": 3
+  },
+  "expected": {
+   "failure_probability": 0.2380000000000001
+  }
+ },
+ {
+  "name": "fcffsimpleginzu.xlsx: cell C24: Agriculture, age 5",
+  "tool": "failure",
+  "inputs": {
+   "sector": "Agriculture",
+   "age": 5
+  },
+  "expected": {
+   "failure_probability": 0.12499999999999994
+  }
+ },
+ {
+  "name": "fcffsimpleginzu.xlsx: cell F27: Construction, age 8",
+  "tool": "failure",
+  "inputs": {
+   "sector": "Construction",
+   "age": 8
+  },
+  "expected": {
+   "failure_probability": 0.02400000000000002
+  }
+ },
+ {
+  "name": "fcffsimpleginzu.xlsx: cell K28: Health Care, age 9",
+  "tool": "failure",
+  "inputs": {
+   "sector": "Health Care",
+   "age": 9
+  },
+  "expected": {
+   "failure_probability": 0.030000000000000027
+  }
+ },
+ {
+  "name": "liqdisc template baseline: restricted stock discount",
+  "tool": "illiquidity",
+  "inputs": {
+   "revenues": 209,
+   "block": 1,
+   "profitable": 1
+  },
+  "expected": {
+   "restricted_stock_discount": 0.19095516638888976
+  }
+ },
+ {
+  "name": "liqdisc template baseline: bid-ask spread discount",
+  "tool": "illiquidity",
+  "inputs": {
+   "revenues": 209,
+   "profitable": 1,
+   "cash_to_value": 0.03,
+   "volume_to_value": 0
+  },
+  "expected": {
+   "bid_ask_discount": 0.1177668646456774
+  }
+ },
+ {
+  "name": "liqdisc template rev 5, loss-making: restricted stock discount",
+  "tool": "illiquidity",
+  "inputs": {
+   "revenues": 5,
+   "block": 1,
+   "profitable": 0
+  },
+  "expected": {
+   "restricted_stock_discount": 0.3421143648825993
+  }
+ },
+ {
+  "name": "liqdisc template rev 5, loss-making: bid-ask spread discount",
+  "tool": "illiquidity",
+  "inputs": {
+   "revenues": 5,
+   "profitable": 0,
+   "cash_to_value": 0.03,
+   "volume_to_value": 0
+  },
+  "expected": {
+   "bid_ask_discount": 0.14097923659264497
+  }
+ },
+ {
+  "name": "liqdisc template rev 1000, 10% block: restricted stock discount",
+  "tool": "illiquidity",
+  "inputs": {
+   "revenues": 1000,
+   "block": 0.1,
+   "profitable": 1
+  },
+  "expected": {
+   "restricted_stock_discount": 0.12232443860697972
+  }
+ },
+ {
+  "name": "liqdisc template rev 1000, 10% block: bid-ask spread discount",
+  "tool": "illiquidity",
+  "inputs": {
+   "revenues": 1000,
+   "profitable": 1,
+   "cash_to_value": 0.03,
+   "volume_to_value": 0
+  },
+  "expected": {
+   "bid_ask_discount": 0.1143229383862393
+  }
+ },
+ {
+  "name": "liqdisc template cash 20%, volume 5%: restricted stock discount",
+  "tool": "illiquidity",
+  "inputs": {
+   "revenues": 209,
+   "block": 1,
+   "profitable": 1
+  },
+  "expected": {
+   "restricted_stock_discount": 0.19095516638888976
+  }
+ },
+ {
+  "name": "liqdisc template cash 20%, volume 5%: bid-ask spread discount",
+  "tool": "illiquidity",
+  "inputs": {
+   "revenues": 209,
+   "profitable": 1,
+   "cash_to_value": 0.2,
+   "volume_to_value": 0.05
+  },
+  "expected": {
+   "bid_ask_discount": 0.1095468646456774
+  }
+ },
+ {
+  "name": "minoritydiscount template baseline: minority discount",
+  "tool": "minority",
+  "inputs": {
+   "optimal_value": 14700,
+   "status_quo_value": 12500,
+   "majority_stake": 0.51,
+   "minority_stake": 0.49
+  },
+  "expected": {
+   "minority_discount": 0.14965986394557823,
+   "majority_stake_value": 7497.0
+  }
+ },
+ {
+  "name": "minoritydiscount template 30% stake: minority discount",
+  "tool": "minority",
+  "inputs": {
+   "optimal_value": 200,
+   "status_quo_value": 150,
+   "majority_stake": 0.7,
+   "minority_stake": 0.3
+  },
+  "expected": {
+   "minority_discount": 0.25,
+   "majority_stake_value": 140.0
+  }
+ },
+ {
+  "name": "pvtdiscrate template baseline: private cost of capital",
+  "tool": "private_coc",
+  "inputs": {
+   "unlevered_beta": 1.02,
+   "approach": "T",
+   "premium": 0.1,
+   "correlation": 0.45,
+   "riskfree_rate": 0.06,
+   "erp": 0.055,
+   "tax_rate": 0.4,
+   "debt_to_capital": 0.15,
+   "pre_tax_cost_of_debt": 0.07
+  },
+  "expected": {
+   "total_beta": 2.506666666666667,
+   "cost_of_equity": 0.19786666666666666,
+   "after_tax_cost_of_debt": 0.042,
+   "cost_of_capital": 0.17448666666666665
+  }
+ },
+ {
+  "name": "pvtdiscrate template premium P: private cost of capital",
+  "tool": "private_coc",
+  "inputs": {
+   "unlevered_beta": 1.02,
+   "approach": "P",
+   "premium": 0.1,
+   "correlation": 0.45,
+   "riskfree_rate": 0.06,
+   "erp": 0.055,
+   "tax_rate": 0.4,
+   "debt_to_capital": 0.15,
+   "pre_tax_cost_of_debt": 0.07
+  },
+  "expected": {
+   "total_beta": 2.506666666666667,
+   "cost_of_equity": 0.22204000000000002,
+   "after_tax_cost_of_debt": 0.042,
+   "cost_of_capital": 0.195034
+  }
+ },
+ {
+  "name": "pvtdiscrate template synthetic rating: private cost of capital",
+  "tool": "private_coc",
+  "inputs": {
+   "unlevered_beta": 1.02,
+   "approach": "T",
+   "premium": 0.1,
+   "correlation": 0.45,
+   "riskfree_rate": 0.06,
+   "erp": 0.055,
+   "tax_rate": 0.4,
+   "debt_to_capital": 0.15,
+   "synthetic": {
+    "ebit": 10000,
+    "interest_expense": 2500,
+    "riskfree_rate": 0.06
+   }
+  },
+  "expected": {
+   "total_beta": 2.506666666666667,
+   "cost_of_equity": 0.19786666666666666,
+   "after_tax_cost_of_debt": 0.041699999999999994,
+   "cost_of_capital": 0.17444166666666666,
+   "rating": "A3/A-"
+  }
+ },
+ {
+  "name": "pvtdiscrate template synthetic cov 1.1 + target 30%: private cost of capital",
+  "tool": "private_coc",
+  "inputs": {
+   "unlevered_beta": 1.02,
+   "approach": "T",
+   "premium": 0.1,
+   "correlation": 0.45,
+   "riskfree_rate": 0.06,
+   "erp": 0.055,
+   "tax_rate": 0.4,
+   "debt_to_capital": 0.3,
+   "synthetic": {
+    "ebit": 10000,
+    "interest_expense": 9000,
+    "riskfree_rate": 0.06
+   }
+  },
+  "expected": {
+   "total_beta": 2.8495238095238093,
+   "cost_of_equity": 0.2167238095238095,
+   "after_tax_cost_of_debt": 0.07968,
+   "cost_of_capital": 0.17561066666666666,
+   "rating": "C2/C"
+  }
+ },
+ {
+  "name": "pvtdiscrate template correlation 0.25: private cost of capital",
+  "tool": "private_coc",
+  "inputs": {
+   "unlevered_beta": 1.02,
+   "approach": "T",
+   "premium": 0.1,
+   "correlation": 0.25,
+   "riskfree_rate": 0.06,
+   "erp": 0.055,
+   "tax_rate": 0.4,
+   "debt_to_capital": 0.15,
+   "pre_tax_cost_of_debt": 0.07
+  },
+  "expected": {
+   "total_beta": 4.5120000000000005,
+   "cost_of_equity": 0.30816,
+   "after_tax_cost_of_debt": 0.042,
+   "cost_of_capital": 0.26823600000000003
+  }
+ },
+ {
+  "name": "distress template baseline: probability of distress from bond price",
+  "tool": "bond_distress",
+  "inputs": {
+   "coupon_rate": 0.12,
+   "maturity": 8,
+   "riskfree_rate": 0.05,
+   "price": 652.9999998281916
+  },
+  "expected": {
+   "annual_probability": 0.13531709403063646,
+   "probability_5y": 0.5166247973245934,
+   "probability_10y": 0.7663484134385096
+  }
+ },
+ {
+  "name": "distress template 10% 20yr rf 4%: probability of distress from bond price",
+  "tool": "bond_distress",
+  "inputs": {
+   "coupon_rate": 0.1,
+   "maturity": 20,
+   "riskfree_rate": 0.04,
+   "price": 505.83777316655153
+  },
+  "expected": {
+   "annual_probability": 0.13531709403063646,
+   "probability_5y": 0.5166247973245934,
+   "probability_10y": 0.7663484134385096
+  }
+ },
+ {
+  "name": "distress template 5% 3yr p 3%: probability of distress from bond price",
+  "tool": "bond_distress",
+  "inputs": {
+   "coupon_rate": 0.05,
+   "maturity": 3,
+   "riskfree_rate": 0.05,
+   "price": 916.6829931972788
+  },
+  "expected": {
+   "annual_probability": 0.03,
+   "probability_5y": 0.1412659743000001,
+   "probability_10y": 0.2625758731050719
+  }
+ },
+ {
+  "name": "normearn template baseline: normalized EBIT (approach 3)",
+  "tool": "normalized_ebit",
+  "inputs": {
+   "approach": 3,
+   "average_ebit": 3500,
+   "average_roc": 0.22,
+   "revenues": 12154,
+   "book_debt": 0,
+   "book_equity": 11722,
+   "history": {
+    "revenues": [
+     2032,
+     2376,
+     2779,
+     3155,
+     3248
+    ],
+    "ebit": [
+     186,
+     454,
+     529,
+     448,
+     383
+    ]
+   }
+  },
+  "expected": {
+   "normalized_ebit": 1788.6681383370124,
+   "sector_margin": 0.14716703458425312
+  }
+ },
+ {
+  "name": "normearn template approach 1: normalized EBIT (approach 1)",
+  "tool": "normalized_ebit",
+  "inputs": {
+   "approach": 1,
+   "average_ebit": 3500,
+   "average_roc": 0.22,
+   "revenues": 12154,
+   "book_debt": 0,
+   "book_equity": 11722,
+   "history": {
+    "revenues": [
+     2032,
+     2376,
+     2779,
+     3155,
+     3248
+    ],
+    "ebit": [
+     186,
+     454,
+     529,
+     448,
+     383
+    ]
+   }
+  },
+  "expected": {
+   "normalized_ebit": 3500,
+   "sector_margin": 0.14716703458425312
+  }
+ },
+ {
+  "name": "normearn template approach 2: normalized EBIT (approach 2)",
+  "tool": "normalized_ebit",
+  "inputs": {
+   "approach": 2,
+   "average_ebit": 3500,
+   "average_roc": 0.22,
+   "revenues": 12154,
+   "book_debt": 0,
+   "book_equity": 11722,
+   "history": {
+    "revenues": [
+     2032,
+     2376,
+     2779,
+     3155,
+     3248
+    ],
+    "ebit": [
+     186,
+     454,
+     529,
+     448,
+     383
+    ]
+   }
+  },
+  "expected": {
+   "normalized_ebit": 2578.84,
+   "sector_margin": 0.14716703458425312
+  }
+ },
+ {
+  "name": "normearn template history changed: normalized EBIT (approach 3)",
+  "tool": "normalized_ebit",
+  "inputs": {
+   "approach": 3,
+   "average_ebit": 3500,
+   "average_roc": 0.22,
+   "revenues": 5000,
+   "book_debt": 0,
+   "book_equity": 11722,
+   "history": {
+    "revenues": [
+     2032,
+     2376,
+     2779,
+     3155,
+     4000
+    ],
+    "ebit": [
+     186,
+     454,
+     529,
+     448,
+     -50
+    ]
+   }
+  },
+  "expected": {
+   "normalized_ebit": 546.2975875052294,
+   "sector_margin": 0.10925951750104589
+  }
+ },
+ {
+  "name": "complscore template baseline: complexity score",
+  "tool": "complexity",
+  "inputs": {
+   "businesses": 2,
+   "one_time_pct": 0.2,
+   "unspecified_income_pct": 0.15,
+   "volatile_items_pct": 0.05,
+   "foreign_revenue_pct": 1,
+   "different_tax_books": "Yes",
+   "tax_haven_hq": "Yes",
+   "volatile_tax_rate": "Yes",
+   "volatile_capex": "Yes",
+   "frequent_acquisitions": "Yes",
+   "stock_acquisitions": "Yes",
+   "unspecified_wc": "Yes",
+   "volatile_wc": "Yes",
+   "off_balance_sheet_assets": "Yes",
+   "big_buybacks": "Yes",
+   "volatile_roc": "Yes",
+   "roc_above_industry": "Yes",
+   "emerging_market_pct": 0.3,
+   "debt_traded": "Yes",
+   "has_rating": "Yes",
+   "off_balance_sheet_debt": "No"
+  },
+  "expected": {
+   "complexity_score": 51.5
+  }
+ },
+ {
+  "name": "complscore template mostly No: complexity score",
+  "tool": "complexity",
+  "inputs": {
+   "businesses": 4,
+   "one_time_pct": 0.2,
+   "unspecified_income_pct": 0.15,
+   "volatile_items_pct": 0.05,
+   "foreign_revenue_pct": 1,
+   "different_tax_books": "No",
+   "tax_haven_hq": "Yes",
+   "volatile_tax_rate": "Yes",
+   "volatile_capex": "Yes",
+   "frequent_acquisitions": "No",
+   "stock_acquisitions": "Yes",
+   "unspecified_wc": "Yes",
+   "volatile_wc": "Yes",
+   "off_balance_sheet_assets": "Yes",
+   "big_buybacks": "Yes",
+   "volatile_roc": "Yes",
+   "roc_above_industry": "Yes",
+   "emerging_market_pct": 0.8,
+   "debt_traded": "No",
+   "has_rating": "No",
+   "off_balance_sheet_debt": "Yes"
+  },
+  "expected": {
+   "complexity_score": 62.0
+  }
+ },
+ {
+  "name": "fcffneg template (slips fixed) baseline: FCFF valuation, money-losing firm",
+  "tool": "fcffneg",
+  "inputs": {
+   "revenues": 3789,
+   "capital_spending": 4289,
+   "depreciation": 1381,
+   "tax_rate": 0.35,
+   "cash": 1477,
+   "book_debt": 7271,
+   "book_equity": 15807,
+   "nol": 2075,
+   "public": true,
+   "price": 12.57,
+   "shares_outstanding": 886.467,
+   "market_debt": 7271,
+   "beta": 2,
+   "riskfree_rate": 0.054,
+   "erp": 0.04,
+   "cost_of_debt": 0.089,
+   "revenue_growth": [
+    0,
+    0.3,
+    0.25,
+    0.2,
+    0.1,
+    0.1,
+    0.1,
+    0.08,
+    0.06,
+    0.05
+   ],
+   "ebitda_margin": [
+    0,
+    0.075,
+    0.15,
+    0.225,
+    0.3
+   ],
+   "capex_growth": [
+    -0.2,
+    -0.5,
+    -0.5,
+    -0.5,
+    0.05,
+    0.05,
+    0.05,
+    0.05
+   ],
+   "depreciation_growth": [
+    0.1,
+    0.1,
+    0.1,
+    0.1,
+    -0.5,
+    -0.5
+   ],
+   "working_capital_pct": 0.03,
+   "stable_growth": 0.05,
+   "stable_ebitda_margin": 0.33,
+   "stable_working_capital_pct": 0.03,
+   "replicate_sheet_bugs": false,
+   "stable_beta": 1,
+   "stable_cost_of_debt": 0.08,
+   "stable_roc": 0.09,
+   "options": {
+    "number": 38,
+    "strike": 13.375,
+    "maturity": 8.4,
+    "volatility": 0.5,
+    "dividend_yield": 0,
+    "riskfree_rate": 0.065
+   }
+  },
+  "expected": {
+   "value_per_share": 11.140982129716742,
+   "value_of_firm": 15969.844226248875,
+   "pv_high_growth": 2498.9231052484447,
+   "options_value": 299.73122066526366
+  }
+ },
+ {
+  "name": "fcffneg template (slips fixed) capex = 110% dep.: FCFF valuation, money-losing firm",
+  "tool": "fcffneg",
+  "inputs": {
+   "revenues": 3789,
+   "capital_spending": 4289,
+   "depreciation": 1381,
+   "tax_rate": 0.35,
+   "cash": 1477,
+   "book_debt": 7271,
+   "book_equity": 15807,
+   "nol": 2075,
+   "public": true,
+   "price": 12.57,
+   "shares_outstanding": 886.467,
+   "market_debt": 7271,
+   "beta": 2,
+   "riskfree_rate": 0.054,
+   "erp": 0.04,
+   "cost_of_debt": 0.089,
+   "revenue_growth": [
+    0,
+    0.3,
+    0.25,
+    0.2,
+    0.1,
+    0.1,
+    0.1,
+    0.08,
+    0.06,
+    0.05
+   ],
+   "ebitda_margin": [
+    0,
+    0.075,
+    0.15,
+    0.225,
+    0.3
+   ],
+   "capex_growth": [
+    -0.2,
+    -0.5,
+    -0.5,
+    -0.5,
+    0.05,
+    0.05,
+    0.05,
+    0.05
+   ],
+   "depreciation_growth": [
+    0.1,
+    0.1,
+    0.1,
+    0.1,
+    -0.5,
+    -0.5
+   ],
+   "working_capital_pct": 0.03,
+   "stable_growth": 0.05,
+   "stable_ebitda_margin": 0.33,
+   "stable_working_capital_pct": 0.03,
+   "replicate_sheet_bugs": false,
+   "stable_beta": 1,
+   "stable_cost_of_debt": 0.08,
+   "stable_capex_to_depreciation": 1.1,
+   "options": {
+    "number": 38,
+    "strike": 13.375,
+    "maturity": 8.4,
+    "volatility": 0.5,
+    "dividend_yield": 0,
+    "riskfree_rate": 0.065
+   }
+  },
+  "expected": {
+   "value_per_share": 28.882539657212043,
+   "value_of_firm": 31697.14950297505,
+   "pv_high_growth": 2498.9231052484447,
+   "options_value": 299.73122066526366
+  }
+ },
+ {
+  "name": "fcffneg template (slips fixed) yr-1 EBIT > NOL: FCFF valuation, money-losing firm",
+  "tool": "fcffneg",
+  "inputs": {
+   "revenues": 3789,
+   "capital_spending": 4289,
+   "depreciation": 1381,
+   "tax_rate": 0.35,
+   "cash": 1477,
+   "book_debt": 7271,
+   "book_equity": 15807,
+   "nol": 100,
+   "public": true,
+   "price": 12.57,
+   "shares_outstanding": 886.467,
+   "market_debt": 7271,
+   "beta": 2,
+   "riskfree_rate": 0.054,
+   "erp": 0.04,
+   "cost_of_debt": 0.089,
+   "revenue_growth": [
+    0,
+    0.3,
+    0.25,
+    0.2,
+    0.1,
+    0.1,
+    0.1,
+    0.08,
+    0.06,
+    0.05
+   ],
+   "ebitda_margin": [
+    0.6,
+    0.075,
+    0.15,
+    0.225,
+    0.3
+   ],
+   "capex_growth": [
+    -0.2,
+    -0.5,
+    -0.5,
+    -0.5,
+    0.05,
+    0.05,
+    0.05,
+    0.05
+   ],
+   "depreciation_growth": [
+    0.1,
+    0.1,
+    0.1,
+    0.1,
+    -0.5,
+    -0.5
+   ],
+   "working_capital_pct": 0.03,
+   "stable_growth": 0.05,
+   "stable_ebitda_margin": 0.33,
+   "stable_working_capital_pct": 0.03,
+   "replicate_sheet_bugs": false,
+   "stable_beta": 1,
+   "stable_cost_of_debt": 0.08,
+   "stable_roc": 0.09,
+   "options": {
+    "number": 38,
+    "strike": 13.375,
+    "maturity": 8.4,
+    "volatility": 0.5,
+    "dividend_yield": 0,
+    "riskfree_rate": 0.065
+   }
+  },
+  "expected": {
+   "value_per_share": 13.015809987840383,
+   "value_of_firm": 17631.817253156165,
+   "pv_high_growth": 3812.79629045998,
+   "options_value": 299.73122066526366
+  }
+ },
+ {
+  "name": "fcffneg template baseline: FCFF valuation, money-losing firm",
+  "tool": "fcffneg",
+  "inputs": {
+   "revenues": 3789,
+   "capital_spending": 4289,
+   "depreciation": 1381,
+   "tax_rate": 0.35,
+   "cash": 1477,
+   "book_debt": 7271,
+   "book_equity": 15807,
+   "nol": 2075,
+   "public": true,
+   "price": 12.57,
+   "shares_outstanding": 886.467,
+   "market_debt": 7271,
+   "beta": 2,
+   "riskfree_rate": 0.054,
+   "erp": 0.04,
+   "cost_of_debt": 0.089,
+   "revenue_growth": [
+    0,
+    0.3,
+    0.25,
+    0.2,
+    0.1,
+    0.1,
+    0.1,
+    0.08,
+    0.06,
+    0.05
+   ],
+   "ebitda_margin": [
+    0,
+    0.075,
+    0.15,
+    0.225,
+    0.3
+   ],
+   "capex_growth": [
+    -0.2,
+    -0.5,
+    -0.5,
+    -0.5,
+    0.05,
+    0.05,
+    0.05,
+    0.05
+   ],
+   "depreciation_growth": [
+    0.1,
+    0.1,
+    0.1,
+    0.1,
+    -0.5,
+    -0.5
+   ],
+   "working_capital_pct": 0.03,
+   "stable_growth": 0.05,
+   "stable_ebitda_margin": 0.33,
+   "stable_working_capital_pct": 0.03,
+   "replicate_sheet_bugs": true,
+   "stable_beta": 1,
+   "stable_cost_of_debt": 0.08,
+   "stable_roc": 0.09,
+   "options": {
+    "number": 38,
+    "strike": 13.375,
+    "maturity": 8.4,
+    "volatility": 0.5,
+    "dividend_yield": 0,
+    "riskfree_rate": 0.065
+   }
+  },
+  "expected": {
+   "value_per_share": 11.081753703891524,
+   "value_of_firm": 15917.340181292873,
+   "pv_high_growth": 2446.419060292443,
+   "options_value": 299.73122066526366
+  }
+ },
+ {
+  "name": "fcffneg template direct cost of equity: FCFF valuation, money-losing firm",
+  "tool": "fcffneg",
+  "inputs": {
+   "revenues": 3789,
+   "capital_spending": 4289,
+   "depreciation": 1381,
+   "tax_rate": 0.35,
+   "cash": 1477,
+   "book_debt": 7271,
+   "book_equity": 15807,
+   "nol": 2075,
+   "public": true,
+   "price": 12.57,
+   "shares_outstanding": 886.467,
+   "market_debt": 7271,
+   "beta": 2,
+   "riskfree_rate": 0.054,
+   "erp": 0.04,
+   "cost_of_debt": 0.089,
+   "revenue_growth": [
+    0,
+    0.3,
+    0.25,
+    0.2,
+    0.1,
+    0.1,
+    0.1,
+    0.08,
+    0.06,
+    0.05
+   ],
+   "ebitda_margin": [
+    0,
+    0.075,
+    0.15,
+    0.225,
+    0.3
+   ],
+   "capex_growth": [
+    -0.2,
+    -0.5,
+    -0.5,
+    -0.5,
+    0.05,
+    0.05,
+    0.05,
+    0.05
+   ],
+   "depreciation_growth": [
+    0.1,
+    0.1,
+    0.1,
+    0.1,
+    -0.5,
+    -0.5
+   ],
+   "working_capital_pct": 0.03,
+   "stable_growth": 0.05,
+   "stable_ebitda_margin": 0.33,
+   "stable_working_capital_pct": 0.03,
+   "replicate_sheet_bugs": true,
+   "cost_of_equity": 0.13,
+   "stable_beta": 1,
+   "stable_cost_of_debt": 0.08,
+   "stable_roc": 0.09,
+   "options": {
+    "number": 38,
+    "strike": 13.375,
+    "maturity": 8.4,
+    "volatility": 0.5,
+    "dividend_yield": 0,
+    "riskfree_rate": 0.065
+   }
+  },
+  "expected": {
+   "value_per_share": 10.376029061092739,
+   "value_of_firm": 15291.738574364961,
+   "pv_high_growth": 2406.8849803225344,
+   "options_value": 299.73122066526366
+  }
+ },
+ {
+  "name": "fcffneg template beta unchanged: FCFF valuation, money-losing firm",
+  "tool": "fcffneg",
+  "inputs": {
+   "revenues": 3789,
+   "capital_spending": 4289,
+   "depreciation": 1381,
+   "tax_rate": 0.35,
+   "cash": 1477,
+   "book_debt": 7271,
+   "book_equity": 15807,
+   "nol": 2075,
+   "public": true,
+   "price": 12.57,
+   "shares_outstanding": 886.467,
+   "market_debt": 7271,
+   "beta": 2,
+   "riskfree_rate": 0.054,
+   "erp": 0.04,
+   "cost_of_debt": 0.089,
+   "revenue_growth": [
+    0,
+    0.3,
+    0.25,
+    0.2,
+    0.1,
+    0.1,
+    0.1,
+    0.08,
+    0.06,
+    0.05
+   ],
+   "ebitda_margin": [
+    0,
+    0.075,
+    0.15,
+    0.225,
+    0.3
+   ],
+   "capex_growth": [
+    -0.2,
+    -0.5,
+    -0.5,
+    -0.5,
+    0.05,
+    0.05,
+    0.05,
+    0.05
+   ],
+   "depreciation_growth": [
+    0.1,
+    0.1,
+    0.1,
+    0.1,
+    -0.5,
+    -0.5
+   ],
+   "working_capital_pct": 0.03,
+   "stable_growth": 0.05,
+   "stable_ebitda_margin": 0.33,
+   "stable_working_capital_pct": 0.03,
+   "replicate_sheet_bugs": true,
+   "stable_cost_of_debt": 0.08,
+   "stable_roc": 0.09,
+   "options": {
+    "number": 38,
+    "strike": 13.375,
+    "maturity": 8.4,
+    "volatility": 0.5,
+    "dividend_yield": 0,
+    "riskfree_rate": 0.065
+   }
+  },
+  "expected": {
+   "value_per_share": 3.2978293356654897,
+   "value_of_firm": 9017.148098364643,
+   "pv_high_growth": 2321.614091376386,
+   "options_value": 299.73122066526366
+  }
+ },
+ {
+  "name": "fcffneg template debt ratio to 20%: FCFF valuation, money-losing firm",
+  "tool": "fcffneg",
+  "inputs": {
+   "revenues": 3789,
+   "capital_spending": 4289,
+   "depreciation": 1381,
+   "tax_rate": 0.35,
+   "cash": 1477,
+   "book_debt": 7271,
+   "book_equity": 15807,
+   "nol": 2075,
+   "public": true,
+   "price": 12.57,
+   "shares_outstanding": 886.467,
+   "market_debt": 7271,
+   "beta": 2,
+   "riskfree_rate": 0.054,
+   "erp": 0.04,
+   "cost_of_debt": 0.089,
+   "revenue_growth": [
+    0,
+    0.3,
+    0.25,
+    0.2,
+    0.1,
+    0.1,
+    0.1,
+    0.08,
+    0.06,
+    0.05
+   ],
+   "ebitda_margin": [
+    0,
+    0.075,
+    0.15,
+    0.225,
+    0.3
+   ],
+   "capex_growth": [
+    -0.2,
+    -0.5,
+    -0.5,
+    -0.5,
+    0.05,
+    0.05,
+    0.05,
+    0.05
+   ],
+   "depreciation_growth": [
+    0.1,
+    0.1,
+    0.1,
+    0.1,
+    -0.5,
+    -0.5
+   ],
+   "working_capital_pct": 0.03,
+   "stable_growth": 0.05,
+   "stable_ebitda_margin": 0.33,
+   "stable_working_capital_pct": 0.03,
+   "replicate_sheet_bugs": true,
+   "stable_beta": 1,
+   "stable_debt_ratio": 0.2,
+   "stable_cost_of_debt": 0.08,
+   "stable_roc": 0.09,
+   "options": {
+    "number": 38,
+    "strike": 13.375,
+    "maturity": 8.4,
+    "volatility": 0.5,
+    "dividend_yield": 0,
+    "riskfree_rate": 0.065
+   }
+  },
+  "expected": {
+   "value_per_share": 7.25732029586659,
+   "value_of_firm": 12527.106171381232,
+   "pv_high_growth": 2401.300856344374,
+   "options_value": 299.73122066526366
+  }
+ },
+ {
+  "name": "fcffneg template capex = 110% dep.: FCFF valuation, money-losing firm",
+  "tool": "fcffneg",
+  "inputs": {
+   "revenues": 3789,
+   "capital_spending": 4289,
+   "depreciation": 1381,
+   "tax_rate": 0.35,
+   "cash": 1477,
+   "book_debt": 7271,
+   "book_equity": 15807,
+   "nol": 2075,
+   "public": true,
+   "price": 12.57,
+   "shares_outstanding": 886.467,
+   "market_debt": 7271,
+   "beta": 2,
+   "riskfree_rate": 0.054,
+   "erp": 0.04,
+   "cost_of_debt": 0.089,
+   "revenue_growth": [
+    0,
+    0.3,
+    0.25,
+    0.2,
+    0.1,
+    0.1,
+    0.1,
+    0.08,
+    0.06,
+    0.05
+   ],
+   "ebitda_margin": [
+    0,
+    0.075,
+    0.15,
+    0.225,
+    0.3
+   ],
+   "capex_growth": [
+    -0.2,
+    -0.5,
+    -0.5,
+    -0.5,
+    0.05,
+    0.05,
+    0.05,
+    0.05
+   ],
+   "depreciation_growth": [
+    0.1,
+    0.1,
+    0.1,
+    0.1,
+    -0.5,
+    -0.5
+   ],
+   "working_capital_pct": 0.03,
+   "stable_growth": 0.05,
+   "stable_ebitda_margin": 0.33,
+   "stable_working_capital_pct": 0.03,
+   "replicate_sheet_bugs": true,
+   "stable_beta": 1,
+   "stable_cost_of_debt": 0.08,
+   "stable_capex_to_depreciation": 1.1,
+   "options": {
+    "number": 38,
+    "strike": 13.375,
+    "maturity": 8.4,
+    "volatility": 0.5,
+    "dividend_yield": 0,
+    "riskfree_rate": 0.065
+   }
+  },
+  "expected": {
+   "value_per_share": 28.823311231386825,
+   "value_of_firm": 31644.645458019048,
+   "pv_high_growth": 2446.419060292443,
+   "options_value": 299.73122066526366
+  }
+ },
+ {
+  "name": "fcffneg template private, book D/E: FCFF valuation, money-losing firm",
+  "tool": "fcffneg",
+  "inputs": {
+   "revenues": 3789,
+   "capital_spending": 4289,
+   "depreciation": 1381,
+   "tax_rate": 0.35,
+   "cash": 1477,
+   "book_debt": 7271,
+   "book_equity": 15807,
+   "nol": 2075,
+   "public": false,
+   "price": 12.57,
+   "shares_outstanding": 886.467,
+   "market_debt": 7271,
+   "beta": 2,
+   "riskfree_rate": 0.054,
+   "erp": 0.04,
+   "cost_of_debt": 0.089,
+   "revenue_growth": [
+    0,
+    0.3,
+    0.25,
+    0.2,
+    0.1,
+    0.1,
+    0.1,
+    0.08,
+    0.06,
+    0.05
+   ],
+   "ebitda_margin": [
+    0,
+    0.075,
+    0.15,
+    0.225,
+    0.3
+   ],
+   "capex_growth": [
+    -0.2,
+    -0.5,
+    -0.5,
+    -0.5,
+    0.05,
+    0.05,
+    0.05,
+    0.05
+   ],
+   "depreciation_growth": [
+    0.1,
+    0.1,
+    0.1,
+    0.1,
+    -0.5,
+    -0.5
+   ],
+   "working_capital_pct": 0.03,
+   "stable_growth": 0.05,
+   "stable_ebitda_margin": 0.33,
+   "stable_working_capital_pct": 0.03,
+   "replicate_sheet_bugs": true,
+   "book_debt_ratio": true,
+   "stable_beta": 1,
+   "stable_cost_of_debt": 0.08,
+   "stable_roc": 0.09,
+   "options": {
+    "number": 38,
+    "strike": 13.375,
+    "maturity": 8.4,
+    "volatility": 0.5,
+    "dividend_yield": 0,
+    "riskfree_rate": 0.065
+   }
+  },
+  "expected": {
+   "value_per_share": 8.859727087726363,
+   "value_of_firm": 13947.58691294079,
+   "pv_high_growth": 2322.067499987868,
+   "options_value": 299.73122066526366
+  }
+ },
+ {
+  "name": "fcffneg template private, target 30%: FCFF valuation, money-losing firm",
+  "tool": "fcffneg",
+  "inputs": {
+   "revenues": 3789,
+   "capital_spending": 4289,
+   "depreciation": 1381,
+   "tax_rate": 0.35,
+   "cash": 1477,
+   "book_debt": 7271,
+   "book_equity": 15807,
+   "nol": 2075,
+   "public": false,
+   "price": 12.57,
+   "shares_outstanding": 886.467,
+   "market_debt": 7271,
+   "beta": 2,
+   "riskfree_rate": 0.054,
+   "erp": 0.04,
+   "cost_of_debt": 0.089,
+   "revenue_growth": [
+    0,
+    0.3,
+    0.25,
+    0.2,
+    0.1,
+    0.1,
+    0.1,
+    0.08,
+    0.06,
+    0.05
+   ],
+   "ebitda_margin": [
+    0,
+    0.075,
+    0.15,
+    0.225,
+    0.3
+   ],
+   "capex_growth": [
+    -0.2,
+    -0.5,
+    -0.5,
+    -0.5,
+    0.05,
+    0.05,
+    0.05,
+    0.05
+   ],
+   "depreciation_growth": [
+    0.1,
+    0.1,
+    0.1,
+    0.1,
+    -0.5,
+    -0.5
+   ],
+   "working_capital_pct": 0.03,
+   "stable_growth": 0.05,
+   "stable_ebitda_margin": 0.33,
+   "stable_working_capital_pct": 0.03,
+   "replicate_sheet_bugs": true,
+   "book_debt_ratio": false,
+   "debt_ratio": 0.3,
+   "stable_beta": 1,
+   "stable_cost_of_debt": 0.08,
+   "stable_roc": 0.09,
+   "options": {
+    "number": 38,
+    "strike": 13.375,
+    "maturity": 8.4,
+    "volatility": 0.5,
+    "dividend_yield": 0,
+    "riskfree_rate": 0.065
+   }
+  },
+  "expected": {
+   "value_per_share": 8.492289005222114,
+   "value_of_firm": 13621.865178257496,
+   "pv_high_growth": 2298.998873635504,
+   "options_value": 299.73122066526366
+  }
+ },
+ {
+  "name": "fcffneg template no options: FCFF valuation, money-losing firm",
+  "tool": "fcffneg",
+  "inputs": {
+   "revenues": 3789,
+   "capital_spending": 4289,
+   "depreciation": 1381,
+   "tax_rate": 0.35,
+   "cash": 1477,
+   "book_debt": 7271,
+   "book_equity": 15807,
+   "nol": 2075,
+   "public": true,
+   "price": 12.57,
+   "shares_outstanding": 886.467,
+   "market_debt": 7271,
+   "beta": 2,
+   "riskfree_rate": 0.054,
+   "erp": 0.04,
+   "cost_of_debt": 0.089,
+   "revenue_growth": [
+    0,
+    0.3,
+    0.25,
+    0.2,
+    0.1,
+    0.1,
+    0.1,
+    0.08,
+    0.06,
+    0.05
+   ],
+   "ebitda_margin": [
+    0,
+    0.075,
+    0.15,
+    0.225,
+    0.3
+   ],
+   "capex_growth": [
+    -0.2,
+    -0.5,
+    -0.5,
+    -0.5,
+    0.05,
+    0.05,
+    0.05,
+    0.05
+   ],
+   "depreciation_growth": [
+    0.1,
+    0.1,
+    0.1,
+    0.1,
+    -0.5,
+    -0.5
+   ],
+   "working_capital_pct": 0.03,
+   "stable_growth": 0.05,
+   "stable_ebitda_margin": 0.33,
+   "stable_working_capital_pct": 0.03,
+   "replicate_sheet_bugs": true,
+   "stable_beta": 1,
+   "stable_cost_of_debt": 0.08,
+   "stable_roc": 0.09
+  },
+  "expected": {
+   "value_per_share": 11.419872574267144,
+   "value_of_firm": 15917.340181292873,
+   "pv_high_growth": 2446.419060292443,
+   "options_value": 0.0
+  }
+ },
+ {
+  "name": "fcffneg template no NOL: FCFF valuation, money-losing firm",
+  "tool": "fcffneg",
+  "inputs": {
+   "revenues": 3789,
+   "capital_spending": 4289,
+   "depreciation": 1381,
+   "tax_rate": 0.35,
+   "cash": 1477,
+   "book_debt": 7271,
+   "book_equity": 15807,
+   "nol": 0,
+   "public": true,
+   "price": 12.57,
+   "shares_outstanding": 886.467,
+   "market_debt": 7271,
+   "beta": 2,
+   "riskfree_rate": 0.054,
+   "erp": 0.04,
+   "cost_of_debt": 0.089,
+   "revenue_growth": [
+    0,
+    0.3,
+    0.25,
+    0.2,
+    0.1,
+    0.1,
+    0.1,
+    0.08,
+    0.06,
+    0.05
+   ],
+   "ebitda_margin": [
+    0,
+    0.075,
+    0.15,
+    0.225,
+    0.3
+   ],
+   "capex_growth": [
+    -0.2,
+    -0.5,
+    -0.5,
+    -0.5,
+    0.05,
+    0.05,
+    0.05,
+    0.05
+   ],
+   "depreciation_growth": [
+    0.1,
+    0.1,
+    0.1,
+    0.1,
+    -0.5,
+    -0.5
+   ],
+   "working_capital_pct": 0.03,
+   "stable_growth": 0.05,
+   "stable_ebitda_margin": 0.33,
+   "stable_working_capital_pct": 0.03,
+   "replicate_sheet_bugs": true,
+   "stable_beta": 1,
+   "stable_cost_of_debt": 0.08,
+   "stable_roc": 0.09,
+   "options": {
+    "number": 38,
+    "strike": 13.375,
+    "maturity": 8.4,
+    "volatility": 0.5,
+    "dividend_yield": 0,
+    "riskfree_rate": 0.065
+   }
+  },
+  "expected": {
+   "value_per_share": 10.86222263412739,
+   "value_of_firm": 15722.733132472269,
+   "pv_high_growth": 2133.118515716741,
+   "options_value": 299.73122066526366
+  }
+ },
+ {
+  "name": "fcffneg template yr-1 EBIT > NOL: FCFF valuation, money-losing firm",
+  "tool": "fcffneg",
+  "inputs": {
+   "revenues": 3789,
+   "capital_spending": 4289,
+   "depreciation": 1381,
+   "tax_rate": 0.35,
+   "cash": 1477,
+   "book_debt": 7271,
+   "book_equity": 15807,
+   "nol": 100,
+   "public": true,
+   "price": 12.57,
+   "shares_outstanding": 886.467,
+   "market_debt": 7271,
+   "beta": 2,
+   "riskfree_rate": 0.054,
+   "erp": 0.04,
+   "cost_of_debt": 0.089,
+   "revenue_growth": [
+    0,
+    0.3,
+    0.25,
+    0.2,
+    0.1,
+    0.1,
+    0.1,
+    0.08,
+    0.06,
+    0.05
+   ],
+   "ebitda_margin": [
+    0.6,
+    0.075,
+    0.15,
+    0.225,
+    0.3
+   ],
+   "capex_growth": [
+    -0.2,
+    -0.5,
+    -0.5,
+    -0.5,
+    0.05,
+    0.05,
+    0.05,
+    0.05
+   ],
+   "depreciation_growth": [
+    0.1,
+    0.1,
+    0.1,
+    0.1,
+    -0.5,
+    -0.5
+   ],
+   "working_capital_pct": 0.03,
+   "stable_growth": 0.05,
+   "stable_ebitda_margin": 0.33,
+   "stable_working_capital_pct": 0.03,
+   "replicate_sheet_bugs": true,
+   "stable_beta": 1,
+   "stable_cost_of_debt": 0.08,
+   "stable_roc": 0.09,
+   "options": {
+    "number": 38,
+    "strike": 13.375,
+    "maturity": 8.4,
+    "volatility": 0.5,
+    "dividend_yield": 0,
+    "riskfree_rate": 0.065
+   }
+  },
+  "expected": {
+   "value_per_share": 12.926172923595242,
+   "value_of_firm": 17552.35695372597,
+   "pv_high_growth": 3821.483076919385,
+   "options_value": 299.73122066526366
+  }
+ },
+ {
+  "name": "fcffneg template g 4%, ROC 12%: FCFF valuation, money-losing firm",
+  "tool": "fcffneg",
+  "inputs": {
+   "revenues": 3789,
+   "capital_spending": 4289,
+   "depreciation": 1381,
+   "tax_rate": 0.35,
+   "cash": 1477,
+   "book_debt": 7271,
+   "book_equity": 15807,
+   "nol": 2075,
+   "public": true,
+   "price": 12.57,
+   "shares_outstanding": 886.467,
+   "market_debt": 7271,
+   "beta": 2,
+   "riskfree_rate": 0.054,
+   "erp": 0.04,
+   "cost_of_debt": 0.089,
+   "revenue_growth": [
+    0,
+    0.3,
+    0.25,
+    0.2,
+    0.1,
+    0.1,
+    0.1,
+    0.08,
+    0.06,
+    0.05
+   ],
+   "ebitda_margin": [
+    0,
+    0.075,
+    0.15,
+    0.225,
+    0.3
+   ],
+   "capex_growth": [
+    -0.2,
+    -0.5,
+    -0.5,
+    -0.5,
+    0.05,
+    0.05,
+    0.05,
+    0.05
+   ],
+   "depreciation_growth": [
+    0.1,
+    0.1,
+    0.1,
+    0.1,
+    -0.5,
+    -0.5
+   ],
+   "working_capital_pct": 0.03,
+   "stable_growth": 0.04,
+   "stable_ebitda_margin": 0.33,
+   "stable_working_capital_pct": 0.03,
+   "replicate_sheet_bugs": true,
+   "stable_beta": 1,
+   "stable_cost_of_debt": 0.08,
+   "stable_roc": 0.12,
+   "options": {
+    "number": 38,
+    "strike": 13.375,
+    "maturity": 8.4,
+    "volatility": 0.5,
+    "dividend_yield": 0,
+    "riskfree_rate": 0.065
+   }
+  },
+  "expected": {
+   "value_per_share": 12.428605206226292,
+   "value_of_firm": 17111.279592013067,
+   "pv_high_growth": 2446.419060292443,
+   "options_value": 299.73122066526366
+  }
+ },
+ {
+  "name": "Walgreens2024.xlsx: Ginzu value with failure from rating Ba2/BB",
+  "tool": "ginzu",
+  "inputs": {
+   "revenues": 145533,
+   "ebit": 1883,
+   "book_equity": 13642,
+   "book_debt": 33664,
+   "cash": 711,
+   "non_operating_assets": 2971,
+   "minority_interests": 1788,
+   "shares_outstanding": 863.1,
+   "price": 8.77,
+   "effective_tax_rate": 0.25,
+   "marginal_tax_rate": 0.25,
+   "growth_next_year": -0.05,
+   "margin_next_year": 0.01293864621769633,
+   "growth_years_2_5": 0.03,
+   "target_margin": 0.035,
+   "margin_convergence_year": 5,
+   "riskfree_rate": 0.0372,
+   "initial_cost_of_capital": 0.07956928655790949,
+   "failure_proceeds_basis": "V",
+   "failure_proceeds_pct": 0.25,
+   "terminal_growth": 0.03,
+   "sales_to_capital_1_5": 3.1090000638677036,
+   "sales_to_capital_6_10": 3.1090000638677036,
+   "mature_erp": 0.0411,
+   "failure": {
+    "rating": "Ba2/BB",
+    "years": 10
+   }
+  },
+  "expected": {
+   "value_per_share": 7.526831656274862
+  }
+ }
+]

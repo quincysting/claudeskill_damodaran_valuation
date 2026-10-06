@@ -1,0 +1,14 @@
+# Python and tooling caches
+__pycache__/
+*.pyc
+.ruff_cache/
+.omc/
+.venv/
+
+# Excel lock files
+~$*.xlsx
+
+# Maintenance workspace folders (not distributed)
+/spreadsheets/
+/markdown/
+/manifest.json

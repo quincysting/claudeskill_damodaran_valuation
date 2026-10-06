@@ -1,0 +1,1250 @@
+{
+ "source": "fcffsimpleginzu.xlsx: 'Cost of capital worksheet'!B13 recalculated (pycel) per override; 'template as published' equals the template's cached cell",
+ "url": "https://pages.stern.nyu.edu/~adamodar/pc/fcffsimpleginzu.xlsx",
+ "data_updated": "Updated January 1, 2026",
+ "cases": [
+  {
+   "name": "template as published",
+   "cells": {},
+   "inputs": {
+    "approach": "detailed",
+    "riskfree_rate": 0.0458,
+    "marginal_tax_rate": 0.25,
+    "cost_of_capital": 0.09,
+    "region": "US",
+    "group": "Median",
+    "industry": "Food Processing",
+    "scope": "US",
+    "shares_outstanding": 4315,
+    "price": 72.28,
+    "beta": {
+     "approach": "single_us",
+     "industry": "Food Processing"
+    },
+    "erp": {
+     "approach": "regions",
+     "value": 0.06,
+     "country": "Saudi Arabia",
+     "weights": {
+      "Asia": 5455,
+      "Central and South America": 5830,
+      "North America": 16774,
+      "EMEA": {
+       "revenues": 8078,
+       "erp": 0.0587
+      },
+      "Rest of the World": {
+       "revenues": 10924,
+       "erp": 0.055
+      }
+     }
+    },
+    "debt": {
+     "book_debt": 45063,
+     "interest_expense": 493.4,
+     "maturity": 3,
+     "approach": "rating",
+     "pre_tax_cost": 0.04,
+     "rating": "A1/A+",
+     "firm_type": 2,
+     "ebit": 3060.9,
+     "country": "Saudi Arabia"
+    },
+    "preferred": {
+     "shares": 0,
+     "price": 70,
+     "dividend": 5
+    }
+   },
+   "expected": 0.0705501574064654
+  },
+  {
+   "name": "debt: synthetic, firm type 2",
+   "cells": {
+    "B33": "Synthetic Rating",
+    "B36": 2
+   },
+   "inputs": {
+    "approach": "detailed",
+    "riskfree_rate": 0.0458,
+    "marginal_tax_rate": 0.25,
+    "cost_of_capital": 0.09,
+    "region": "US",
+    "group": "Median",
+    "industry": "Food Processing",
+    "scope": "US",
+    "shares_outstanding": 4315,
+    "price": 72.28,
+    "beta": {
+     "approach": "single_us",
+     "industry": "Food Processing"
+    },
+    "erp": {
+     "approach": "regions",
+     "value": 0.06,
+     "country": "Saudi Arabia",
+     "weights": {
+      "Asia": 5455,
+      "Central and South America": 5830,
+      "North America": 16774,
+      "EMEA": {
+       "revenues": 8078,
+       "erp": 0.0587
+      },
+      "Rest of the World": {
+       "revenues": 10924,
+       "erp": 0.055
+      }
+     }
+    },
+    "debt": {
+     "book_debt": 45063,
+     "interest_expense": 493.4,
+     "maturity": 3,
+     "approach": "synthetic",
+     "pre_tax_cost": 0.04,
+     "rating": "A1/A+",
+     "firm_type": 2,
+     "ebit": 3060.9,
+     "country": "Saudi Arabia"
+    },
+    "preferred": {
+     "shares": 0,
+     "price": 70,
+     "dividend": 5
+    }
+   },
+   "expected": 0.0710619495033054
+  },
+  {
+   "name": "debt: synthetic, firm type 1",
+   "cells": {
+    "B33": "Synthetic Rating",
+    "B36": 1
+   },
+   "inputs": {
+    "approach": "detailed",
+    "riskfree_rate": 0.0458,
+    "marginal_tax_rate": 0.25,
+    "cost_of_capital": 0.09,
+    "region": "US",
+    "group": "Median",
+    "industry": "Food Processing",
+    "scope": "US",
+    "shares_outstanding": 4315,
+    "price": 72.28,
+    "beta": {
+     "approach": "single_us",
+     "industry": "Food Processing"
+    },
+    "erp": {
+     "approach": "regions",
+     "value": 0.06,
+     "country": "Saudi Arabia",
+     "weights": {
+      "Asia": 5455,
+      "Central and South America": 5830,
+      "North America": 16774,
+      "EMEA": {
+       "revenues": 8078,
+       "erp": 0.0587
+      },
+      "Rest of the World": {
+       "revenues": 10924,
+       "erp": 0.055
+      }
+     }
+    },
+    "debt": {
+     "book_debt": 45063,
+     "interest_expense": 493.4,
+     "maturity": 3,
+     "approach": "synthetic",
+     "pre_tax_cost": 0.04,
+     "rating": "A1/A+",
+     "firm_type": 1,
+     "ebit": 3060.9,
+     "country": "Saudi Arabia"
+    },
+    "preferred": {
+     "shares": 0,
+     "price": 70,
+     "dividend": 5
+    }
+   },
+   "expected": 0.07099730649603034
+  },
+  {
+   "name": "debt: synthetic t1, EBIT 300",
+   "cells": {
+    "B33": "Synthetic Rating",
+    "B36": 1,
+    "Input sheet!B12": 300
+   },
+   "inputs": {
+    "approach": "detailed",
+    "riskfree_rate": 0.0458,
+    "marginal_tax_rate": 0.25,
+    "cost_of_capital": 0.09,
+    "region": "US",
+    "group": "Median",
+    "industry": "Food Processing",
+    "scope": "US",
+    "shares_outstanding": 4315,
+    "price": 72.28,
+    "beta": {
+     "approach": "single_us",
+     "industry": "Food Processing"
+    },
+    "erp": {
+     "approach": "regions",
+     "value": 0.06,
+     "country": "Saudi Arabia",
+     "weights": {
+      "Asia": 5455,
+      "Central and South America": 5830,
+      "North America": 16774,
+      "EMEA": {
+       "revenues": 8078,
+       "erp": 0.0587
+      },
+      "Rest of the World": {
+       "revenues": 10924,
+       "erp": 0.055
+      }
+     }
+    },
+    "debt": {
+     "book_debt": 45063,
+     "interest_expense": 493.4,
+     "maturity": 3,
+     "approach": "synthetic",
+     "pre_tax_cost": 0.04,
+     "rating": "A1/A+",
+     "firm_type": 1,
+     "ebit": 300,
+     "country": "Saudi Arabia"
+    },
+    "preferred": {
+     "shares": 0,
+     "price": 70,
+     "dividend": 5
+    }
+   },
+   "expected": 0.08025689213522257
+  },
+  {
+   "name": "debt: direct 6%",
+   "cells": {
+    "B33": "Direct Input",
+    "B34": 0.06
+   },
+   "inputs": {
+    "approach": "detailed",
+    "riskfree_rate": 0.0458,
+    "marginal_tax_rate": 0.25,
+    "cost_of_capital": 0.09,
+    "region": "US",
+    "group": "Median",
+    "industry": "Food Processing",
+    "scope": "US",
+    "shares_outstanding": 4315,
+    "price": 72.28,
+    "beta": {
+     "approach": "single_us",
+     "industry": "Food Processing"
+    },
+    "erp": {
+     "approach": "regions",
+     "value": 0.06,
+     "country": "Saudi Arabia",
+     "weights": {
+      "Asia": 5455,
+      "Central and South America": 5830,
+      "North America": 16774,
+      "EMEA": {
+       "revenues": 8078,
+       "erp": 0.0587
+      },
+      "Rest of the World": {
+       "revenues": 10924,
+       "erp": 0.055
+      }
+     }
+    },
+    "debt": {
+     "book_debt": 45063,
+     "interest_expense": 493.4,
+     "maturity": 3,
+     "approach": "direct",
+     "pre_tax_cost": 0.06,
+     "rating": "A1/A+",
+     "firm_type": 2,
+     "ebit": 3060.9,
+     "country": "Saudi Arabia"
+    },
+    "preferred": {
+     "shares": 0,
+     "price": 70,
+     "dividend": 5
+    }
+   },
+   "expected": 0.07117793125102706
+  },
+  {
+   "name": "debt: rating B1/B+",
+   "cells": {
+    "B35": "B1/B+"
+   },
+   "inputs": {
+    "approach": "detailed",
+    "riskfree_rate": 0.0458,
+    "marginal_tax_rate": 0.25,
+    "cost_of_capital": 0.09,
+    "region": "US",
+    "group": "Median",
+    "industry": "Food Processing",
+    "scope": "US",
+    "shares_outstanding": 4315,
+    "price": 72.28,
+    "beta": {
+     "approach": "single_us",
+     "industry": "Food Processing"
+    },
+    "erp": {
+     "approach": "regions",
+     "value": 0.06,
+     "country": "Saudi Arabia",
+     "weights": {
+      "Asia": 5455,
+      "Central and South America": 5830,
+      "North America": 16774,
+      "EMEA": {
+       "revenues": 8078,
+       "erp": 0.0587
+      },
+      "Rest of the World": {
+       "revenues": 10924,
+       "erp": 0.055
+      }
+     }
+    },
+    "debt": {
+     "book_debt": 45063,
+     "interest_expense": 493.4,
+     "maturity": 3,
+     "approach": "rating",
+     "pre_tax_cost": 0.04,
+     "rating": "B1/B+",
+     "firm_type": 2,
+     "ebit": 3060.9,
+     "country": "Saudi Arabia"
+    },
+    "preferred": {
+     "shares": 0,
+     "price": 70,
+     "dividend": 5
+    }
+   },
+   "expected": 0.07228352962018546
+  },
+  {
+   "name": "erp: direct 6%",
+   "cells": {
+    "B25": "Will Input",
+    "B26": 0.06
+   },
+   "inputs": {
+    "approach": "detailed",
+    "riskfree_rate": 0.0458,
+    "marginal_tax_rate": 0.25,
+    "cost_of_capital": 0.09,
+    "region": "US",
+    "group": "Median",
+    "industry": "Food Processing",
+    "scope": "US",
+    "shares_outstanding": 4315,
+    "price": 72.28,
+    "beta": {
+     "approach": "single_us",
+     "industry": "Food Processing"
+    },
+    "erp": {
+     "approach": "direct",
+     "value": 0.06,
+     "country": "Saudi Arabia",
+     "weights": {
+      "Asia": 5455,
+      "Central and South America": 5830,
+      "North America": 16774,
+      "EMEA": {
+       "revenues": 8078,
+       "erp": 0.0587
+      },
+      "Rest of the World": {
+       "revenues": 10924,
+       "erp": 0.055
+      }
+     }
+    },
+    "debt": {
+     "book_debt": 45063,
+     "interest_expense": 493.4,
+     "maturity": 3,
+     "approach": "rating",
+     "pre_tax_cost": 0.04,
+     "rating": "A1/A+",
+     "firm_type": 2,
+     "ebit": 3060.9,
+     "country": "Saudi Arabia"
+    },
+    "preferred": {
+     "shares": 0,
+     "price": 70,
+     "dividend": 5
+    }
+   },
+   "expected": 0.07246205067118994
+  },
+  {
+   "name": "erp: country of incorporation",
+   "cells": {
+    "B25": "Country of Incorporation"
+   },
+   "inputs": {
+    "approach": "detailed",
+    "riskfree_rate": 0.0458,
+    "marginal_tax_rate": 0.25,
+    "cost_of_capital": 0.09,
+    "region": "US",
+    "group": "Median",
+    "industry": "Food Processing",
+    "scope": "US",
+    "shares_outstanding": 4315,
+    "price": 72.28,
+    "beta": {
+     "approach": "single_us",
+     "industry": "Food Processing"
+    },
+    "erp": {
+     "approach": "country",
+     "value": 0.06,
+     "country": "Saudi Arabia",
+     "weights": {
+      "Asia": 5455,
+      "Central and South America": 5830,
+      "North America": 16774,
+      "EMEA": {
+       "revenues": 8078,
+       "erp": 0.0587
+      },
+      "Rest of the World": {
+       "revenues": 10924,
+       "erp": 0.055
+      }
+     }
+    },
+    "debt": {
+     "book_debt": 45063,
+     "interest_expense": 493.4,
+     "maturity": 3,
+     "approach": "rating",
+     "pre_tax_cost": 0.04,
+     "rating": "A1/A+",
+     "firm_type": 2,
+     "ebit": 3060.9,
+     "country": "Saudi Arabia"
+    },
+    "preferred": {
+     "shares": 0,
+     "price": 70,
+     "dividend": 5
+    }
+   },
+   "expected": 0.06794668699370521
+  },
+  {
+   "name": "erp: operating countries",
+   "cells": {
+    "B25": "Operating countries"
+   },
+   "inputs": {
+    "approach": "detailed",
+    "riskfree_rate": 0.0458,
+    "marginal_tax_rate": 0.25,
+    "cost_of_capital": 0.09,
+    "region": "US",
+    "group": "Median",
+    "industry": "Food Processing",
+    "scope": "US",
+    "shares_outstanding": 4315,
+    "price": 72.28,
+    "beta": {
+     "approach": "single_us",
+     "industry": "Food Processing"
+    },
+    "erp": {
+     "approach": "countries",
+     "value": 0.06,
+     "country": "Saudi Arabia",
+     "weights": {
+      "United States": 193636,
+      "China": 500,
+      "Rest of the World": {
+       "revenues": 31335,
+       "erp": 0.0641
+      }
+     }
+    },
+    "debt": {
+     "book_debt": 45063,
+     "interest_expense": 493.4,
+     "maturity": 3,
+     "approach": "rating",
+     "pre_tax_cost": 0.04,
+     "rating": "A1/A+",
+     "firm_type": 2,
+     "ebit": 3060.9,
+     "country": "Saudi Arabia"
+    },
+    "preferred": {
+     "shares": 0,
+     "price": 70,
+     "dividend": 5
+    }
+   },
+   "expected": 0.06668106547131195
+  },
+  {
+   "name": "beta: direct 1.2",
+   "cells": {
+    "B21": "Direct Input",
+    "B22": 1.2
+   },
+   "inputs": {
+    "approach": "detailed",
+    "riskfree_rate": 0.0458,
+    "marginal_tax_rate": 0.25,
+    "cost_of_capital": 0.09,
+    "region": "US",
+    "group": "Median",
+    "industry": "Food Processing",
+    "scope": "US",
+    "shares_outstanding": 4315,
+    "price": 72.28,
+    "beta": {
+     "approach": "direct",
+     "levered_beta": 1.2
+    },
+    "erp": {
+     "approach": "regions",
+     "value": 0.06,
+     "country": "Saudi Arabia",
+     "weights": {
+      "Asia": 5455,
+      "Central and South America": 5830,
+      "North America": 16774,
+      "EMEA": {
+       "revenues": 8078,
+       "erp": 0.0587
+      },
+      "Rest of the World": {
+       "revenues": 10924,
+       "erp": 0.055
+      }
+     }
+    },
+    "debt": {
+     "book_debt": 45063,
+     "interest_expense": 493.4,
+     "maturity": 3,
+     "approach": "rating",
+     "pre_tax_cost": 0.04,
+     "rating": "A1/A+",
+     "firm_type": 2,
+     "ebit": 3060.9,
+     "country": "Saudi Arabia"
+    },
+    "preferred": {
+     "shares": 0,
+     "price": 70,
+     "dividend": 5
+    }
+   },
+   "expected": 0.10446118661034665
+  },
+  {
+   "name": "beta: single global",
+   "cells": {
+    "B21": "Single Business(Global)"
+   },
+   "inputs": {
+    "approach": "detailed",
+    "riskfree_rate": 0.0458,
+    "marginal_tax_rate": 0.25,
+    "cost_of_capital": 0.09,
+    "region": "US",
+    "group": "Median",
+    "industry": "Food Processing",
+    "scope": "US",
+    "shares_outstanding": 4315,
+    "price": 72.28,
+    "beta": {
+     "approach": "single_global",
+     "industry": "Food Processing"
+    },
+    "erp": {
+     "approach": "regions",
+     "value": 0.06,
+     "country": "Saudi Arabia",
+     "weights": {
+      "Asia": 5455,
+      "Central and South America": 5830,
+      "North America": 16774,
+      "EMEA": {
+       "revenues": 8078,
+       "erp": 0.0587
+      },
+      "Rest of the World": {
+       "revenues": 10924,
+       "erp": 0.055
+      }
+     }
+    },
+    "debt": {
+     "book_debt": 45063,
+     "interest_expense": 493.4,
+     "maturity": 3,
+     "approach": "rating",
+     "pre_tax_cost": 0.04,
+     "rating": "A1/A+",
+     "firm_type": 2,
+     "ebit": 3060.9,
+     "country": "Saudi Arabia"
+    },
+    "preferred": {
+     "shares": 0,
+     "price": 70,
+     "dividend": 5
+    }
+   },
+   "expected": 0.07547376475107903
+  },
+  {
+   "name": "beta: multibusiness US",
+   "cells": {
+    "B21": "Multibusiness(US)"
+   },
+   "inputs": {
+    "approach": "detailed",
+    "riskfree_rate": 0.0458,
+    "marginal_tax_rate": 0.25,
+    "cost_of_capital": 0.09,
+    "region": "US",
+    "group": "Median",
+    "industry": "Food Processing",
+    "scope": "US",
+    "shares_outstanding": 4315,
+    "price": 72.28,
+    "beta": {
+     "approach": "multi_us",
+     "businesses": [
+      {
+       "industry": "Computers/Peripherals",
+       "revenues": 195010
+      },
+      {
+       "industry": "Electronics (General)",
+       "revenues": 43000
+      },
+      {
+       "industry": "Entertainment",
+       "revenues": 15000
+      }
+     ]
+    },
+    "erp": {
+     "approach": "regions",
+     "value": 0.06,
+     "country": "Saudi Arabia",
+     "weights": {
+      "Asia": 5455,
+      "Central and South America": 5830,
+      "North America": 16774,
+      "EMEA": {
+       "revenues": 8078,
+       "erp": 0.0587
+      },
+      "Rest of the World": {
+       "revenues": 10924,
+       "erp": 0.055
+      }
+     }
+    },
+    "debt": {
+     "book_debt": 45063,
+     "interest_expense": 493.4,
+     "maturity": 3,
+     "approach": "rating",
+     "pre_tax_cost": 0.04,
+     "rating": "A1/A+",
+     "firm_type": 2,
+     "ebit": 3060.9,
+     "country": "Saudi Arabia"
+    },
+    "preferred": {
+     "shares": 0,
+     "price": 70,
+     "dividend": 5
+    }
+   },
+   "expected": 0.11366171214274914
+  },
+  {
+   "name": "beta: multibusiness global",
+   "cells": {
+    "B21": "Multibusiness(Global)"
+   },
+   "inputs": {
+    "approach": "detailed",
+    "riskfree_rate": 0.0458,
+    "marginal_tax_rate": 0.25,
+    "cost_of_capital": 0.09,
+    "region": "US",
+    "group": "Median",
+    "industry": "Food Processing",
+    "scope": "US",
+    "shares_outstanding": 4315,
+    "price": 72.28,
+    "beta": {
+     "approach": "multi_global",
+     "businesses": [
+      {
+       "industry": "Electronics (General)",
+       "revenues": 81363
+      }
+     ]
+    },
+    "erp": {
+     "approach": "regions",
+     "value": 0.06,
+     "country": "Saudi Arabia",
+     "weights": {
+      "Asia": 5455,
+      "Central and South America": 5830,
+      "North America": 16774,
+      "EMEA": {
+       "revenues": 8078,
+       "erp": 0.0587
+      },
+      "Rest of the World": {
+       "revenues": 10924,
+       "erp": 0.055
+      }
+     }
+    },
+    "debt": {
+     "book_debt": 45063,
+     "interest_expense": 493.4,
+     "maturity": 3,
+     "approach": "rating",
+     "pre_tax_cost": 0.04,
+     "rating": "A1/A+",
+     "firm_type": 2,
+     "ebit": 3060.9,
+     "country": "Saudi Arabia"
+    },
+    "preferred": {
+     "shares": 0,
+     "price": 70,
+     "dividend": 5
+    }
+   },
+   "expected": 0.13014652159763132
+  },
+  {
+   "name": "preferred 100 sh @70, div 5",
+   "cells": {
+    "B48": 100
+   },
+   "inputs": {
+    "approach": "detailed",
+    "riskfree_rate": 0.0458,
+    "marginal_tax_rate": 0.25,
+    "cost_of_capital": 0.09,
+    "region": "US",
+    "group": "Median",
+    "industry": "Food Processing",
+    "scope": "US",
+    "shares_outstanding": 4315,
+    "price": 72.28,
+    "beta": {
+     "approach": "single_us",
+     "industry": "Food Processing"
+    },
+    "erp": {
+     "approach": "regions",
+     "value": 0.06,
+     "country": "Saudi Arabia",
+     "weights": {
+      "Asia": 5455,
+      "Central and South America": 5830,
+      "North America": 16774,
+      "EMEA": {
+       "revenues": 8078,
+       "erp": 0.0587
+      },
+      "Rest of the World": {
+       "revenues": 10924,
+       "erp": 0.055
+      }
+     }
+    },
+    "debt": {
+     "book_debt": 45063,
+     "interest_expense": 493.4,
+     "maturity": 3,
+     "approach": "rating",
+     "pre_tax_cost": 0.04,
+     "rating": "A1/A+",
+     "firm_type": 2,
+     "ebit": 3060.9,
+     "country": "Saudi Arabia"
+    },
+    "preferred": {
+     "shares": 100,
+     "price": 70,
+     "dividend": 5
+    }
+   },
+   "expected": 0.07056729280538018
+  },
+  {
+   "name": "approach: direct 9%",
+   "cells": {
+    "B11": "I will input"
+   },
+   "inputs": {
+    "approach": "direct",
+    "riskfree_rate": 0.0458,
+    "marginal_tax_rate": 0.25,
+    "cost_of_capital": 0.09,
+    "region": "US",
+    "group": "Median",
+    "industry": "Food Processing",
+    "scope": "US",
+    "shares_outstanding": 4315,
+    "price": 72.28,
+    "beta": {
+     "approach": "single_us",
+     "industry": "Food Processing"
+    },
+    "erp": {
+     "approach": "regions",
+     "value": 0.06,
+     "country": "Saudi Arabia",
+     "weights": {
+      "Asia": 5455,
+      "Central and South America": 5830,
+      "North America": 16774,
+      "EMEA": {
+       "revenues": 8078,
+       "erp": 0.0587
+      },
+      "Rest of the World": {
+       "revenues": 10924,
+       "erp": 0.055
+      }
+     }
+    },
+    "debt": {
+     "book_debt": 45063,
+     "interest_expense": 493.4,
+     "maturity": 3,
+     "approach": "rating",
+     "pre_tax_cost": 0.04,
+     "rating": "A1/A+",
+     "firm_type": 2,
+     "ebit": 3060.9,
+     "country": "Saudi Arabia"
+    },
+    "preferred": {
+     "shares": 0,
+     "price": 70,
+     "dividend": 5
+    }
+   },
+   "expected": 0.09
+  },
+  {
+   "name": "industry avg: single US",
+   "cells": {
+    "B11": "Industry Average",
+    "B66": "Single Business(US)"
+   },
+   "inputs": {
+    "approach": "industry_average",
+    "riskfree_rate": 0.0458,
+    "marginal_tax_rate": 0.25,
+    "cost_of_capital": 0.09,
+    "region": "US",
+    "group": "Median",
+    "industry": "Food Processing",
+    "scope": "US",
+    "shares_outstanding": 4315,
+    "price": 72.28,
+    "beta": {
+     "approach": "single_us",
+     "industry": "Food Processing"
+    },
+    "erp": {
+     "approach": "regions",
+     "value": 0.06,
+     "country": "Saudi Arabia",
+     "weights": {
+      "Asia": 5455,
+      "Central and South America": 5830,
+      "North America": 16774,
+      "EMEA": {
+       "revenues": 8078,
+       "erp": 0.0587
+      },
+      "Rest of the World": {
+       "revenues": 10924,
+       "erp": 0.055
+      }
+     }
+    },
+    "debt": {
+     "book_debt": 45063,
+     "interest_expense": 493.4,
+     "maturity": 3,
+     "approach": "rating",
+     "pre_tax_cost": 0.04,
+     "rating": "A1/A+",
+     "firm_type": 2,
+     "ebit": 3060.9,
+     "country": "Saudi Arabia"
+    },
+    "preferred": {
+     "shares": 0,
+     "price": 70,
+     "dividend": 5
+    }
+   },
+   "expected": 0.05789381991348973
+  },
+  {
+   "name": "industry avg: single global",
+   "cells": {
+    "B11": "Industry Average",
+    "B66": "Single Business(Global)"
+   },
+   "inputs": {
+    "approach": "industry_average",
+    "riskfree_rate": 0.0458,
+    "marginal_tax_rate": 0.25,
+    "cost_of_capital": 0.09,
+    "region": "US",
+    "group": "Median",
+    "industry": "Food Processing",
+    "scope": "Global",
+    "shares_outstanding": 4315,
+    "price": 72.28,
+    "beta": {
+     "approach": "single_us",
+     "industry": "Food Processing"
+    },
+    "erp": {
+     "approach": "regions",
+     "value": 0.06,
+     "country": "Saudi Arabia",
+     "weights": {
+      "Asia": 5455,
+      "Central and South America": 5830,
+      "North America": 16774,
+      "EMEA": {
+       "revenues": 8078,
+       "erp": 0.0587
+      },
+      "Rest of the World": {
+       "revenues": 10924,
+       "erp": 0.055
+      }
+     }
+    },
+    "debt": {
+     "book_debt": 45063,
+     "interest_expense": 493.4,
+     "maturity": 3,
+     "approach": "rating",
+     "pre_tax_cost": 0.04,
+     "rating": "A1/A+",
+     "firm_type": 2,
+     "ebit": 3060.9,
+     "country": "Saudi Arabia"
+    },
+    "preferred": {
+     "shares": 0,
+     "price": 70,
+     "dividend": 5
+    }
+   },
+   "expected": 0.06814426869857931
+  },
+  {
+   "name": "industry avg: multibusiness US",
+   "cells": {
+    "B11": "Industry Average",
+    "B66": "Multibusiness(US)"
+   },
+   "inputs": {
+    "approach": "industry_average",
+    "riskfree_rate": 0.0458,
+    "marginal_tax_rate": 0.25,
+    "cost_of_capital": 0.09,
+    "region": "US",
+    "group": "Median",
+    "industry": "Food Processing",
+    "scope": "US",
+    "shares_outstanding": 4315,
+    "price": 72.28,
+    "beta": {
+     "approach": "single_us",
+     "industry": "Food Processing"
+    },
+    "erp": {
+     "approach": "regions",
+     "value": 0.06,
+     "country": "Saudi Arabia",
+     "weights": {
+      "Asia": 5455,
+      "Central and South America": 5830,
+      "North America": 16774,
+      "EMEA": {
+       "revenues": 8078,
+       "erp": 0.0587
+      },
+      "Rest of the World": {
+       "revenues": 10924,
+       "erp": 0.055
+      }
+     }
+    },
+    "debt": {
+     "book_debt": 45063,
+     "interest_expense": 493.4,
+     "maturity": 3,
+     "approach": "rating",
+     "pre_tax_cost": 0.04,
+     "rating": "A1/A+",
+     "firm_type": 2,
+     "ebit": 3060.9,
+     "country": "Saudi Arabia"
+    },
+    "preferred": {
+     "shares": 0,
+     "price": 70,
+     "dividend": 5
+    },
+    "businesses": [
+     {
+      "industry": "Computers/Peripherals",
+      "revenues": 195010
+     },
+     {
+      "industry": "Electronics (General)",
+      "revenues": 43000
+     },
+     {
+      "industry": "Entertainment",
+      "revenues": 15000
+     }
+    ]
+   },
+   "expected": 0.0942423938135254
+  },
+  {
+   "name": "industry avg: multibusiness global",
+   "cells": {
+    "B11": "Industry Average",
+    "B66": "Multibusiness(Global)"
+   },
+   "inputs": {
+    "approach": "industry_average",
+    "riskfree_rate": 0.0458,
+    "marginal_tax_rate": 0.25,
+    "cost_of_capital": 0.09,
+    "region": "US",
+    "group": "Median",
+    "industry": "Food Processing",
+    "scope": "Global",
+    "shares_outstanding": 4315,
+    "price": 72.28,
+    "beta": {
+     "approach": "single_us",
+     "industry": "Food Processing"
+    },
+    "erp": {
+     "approach": "regions",
+     "value": 0.06,
+     "country": "Saudi Arabia",
+     "weights": {
+      "Asia": 5455,
+      "Central and South America": 5830,
+      "North America": 16774,
+      "EMEA": {
+       "revenues": 8078,
+       "erp": 0.0587
+      },
+      "Rest of the World": {
+       "revenues": 10924,
+       "erp": 0.055
+      }
+     }
+    },
+    "debt": {
+     "book_debt": 45063,
+     "interest_expense": 493.4,
+     "maturity": 3,
+     "approach": "rating",
+     "pre_tax_cost": 0.04,
+     "rating": "A1/A+",
+     "firm_type": 2,
+     "ebit": 3060.9,
+     "country": "Saudi Arabia"
+    },
+    "preferred": {
+     "shares": 0,
+     "price": 70,
+     "dividend": 5
+    },
+    "businesses": [
+     {
+      "industry": "Electronics (General)",
+      "revenues": 81363
+     }
+    ]
+   },
+   "expected": 0.1187602444873785
+  },
+  {
+   "name": "distribution: Global third quartile",
+   "cells": {
+    "B11": "Distribution",
+    "B70": "Global",
+    "B71": "Third Quartile"
+   },
+   "inputs": {
+    "approach": "distribution",
+    "riskfree_rate": 0.0458,
+    "marginal_tax_rate": 0.25,
+    "cost_of_capital": 0.09,
+    "region": "Global",
+    "group": "Third Quartile",
+    "industry": "Food Processing",
+    "scope": "US",
+    "shares_outstanding": 4315,
+    "price": 72.28,
+    "beta": {
+     "approach": "single_us",
+     "industry": "Food Processing"
+    },
+    "erp": {
+     "approach": "regions",
+     "value": 0.06,
+     "country": "Saudi Arabia",
+     "weights": {
+      "Asia": 5455,
+      "Central and South America": 5830,
+      "North America": 16774,
+      "EMEA": {
+       "revenues": 8078,
+       "erp": 0.0587
+      },
+      "Rest of the World": {
+       "revenues": 10924,
+       "erp": 0.055
+      }
+     }
+    },
+    "debt": {
+     "book_debt": 45063,
+     "interest_expense": 493.4,
+     "maturity": 3,
+     "approach": "rating",
+     "pre_tax_cost": 0.04,
+     "rating": "A1/A+",
+     "firm_type": 2,
+     "ebit": 3060.9,
+     "country": "Saudi Arabia"
+    },
+    "preferred": {
+     "shares": 0,
+     "price": 70,
+     "dividend": 5
+    }
+   },
+   "expected": 0.100287313945416
+  },
+  {
+   "name": "distribution: US ninth decile",
+   "cells": {
+    "B11": "Distribution",
+    "B70": "US",
+    "B71": "Ninth Decile"
+   },
+   "inputs": {
+    "approach": "distribution",
+    "riskfree_rate": 0.0458,
+    "marginal_tax_rate": 0.25,
+    "cost_of_capital": 0.09,
+    "region": "US",
+    "group": "Ninth Decile",
+    "industry": "Food Processing",
+    "scope": "US",
+    "shares_outstanding": 4315,
+    "price": 72.28,
+    "beta": {
+     "approach": "single_us",
+     "industry": "Food Processing"
+    },
+    "erp": {
+     "approach": "regions",
+     "value": 0.06,
+     "country": "Saudi Arabia",
+     "weights": {
+      "Asia": 5455,
+      "Central and South America": 5830,
+      "North America": 16774,
+      "EMEA": {
+       "revenues": 8078,
+       "erp": 0.0587
+      },
+      "Rest of the World": {
+       "revenues": 10924,
+       "erp": 0.055
+      }
+     }
+    },
+    "debt": {
+     "book_debt": 45063,
+     "interest_expense": 493.4,
+     "maturity": 3,
+     "approach": "rating",
+     "pre_tax_cost": 0.04,
+     "rating": "A1/A+",
+     "firm_type": 2,
+     "ebit": 3060.9,
+     "country": "Saudi Arabia"
+    },
+    "preferred": {
+     "shares": 0,
+     "price": 70,
+     "dividend": 5
+    }
+   },
+   "expected": 0.098770423360608
+  }
+ ]
+}

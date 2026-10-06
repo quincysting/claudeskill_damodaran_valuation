@@ -1,0 +1,1747 @@
+[
+ {
+  "name": "Adani2023",
+  "custom": [
+   "reinvestment_path(cached)",
+   "margin_path"
+  ],
+  "inputs": {
+   "revenues": 1226429,
+   "ebit": 44191,
+   "book_equity": 361764,
+   "book_debt": 423567,
+   "cash": 41111,
+   "non_operating_assets": 46709,
+   "minority_interests": 46719,
+   "shares_outstanding": 1099.8,
+   "price": 1531,
+   "effective_tax_rate": 0.245,
+   "marginal_tax_rate": 0.25,
+   "growth_next_year": 0.3,
+   "margin_next_year": 0.045,
+   "growth_years_2_5": 0.3,
+   "target_margin": 0.07,
+   "margin_convergence_year": 10,
+   "riskfree_rate": 0.0459,
+   "initial_cost_of_capital": 0.11566795715886391,
+   "terminal_cost_of_capital": 0.1,
+   "failure_probability": 0.1,
+   "failure_proceeds_basis": "B",
+   "failure_proceeds_pct": 1,
+   "sales_to_capital_1_5": 5,
+   "sales_to_capital_6_10": 5,
+   "mature_erp": 0.0594,
+   "reinvestment_path": [
+    73585.73999999999,
+    159435.77000000002,
+    207266.50100000008,
+    269446.4513,
+    350280.38669000025,
+    378225.7559401281,
+    376111.8701315404,
+    335243.23577699874,
+    252193.77662751576,
+    131258.2248186978
+   ],
+   "margin_path": [
+    0.045,
+    0.05,
+    0.052500000000000005,
+    0.055,
+    0.0575,
+    0.05641290119525876,
+    0.05980967589644407,
+    0.06320645059762939,
+    0.0666032252988147,
+    0.07
+   ]
+  },
+  "expected_value_per_share": 947.7896934236932
+ },
+ {
+  "name": "Amazon2024",
+  "custom": [],
+  "inputs": {
+   "revenues": 574785,
+   "ebit": 36852,
+   "book_equity": 201875,
+   "book_debt": 161574,
+   "cash": 86780,
+   "non_operating_assets": 2954,
+   "minority_interests": 0,
+   "shares_outstanding": 10492,
+   "price": 169,
+   "effective_tax_rate": 0.19,
+   "marginal_tax_rate": 0.25,
+   "growth_next_year": 0.12,
+   "margin_next_year": 0.11332759205616014,
+   "growth_years_2_5": 0.12,
+   "target_margin": 0.14,
+   "margin_convergence_year": 5,
+   "riskfree_rate": 0.0408,
+   "initial_cost_of_capital": 0.086,
+   "terminal_cost_of_capital": 0.08,
+   "terminal_roic": 0.15,
+   "sales_to_capital_1_5": 2,
+   "sales_to_capital_6_10": 2,
+   "mature_erp": 0.045,
+   "rd": {
+    "life": 3,
+    "current": 85622,
+    "past": [
+     73213,
+     56052,
+     42740
+    ]
+   }
+  },
+  "expected_value_per_share": 155.71557417949907
+ },
+ {
+  "name": "Apple2024",
+  "custom": [],
+  "inputs": {
+   "revenues": 385706,
+   "ebit": 118658,
+   "book_equity": 74110,
+   "book_debt": 108040,
+   "cash": 180248,
+   "non_operating_assets": 46906,
+   "minority_interests": 0,
+   "shares_outstanding": 15718,
+   "price": 188,
+   "effective_tax_rate": 0.148,
+   "marginal_tax_rate": 0.25,
+   "growth_next_year": 0.075,
+   "margin_next_year": 0.3176858367080972,
+   "growth_years_2_5": 0.075,
+   "target_margin": 0.36,
+   "margin_convergence_year": 5,
+   "riskfree_rate": 0.0408,
+   "initial_cost_of_capital": 0.08644879950426715,
+   "terminal_cost_of_capital": 0.08,
+   "terminal_roic": 0.15,
+   "sales_to_capital_1_5": 5,
+   "sales_to_capital_6_10": 5,
+   "mature_erp": 0.045,
+   "rd": {
+    "life": 3,
+    "current": 29902,
+    "past": [
+     29915,
+     26251,
+     21914
+    ]
+   }
+  },
+  "expected_value_per_share": 176.78811736245632
+ },
+ {
+  "name": "BirkenstockIPO2023",
+  "custom": [],
+  "inputs": {
+   "revenues": 1439976,
+   "ebit": 321230,
+   "book_equity": 2357818,
+   "book_debt": 1874002,
+   "cash": 307078,
+   "non_operating_assets": 0,
+   "minority_interests": 0,
+   "shares_outstanding": 202853,
+   "price": 46.5,
+   "effective_tax_rate": 0.3,
+   "marginal_tax_rate": 0.3,
+   "growth_next_year": 0.25,
+   "margin_next_year": 0.23,
+   "growth_years_2_5": 0.15,
+   "target_margin": 0.25,
+   "margin_convergence_year": 5,
+   "riskfree_rate": 0.0274,
+   "initial_cost_of_capital": 0.07454053357026832,
+   "terminal_roic": 0.12,
+   "sales_to_capital_1_5": 2.62,
+   "sales_to_capital_6_10": 2.62,
+   "ipo_proceeds": 1000000,
+   "ipo_shares_at_value": false,
+   "mature_erp": 0.05
+  },
+  "expected_value_per_share": 41.325274646759965
+ },
+ {
+  "name": "CocaCola2024",
+  "custom": [],
+  "inputs": {
+   "revenues": 46465,
+   "ebit": 13815,
+   "book_equity": 25853,
+   "book_debt": 45063,
+   "cash": 19000,
+   "non_operating_assets": 21119,
+   "minority_interests": 1558,
+   "shares_outstanding": 4315,
+   "price": 72.28,
+   "effective_tax_rate": 0.175,
+   "marginal_tax_rate": 0.25,
+   "growth_next_year": 0.06,
+   "margin_next_year": 0.29732056386527494,
+   "growth_years_2_5": 0.06,
+   "target_margin": 0.29732056386527494,
+   "margin_convergence_year": 5,
+   "riskfree_rate": 0.0372,
+   "initial_cost_of_capital": 0.07415469928128691,
+   "terminal_cost_of_capital": 0.07415469928128691,
+   "terminal_roic": 0.2195349217967486,
+   "sales_to_capital_1_5": 1.7627547191775153,
+   "sales_to_capital_6_10": 1.7627547191775153,
+   "mature_erp": 0.0411
+  },
+  "expected_value_per_share": 65.15647692697827
+ },
+ {
+  "name": "Disney2023",
+  "custom": [],
+  "inputs": {
+   "revenues": 87807,
+   "ebit": 7725,
+   "book_equity": 110942,
+   "book_debt": 47189,
+   "cash": 11458,
+   "non_operating_assets": 3082,
+   "minority_interests": 0,
+   "shares_outstanding": 1829.8,
+   "price": 80,
+   "effective_tax_rate": 0.287,
+   "marginal_tax_rate": 0.25,
+   "growth_next_year": 0.1,
+   "margin_next_year": 0.08797704055485325,
+   "growth_years_2_5": 0.1,
+   "target_margin": 0.175,
+   "margin_convergence_year": 5,
+   "riskfree_rate": 0.04,
+   "initial_cost_of_capital": 0.0975,
+   "terminal_roic": 0.12,
+   "sales_to_capital_1_5": 1.46,
+   "sales_to_capital_6_10": 1.46,
+   "mature_erp": 0.05
+  },
+  "expected_value_per_share": 87.5226336423513
+ },
+ {
+  "name": "Google2024",
+  "custom": [],
+  "inputs": {
+   "revenues": 307394,
+   "ebit": 88226,
+   "book_equity": 283379,
+   "book_debt": 29867,
+   "cash": 110916,
+   "non_operating_assets": 31008,
+   "minority_interests": 0,
+   "shares_outstanding": 12722,
+   "price": 145,
+   "effective_tax_rate": 0.139,
+   "marginal_tax_rate": 0.25,
+   "growth_next_year": 0.08,
+   "margin_next_year": 0.32,
+   "growth_years_2_5": 0.08,
+   "target_margin": 0.3,
+   "margin_convergence_year": 5,
+   "riskfree_rate": 0.0408,
+   "initial_cost_of_capital": 0.0884,
+   "terminal_cost_of_capital": 0.08,
+   "terminal_roic": 0.15,
+   "sales_to_capital_1_5": 1.2,
+   "sales_to_capital_6_10": 1.2,
+   "mature_erp": 0.045,
+   "rd": {
+    "life": 3,
+    "current": 43709,
+    "past": [
+     39500,
+     31562,
+     27573
+    ]
+   }
+  },
+  "expected_value_per_share": 143.06671274874267
+ },
+ {
+  "name": "InstacartIPO",
+  "custom": [
+   "terminal_cost_of_capital(cached)",
+   "reinvestment_path(cached)",
+   "revenue_growth_path(no std inputs)",
+   "margin_path(no std inputs)"
+  ],
+  "inputs": {
+   "ebit": 404,
+   "book_equity": 191,
+   "book_debt": 682,
+   "cash": 1838,
+   "non_operating_assets": 0,
+   "minority_interests": 0,
+   "shares_outstanding": 322.94,
+   "price": 30,
+   "effective_tax_rate": 0.25,
+   "marginal_tax_rate": 0.25,
+   "target_margin": 0.25,
+   "margin_convergence_year": 10,
+   "riskfree_rate": 0.04,
+   "initial_cost_of_capital": 0.10999999999999999,
+   "failure_probability": 0.05,
+   "failure_proceeds_basis": "V",
+   "failure_proceeds_pct": 0.5,
+   "nol": 176,
+   "sales_to_capital_1_5": 3.13,
+   "sales_to_capital_6_10": 3.13,
+   "ipo_proceeds": 660,
+   "ipo_shares_at_value": false,
+   "mature_erp": 0.05,
+   "options": {
+    "number": 29.91,
+    "strike": 7.66,
+    "maturity": 5,
+    "volatility": 0.5071,
+    "price_basis": "price"
+   },
+   "revenues": 2900,
+   "terminal_cost_of_capital": 0.09,
+   "reinvestment_path": [
+    67.40917571884992,
+    73.64999769968057,
+    80.417924825559,
+    87.74959449477343,
+    95.68284676711069,
+    87.12417297300681,
+    74.9164519437775,
+    59.3003751910797,
+    40.76087151876394,
+    20.011583154897647
+   ],
+   "revenue_growth_path": [
+    0.10337611034482763,
+    0.10312564841740657,
+    0.10286752393109655,
+    0.10260137978424089,
+    0.10232683633548234,
+    0.08630001117409991,
+    0.0702723118434243,
+    0.05424369490497516,
+    0.03821411399378949,
+    0.022183519567747334
+   ],
+   "margin_path": [
+    0.1503793103448276,
+    0.16144827586206895,
+    0.17251724137931035,
+    0.18358620689655172,
+    0.1946551724137931,
+    0.20572413793103445,
+    0.21679310344827582,
+    0.22786206896551725,
+    0.23893103448275863,
+    0.25
+   ]
+  },
+  "expected_value_per_share": 29.321911044573614
+ },
+ {
+  "name": "Intel2024",
+  "custom": [],
+  "inputs": {
+   "revenues": 55121,
+   "ebit": 509,
+   "book_equity": 115229,
+   "book_debt": 53029,
+   "cash": 29273,
+   "non_operating_assets": 5824,
+   "minority_interests": 5205,
+   "shares_outstanding": 4233,
+   "price": 18.89,
+   "effective_tax_rate": 0.25,
+   "marginal_tax_rate": 0.25,
+   "growth_next_year": 0.06,
+   "margin_next_year": 0.033504471979826186,
+   "growth_years_2_5": 0.06,
+   "target_margin": 0.25,
+   "margin_convergence_year": 5,
+   "riskfree_rate": 0.0372,
+   "initial_cost_of_capital": 0.09916789346546939,
+   "sales_to_capital_1_5": 1.592168139721741,
+   "sales_to_capital_6_10": 1.592168139721741,
+   "mature_erp": 0.0411,
+   "rd": {
+    "life": 5,
+    "current": 17713,
+    "past": [
+     17281,
+     18869,
+     16473,
+     14767,
+     14486
+    ]
+   }
+  },
+  "expected_value_per_share": 29.111663080092644
+ },
+ {
+  "name": "MSFT2024",
+  "custom": [],
+  "inputs": {
+   "revenues": 227583,
+   "ebit": 101485,
+   "book_equity": 238268,
+   "book_debt": 111358,
+   "cash": 80982,
+   "non_operating_assets": 13367,
+   "minority_interests": 0,
+   "shares_outstanding": 7465,
+   "price": 405,
+   "effective_tax_rate": 0.148,
+   "marginal_tax_rate": 0.25,
+   "growth_next_year": 0.15,
+   "margin_next_year": 0.46079012931545854,
+   "growth_years_2_5": 0.15,
+   "target_margin": 0.45,
+   "margin_convergence_year": 5,
+   "riskfree_rate": 0.0408,
+   "initial_cost_of_capital": 0.09225220567472403,
+   "terminal_cost_of_capital": 0.084,
+   "terminal_roic": 0.15,
+   "sales_to_capital_1_5": 3,
+   "sales_to_capital_6_10": 3,
+   "mature_erp": 0.045,
+   "rd": {
+    "life": 3,
+    "current": 27524,
+    "past": [
+     27195,
+     24512,
+     20716
+    ]
+   }
+  },
+  "expected_value_per_share": 355.8815831281976
+ },
+ {
+  "name": "Meta2024",
+  "custom": [],
+  "inputs": {
+   "revenues": 134902,
+   "ebit": 49006,
+   "book_equity": 153168,
+   "book_debt": 37924,
+   "cash": 65403,
+   "non_operating_assets": 0,
+   "minority_interests": 0,
+   "shares_outstanding": 2629,
+   "price": 456.98,
+   "effective_tax_rate": 0.176,
+   "marginal_tax_rate": 0.25,
+   "growth_next_year": 0.12,
+   "margin_next_year": 0.45,
+   "growth_years_2_5": 0.12,
+   "target_margin": 0.4,
+   "margin_convergence_year": 5,
+   "riskfree_rate": 0.0408,
+   "initial_cost_of_capital": 0.08833158509130047,
+   "terminal_roic": 0.15,
+   "sales_to_capital_1_5": 1.5,
+   "sales_to_capital_6_10": 1.5,
+   "mature_erp": 0.045,
+   "rd": {
+    "life": 3,
+    "current": 36911,
+    "past": [
+     33619,
+     24655,
+     18447
+    ]
+   }
+  },
+  "expected_value_per_share": 445.1006686987999
+ },
+ {
+  "name": "NVIDIA2023",
+  "custom": [
+   "revenue_growth_path"
+  ],
+  "inputs": {
+   "revenues": 25878,
+   "ebit": 4496,
+   "book_equity": 24520,
+   "book_debt": 12080,
+   "cash": 15320,
+   "non_operating_assets": 505,
+   "minority_interests": 0,
+   "shares_outstanding": 2470,
+   "price": 409,
+   "effective_tax_rate": 0.1,
+   "marginal_tax_rate": 0.25,
+   "growth_next_year": 0.15,
+   "margin_next_year": 0.35,
+   "growth_years_2_5": 0.15,
+   "target_margin": 0.4,
+   "margin_convergence_year": 5,
+   "riskfree_rate": 0.036,
+   "initial_cost_of_capital": 0.12207881611852436,
+   "terminal_roic": 0.2,
+   "sales_to_capital_1_5": 1.15,
+   "sales_to_capital_6_10": 1.15,
+   "mature_erp": 0.0525,
+   "rd": {
+    "life": 5,
+    "current": 7596,
+    "past": [
+     7339,
+     5268,
+     3924,
+     2829,
+     2376
+    ]
+   },
+   "revenue_growth_path": [
+    0.82522606074658,
+    0.45524821523843406,
+    0.31566857294493156,
+    0.24268820731028495,
+    0.19806948800467405,
+    0.21509150323425374,
+    0.17031367575948275,
+    0.13883141737299876,
+    0.115209609190698,
+    0.09667107015575027
+   ]
+  },
+  "expected_value_per_share": 237.5505181494413
+ },
+ {
+  "name": "NVIDIA2023 (segments helper)",
+  "custom": [
+   "segments"
+  ],
+  "inputs": {
+   "revenues": 25878,
+   "ebit": 4496,
+   "book_equity": 24520,
+   "book_debt": 12080,
+   "cash": 15320,
+   "non_operating_assets": 505,
+   "minority_interests": 0,
+   "shares_outstanding": 2470,
+   "price": 409,
+   "effective_tax_rate": 0.1,
+   "marginal_tax_rate": 0.25,
+   "growth_next_year": 0.15,
+   "margin_next_year": 0.35,
+   "growth_years_2_5": 0.15,
+   "target_margin": 0.4,
+   "margin_convergence_year": 5,
+   "riskfree_rate": 0.036,
+   "initial_cost_of_capital": 0.12207881611852436,
+   "terminal_roic": 0.2,
+   "sales_to_capital_1_5": 1.15,
+   "sales_to_capital_6_10": 1.15,
+   "mature_erp": 0.0525,
+   "rd": {
+    "life": 5,
+    "current": 7596,
+    "past": [
+     7339,
+     5268,
+     3924,
+     2829,
+     2376
+    ]
+   },
+   "segments": [
+    {
+     "name": null,
+     "market": [
+      15000,
+      139000,
+      325000
+     ],
+     "share": [
+      0.75,
+      0.6
+     ],
+     "margin": [
+      0.35,
+      0.4
+     ]
+    },
+    {
+     "name": null,
+     "market": [
+      20000,
+      140000,
+      200000
+     ],
+     "share": [
+      0.03,
+      0.15
+     ],
+     "margin": [
+      0.35,
+      0.4
+     ]
+    }
+   ]
+  },
+  "expected_value_per_share": 237.5505181494413
+ },
+ {
+  "name": "NVIDIA2024Feb",
+  "custom": [
+   "revenue_growth_path",
+   "margin_path"
+  ],
+  "inputs": {
+   "revenues": 44870,
+   "ebit": 10729,
+   "book_equity": 24520,
+   "book_debt": 11027,
+   "cash": 18281,
+   "non_operating_assets": 1172,
+   "minority_interests": 0,
+   "shares_outstanding": 2470,
+   "price": 681,
+   "effective_tax_rate": 0.101,
+   "marginal_tax_rate": 0.25,
+   "growth_next_year": 0.3,
+   "margin_next_year": 0.3,
+   "growth_years_2_5": 0.3,
+   "target_margin": 0.4,
+   "margin_convergence_year": 5,
+   "riskfree_rate": 0.0408,
+   "initial_cost_of_capital": 0.0884,
+   "terminal_roic": 0.2,
+   "sales_to_capital_1_5": 1.15,
+   "sales_to_capital_6_10": 1.15,
+   "mature_erp": 0.045,
+   "rd": {
+    "life": 5,
+    "current": 7596,
+    "past": [
+     7339,
+     5268,
+     3924,
+     2829,
+     2376
+    ]
+   },
+   "revenue_growth_path": [
+    0.5166258078894583,
+    0.3627103202010258,
+    0.287609695709655,
+    0.2453163328083412,
+    0.2201462959670406,
+    0.22162926651779702,
+    0.177067954220004,
+    0.1400189981867661,
+    0.10736223339669504,
+    0.07797265888626259
+   ],
+   "margin_path": [
+    0.3314301038926687,
+    0.3688120836199961,
+    0.3723517502709687,
+    0.385930317777526,
+    0.4,
+    0.4000000000000001,
+    0.4,
+    0.4,
+    0.4,
+    0.3999999999999999
+   ]
+  },
+  "expected_value_per_share": 436.33895192969635
+ },
+ {
+  "name": "NVIDIA2024Feb (segments helper)",
+  "custom": [
+   "segments"
+  ],
+  "inputs": {
+   "revenues": 44870,
+   "ebit": 10729,
+   "book_equity": 24520,
+   "book_debt": 11027,
+   "cash": 18281,
+   "non_operating_assets": 1172,
+   "minority_interests": 0,
+   "shares_outstanding": 2470,
+   "price": 681,
+   "effective_tax_rate": 0.101,
+   "marginal_tax_rate": 0.25,
+   "growth_next_year": 0.3,
+   "margin_next_year": 0.3,
+   "growth_years_2_5": 0.3,
+   "target_margin": 0.4,
+   "margin_convergence_year": 5,
+   "riskfree_rate": 0.0408,
+   "initial_cost_of_capital": 0.0884,
+   "terminal_roic": 0.2,
+   "sales_to_capital_1_5": 1.15,
+   "sales_to_capital_6_10": 1.15,
+   "mature_erp": 0.045,
+   "rd": {
+    "life": 5,
+    "current": 7596,
+    "past": [
+     7339,
+     5268,
+     3924,
+     2829,
+     2376
+    ]
+   },
+   "segments": [
+    {
+     "name": null,
+     "market": [
+      35000,
+      151000,
+      325000
+     ],
+     "share": [
+      0.75,
+      0.6
+     ],
+     "margin": [
+      0.35,
+      0.4
+     ]
+    },
+    {
+     "name": null,
+     "market": [
+      20000,
+      140000,
+      200000
+     ],
+     "share": [
+      0.03,
+      0.15
+     ],
+     "margin": [
+      0.35,
+      0.4
+     ]
+    }
+   ]
+  },
+  "expected_value_per_share": 436.33895192969635
+ },
+ {
+  "name": "Nvidia2024Sep",
+  "custom": [
+   "revenue_growth_path"
+  ],
+  "inputs": {
+   "revenues": 96307,
+   "ebit": 59582,
+   "book_equity": 58157,
+   "book_debt": 9765,
+   "cash": 34800,
+   "non_operating_assets": 1546,
+   "minority_interests": 0,
+   "shares_outstanding": 24578,
+   "price": 106,
+   "effective_tax_rate": 0.133,
+   "marginal_tax_rate": 0.25,
+   "growth_next_year": 0.15,
+   "margin_next_year": 0.65,
+   "growth_years_2_5": 0.15,
+   "target_margin": 0.6,
+   "margin_convergence_year": 5,
+   "riskfree_rate": 0.0373,
+   "initial_cost_of_capital": 0.1051547270453094,
+   "terminal_cost_of_capital": 0.0849,
+   "terminal_roic": 0.2,
+   "reinvestment_lag": 3,
+   "sales_to_capital_1_5": 2.5,
+   "sales_to_capital_6_10": 2.5,
+   "mature_erp": 0.0411,
+   "rd": {
+    "life": 5,
+    "current": 10569,
+    "past": [
+     8675,
+     7339,
+     5268,
+     3924,
+     2829
+    ]
+   },
+   "revenue_growth_path": [
+    0.4590948736851941,
+    0.30835207607685833,
+    0.23144203397960705,
+    0.18503593145469033,
+    0.15420731950908895,
+    0.08657945985489501,
+    0.07462380931548207,
+    0.06361111356431248,
+    0.053304690156192436,
+    0.04359315255384244
+   ]
+  },
+  "expected_value_per_share": 86.68396068527737
+ },
+ {
+  "name": "Nvidia2024Sep (segments helper)",
+  "custom": [
+   "segments"
+  ],
+  "inputs": {
+   "revenues": 96307,
+   "ebit": 59582,
+   "book_equity": 58157,
+   "book_debt": 9765,
+   "cash": 34800,
+   "non_operating_assets": 1546,
+   "minority_interests": 0,
+   "shares_outstanding": 24578,
+   "price": 106,
+   "effective_tax_rate": 0.133,
+   "marginal_tax_rate": 0.25,
+   "growth_next_year": 0.15,
+   "margin_next_year": 0.65,
+   "growth_years_2_5": 0.15,
+   "target_margin": 0.6,
+   "margin_convergence_year": 5,
+   "riskfree_rate": 0.0373,
+   "initial_cost_of_capital": 0.1051547270453094,
+   "terminal_cost_of_capital": 0.0849,
+   "terminal_roic": 0.2,
+   "reinvestment_lag": 3,
+   "sales_to_capital_1_5": 2.5,
+   "sales_to_capital_6_10": 2.5,
+   "mature_erp": 0.0411,
+   "rd": {
+    "life": 5,
+    "current": 10569,
+    "past": [
+     8675,
+     7339,
+     5268,
+     3924,
+     2829
+    ]
+   },
+   "segments": [
+    {
+     "name": null,
+     "market": [
+      80000,
+      332000,
+      500000
+     ],
+     "share": [
+      0.8,
+      0.6
+     ],
+     "margin": [
+      0.65,
+      0.6
+     ]
+    },
+    {
+     "name": null,
+     "market": [
+      20000,
+      140000,
+      200000
+     ],
+     "share": [
+      0.06,
+      0.15
+     ],
+     "margin": [
+      0.65,
+      0.6
+     ]
+    }
+   ]
+  },
+  "expected_value_per_share": 86.68396068527737
+ },
+ {
+  "name": "Netflix2023",
+  "custom": [],
+  "inputs": {
+   "revenues": 32464.5,
+   "ebit": 5624.4,
+   "book_equity": 22832.2,
+   "book_debt": 16993.7,
+   "cash": 8577,
+   "non_operating_assets": 0,
+   "minority_interests": 0,
+   "shares_outstanding": 443.1,
+   "price": 441.79,
+   "effective_tax_rate": 0.117,
+   "marginal_tax_rate": 0.25,
+   "growth_next_year": 0.15,
+   "margin_next_year": 0.18,
+   "growth_years_2_5": 0.15,
+   "target_margin": 0.2,
+   "margin_convergence_year": 5,
+   "riskfree_rate": 0.04,
+   "initial_cost_of_capital": 0.10593739552267081,
+   "sales_to_capital_1_5": 3,
+   "sales_to_capital_6_10": 3,
+   "mature_erp": 0.05
+  },
+  "expected_value_per_share": 238.0825554173181
+ },
+ {
+  "name": "Nike2024",
+  "custom": [],
+  "inputs": {
+   "revenues": 51362,
+   "ebit": 6754,
+   "book_equity": 14430,
+   "book_debt": 11983,
+   "cash": 11582,
+   "non_operating_assets": 0,
+   "minority_interests": 0,
+   "shares_outstanding": 1517.6,
+   "price": 88.96,
+   "effective_tax_rate": 0.149,
+   "marginal_tax_rate": 0.25,
+   "growth_next_year": 0.084,
+   "margin_next_year": 0.1336,
+   "growth_years_2_5": 0.084,
+   "target_margin": 0.1336,
+   "margin_convergence_year": 5,
+   "riskfree_rate": 0.0372,
+   "initial_cost_of_capital": 0.08392815437092016,
+   "terminal_roic": 0.2,
+   "sales_to_capital_1_5": 3.463151506978626,
+   "sales_to_capital_6_10": 3.463151506978626,
+   "mature_erp": 0.0411
+  },
+  "expected_value_per_share": 91.75031693660128
+ },
+ {
+  "name": "NvidiaJan2025",
+  "custom": [
+   "revenue_growth_path"
+  ],
+  "inputs": {
+   "revenues": 113269,
+   "ebit": 71033,
+   "book_equity": 65899,
+   "book_debt": 10225,
+   "cash": 38487,
+   "non_operating_assets": 2237,
+   "minority_interests": 0,
+   "shares_outstanding": 24490,
+   "price": 123,
+   "effective_tax_rate": 0.135,
+   "marginal_tax_rate": 0.25,
+   "growth_next_year": 0.15,
+   "margin_next_year": 0.65,
+   "growth_years_2_5": 0.15,
+   "target_margin": 0.6,
+   "margin_convergence_year": 5,
+   "riskfree_rate": 0.047,
+   "initial_cost_of_capital": 0.11793732266471768,
+   "terminal_cost_of_capital": 0.085,
+   "terminal_roic": 0.2,
+   "reinvestment_lag": 3,
+   "sales_to_capital_1_5": 2.5,
+   "sales_to_capital_6_10": 2.5,
+   "mature_erp": 0.0433,
+   "rd": {
+    "life": 5,
+    "current": 11665,
+    "past": [
+     8675,
+     7339,
+     5268,
+     3924,
+     2829
+    ]
+   },
+   "revenue_growth_path": [
+    0.24753771994102536,
+    0.2016590255213193,
+    0.17146719774993713,
+    0.1504232879978209,
+    0.13521593475591498,
+    0.08802276755907346,
+    0.0769443962805616,
+    0.06589647157095246,
+    0.05485631786607037,
+    0.043870734158019564
+   ]
+  },
+  "expected_value_per_share": 77.51374549828998
+ },
+ {
+  "name": "NvidiaJan2025 (segments helper)",
+  "custom": [
+   "segments"
+  ],
+  "inputs": {
+   "revenues": 113269,
+   "ebit": 71033,
+   "book_equity": 65899,
+   "book_debt": 10225,
+   "cash": 38487,
+   "non_operating_assets": 2237,
+   "minority_interests": 0,
+   "shares_outstanding": 24490,
+   "price": 123,
+   "effective_tax_rate": 0.135,
+   "marginal_tax_rate": 0.25,
+   "growth_next_year": 0.15,
+   "margin_next_year": 0.65,
+   "growth_years_2_5": 0.15,
+   "target_margin": 0.6,
+   "margin_convergence_year": 5,
+   "riskfree_rate": 0.047,
+   "initial_cost_of_capital": 0.11793732266471768,
+   "terminal_cost_of_capital": 0.085,
+   "terminal_roic": 0.2,
+   "reinvestment_lag": 3,
+   "sales_to_capital_1_5": 2.5,
+   "sales_to_capital_6_10": 2.5,
+   "mature_erp": 0.0433,
+   "rd": {
+    "life": 5,
+    "current": 11665,
+    "past": [
+     8675,
+     7339,
+     5268,
+     3924,
+     2829
+    ]
+   },
+   "segments": [
+    {
+     "name": null,
+     "market": [
+      80000,
+      212000,
+      300000
+     ],
+     "share": [
+      0.8,
+      0.6
+     ],
+     "margin": [
+      0.65,
+      0.6
+     ]
+    },
+    {
+     "name": null,
+     "market": [
+      20000,
+      140000,
+      200000
+     ],
+     "share": [
+      0.06,
+      0.15
+     ],
+     "margin": [
+      0.65,
+      0.6
+     ]
+    }
+   ]
+  },
+  "expected_value_per_share": 77.51374549828998
+ },
+ {
+  "name": "SpaceX2026IPO",
+  "custom": [
+   "reinvestment_path(cached)",
+   "revenue_growth_path(no std inputs)",
+   "margin_path(no std inputs)"
+  ],
+  "inputs": {
+   "ebit": -2000,
+   "book_equity": 20000,
+   "book_debt": 0,
+   "cash": 0,
+   "non_operating_assets": 0,
+   "minority_interests": 0,
+   "shares_outstanding": 2416.6666666666665,
+   "price": 600,
+   "effective_tax_rate": 0.1,
+   "marginal_tax_rate": 0.25,
+   "margin_convergence_year": 10,
+   "riskfree_rate": 0.042,
+   "initial_cost_of_capital": 0.08024591576065232,
+   "terminal_cost_of_capital": 0.08,
+   "terminal_roic": 0.15,
+   "sales_to_capital_1_5": 4,
+   "sales_to_capital_6_10": 4,
+   "mature_erp": 0.0423,
+   "rd": {
+    "life": 5,
+    "current": 3685,
+    "past": [
+     3075,
+     2593,
+     1491,
+     1390,
+     1460
+    ]
+   },
+   "revenues": 15600,
+   "reinvestment_path": [
+    4864.166666666667,
+    7458.166666666668,
+    6296.033333333335,
+    5366.326666666668,
+    16522.806666666664,
+    31659.22222222222,
+    31659.222222222226,
+    31659.222222222226,
+    31659.222222222226,
+    31659.222222222208
+   ],
+   "revenue_growth_path": [
+    1.4600427350427347,
+    0.5091461825762182,
+    0.2926560305730139,
+    0.19872411133927348,
+    0.44282312403650814,
+    0.2942721070922898,
+    0.22736494550083552,
+    0.18524640640445988,
+    0.15629358199567944,
+    0.1351677328571934
+   ],
+   "margin_path": [
+    0.11891114392425951,
+    0.15987291940051104,
+    0.2027888603735411,
+    0.2458511590425285,
+    0.29271720942206203,
+    0.32677030790038986,
+    0.36415149010647085,
+    0.40330028165932896,
+    0.44349991131502087,
+    0.484375
+   ]
+  },
+  "expected_value_per_share": 503.19771975566346
+ },
+ {
+  "name": "SpaceX2026IPOUpdated",
+  "custom": [
+   "reinvestment_path(cached)",
+   "revenue_growth_path(no std inputs)",
+   "margin_path(no std inputs)"
+  ],
+  "inputs": {
+   "ebit": -2589,
+   "book_equity": 41325,
+   "book_debt": 22896,
+   "cash": 24747,
+   "non_operating_assets": 0,
+   "minority_interests": 0,
+   "shares_outstanding": 12535.3,
+   "price": 135,
+   "effective_tax_rate": 0.1,
+   "marginal_tax_rate": 0.25,
+   "margin_convergence_year": 10,
+   "riskfree_rate": 0.0456,
+   "initial_cost_of_capital": 0.0837450225998141,
+   "terminal_cost_of_capital": 0.0825,
+   "terminal_roic": 0.15,
+   "sales_to_capital_1_5": 3,
+   "sales_to_capital_6_10": 3,
+   "ipo_proceeds": 75000,
+   "ipo_shares_at_value": true,
+   "mature_erp": 0.0423,
+   "rd": {
+    "life": 5,
+    "current": 8643,
+    "past": [
+     3464,
+     2105,
+     1800,
+     1600,
+     1200
+    ]
+   },
+   "revenues": 18674,
+   "reinvestment_path": [
+    10180.555555555555,
+    12216.666666666668,
+    11402.222222222219,
+    8551.666666666666,
+    8551.666666666666,
+    16456.093333333338,
+    18947.311999999998,
+    17950.824533333336,
+    14463.118399999994,
+    14463.118400000007
+   ],
+   "revenue_growth_path": [
+    1.0757416729142117,
+    0.6218933812147855,
+    0.3578742161413795,
+    0.1976660716548202,
+    0.16504272462332037,
+    0.5051949360287451,
+    0.38045119491691803,
+    0.26261298359434915,
+    0.17199360047054402,
+    0.1467530201542826
+   ],
+   "margin_path": [
+    0.08459966015176218,
+    0.11398056302087572,
+    0.14843568461723194,
+    0.1850837452590141,
+    0.2221271141856118,
+    0.2490522824489699,
+    0.28040493906330877,
+    0.3135239192858118,
+    0.3470420681430787,
+    0.38095238095238093
+   ]
+  },
+  "expected_value_per_share": 97.82765522078294
+ },
+ {
+  "name": "Starbucks2024",
+  "custom": [],
+  "inputs": {
+   "revenues": 36476,
+   "ebit": 5514,
+   "book_equity": 13642,
+   "book_debt": 33664,
+   "cash": 3391.4,
+   "non_operating_assets": 730.9,
+   "minority_interests": 8,
+   "shares_outstanding": 1136.525,
+   "price": 91.15,
+   "effective_tax_rate": 0.242,
+   "marginal_tax_rate": 0.25,
+   "growth_next_year": 0.08,
+   "margin_next_year": 0.1514,
+   "growth_years_2_5": 0.08,
+   "target_margin": 0.1514,
+   "margin_convergence_year": 5,
+   "riskfree_rate": 0.0372,
+   "initial_cost_of_capital": 0.07749371465715635,
+   "terminal_roic": 0.12,
+   "sales_to_capital_1_5": 2.003274073190966,
+   "sales_to_capital_6_10": 2.003274073190966,
+   "mature_erp": 0.0411
+  },
+  "expected_value_per_share": 57.601199489203985
+ },
+ {
+  "name": "Tesla2023OctDIY",
+  "custom": [
+   "reinvestment_path(cached)",
+   "revenue_growth_path(no std inputs)",
+   "margin_path(no std inputs)"
+  ],
+  "inputs": {
+   "ebit": 10728,
+   "book_equity": 53466,
+   "book_debt": 4393,
+   "cash": 26077,
+   "non_operating_assets": 0,
+   "minority_interests": 1029,
+   "shares_outstanding": 3176,
+   "price": 197,
+   "effective_tax_rate": 0.09281518300948938,
+   "marginal_tax_rate": 0.25,
+   "margin_convergence_year": 5,
+   "riskfree_rate": 0.05,
+   "initial_cost_of_capital": 0.10153333333333332,
+   "terminal_cost_of_capital": 0.09,
+   "terminal_roic": 0.15,
+   "failure_probability": 0,
+   "failure_proceeds_basis": "V",
+   "failure_proceeds_pct": 0.5,
+   "sales_to_capital_1_5": 4,
+   "sales_to_capital_6_10": 4,
+   "mature_erp": 0.0496,
+   "rd": {
+    "life": 5,
+    "current": 3685,
+    "past": [
+     3075,
+     2593,
+     1491,
+     1390,
+     1460
+    ]
+   },
+   "options": {
+    "number": 347.37,
+    "strike": 27.71666666666667,
+    "maturity": 6.11,
+    "volatility": 0.4,
+    "price_basis": "value"
+   },
+   "revenues": 95924,
+   "reinvestment_path": [
+    12834.016666666663,
+    12356.398333333338,
+    11974.303666666674,
+    14525.770790476185,
+    18193.87959047618,
+    24340.389285714293,
+    24340.38928571427,
+    24340.389285714336,
+    24340.38928571425,
+    24340.389285714293
+   ],
+   "revenue_growth_path": [
+    0.5351743741573187,
+    0.3356347341958741,
+    0.24352164091000184,
+    0.23755989964992996,
+    0.24043242337367277,
+    0.17287447282334845,
+    0.14739384037168457,
+    0.12845967547109938,
+    0.11383630116642918,
+    0.10220200315541694
+   ],
+   "margin_path": [
+    0.13851382363875667,
+    0.1321473793653656,
+    0.1254325221141702,
+    0.12138439900351079,
+    0.12183664694025421,
+    0.12466988205826612,
+    0.12677520424869174,
+    0.128401202257274,
+    0.12969483975864865,
+    0.13074857142857144
+   ]
+  },
+  "expected_value_per_share": 179.55628050049813
+ },
+ {
+  "name": "TeslaJan2023DIY",
+  "custom": [
+   "reinvestment_path(cached)",
+   "revenue_growth_path(no std inputs)",
+   "margin_path(no std inputs)"
+  ],
+  "inputs": {
+   "revenues": 81462,
+   "ebit": 13656,
+   "book_equity": 41124,
+   "book_debt": 5874,
+   "cash": 21107,
+   "non_operating_assets": 0,
+   "minority_interests": 0,
+   "shares_outstanding": 3146,
+   "price": 143.51,
+   "effective_tax_rate": 0.1,
+   "marginal_tax_rate": 0.25,
+   "growth_years_2_5": 0.24,
+   "target_margin": 0.16,
+   "margin_convergence_year": 5,
+   "riskfree_rate": 0.0347,
+   "initial_cost_of_capital": 0.10153333333333332,
+   "terminal_cost_of_capital": 0.09,
+   "terminal_roic": 0.18,
+   "failure_probability": 0,
+   "failure_proceeds_basis": "V",
+   "failure_proceeds_pct": 0.5,
+   "sales_to_capital_1_5": 4,
+   "sales_to_capital_6_10": 4,
+   "mature_erp": 0.0594,
+   "rd": {
+    "life": 5,
+    "current": 3005,
+    "past": [
+     2593,
+     1491,
+     1390,
+     1460,
+     1378
+    ]
+   },
+   "options": {
+    "number": 347.37,
+    "strike": 27.71666666666667,
+    "maturity": 6.11,
+    "volatility": 0.4,
+    "price_basis": "value"
+   },
+   "reinvestment_path": [
+    4887.720000000001,
+    6060.772799999999,
+    7515.358271999998,
+    9319.044257280002,
+    11555.614879027198,
+    17816.273686260938,
+    16951.936987118184,
+    14523.556079665803,
+    10519.107969282712,
+    5183.031084207141
+   ],
+   "revenue_growth_path": [
+    0.24,
+    0.24,
+    0.24,
+    0.24,
+    0.24,
+    0.1989399999999999,
+    0.15788000000000002,
+    0.11681999999999992,
+    0.07576000000000005,
+    0.03469999999999995
+   ],
+   "margin_path": [
+    0.17929419852201026,
+    0.1744706488915077,
+    0.16964709926100513,
+    0.16482354963050258,
+    0.16,
+    0.16,
+    0.16,
+    0.16,
+    0.16,
+    0.16
+   ]
+  },
+  "expected_value_per_share": 129.8992586590045
+ },
+ {
+  "name": "TeslaJan2024DIY",
+  "custom": [
+   "reinvestment_path(cached)",
+   "revenue_growth_path(no std inputs)",
+   "margin_path(no std inputs)"
+  ],
+  "inputs": {
+   "ebit": 8891,
+   "book_equity": 62634,
+   "book_debt": 5230,
+   "cash": 29094,
+   "non_operating_assets": 0,
+   "minority_interests": 733,
+   "shares_outstanding": 3174,
+   "price": 182.58,
+   "effective_tax_rate": 0.09281518300948938,
+   "marginal_tax_rate": 0.25,
+   "margin_convergence_year": 5,
+   "riskfree_rate": 0.0408,
+   "initial_cost_of_capital": 0.0917,
+   "terminal_cost_of_capital": 0.0868,
+   "terminal_roic": 0.15,
+   "failure_probability": 0,
+   "failure_proceeds_basis": "V",
+   "failure_proceeds_pct": 0.5,
+   "sales_to_capital_1_5": 4,
+   "sales_to_capital_6_10": 4,
+   "mature_erp": 0.045,
+   "rd": {
+    "life": 5,
+    "current": 3969,
+    "past": [
+     3075,
+     2593,
+     1491,
+     1390,
+     1460
+    ]
+   },
+   "options": {
+    "number": 344.02,
+    "strike": 35.11,
+    "maturity": 4.31,
+    "volatility": 0.4,
+    "price_basis": "value"
+   },
+   "revenues": 96773,
+   "reinvestment_path": [
+    12816.666666666672,
+    12341.238333333335,
+    11960.895666666664,
+    14513.764390476186,
+    18165.053990476183,
+    24302.739285714284,
+    24302.739285714262,
+    24302.739285714328,
+    24302.739285714284,
+    24302.739285714284
+   ],
+   "revenue_growth_path": [
+    0.5297620892879904,
+    0.333457609334435,
+    0.242363034191736,
+    0.23671960459099184,
+    0.23956292427304438,
+    0.17237659737211053,
+    0.14703176245456762,
+    0.12818456059135652,
+    0.11362020459149536,
+    0.10202778660357925
+   ],
+   "margin_path": [
+    0.12550637703994375,
+    0.1224391589877754,
+    0.11896643121981829,
+    0.11830124154965867,
+    0.1219150827594322,
+    0.12472082321937684,
+    0.1268072584633387,
+    0.12841957130872886,
+    0.12970288273226363,
+    0.13074857142857144
+   ]
+  },
+  "expected_value_per_share": 183.75079597459424
+ },
+ {
+  "name": "TeslaJan2025DIY",
+  "custom": [
+   "reinvestment_path(cached)",
+   "revenue_growth_path(no std inputs)",
+   "margin_path(no std inputs)"
+  ],
+  "inputs": {
+   "ebit": 7076,
+   "book_equity": 72913,
+   "book_debt": 13623,
+   "cash": 36563,
+   "non_operating_assets": 0,
+   "minority_interests": 767,
+   "shares_outstanding": 3197,
+   "price": 220,
+   "effective_tax_rate": 0.204,
+   "marginal_tax_rate": 0.25,
+   "margin_convergence_year": 5,
+   "riskfree_rate": 0.0422,
+   "initial_cost_of_capital": 0.0937,
+   "terminal_cost_of_capital": 0.0835,
+   "terminal_roic": 0.15,
+   "failure_probability": 0,
+   "failure_proceeds_basis": "V",
+   "failure_proceeds_pct": 0.5,
+   "sales_to_capital_1_5": 3,
+   "sales_to_capital_6_10": 3,
+   "mature_erp": 0.0433,
+   "rd": {
+    "life": 5,
+    "current": 4540,
+    "past": [
+     3969,
+     3075,
+     2593,
+     1491,
+     1390
+    ]
+   },
+   "options": {
+    "number": 344.5,
+    "strike": 40.41,
+    "maturity": 4,
+    "volatility": 0.3,
+    "price_basis": "value"
+   },
+   "revenues": 97690,
+   "reinvestment_path": [
+    10416.266666666663,
+    9819.213333333339,
+    9341.570666666667,
+    12768.980342857141,
+    17354.349942857138,
+    22320.885714285716,
+    22320.885714285716,
+    22320.885714285745,
+    22320.885714285687,
+    22320.885714285716
+   ],
+   "revenue_growth_path": [
+    0.3198771624526562,
+    0.22846218516071204,
+    0.17692766327324017,
+    0.20548602246901382,
+    0.23167130164697403,
+    0.16128323676748546,
+    0.13888363463889197,
+    0.12194716862616817,
+    0.10869243404347895,
+    0.09803659762254369
+   ],
+   "margin_path": [
+    0.11724008831025975,
+    0.11775208506408588,
+    0.11786517710655697,
+    0.12175948301166939,
+    0.13083622886364035,
+    0.13463539521954906,
+    0.137507966414972,
+    0.13975608410000753,
+    0.14156340616725116,
+    0.143048
+   ]
+  },
+  "expected_value_per_share": 147.16403491013367
+ },
+ {
+  "name": "TeslaNov2021DIY",
+  "custom": [
+   "terminal_cost_of_capital(cached)",
+   "reinvestment_path(cached)",
+   "revenue_growth_path(no std inputs)",
+   "margin_path(no std inputs)"
+  ],
+  "inputs": {
+   "revenues": 46848,
+   "ebit": 4586,
+   "book_equity": 28494,
+   "book_debt": 10158,
+   "cash": 16095,
+   "non_operating_assets": 0,
+   "minority_interests": 0,
+   "shares_outstanding": 1123,
+   "price": 1200,
+   "effective_tax_rate": 0.11989234157083435,
+   "marginal_tax_rate": 0.25,
+   "growth_years_2_5": 0.35,
+   "target_margin": 0.16,
+   "margin_convergence_year": 5,
+   "riskfree_rate": 0.0156,
+   "initial_cost_of_capital": 0.06,
+   "terminal_roic": 0.15,
+   "failure_probability": 0,
+   "failure_proceeds_basis": "V",
+   "failure_proceeds_pct": 0.5,
+   "sales_to_capital_1_5": 4,
+   "sales_to_capital_6_10": 4,
+   "mature_erp": 0.052,
+   "rd": {
+    "life": 5,
+    "current": 2375,
+    "past": [
+     1491,
+     1390,
+     1460,
+     1378,
+     834
+    ]
+   },
+   "options": {
+    "number": 101.62,
+    "strike": 69.04,
+    "maturity": 5.8,
+    "volatility": 0.3,
+    "price_basis": "value"
+   },
+   "terminal_cost_of_capital": 0.0606,
+   "reinvestment_path": [
+    4099.200000000001,
+    5533.920000000002,
+    7470.792000000001,
+    10085.569200000005,
+    13615.518420000008,
+    22302.91939862162,
+    21857.197287501134,
+    18361.66362310409,
+    11654.199632891425,
+    2386.0430782050607
+   ],
+   "revenue_growth_path": [
+    0.3500000000000001,
+    0.3500000000000001,
+    0.3500000000000001,
+    0.3500000000000001,
+    0.3500000000000001,
+    0.28312000000000026,
+    0.21624,
+    0.14935999999999994,
+    0.08247999999999989,
+    0.015600000000000058
+   ],
+   "margin_path": [
+    0.12848907103825136,
+    0.13636680327868853,
+    0.1442445355191257,
+    0.15212226775956283,
+    0.15999999999999998,
+    0.16,
+    0.16,
+    0.16,
+    0.16,
+    0.15999999999999998
+   ]
+  },
+  "expected_value_per_share": 571.2882126917644
+ },
+ {
+  "name": "Walgreens2024",
+  "custom": [],
+  "inputs": {
+   "revenues": 145533,
+   "ebit": 1883,
+   "book_equity": 13642,
+   "book_debt": 33664,
+   "cash": 711,
+   "non_operating_assets": 2971,
+   "minority_interests": 1788,
+   "shares_outstanding": 863.1,
+   "price": 8.77,
+   "effective_tax_rate": 0.25,
+   "marginal_tax_rate": 0.25,
+   "growth_next_year": -0.05,
+   "margin_next_year": 0.01293864621769633,
+   "growth_years_2_5": 0.03,
+   "target_margin": 0.035,
+   "margin_convergence_year": 5,
+   "riskfree_rate": 0.0372,
+   "initial_cost_of_capital": 0.07956928655790949,
+   "failure_probability": 0.1178,
+   "failure_proceeds_basis": "V",
+   "failure_proceeds_pct": 0.25,
+   "terminal_growth": 0.03,
+   "sales_to_capital_1_5": 3.1090000638677036,
+   "sales_to_capital_6_10": 3.1090000638677036,
+   "mature_erp": 0.0411
+  },
+  "expected_value_per_share": 7.526831656274862
+ },
+ {
+  "name": "fcffsimpleginzu",
+  "custom": [],
+  "inputs": {
+   "revenues": 21765.4,
+   "ebit": 3060.9,
+   "book_equity": 10667.8,
+   "book_debt": 45063,
+   "cash": 19000,
+   "non_operating_assets": 21119,
+   "minority_interests": 1558,
+   "shares_outstanding": 4315,
+   "price": 72.28,
+   "effective_tax_rate": 0.175,
+   "marginal_tax_rate": 0.25,
+   "growth_next_year": 0.05,
+   "margin_next_year": 0.14063146094259696,
+   "growth_years_2_5": 0.05,
+   "target_margin": 0.14063146094259696,
+   "margin_convergence_year": 5,
+   "riskfree_rate": 0.0458,
+   "initial_cost_of_capital": 0.0705501574064654,
+   "sales_to_capital_1_5": 1.708537671031893,
+   "sales_to_capital_6_10": 1.708537671031893,
+   "mature_erp": 0.0423
+  },
+  "expected_value_per_share": 7.187840270062114
+ }
+]

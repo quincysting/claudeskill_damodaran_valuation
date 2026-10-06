@@ -1,0 +1,860 @@
+[
+ {
+  "name": "eqmult",
+  "source": "eqmult.xls",
+  "url": "https://pages.stern.nyu.edu/~adamodar/pc/eqmult.xls",
+  "inputs": {
+   "mode": "equity",
+   "years": 10.0,
+   "growth": 0.1,
+   "payout": 0.371,
+   "riskfree_rate": 0.035,
+   "erp": 0.05,
+   "beta": 1.0,
+   "net_margin": 0.025,
+   "stable_growth": 0.03,
+   "stable_payout": 0.7,
+   "stable_riskfree_rate": 0.03,
+   "stable_erp": 0.05,
+   "stable_beta": 1.0
+  },
+  "expected": {
+   "pe_forward": 18.678529279625057,
+   "pbv": 2.969559503914953,
+   "ps_forward": 0.46696323199062645,
+   "ps_trailing": 0.5136595551896891,
+   "cost_of_equity": 0.085,
+   "stable_cost_of_equity": 0.08,
+   "roe": 0.1589825119236884
+  }
+ },
+ {
+  "name": "eqmult branch: 5-year growth",
+  "source": "eqmult.xlsx",
+  "url": "https://pages.stern.nyu.edu/~adamodar/pc/eqmult.xls",
+  "custom": [
+   "branch"
+  ],
+  "inputs": {
+   "mode": "equity",
+   "years": 5,
+   "growth": 0.1,
+   "payout": 0.371,
+   "riskfree_rate": 0.035,
+   "erp": 0.05,
+   "beta": 1,
+   "net_margin": 0.025,
+   "stable_growth": 0.03,
+   "stable_payout": 0.7,
+   "stable_riskfree_rate": 0.03,
+   "stable_erp": 0.05,
+   "stable_beta": 1
+  },
+  "expected": {
+   "pe_forward": 15.798260789688864,
+   "pbv": 2.511647184370249,
+   "ps_forward": 0.3949565197422216,
+   "ps_trailing": 0.43445217171644385,
+   "cost_of_equity": 0.085,
+   "stable_cost_of_equity": 0.08,
+   "roe": 0.1589825119236884
+  }
+ },
+ {
+  "name": "eqmult branch: 20% growth, 20% payout",
+  "source": "eqmult.xlsx",
+  "url": "https://pages.stern.nyu.edu/~adamodar/pc/eqmult.xls",
+  "custom": [
+   "branch"
+  ],
+  "inputs": {
+   "mode": "equity",
+   "years": 10,
+   "growth": 0.2,
+   "payout": 0.2,
+   "riskfree_rate": 0.035,
+   "erp": 0.05,
+   "beta": 1,
+   "net_margin": 0.025,
+   "stable_growth": 0.03,
+   "stable_payout": 0.7,
+   "stable_riskfree_rate": 0.03,
+   "stable_erp": 0.05,
+   "stable_beta": 1
+  },
+  "expected": {
+   "pe_forward": 35.93132232180955,
+   "pbv": 8.982830580452388,
+   "ps_forward": 0.8982830580452389,
+   "ps_trailing": 1.0779396696542867,
+   "cost_of_equity": 0.085,
+   "stable_cost_of_equity": 0.08,
+   "roe": 0.25
+  }
+ },
+ {
+  "name": "eqmult branch: stable 4% growth, 50% payout",
+  "source": "eqmult.xlsx",
+  "url": "https://pages.stern.nyu.edu/~adamodar/pc/eqmult.xls",
+  "custom": [
+   "branch"
+  ],
+  "inputs": {
+   "mode": "equity",
+   "years": 10,
+   "growth": 0.1,
+   "payout": 0.371,
+   "riskfree_rate": 0.035,
+   "erp": 0.05,
+   "beta": 1,
+   "net_margin": 0.025,
+   "stable_growth": 0.04,
+   "stable_payout": 0.5,
+   "stable_riskfree_rate": 0.03,
+   "stable_erp": 0.05,
+   "stable_beta": 1
+  },
+  "expected": {
+   "pe_forward": 17.197631339753176,
+   "pbv": 2.7341226295315066,
+   "ps_forward": 0.4299407834938294,
+   "ps_trailing": 0.4729348618432124,
+   "cost_of_equity": 0.085,
+   "stable_cost_of_equity": 0.08,
+   "roe": 0.1589825119236884
+  }
+ },
+ {
+  "name": "eqmult branch: rf 4.5% / 4%",
+  "source": "eqmult.xlsx",
+  "url": "https://pages.stern.nyu.edu/~adamodar/pc/eqmult.xls",
+  "custom": [
+   "branch"
+  ],
+  "inputs": {
+   "mode": "equity",
+   "years": 10,
+   "growth": 0.1,
+   "payout": 0.371,
+   "riskfree_rate": 0.045,
+   "erp": 0.05,
+   "beta": 1,
+   "net_margin": 0.025,
+   "stable_growth": 0.03,
+   "stable_payout": 0.7,
+   "stable_riskfree_rate": 0.04,
+   "stable_erp": 0.05,
+   "stable_beta": 1
+  },
+  "expected": {
+   "pe_forward": 14.892043346037008,
+   "pbv": 2.367574458829413,
+   "ps_forward": 0.37230108365092524,
+   "ps_trailing": 0.4095311920160178,
+   "cost_of_equity": 0.095,
+   "stable_cost_of_equity": 0.09,
+   "roe": 0.1589825119236884
+  }
+ },
+ {
+  "name": "eqmult branch: ERP 6% (stable follows)",
+  "source": "eqmult.xlsx",
+  "url": "https://pages.stern.nyu.edu/~adamodar/pc/eqmult.xls",
+  "custom": [
+   "branch"
+  ],
+  "inputs": {
+   "mode": "equity",
+   "years": 10,
+   "growth": 0.1,
+   "payout": 0.371,
+   "riskfree_rate": 0.035,
+   "erp": 0.06,
+   "beta": 1,
+   "net_margin": 0.025,
+   "stable_growth": 0.03,
+   "stable_payout": 0.7,
+   "stable_riskfree_rate": 0.03,
+   "stable_erp": 0.06,
+   "stable_beta": 1
+  },
+  "expected": {
+   "pe_forward": 14.892043346037008,
+   "pbv": 2.367574458829413,
+   "ps_forward": 0.37230108365092524,
+   "ps_trailing": 0.4095311920160178,
+   "cost_of_equity": 0.095,
+   "stable_cost_of_equity": 0.09,
+   "roe": 0.1589825119236884
+  }
+ },
+ {
+  "name": "eqmult branch: beta 1.4 -> 1.1",
+  "source": "eqmult.xlsx",
+  "url": "https://pages.stern.nyu.edu/~adamodar/pc/eqmult.xls",
+  "custom": [
+   "branch"
+  ],
+  "inputs": {
+   "mode": "equity",
+   "years": 10,
+   "growth": 0.1,
+   "payout": 0.371,
+   "riskfree_rate": 0.035,
+   "erp": 0.05,
+   "beta": 1.4,
+   "net_margin": 0.025,
+   "stable_growth": 0.03,
+   "stable_payout": 0.7,
+   "stable_riskfree_rate": 0.03,
+   "stable_erp": 0.05,
+   "stable_beta": 1.1
+  },
+  "expected": {
+   "pe_forward": 14.678877001360345,
+   "pbv": 2.333684737895126,
+   "ps_forward": 0.36697192503400866,
+   "ps_trailing": 0.4036691175374096,
+   "cost_of_equity": 0.105,
+   "stable_cost_of_equity": 0.085,
+   "roe": 0.1589825119236884
+  }
+ },
+ {
+  "name": "eqmult branch: net margin 10%",
+  "source": "eqmult.xlsx",
+  "url": "https://pages.stern.nyu.edu/~adamodar/pc/eqmult.xls",
+  "custom": [
+   "branch"
+  ],
+  "inputs": {
+   "mode": "equity",
+   "years": 10,
+   "growth": 0.1,
+   "payout": 0.371,
+   "riskfree_rate": 0.035,
+   "erp": 0.05,
+   "beta": 1,
+   "net_margin": 0.1,
+   "stable_growth": 0.03,
+   "stable_payout": 0.7,
+   "stable_riskfree_rate": 0.03,
+   "stable_erp": 0.05,
+   "stable_beta": 1
+  },
+  "expected": {
+   "pe_forward": 18.678529279625074,
+   "pbv": 2.9695595039149563,
+   "ps_forward": 1.8678529279625076,
+   "ps_trailing": 2.0546382207587586,
+   "cost_of_equity": 0.085,
+   "stable_cost_of_equity": 0.08,
+   "roe": 0.1589825119236884
+  }
+ },
+ {
+  "name": "eqmult branch: growth below cost of equity",
+  "source": "eqmult.xlsx",
+  "url": "https://pages.stern.nyu.edu/~adamodar/pc/eqmult.xls",
+  "custom": [
+   "branch"
+  ],
+  "inputs": {
+   "mode": "equity",
+   "years": 10,
+   "growth": 0.06,
+   "payout": 0.6,
+   "riskfree_rate": 0.035,
+   "erp": 0.05,
+   "beta": 1,
+   "net_margin": 0.025,
+   "stable_growth": 0.03,
+   "stable_payout": 0.7,
+   "stable_riskfree_rate": 0.03,
+   "stable_erp": 0.05,
+   "stable_beta": 1
+  },
+  "expected": {
+   "pe_forward": 15.765504433583736,
+   "pbv": 2.3648256650375603,
+   "ps_forward": 0.3941376108395934,
+   "ps_trailing": 0.41778586748996904,
+   "cost_of_equity": 0.085,
+   "stable_cost_of_equity": 0.08,
+   "roe": 0.15
+  }
+ },
+ {
+  "name": "eqmult branch: g = cost of equity (spreadsheet IF branch)",
+  "source": "eqmult.xlsx",
+  "url": "https://pages.stern.nyu.edu/~adamodar/pc/eqmult.xls",
+  "custom": [
+   "branch"
+  ],
+  "inputs": {
+   "mode": "equity",
+   "years": 10,
+   "growth": 0.085,
+   "payout": 0.371,
+   "riskfree_rate": 0.035,
+   "erp": 0.05,
+   "beta": 1,
+   "net_margin": 0.025,
+   "stable_growth": 0.03,
+   "stable_payout": 0.7,
+   "stable_riskfree_rate": 0.03,
+   "stable_erp": 0.05,
+   "stable_beta": 1
+  },
+  "expected": {
+   "cost_of_equity": 0.085,
+   "stable_cost_of_equity": 0.08,
+   "roe": 0.13513513513513514
+  },
+  "unmatched": {
+   "pe_forward": [
+    23.29032258064516,
+    "the sheet's IF(g=r) branch returns n x earnings (no payout, no discounting); we use the limit of the sheet's main formula"
+   ],
+   "pbv": [
+    3.1473408892763732,
+    "the sheet's IF(g=r) branch returns n x earnings (no payout, no discounting); we use the limit of the sheet's main formula"
+   ],
+   "ps_forward": [
+    0.582258064516129,
+    "the sheet's IF(g=r) branch returns n x earnings (no payout, no discounting); we use the limit of the sheet's main formula"
+   ],
+   "ps_trailing": [
+    0.63175,
+    "the sheet's IF(g=r) branch returns n x earnings (no payout, no discounting); we use the limit of the sheet's main formula"
+   ]
+  }
+ },
+ {
+  "name": "eqmult branch: g = cost of equity (spreadsheet IF branch), replicate_sheet_bugs",
+  "source": "eqmult.xlsx",
+  "url": "https://pages.stern.nyu.edu/~adamodar/pc/eqmult.xls",
+  "custom": [
+   "branch"
+  ],
+  "inputs": {
+   "mode": "equity",
+   "years": 10,
+   "growth": 0.085,
+   "payout": 0.371,
+   "riskfree_rate": 0.035,
+   "erp": 0.05,
+   "beta": 1,
+   "net_margin": 0.025,
+   "stable_growth": 0.03,
+   "stable_payout": 0.7,
+   "stable_riskfree_rate": 0.03,
+   "stable_erp": 0.05,
+   "stable_beta": 1,
+   "replicate_sheet_bugs": true
+  },
+  "expected": {
+   "cost_of_equity": 0.085,
+   "stable_cost_of_equity": 0.08,
+   "roe": 0.13513513513513514,
+   "pe_forward": 23.29032258064516,
+   "pbv": 3.1473408892763732,
+   "ps_forward": 0.582258064516129,
+   "ps_trailing": 0.63175
+  }
+ },
+ {
+  "name": "firmmult",
+  "source": "firmmult.xls",
+  "url": "https://pages.stern.nyu.edu/~adamodar/pc/firmmult.xls",
+  "inputs": {
+   "mode": "firm",
+   "years": 10.0,
+   "growth": 0.096,
+   "reinvestment_rate": 0.6,
+   "cost_of_capital": 0.0803,
+   "after_tax_operating_margin": 0.1443,
+   "tax_rate": 0.4,
+   "stable_growth": 0.035,
+   "stable_reinvestment_rate": 0.2917,
+   "stable_cost_of_capital": 0.0774
+  },
+  "expected": {
+   "ev_ebit_after_tax_forward": 22.178420616649483,
+   "ev_ebit_after_tax_trailing": 24.307548995847835,
+   "ev_ebit_forward": 13.30705236998969,
+   "ev_ebit_trailing": 14.584529397508701,
+   "ev_invested_capital": 3.5485472986639173,
+   "ev_sales_forward": 3.2003460949825207,
+   "ev_sales_trailing": 3.507579320100843,
+   "roic": 0.16
+  }
+ },
+ {
+  "name": "firmmult branch: 5-year growth",
+  "source": "firmmult.xlsx",
+  "url": "https://pages.stern.nyu.edu/~adamodar/pc/firmmult.xls",
+  "custom": [
+   "branch"
+  ],
+  "inputs": {
+   "mode": "firm",
+   "years": 5,
+   "growth": 0.096,
+   "reinvestment_rate": 0.6,
+   "cost_of_capital": 0.0803,
+   "after_tax_operating_margin": 0.1443,
+   "tax_rate": 0.4,
+   "stable_growth": 0.035,
+   "stable_reinvestment_rate": 0.2917,
+   "stable_cost_of_capital": 0.0774
+  },
+  "expected": {
+   "ev_ebit_after_tax_forward": 18.861493693178844,
+   "ev_ebit_after_tax_trailing": 20.672197087724015,
+   "ev_ebit_forward": 11.316896215907306,
+   "ev_ebit_trailing": 12.403318252634408,
+   "ev_invested_capital": 3.017838990908615,
+   "ev_sales_forward": 2.721713539925707,
+   "ev_sales_trailing": 2.9829980397585754,
+   "roic": 0.16
+  }
+ },
+ {
+  "name": "firmmult branch: 15% growth, 80% reinvestment",
+  "source": "firmmult.xlsx",
+  "url": "https://pages.stern.nyu.edu/~adamodar/pc/firmmult.xls",
+  "custom": [
+   "branch"
+  ],
+  "inputs": {
+   "mode": "firm",
+   "years": 10,
+   "growth": 0.15,
+   "reinvestment_rate": 0.8,
+   "cost_of_capital": 0.0803,
+   "after_tax_operating_margin": 0.1443,
+   "tax_rate": 0.4,
+   "stable_growth": 0.035,
+   "stable_reinvestment_rate": 0.2917,
+   "stable_cost_of_capital": 0.0774
+  },
+  "expected": {
+   "ev_ebit_after_tax_forward": 30.587589606460007,
+   "ev_ebit_after_tax_trailing": 35.175728047429004,
+   "ev_ebit_forward": 18.352553763876003,
+   "ev_ebit_trailing": 21.105436828457403,
+   "ev_invested_capital": 5.735173051211251,
+   "ev_sales_forward": 4.413789180212179,
+   "ev_sales_trailing": 5.075857557244006,
+   "roic": 0.18749999999999997
+  }
+ },
+ {
+  "name": "firmmult branch: stable 2%, RR 10%",
+  "source": "firmmult.xlsx",
+  "url": "https://pages.stern.nyu.edu/~adamodar/pc/firmmult.xls",
+  "custom": [
+   "branch"
+  ],
+  "inputs": {
+   "mode": "firm",
+   "years": 10,
+   "growth": 0.096,
+   "reinvestment_rate": 0.6,
+   "cost_of_capital": 0.0803,
+   "after_tax_operating_margin": 0.1443,
+   "tax_rate": 0.4,
+   "stable_growth": 0.02,
+   "stable_reinvestment_rate": 0.1,
+   "stable_cost_of_capital": 0.0774
+  },
+  "expected": {
+   "ev_ebit_after_tax_forward": 20.81151897956348,
+   "ev_ebit_after_tax_trailing": 22.809424801601576,
+   "ev_ebit_forward": 12.486911387738088,
+   "ev_ebit_trailing": 13.685654880960945,
+   "ev_invested_capital": 3.329843036730157,
+   "ev_sales_forward": 3.0031021887510105,
+   "ev_sales_trailing": 3.291399998871108,
+   "roic": 0.16
+  }
+ },
+ {
+  "name": "firmmult branch: WACC 10% / 9%",
+  "source": "firmmult.xlsx",
+  "url": "https://pages.stern.nyu.edu/~adamodar/pc/firmmult.xls",
+  "custom": [
+   "branch"
+  ],
+  "inputs": {
+   "mode": "firm",
+   "years": 10,
+   "growth": 0.096,
+   "reinvestment_rate": 0.6,
+   "cost_of_capital": 0.1,
+   "after_tax_operating_margin": 0.1443,
+   "tax_rate": 0.4,
+   "stable_growth": 0.035,
+   "stable_reinvestment_rate": 0.2917,
+   "stable_cost_of_capital": 0.09
+  },
+  "expected": {
+   "ev_ebit_after_tax_forward": 15.303787860882679,
+   "ev_ebit_after_tax_trailing": 16.772951495527415,
+   "ev_ebit_forward": 9.182272716529607,
+   "ev_ebit_trailing": 10.06377089731645,
+   "ev_invested_capital": 2.4486060577412285,
+   "ev_sales_forward": 2.2083365883253707,
+   "ev_sales_trailing": 2.4203369008046063,
+   "roic": 0.16
+  }
+ },
+ {
+  "name": "firmmult branch: margin 8%",
+  "source": "firmmult.xlsx",
+  "url": "https://pages.stern.nyu.edu/~adamodar/pc/firmmult.xls",
+  "custom": [
+   "branch"
+  ],
+  "inputs": {
+   "mode": "firm",
+   "years": 10,
+   "growth": 0.096,
+   "reinvestment_rate": 0.6,
+   "cost_of_capital": 0.0803,
+   "after_tax_operating_margin": 0.08,
+   "tax_rate": 0.4,
+   "stable_growth": 0.035,
+   "stable_reinvestment_rate": 0.2917,
+   "stable_cost_of_capital": 0.0774
+  },
+  "expected": {
+   "ev_ebit_after_tax_forward": 22.178420616649454,
+   "ev_ebit_after_tax_trailing": 24.307548995847803,
+   "ev_ebit_forward": 13.307052369989671,
+   "ev_ebit_trailing": 14.584529397508682,
+   "ev_invested_capital": 3.548547298663913,
+   "ev_sales_forward": 1.7742736493319564,
+   "ev_sales_trailing": 1.9446039196678244,
+   "roic": 0.16
+  }
+ },
+ {
+  "name": "firmmult branch: tax 25%",
+  "source": "firmmult.xlsx",
+  "url": "https://pages.stern.nyu.edu/~adamodar/pc/firmmult.xls",
+  "custom": [
+   "branch"
+  ],
+  "inputs": {
+   "mode": "firm",
+   "years": 10,
+   "growth": 0.096,
+   "reinvestment_rate": 0.6,
+   "cost_of_capital": 0.0803,
+   "after_tax_operating_margin": 0.1443,
+   "tax_rate": 0.25,
+   "stable_growth": 0.035,
+   "stable_reinvestment_rate": 0.2917,
+   "stable_cost_of_capital": 0.0774
+  },
+  "expected": {
+   "ev_ebit_after_tax_forward": 22.178420616649454,
+   "ev_ebit_after_tax_trailing": 24.307548995847803,
+   "ev_ebit_forward": 16.633815462487092,
+   "ev_ebit_trailing": 18.230661746885854,
+   "ev_invested_capital": 3.548547298663913,
+   "ev_sales_forward": 3.200346094982516,
+   "ev_sales_trailing": 3.507579320100838,
+   "roic": 0.16
+  }
+ },
+ {
+  "name": "firmmult branch: g = cost of capital (spreadsheet IF branch)",
+  "source": "firmmult.xlsx",
+  "url": "https://pages.stern.nyu.edu/~adamodar/pc/firmmult.xls",
+  "custom": [
+   "branch"
+  ],
+  "inputs": {
+   "mode": "firm",
+   "years": 10,
+   "growth": 0.0803,
+   "reinvestment_rate": 0.6,
+   "cost_of_capital": 0.0803,
+   "after_tax_operating_margin": 0.1443,
+   "tax_rate": 0.4,
+   "stable_growth": 0.035,
+   "stable_reinvestment_rate": 0.2917,
+   "stable_cost_of_capital": 0.0774
+  },
+  "expected": {
+   "roic": 0.13383333333333333
+  },
+  "unmatched": {
+   "ev_ebit_after_tax_forward": [
+    26.00469340277596,
+    "the sheet's IF(g=r) branch returns n x earnings (no payout, no discounting); we use the limit of the sheet's main formula"
+   ],
+   "ev_ebit_after_tax_trailing": [
+    28.092870283018872,
+    "the sheet's IF(g=r) branch returns n x earnings (no payout, no discounting); we use the limit of the sheet's main formula"
+   ],
+   "ev_ebit_forward": [
+    15.602816041665575,
+    "the sheet's IF(g=r) branch returns n x earnings (no payout, no discounting); we use the limit of the sheet's main formula"
+   ],
+   "ev_ebit_trailing": [
+    16.855722169811322,
+    "the sheet's IF(g=r) branch returns n x earnings (no payout, no discounting); we use the limit of the sheet's main formula"
+   ],
+   "ev_invested_capital": [
+    3.4802948004048493,
+    "the sheet's IF(g=r) branch returns n x earnings (no payout, no discounting); we use the limit of the sheet's main formula"
+   ],
+   "ev_sales_forward": [
+    3.752477258020571,
+    "the sheet's IF(g=r) branch returns n x earnings (no payout, no discounting); we use the limit of the sheet's main formula"
+   ],
+   "ev_sales_trailing": [
+    4.053801181839623,
+    "the sheet's IF(g=r) branch returns n x earnings (no payout, no discounting); we use the limit of the sheet's main formula"
+   ]
+  }
+ },
+ {
+  "name": "firmmult branch: g = cost of capital (spreadsheet IF branch), replicate_sheet_bugs",
+  "source": "firmmult.xlsx",
+  "url": "https://pages.stern.nyu.edu/~adamodar/pc/firmmult.xls",
+  "custom": [
+   "branch"
+  ],
+  "inputs": {
+   "mode": "firm",
+   "years": 10,
+   "growth": 0.0803,
+   "reinvestment_rate": 0.6,
+   "cost_of_capital": 0.0803,
+   "after_tax_operating_margin": 0.1443,
+   "tax_rate": 0.4,
+   "stable_growth": 0.035,
+   "stable_reinvestment_rate": 0.2917,
+   "stable_cost_of_capital": 0.0774,
+   "replicate_sheet_bugs": true
+  },
+  "expected": {
+   "roic": 0.13383333333333333,
+   "ev_ebit_after_tax_forward": 26.00469340277596,
+   "ev_ebit_after_tax_trailing": 28.092870283018872,
+   "ev_ebit_forward": 15.602816041665575,
+   "ev_ebit_trailing": 16.855722169811322,
+   "ev_invested_capital": 3.4802948004048493,
+   "ev_sales_forward": 3.752477258020571,
+   "ev_sales_trailing": 4.053801181839623
+  }
+ },
+ {
+  "name": "EqMultCalculator",
+  "source": "EqMultCalculator.xlsx",
+  "url": "https://pages.stern.nyu.edu/~adamodar/pc/blog/EqMultCalculator.xlsx",
+  "inputs": {
+   "mode": "equity",
+   "life_cycle": "Declining",
+   "riskfree_rate": 0.015,
+   "roe": 0.15,
+   "years": 10,
+   "eps": 2
+  },
+  "expected": {
+   "value_per_share": 28.554856364271096,
+   "pe_trailing": 14.277428182135548,
+   "pbv_roe_trailing": 2.141614227320332,
+   "growth": -0.035,
+   "payout": 1.2333333333333334,
+   "cost_of_equity": 0.065,
+   "stable_payout": 0.9
+  }
+ },
+ {
+  "name": "EqMultCalculator branch: Growth",
+  "source": "EqMultCalculator.xlsx",
+  "url": "https://pages.stern.nyu.edu/~adamodar/pc/blog/EqMultCalculator.xlsx",
+  "custom": [
+   "branch"
+  ],
+  "inputs": {
+   "mode": "equity",
+   "life_cycle": "Growth",
+   "riskfree_rate": 0.015,
+   "roe": 0.15,
+   "years": 10,
+   "eps": 2
+  },
+  "expected": {
+   "value_per_share": 63.870846973853354,
+   "pe_trailing": 31.935423486926677,
+   "pbv_roe_trailing": 4.790313523039003,
+   "growth": 0.115,
+   "payout": 0.23333333333333328,
+   "cost_of_equity": 0.065,
+   "stable_payout": 0.9
+  }
+ },
+ {
+  "name": "EqMultCalculator branch: Mature",
+  "source": "EqMultCalculator.xlsx",
+  "url": "https://pages.stern.nyu.edu/~adamodar/pc/blog/EqMultCalculator.xlsx",
+  "custom": [
+   "branch"
+  ],
+  "inputs": {
+   "mode": "equity",
+   "life_cycle": "Mature",
+   "riskfree_rate": 0.015,
+   "roe": 0.15,
+   "years": 10,
+   "eps": 2
+  },
+  "expected": {
+   "value_per_share": 38.50193486250095,
+   "pe_trailing": 19.250967431250476,
+   "pbv_roe_trailing": 2.8876451146875715,
+   "growth": 0.025,
+   "payout": 0.8333333333333333,
+   "cost_of_equity": 0.065,
+   "stable_payout": 0.9
+  }
+ },
+ {
+  "name": "EqMultCalculator branch: Growth, rf 4%, ROE 20%",
+  "source": "EqMultCalculator.xlsx",
+  "url": "https://pages.stern.nyu.edu/~adamodar/pc/blog/EqMultCalculator.xlsx",
+  "custom": [
+   "branch"
+  ],
+  "inputs": {
+   "mode": "equity",
+   "life_cycle": "Growth",
+   "riskfree_rate": 0.04,
+   "roe": 0.2,
+   "years": 10,
+   "eps": 2
+  },
+  "expected": {
+   "value_per_share": 59.8579674781074,
+   "pe_trailing": 29.9289837390537,
+   "pbv_roe_trailing": 5.985796747810741,
+   "growth": 0.14,
+   "payout": 0.29999999999999993,
+   "cost_of_equity": 0.09,
+   "stable_payout": 0.8
+  }
+ },
+ {
+  "name": "EqMultCalculator branch: Mature, 5 years, EPS 3",
+  "source": "EqMultCalculator.xlsx",
+  "url": "https://pages.stern.nyu.edu/~adamodar/pc/blog/EqMultCalculator.xlsx",
+  "custom": [
+   "branch"
+  ],
+  "inputs": {
+   "mode": "equity",
+   "life_cycle": "Mature",
+   "riskfree_rate": 0.015,
+   "roe": 0.15,
+   "years": 5,
+   "eps": 3
+  },
+  "expected": {
+   "value_per_share": 56.4218486680084,
+   "pe_trailing": 18.807282889336133,
+   "pbv_roe_trailing": 2.8210924334004197,
+   "growth": 0.025,
+   "payout": 0.8333333333333333,
+   "cost_of_equity": 0.065,
+   "stable_payout": 0.9
+  }
+ },
+ {
+  "name": "AlibabaRelValue",
+  "source": "AlibabaRelValue.xls",
+  "url": "https://pages.stern.nyu.edu/~adamodar/pc/blog/AlibabaRelValue.xls",
+  "inputs": {
+   "mode": "comps",
+   "firm": {
+    "revenues": 9267.652884871044,
+    "ebitda": 4807.613258594443,
+    "net_income": 5053.747967479675,
+    "book_equity": 8283.0,
+    "debt": 10012.0,
+    "cash": 9330.0,
+    "other_holdings": 5087.0
+   },
+   "peers": {
+    "Baidu": {
+     "PE": 22.544554455445546,
+     "PBV": 3.625796178343949,
+     "EV/EBITDA": 17.370689655172413,
+     "EV/Sales": 4.0872210953346855,
+     "EV/Invested Capital": 5.505464480874318
+    },
+    "Internet Advertising": {
+     "PE": 19.75989401285375,
+     "PBV": 2.21097735859463,
+     "EV/EBITDA": 8.267881999527456,
+     "EV/Sales": 0.87871428571428,
+     "EV/Invested Capital": 2.3069253157738903
+    },
+    "Internet Retail": {
+     "PE": 43.310248605969946,
+     "PBV": 3.878151050230925,
+     "EV/EBITDA": 18.2324324324324,
+     "EV/Sales": 1.2850513951533902,
+     "EV/Invested Capital": 3.9987567182276953
+    },
+    "Online Services": {
+     "PE": 31.0576923076923,
+     "PBV": 3.564906021752345,
+     "EV/EBITDA": 17.5748502994012,
+     "EV/Sales": 3.29900332225914,
+     "EV/Invested Capital": 4.31081081081081
+    },
+    "Combined Internet": {
+     "PE": 32.011481120959104,
+     "PBV": 3.18461538461539,
+     "EV/EBITDA": 15.039322997505149,
+     "EV/Sales": 2.44927435886993,
+     "EV/Invested Capital": 3.59567820879979
+    }
+   }
+  },
+  "expected": {
+   "comps|Baidu|PE": 113934.49625694277,
+   "comps|Baidu|PBV": 30032.46974522293,
+   "comps|Baidu|EV/EBITDA": 87916.55789713623,
+   "comps|Baidu|EV/Sales": 42283.946375284286,
+   "comps|Baidu|EV/Invested Capital": 53761.48907103826,
+   "comps|Internet Advertising|PE": 99861.52420507344,
+   "comps|Internet Advertising|PBV": 18313.525461239322,
+   "comps|Internet Advertising|EV/EBITDA": 44153.77912142253,
+   "comps|Internet Advertising|EV/Sales": 12548.618984977347,
+   "comps|Internet Advertising|EV/Invested Capital": 25086.585455912922,
+   "comps|Internet Retail|PE": 218879.08086346005,
+   "comps|Internet Retail|PBV": 32122.725149062753,
+   "comps|Internet Retail|EV/EBITDA": 92059.48389858934,
+   "comps|Internet Retail|EV/Sales": 16314.410269500877,
+   "comps|Internet Retail|EV/Invested Capital": 40253.85397891129,
+   "comps|Online Services|PE": 156957.7493746091,
+   "comps|Online Services|PBV": 29528.116578174675,
+   "comps|Online Services|EV/EBITDA": 88898.08331721372,
+   "comps|Online Services|EV/Sales": 34979.01765673408,
+   "comps|Online Services|EV/Invested Capital": 43051.418918918906,
+   "comps|Combined Internet|PE": 161777.95765106106,
+   "comps|Combined Internet|PBV": 26378.169230769276,
+   "comps|Combined Internet|EV/EBITDA": 76708.24864309008,
+   "comps|Combined Internet|EV/Sales": 27104.02457782159,
+   "comps|Combined Internet|EV/Invested Capital": 36640.25514189011
+  }
+ }
+]

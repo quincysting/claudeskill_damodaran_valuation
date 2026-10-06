@@ -1,0 +1,7 @@
+{"_what": "Damodaran's market-cap breakeven tool (market.py; used in the Dec-2025 trillion-dollar and Aug-2026 AI posts) applied to SPCX enterprise value on 2026-09-25",
+ "_sources": {"value_to_match": "EV = 13,181.78m shares x $148.68 + debt 39,364 - cash 100,009 ($m)",
+              "margin": "the model's 2036 blended pre-tax operating margin 38.1% (engine output) x (1 - 25% marginal tax)",
+              "return_on_capital": "the model's terminal ROIC 15%", "discount_rate": "terminal cost of capital 8.86% (sep_2026_inputs.json)",
+              "stable_growth": "riskfree 5.17%", "current_revenues": "TTM revenue to 2026-06-30"},
+ "model": "breakeven", "basis": "firm", "value_to_match": 1899211, "margin": 0.2858, "return_on_capital": 0.15,
+ "discount_rate": 0.0886, "stable_growth": 0.0517, "years_to_maturity": 10, "cash_yield": 0, "current_revenues": 23044}

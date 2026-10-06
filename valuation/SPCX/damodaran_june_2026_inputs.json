@@ -1,0 +1,30 @@
+{
+ "_what": "Damodaran's own June 2026 SpaceX valuation (SpaceX2026IPOUpdated.xlsx) in segment form; reproduces Damodaran's $97.83/share",
+ "_source": "https://pages.stern.nyu.edu/~adamodar/pc/blog/SpaceX2026IPOUpdated.xlsx ; post: https://aswathdamodaran.blogspot.com/2026/06/a-weeks-ago-i-assessed-value-of-spacex.html",
+ "segments": [
+  {"name": "Launch", "base_revenue": 4086, "revenue_2036": 40000, "base_margin": 0.08, "target_margin": 0.45, "sales_to_capital_1_5": 3, "sales_to_capital_6_10": 4},
+  {"name": "Starlink", "base_revenue": 11387, "revenue_2036": 120000, "base_margin": 0.10, "target_margin": 0.60, "sales_to_capital_1_5": 3, "sales_to_capital_6_10": 5},
+  {"name": "xAI", "base_revenue": 3201, "revenue_2036": 160000, "base_margin": -0.05, "target_margin": 0.25, "sales_to_capital_1_5": 1.5, "sales_to_capital_6_10": 2.5},
+  {"name": "Other (expansion options)", "starts_after_year5": true, "revenue_2036": 100000, "base_margin": 0.0, "target_margin": 0.30, "sales_to_capital_1_5": 5, "sales_to_capital_6_10": 5}
+ ],
+ "margin_convergence_year": 10,
+ "ebit": -2589,
+ "rd": {"life": 5, "current": 8643, "past": [3464, 2105, 1800, 1600, 1200]},
+ "book_equity": 41325,
+ "book_debt": 22896,
+ "cash": 24747,
+ "non_operating_assets": 0,
+ "minority_interests": 0,
+ "shares_outstanding": 12535.3,
+ "price": 135,
+ "effective_tax_rate": 0.1,
+ "marginal_tax_rate": 0.25,
+ "riskfree_rate": 0.0456,
+ "initial_cost_of_capital": 0.0837450225998141,
+ "mature_erp": 0.0423,
+ "terminal_cost_of_capital": 0.0825,
+ "terminal_roic": 0.15,
+ "ipo_proceeds": 75000,
+ "ipo_shares_at_value": true,
+ "industry_us": "Aerospace/Defense"
+}

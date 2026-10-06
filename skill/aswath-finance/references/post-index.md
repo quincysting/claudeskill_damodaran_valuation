@@ -1,0 +1,742 @@
+# Post index: Musings on Markets (all posts)
+> 682 posts, newest first. Format: date | title | labels. Grep this file by keyword, company or label to find the source post.
+
+## 2026
+
+- 2026-09-10 | [Interest Rates and Stock Prices: An Old Debate Flares up!](https://aswathdamodaran.blogspot.com/2026/09/interest-rates-and-stock-prices-old.html) | Interest Rates, Stock Prices, The Fed
+- 2026-09-02 | [The Scaling and Profitability Trade off: Venture Capital's Weakest Link!](https://aswathdamodaran.blogspot.com/2026/09/the-scaling-and-profitability-trade-off.html) | Economies of scale, Growth, Profitability, Scaling
+- 2026-08-20 | [AI's Bar Mitzvah Moment: From Hype & Hope to Business Questions!](https://aswathdamodaran.blogspot.com/2026/08/ais-bar-mitzvah-moment-from-hype-hope.html) | AI, Big Markets, Valuing Young companies
+- 2026-08-10 | [The Situational Awareness Blow-up: The Collateral Damage from Investing Conviction!](https://aswathdamodaran.blogspot.com/2026/08/the-situational-awareness-blow-up.html) | Hedge Funds, Smart money
+- 2026-07-29 | [Information Timing and Release: The Gaming of Guidance!](https://aswathdamodaran.blogspot.com/2026/07/information-timing-and-release-gaming.html) | Earnings Reports, Information, The Fed
+- 2026-07-15 | [Country Risk: Drivers, Measures and Investment Implications - The 2026 Edition!](https://aswathdamodaran.blogspot.com/2026/07/country-risk-drivers-measures-and.html) | Country Risk, Currencies, Equity Risk Premiums
+- 2026-06-18 | [SpaceX, OpenAI and Anthropic: The S&P 500 Inclusion Question and Investment Consequences!](https://aswathdamodaran.blogspot.com/2026/06/indexology-index-mechanics-and.html) | Active versus Passive Investing, Indices
+- 2026-06-04 | [Revisiting the SpaceX Valuation: A Post-Prospectus Update!](https://aswathdamodaran.blogspot.com/2026/06/a-weeks-ago-i-assessed-value-of-spacex.html) | AI, Big Markets, IPO
+- 2026-05-06 | [An Ode to Restraint: Lessons from the Tim Cook Legacy](https://aswathdamodaran.blogspot.com/2026/05/an-ode-to-restraint-lessons-from-tim.html) | CEO, Corporate Life Cycle, Management Transition
+- 2026-04-23 | [To a Trillion(s) Dollars and beyond: A SpaceX IPO Odyssey!](https://aswathdamodaran.blogspot.com/2026/04/to-trillion-dollars-and-beyond-spacex.html) | IPO, Optionality, Value of growth, Valuing Young companies
+- 2026-04-01 | [Oil, War and the Global Economy: The Market's Narrative in March 2026](https://aswathdamodaran.blogspot.com/2026/04/oil-war-and-global-economy-markets.html) | Crisis, Equity Risk Premiums, Price of Risk
+- 2026-03-24 | [Finding your investing lodestar: In Search of an Investment Philosophy](https://aswathdamodaran.blogspot.com/2026/03/finding-your-investing-lodestar-in.html) | Beat the market, Indexing, Investment Philosophy
+- 2026-03-15 | [The Price of Risk: An Equity Risk Premium Monologue!](https://aswathdamodaran.blogspot.com/2026/03/the-price-of-risk-equity-risk-premium.html) | Equity Risk Premiums, Price of Risk, Small Cap Premium
+- 2026-03-04 | [AI Scenarios: From Doomsday Destruction to Do-Nothing Bots!](https://aswathdamodaran.blogspot.com/2026/03/ai-scenarios-from-economic-doomsday-to.html) | AI, Disruption
+- 2026-02-24 | [Data Update 8 for 2026: Time for Harvesting - Dividends and Buybacks](https://aswathdamodaran.blogspot.com/2026/02/data-update-8-for-2026-time-for.html) | Data Updates, Dividends and cash balances, Stock Buybacks
+- 2026-02-20 | [Data Update 7 for 2026: Debt and Taxes](https://aswathdamodaran.blogspot.com/2026/02/data-update-7-for-2026-debt-and-taxes.html) | Data Updates, Debt, Distress, Taxes
+- 2026-02-16 | [Data Update 6 for 2026: In Search of Profitability!](https://aswathdamodaran.blogspot.com/2026/02/data-update-6-for-2026-in-search-of.html) | Data Updates, Excess Returns, Profitability
+- 2026-02-05 | [Data Update 5 for 2026: Risk and Hurdle Rates](https://aswathdamodaran.blogspot.com/2026/02/data-update-5-for-2026-risk-and-hurdle.html) | Cost of capital, Cost of equity, Data Updates, Risk
+- 2026-02-01 | [Data Update 4 for 2026: The Global Perspective!](https://aswathdamodaran.blogspot.com/2026/02/data-update-4-for-2026-global.html) | Country Risk, Currencies, Data Updates
+- 2026-01-28 | [Data Update 3 for 2026: The Trust Deficit - Bonds, Currencies, Gold and Bitcoin!](https://aswathdamodaran.blogspot.com/2026/01/data-update-3-for-2026-trust-deficit.html) | Bitcoin, Bonds, Data Updates, Gold
+- 2026-01-23 | [Data Update 2 for 2026: Equities get tested, and pass again!](https://aswathdamodaran.blogspot.com/2026/01/data-update-2-for-2026-equities-get.html) | Data Update, Equity Risk Premiums
+- 2026-01-09 | [Data Update 1 for 2026: The Push and Pull of Data!](https://aswathdamodaran.blogspot.com/2026/01/data-update-1-for-2026-push-and-pull-of.html) | Data Updates
+
+## 2025
+
+- 2025-12-03 | [Trillion Dollar Market Caps: Fairy Tale Pricing or Business Marvels?](https://aswathdamodaran.blogspot.com/2025/12/trillion-dollar-market-caps-fairy-tale.html) | Breakeven, Market Cap, Nvidia
+- 2025-11-06 | [A Golden Year (2025): Gold's Price Surge - The Signal in the Noise!](https://aswathdamodaran.blogspot.com/2025/11/a-golden-year-2025-golds-price-surge.html) | Collectibles, Gold
+- 2025-10-06 | [A “Fairly Highly Valued” Market: A Fed Chair Opines on Stocks, but should we listen?](https://aswathdamodaran.blogspot.com/2025/10/a-fairly-highly-valued-market-fed-chair.html) | Equity Risk Premiums, Market Timing, PE
+- 2025-08-05 | [The Imitation Game: Defending against AI's Dark Side!](https://aswathdamodaran.blogspot.com/2025/08/the-imitation-game-defending-against.html) | AI, Scams, Teaching
+- 2025-07-31 | [Country Risk 2025: The Story behind the Numbers!](https://aswathdamodaran.blogspot.com/2025/07/country-risk-2025-story-behind-numbers.html) | Country Risk, Equity Risk Premiums
+- 2025-07-18 | [To Bitcoin or not to Bitcoin? A Corporate Cash Question!](https://aswathdamodaran.blogspot.com/2025/07/to-bitcoin-or-not-to-bitcoin-corporate.html) | Bitcoin, Cash, Dividends and cash balances
+- 2025-06-17 | [The (Uncertain) Payoff from Alternative Investments: Many a slip between the cup and the lip?](https://aswathdamodaran.blogspot.com/2025/06/the-uncertain-payoff-from-alternative.html) | Active versus Passive Investing, Alternative investing, Hedge Funds, Market Timing, Private Equity
+- 2025-06-02 | [Sovereign Ratings, Default Risk and Markets: The Moody's Downgrade Aftermath!](https://aswathdamodaran.blogspot.com/2025/06/sovereign-ratings-default-risk-and.html) | Default Risk, Risk free Rates, Sovereign ratings
+- 2025-05-03 | [The Greed & Fear Tango: The Markets in April 2025!](https://aswathdamodaran.blogspot.com/2025/05/the-greed-fear-tango-markets-in-april.html) | Equity Risk Premiums, Market Crisis
+- 2025-04-20 | [Buy the Dip: The Draw and Dangers of Contrarian Investing!](https://aswathdamodaran.blogspot.com/2025/04/buy-dip-draw-and-dangers-of-contrarian.html) | Contrarian Investing, Market Timing, Mean Reversion
+- 2025-04-07 | [Anatomy of a Market Crisis: Tariffs, Markets and the Economy!](https://aswathdamodaran.blogspot.com/2025/04/anatomy-of-market-crisis-tariffs-rock.html) | Market Crisis, Tariffs
+- 2025-03-15 | [Investing Politics: Globalization Backlash and Government Disruption!](https://aswathdamodaran.blogspot.com/2025/03/investing-politics-globalization.html) | Market Timing, Politics, Tariffs
+- 2025-03-05 | [Data Update 9 for 2025: Dividends and Buybacks - Inertia and Me-tooism!](https://aswathdamodaran.blogspot.com/2025/03/data-update-9-for-2025-dividends-and.html) | Dividends and cash balances, Free Cashflow to Equity, Stock Buybacks
+- 2025-02-23 | [Data Update 8 for 2025: Debt, Taxes and Default - An Unholy Trifecta!](https://aswathdamodaran.blogspot.com/2025/02/data-update-8-for-2025-debt-taxes-and.html) | Debt, Default Spreads, Taxes
+- 2025-02-18 | [Return on Equity, Earnings Yield and Market Efficiency: Back to Basics!](https://aswathdamodaran.blogspot.com/2025/02/return-on-equity-earnings-yield-and.html) | Efficient Markets, Return on equity
+- 2025-02-12 | [Data Update 7 for 2025: The End Game in Business!](https://aswathdamodaran.blogspot.com/2025/02/data-update-7-for-2025-end-game-in.html) | Data Updates, Excess Returns
+- 2025-02-08 | [Data Update 6 for 2025: From Macro to Micro - The Hurdle Rate Question!](https://aswathdamodaran.blogspot.com/2025/02/data-update-6-for-2025-from-macro-to.html) | Cost of capital, Data Updates, Hurdle Rates
+- 2025-02-06 | [Data Update 5 for 2025: It's a small world, after all!](https://aswathdamodaran.blogspot.com/2025/02/data-update-5-for-2025-its-small-world.html) | Country Risk, Data Updates
+- 2025-01-31 | [DeepSeek crashes the AI Party: Story Break, Change or Shift?](https://aswathdamodaran.blogspot.com/2025/01/deepseek-crashes-ai-party-story-break.html) | AI, Narrative and Numbers
+- 2025-01-28 | [Data Update 4 for 2025: Interest Rates, Inflation and Central Banks!](https://aswathdamodaran.blogspot.com/2025/01/data-update-4-for-2025-interest-rates.html) | Default, Interest Rates, The Fed
+- 2025-01-26 | [Data Update 3 for 2025: The times they are a'changin'!](https://aswathdamodaran.blogspot.com/2025/01/data-update-3-for-2025-slicing-and.html) | Data Updates, Momentum, Small Cap Premium, Value premium
+- 2025-01-17 | [Data Update 2 for 2025: The Party Continued (for US Equities)](https://aswathdamodaran.blogspot.com/2025/01/data-update-2-for-2025-party-continued.html) | Data Updates, Market Timing
+- 2025-01-10 | [Data Update 1 for 2025: The Draw (and Danger) of Data](https://aswathdamodaran.blogspot.com/2025/01/data-update-1-for-2025-draw-and-danger.html) | Data Updates
+
+## 2024
+
+- 2024-12-11 | [For the fun of it: An Open House for my Spring 2025 Classes](https://aswathdamodaran.blogspot.com/2024/12/for-fun-of-it-open-house-for-my-spring.html) | Teaching
+- 2024-11-14 | [The Siren Song of Sustainability: The Theocratic Trifecta's Third Leg!](https://aswathdamodaran.blogspot.com/2024/11/the-siren-song-of-sustainability.html) | ESG, social responsibility, Stakeholders, Sustainability
+- 2024-11-07 | [The Wisdom and Madness of Crowds: Market Prices as Political Predictors!](https://aswathdamodaran.blogspot.com/2024/11/the-wisdom-and-madness-of-crowds.html) | Market prices, Market Structure, Politics
+- 2024-10-28 | [The Sugar Daddy Effect? Assessing Corporate venture capital, Sovereign funds and Green Energy!](https://aswathdamodaran.blogspot.com/2024/10/the-sugar-daddy-effect-corporate.html) | Green Investing, Sovereign Funds, Venture Capital
+- 2024-10-18 | [Breaking up Big Tech:  Cui Bono?](https://aswathdamodaran.blogspot.com/2024/10/breaking-up-big-tech-cui-bono.html) | Antitrust, Big Tech, Competition
+- 2024-10-01 | [Just do it! Brand Name Lessons from Nike'sTroubles!](https://aswathdamodaran.blogspot.com/2024/10/just-do-it-brand-name-lessons-from.html) | Brand name premium
+- 2024-09-20 | [Fed up with Fed Talk? Fact-checking Central Banking Fairy Tales!](https://aswathdamodaran.blogspot.com/2024/09/fed-up-with-fed-talk-central-banks.html) | Central Banks, Interest Rates, The Fed
+- 2024-09-09 | [Dealing with Aging: Updating the Intel, Walgreens and Starbucks Stories!](https://aswathdamodaran.blogspot.com/2024/09/dealing-with-aging-daignosing-intel.html) | Corporate Life Cycle, Decline
+- 2024-09-05 | [The Power of Expectations: Nvidia's Earnings and the Market Reaction!](https://aswathdamodaran.blogspot.com/2024/09/the-expectations-game-aftermath-of.html) | Earnings Reports, Expectation, Nvidia
+- 2024-08-28 | [Beat your Bot: Building your moat against AI](https://aswathdamodaran.blogspot.com/2024/08/beat-your-bot-building-your-moat.html) | AI, Moat
+- 2024-08-19 | [The Corporate Life Cycle: Managing, Valuation and Investing Implications!](https://aswathdamodaran.blogspot.com/2024/08/the-corporate-life-cycle-corporate.html) | Corporate Finance, Corporate Life Cycle, Investment Philosophy, Valuation
+- 2024-07-24 | [Country Risk: My 2024 Data Update](https://aswathdamodaran.blogspot.com/2024/07/country-risk-my-2024-data-update.html) | Country Risk, Equity Risk Premiums, Hurdle Rates
+- 2024-02-16 | [Catastrophic Risk: Investing and Business Implications](https://aswathdamodaran.blogspot.com/2024/02/catastrophic-risk-investing-and.html) | Catastrophic Risk, Crisis, Risk
+- 2024-02-08 | [The Seven Samurai: How Big Tech Rescued the Market in 2023!](https://aswathdamodaran.blogspot.com/2024/02/the-seven-samurai-how-big-tech-rescued.html) | FANGAM Stocks, Tech, Winner take all businesses
+- 2024-01-31 | [Data Update 5 for 2024: Profitability - The End Game for Business?](https://aswathdamodaran.blogspot.com/2024/01/data-update-5-for-2024-profitability.html) | Data Updates, Excess Returns, Profitability
+- 2024-01-28 | [Data Update 4 for 2024: Danger and Opportunity - Bringing Risk into the Equation!](https://aswathdamodaran.blogspot.com/2024/01/data-update-4-for-2024-danger-and.html) | Data Updates, Risk
+- 2024-01-24 | [Data Update 3 for 2024: Interest Rates in 2023 - A Rule-breaking Year!](https://aswathdamodaran.blogspot.com/2024/01/data-update-3-for-2024-interest-rates.html)
+- 2024-01-17 | [Data Update 2 for 2024: A Stock Comeback - Winning the Expectations Game!](https://aswathdamodaran.blogspot.com/2024/01/data-update-2-for-2024-stock-comeback.html) | Data Updates, Market Timing, Market Valuation
+- 2024-01-11 | [The School Bell Rings: Time for Class!](https://aswathdamodaran.blogspot.com/2024/01/the-school-bell-rings-time-for-class.html)
+- 2024-01-05 | [Data Update 1 for 2024: The data speaks, but what does it say?](https://aswathdamodaran.blogspot.com/2024/01/data-update-1-for-2024-data-speaks-but.html) | Data Updates
+
+## 2023
+
+- 2023-12-10 | [The Difference Makers: Key Person(s) Valuation](https://aswathdamodaran.blogspot.com/2023/12/the-difference-makers-key-persons.html)
+- 2023-11-01 | [Tesla in November 2023 : Story twists and turns, with value consequences!](https://aswathdamodaran.blogspot.com/2023/11/tesla-story-turns-and-twists.html) | Narrative and Numbers, Narrative Changes, Tesla
+- 2023-10-12 | [Good Intentions, Perverse Outcomes: The Impact of Impact Investing!](https://aswathdamodaran.blogspot.com/2023/10/good-intentions-perverse-outcomes.html) | climate change, Fossil fuels, Impact Investing
+- 2023-10-06 | [Invisible, yet Invaluable: Valuing Intangibles in the Birkenstock IPO!](https://aswathdamodaran.blogspot.com/2023/10/invisible-yet-invaluable-valuing.html) | Intangibles, Intrinsic Value
+- 2023-10-04 | [Market Bipolarity: Exuberance versus Exhaustion!](https://aswathdamodaran.blogspot.com/2023/10/market-bipolarit-exuberance-versus.html) | Market Update
+- 2023-09-19 | [Putting the (Insta)cart before the (Grocery) horse: A COVID Favorite's Reality Check!](https://aswathdamodaran.blogspot.com/2023/09/putting-instacart-before-grocery-horse.html) | IPO, Pricing and Value
+- 2023-09-11 | [A Business Upended: Streaming disrupts the Entertainment Business!](https://aswathdamodaran.blogspot.com/2023/09/a-business-upended-streaming-disrupts.html) | Disruption, Entertainment
+- 2023-08-25 | [Toys for Billionaires: Sports Franchises as Trophy Assets!](https://aswathdamodaran.blogspot.com/2023/08/money-in-sports-trophy-asset-effect.html) | Sports, Trophy Assets, Value of a franchise
+- 2023-08-15 | [In Search of Safe Havens: The Trust Deficit and Risk-free Investments!](https://aswathdamodaran.blogspot.com/2023/08/in-search-of-safe-havens-trust-deficit.html) | Country Risk, Governments and value, Risk free Rates
+- 2023-08-05 | [The Price of Risk: With Equity Risk Premiums, Caveat Emptor!](https://aswathdamodaran.blogspot.com/2023/08/the-price-of-risk-with-equity-risk.html) | Equity Risk Premiums, Mean Reversion, Price of Risk
+- 2023-07-25 | [Country Risk: A July 2023 Update!](https://aswathdamodaran.blogspot.com/2023/07/country-risk-july-2023-update.html) | Country Risk, Equity Risk Premiums
+- 2023-07-17 | [Market Resilience or Investors In Denial? A Mid-year Assessment for 2023!](https://aswathdamodaran.blogspot.com/2023/07/market-resilience-or-investors-in.html) | Crowd Wisdom, Market Timing, Stocks
+- 2023-06-23 | [AI's Winners, Losers and Wannabes: An NVIDIA Valuation, with the AI Boost!](https://aswathdamodaran.blogspot.com/2023/06/ais-winners-losers-and-wannabes-nvidia.html) | AI, Intrinsic Value
+- 2023-05-07 | [Good (Bad) Banks and Good (Bad) Investments: At the right price...](https://aswathdamodaran.blogspot.com/2023/05/good-bad-banks-and-good-bad-investments.html) | Banks
+- 2023-05-05 | [Breach of Trust: Decoding the Banking Crisis](https://aswathdamodaran.blogspot.com/2023/05/breach-of-trust-decoding-banking-crisis.html) | Banks
+- 2023-03-08 | [Data Update 7 for 2023: Dividends, Buybacks and Cash Flows](https://aswathdamodaran.blogspot.com/2023/03/data-update-7-for-2023-dividends.html) | Data Updates, Dividends, Stock Buybacks
+- 2023-02-27 | [Data Update 6 for 2023: A Wake up call for the Indebted?](https://aswathdamodaran.blogspot.com/2023/02/data-update-6-for-2023-wake-up-call-for.html) | Data Updates, Debt
+- 2023-02-15 | [Data Update 5 for 2023: The Earnings Test](https://aswathdamodaran.blogspot.com/2023/02/data-update-5-for-2023-earnings-test.html) | Data Updates, Profitability
+- 2023-02-11 | [Data Update 4 for 2023: Country Risk - Measures and Implications](https://aswathdamodaran.blogspot.com/2023/02/data-update-4-for-2023-country-risk.html) | Country Risk, Data Updates
+- 2023-02-04 | [Control, Complexity and Politics: Deconstructing the Adani Affair!](https://aswathdamodaran.blogspot.com/2023/02/control-and-complexity-deconstructing.html) | Family Group companies, Short selling
+- 2023-02-02 | [Disagreements and First Principles: The Pushback on my Tesla Valuation](https://aswathdamodaran.blogspot.com/2023/02/disagreements-and-first-principles.html)
+- 2023-01-30 | [Data Update 3 for 2023: Inflation and Interest Rates](https://aswathdamodaran.blogspot.com/2023/01/data-update-3-for-2023-inflation-and.html) | Cost of capital, Data Updates, Interest Rates
+- 2023-01-26 | [Tesla in 2023: A Return to Reality, The Start of the End or Time to Buy?](https://aswathdamodaran.blogspot.com/2023/01/tesla-in-2023-return-to-reality-start.html) | Intrinsic Value, Tesla
+- 2023-01-21 | [Data Update 2 for 2023: A Rocky Year for Equities!](https://aswathdamodaran.blogspot.com/2023/01/data-update-2-for-2023-rocky-year-for.html) | Data Updates, Equity Risk Premiums, Inflation and Stocks
+- 2023-01-06 | [Data Update 1 for 2023: Setting the table!](https://aswathdamodaran.blogspot.com/2023/01/data-update-1-for-2023-year-that-was.html) | Big Data, Data Updates
+
+## 2022
+
+- 2022-12-21 | [A Return to Teaching: The Spring 2023 Edition](https://aswathdamodaran.blogspot.com/2022/12/a-return-to-teaching-spring-2023-edition.html) | Teaching
+- 2022-11-15 | [META Lesson 3: Tell me a story!](https://aswathdamodaran.blogspot.com/2022/11/meta-lesson-3-tell-me-story.html) | Narrative and Numbers, Narrative Changes
+- 2022-11-10 | [META Lesson 2: Accounting Inconsistencies and Consequences](https://aswathdamodaran.blogspot.com/2022/11/meta-lesson-2-accounting.html) | Accounting Rules, Cap Ex, Debt
+- 2022-11-04 | [META Lesson 1: Corporate Governance](https://aswathdamodaran.blogspot.com/2022/11/meta-lesson-1-corporate-governance.html) | Control, Corporate Governance, Facebook, Tech
+- 2022-10-25 | [Earnings and Cash Flows: A Primer on Free Cash Flow](https://aswathdamodaran.blogspot.com/2022/10/earnings-and-cash-flows-primer-on-free.html) | DCF Valuation, Free Cashflow, Pricing
+- 2022-09-26 | [Reaping the Whirlwind: A September 2022 Inflation Update!](https://aswathdamodaran.blogspot.com/2022/09/inflation-interest-rates-and-stock.html) | Equity Risk Premiums, Inflation, Risk Capita
+- 2022-07-27 | [A Zomato 2022 Update: Value, Pricing and the Gap](https://aswathdamodaran.blogspot.com/2022/07/a-zomato-2022-update-value-pricing-and.html) | prices and value, Valuing Young companies
+- 2022-07-13 | [Country Risk: A 2022 Mid-year Update!](https://aswathdamodaran.blogspot.com/2022/07/country-risk-2022-mid-year-update.html) | Country Risk, Discount Rates, Equity Risk Premiums
+- 2022-07-01 | [Risk Capital and Markets: A Temporary Retreat or Long Term Pull Back?](https://aswathdamodaran.blogspot.com/2022/07/risk-capital-and-markets-temporary.html) | Equity Risk Premiums, Fund flows, Pricing and Value, Risk
+- 2022-05-20 | [A Follow up on Inflation: The Disparate Effects on Company Values!](https://aswathdamodaran.blogspot.com/2022/05/a-follow-up-on-inflation-disparate.html) | Inflation, Small Cap Premium, Value vs Growth
+- 2022-05-06 | [In Search of a Steady State: Inflation, Interest Rates and Value](https://aswathdamodaran.blogspot.com/2022/05/in-search-of-steady-state-inflation.html) | Inflation, Price of Risk, S&P 500
+- 2022-04-21 | [Elon's Twitter Play: Valuation and Corporate Governance Consequences](https://aswathdamodaran.blogspot.com/2022/04/elons-twitter-play-valuation-and.html) | Acquisitions, Corporate Governance, Pricing and Value
+- 2022-03-28 | [ESG's Russia Test: Trial by Fire or Crash and Burn?](https://aswathdamodaran.blogspot.com/2022/03/esgs-russia-test-moment-to-shine-or.html) | ESG, Impact Investing, Sustainability
+- 2022-03-19 | [Russia in Ukraine: Let Loose the Dogs of War!](https://aswathdamodaran.blogspot.com/2022/03/russia-and-ukraine-let-loose-dogs-of-war.html) | Country Risk, Crisis
+- 2022-02-27 | [Data Update 5 for 2022: The Bottom Line!](https://aswathdamodaran.blogspot.com/2022/02/data-update-5-for-2022-bottom-line.html) | Data Updates, Profitability
+- 2022-02-12 | [Back to Earth or Temporary Setback? Revisiting the FANGAM Stocks](https://aswathdamodaran.blogspot.com/2022/02/back-to-earth-or-temporary-setback.html) | FANGAM Stocks, Intrinsic Value, Tech
+- 2022-02-08 | [Data Update 4 for 2022: Risk = Danger + Opportunity!](https://aswathdamodaran.blogspot.com/2022/02/data-update-4-for-2022-risk-danger.html) | Hurdle Rates, Risk
+- 2022-01-27 | [Data Update 3 for 2022: Inflation and its Ripple Effects!](https://aswathdamodaran.blogspot.com/2022/01/data-update-3-inflation-and-its-ripple.html) | Inflation, Interest Rates
+- 2022-01-19 | [Data Update 2 for 2022:  US Stocks kept winning in 2021, but…](https://aswathdamodaran.blogspot.com/2022/01/data-update-2-for-2022-us-stocks-kept.html) | Equity Risk Premiums, Market Valuation
+- 2022-01-08 | [Data Update 1 for 2022: It is Moneyball Time!](https://aswathdamodaran.blogspot.com/2022/01/data-update-1-for-2022-it-is-moneyball.html) | Data Update
+
+## 2021
+
+- 2021-12-15 | [Back in the Classroom: Time to Teach!](https://aswathdamodaran.blogspot.com/2021/12/back-in-classroom-time-to-teach.html) | Teaching
+- 2021-12-10 | [Managing across the Corporate Life Cycle: CEOs and Stock Prices!](https://aswathdamodaran.blogspot.com/2021/12/managing-across-corporate-life-cycle.html) | CEO, Corporate Life Cycle
+- 2021-11-09 | [Tesla's Trillion Dollar Moment: A Valuation Revisit!](https://aswathdamodaran.blogspot.com/2021/11/teslas-trillion-dollar-moment-valuation.html) | Tesla
+- 2021-10-25 | [The Billionaire Tax: The Worst Tax Idea Ever?](https://aswathdamodaran.blogspot.com/2021/10/the-billionaire-tax-worst-tax-idea-ever.html) | Taxes
+- 2021-10-19 | [Triggered Disclosures: Escaping the Disclosure Dilemma](https://aswathdamodaran.blogspot.com/2021/10/triggered-disclosures-escaping.html) | Disclosure, Information, IPO
+- 2021-10-04 | [The Indian Smartphone Revolution: Paytm's Coming of Age IPO!](https://aswathdamodaran.blogspot.com/2021/10/the-indian-smartphone-revolution-paytms.html) | fintech, IPO, Valuing Young companies
+- 2021-09-14 | [The ESG Movement: The "Goodness" Gravy Train Rolls On!](https://aswathdamodaran.blogspot.com/2021/09/the-esg-movement-goodness-gravy-train.html) | ESG, Stakeholders
+- 2021-09-01 | [China's Tech Crackdown: Its about Control, not Consumers or Competition!](https://aswathdamodaran.blogspot.com/2021/09/chinas-tech-crackdown-market-adjustment.html) | China, Tech
+- 2021-08-02 | [A DIY (Do-It-Yourself) Valuation of Zomato](https://aswathdamodaran.blogspot.com/2021/08/a-diy-do-it-yourse-valuation-of-zomato.html) | Narrative and Numbers, Narrative Changes, Valuing Young companies
+- 2021-07-22 | [The Zomato IPO: A Bet on Big Markets and Platforms!](https://aswathdamodaran.blogspot.com/2021/07/the-zomato-ipo-bet-on-big-markets-and.html) | IPO, Valuing Young companies
+- 2021-07-14 | [Disclosure Dilemma: When more (data) leads to less (information)!](https://aswathdamodaran.blogspot.com/2021/07/disclosure-dilemma-when-more-data-leads.html) | Data, Disclosure, Information
+- 2021-06-09 | [The Rise of SPACs: IPO Disruptors or Blank Check Distortions?](https://aswathdamodaran.blogspot.com/2021/06/the-rise-of-spacs-ipo-disruptors-or.html) | Celebrity Investing, IPO
+- 2021-05-24 | [Inflation and Investing: False Alarm or Fair Warning?](https://aswathdamodaran.blogspot.com/2021/05/inflation-and-investing-false-alarm-or.html) | Bonds, Inflation, Stock Market Reactions
+- 2021-05-11 | [Investor Taxes and Stock Prices: Threading the Needle!](https://aswathdamodaran.blogspot.com/2021/05/investor-taxes-and-stock-prices.html) | Taxes and value
+- 2021-04-20 | [The Corporate Tax Burden: Facts and Fiction](https://aswathdamodaran.blogspot.com/2021/04/the-corporate-tax-burden-facts-and.html) | Debt, Taxes and value
+- 2021-03-25 | [Interest Rates, Earning Growth and Equity Value: Investment Implications](https://aswathdamodaran.blogspot.com/2021/03/rates-growth-and-value-investment.html) | Inflation, Interest Rates, The Fed
+- 2021-02-10 | [Data Update 4 for 2021: The Hurdle Rate Question!](https://aswathdamodaran.blogspot.com/2021/02/data-update-4-for-2021-hurdle-rate.html) | Cost of capital, Country Risk, Hurdle Rates
+- 2021-02-03 | [The Price-Value Feedback Loop: A Look at GME and AMC!](https://aswathdamodaran.blogspot.com/2021/02/the-price-value-feedback-loop-look-at.html) | prices and value
+- 2021-01-29 | [The Storming of the Bastille: The Reddit Crowd targets the Hedge Funds!](https://aswathdamodaran.blogspot.com/2021/01/the-storming-of-bastille-reddit-crowd.html) | Activist Investing, prices and value
+- 2021-01-27 | [Data Update 3 for 2021: Currencies, Commodities, Collectibles and Cryptos](https://aswathdamodaran.blogspot.com/2021/01/data-update-3-for-2021-currencies.html) | Crypto Currencies, Pricing and Value
+- 2021-01-20 | [Data Update 2 for 2021: The Price of Risk!](https://aswathdamodaran.blogspot.com/2021/01/data-update-2-for-2021-price-of-risk.html) | Data Update, Default Spreads, Equity Risk Premiums
+- 2021-01-12 | [Marking Time: A new year, a fresh semester and its class time!](https://aswathdamodaran.blogspot.com/2021/01/marking-time-new-year-fresh-semester.html) | Classes, Teaching
+- 2021-01-09 | [Data Update 1 for 2021: A (Data) Look Back at a Most Forgettable Year (2020)!](https://aswathdamodaran.blogspot.com/2021/01/data-update-1-for-2021-data-look-back.html) | Big Data, COVID, Data Updates
+
+## 2020
+
+- 2020-12-02 | [The Sharing Economy come home: The IPO of Airbnb!](https://aswathdamodaran.blogspot.com/2020/12/the-sharing-economy-come-home-ipo-of.html) | IPO, Sharing Economy, Value of growth
+- 2020-11-05 | [A Viral Market Update XIV: A Wrap on the COVID market, premature or not!](https://aswathdamodaran.blogspot.com/2020/11/a-viral-market-update-xiv-wrap-on-covid.html) | Market Crisis, Market Timing, Value Investing
+- 2020-10-23 | [Value Investing III: Requiem, Rebirth or Reinvention?](https://aswathdamodaran.blogspot.com/2020/10/value-investing-iii-requiem-rebirth-or.html) | Active versus Passive Investing, Value Investing
+- 2020-10-23 | [Value Investing II: Tough times for Value Investing - Passing Phase or a Changed World?](https://aswathdamodaran.blogspot.com/2020/10/value-investing-ii-tough-times-for.html) | Active versus Passive Investing, Value Investing
+- 2020-10-23 | [Value Investing I: The Back Story](https://aswathdamodaran.blogspot.com/2020/10/value-investing-i-back-story.html) | Active versus Passive Investing, Value Investing
+- 2020-09-21 | [Sounding good or Doing good? A Skeptical Look at ESG](https://aswathdamodaran.blogspot.com/2020/09/sounding-good-or-doing-good-skeptical.html) | Corporate Governance, ESG, Intrinsic Value
+- 2020-09-01 | [Illusion, Perception and Reality: Stock Splits and Index Inclusions](https://aswathdamodaran.blogspot.com/2020/09/illusion-perception-and-reality-stock.html) | Pricing and Value, Shareholder Value
+- 2020-08-20 | [A Viral Market Update XIII: The Strong (FANGAM) get stronger!](https://aswathdamodaran.blogspot.com/2020/08/a-viral-market-update-xiii-strong.html) | Accounting Rules, Amazon, Apple, Crisis, Facebook
+- 2020-08-05 | [From Class Rooms to Class Zooms: Teaching during COVID times!](https://aswathdamodaran.blogspot.com/2020/08/from-class-rooms-to-class-zooms.html) | Teaching
+- 2020-07-23 | [A Viral Market Update XII: The Resilience of Private Risk Capital](https://aswathdamodaran.blogspot.com/2020/07/a-viral-market-update-xii-resilience-of.html) | Market Crisis, Value vs Growth, Venture Capital
+- 2020-07-02 | [A Viral Market Update XI: The Flexibility Premium](https://aswathdamodaran.blogspot.com/2020/07/a-viral-market-update-xi-flexibility.html) | Corporate Crisis, Corporate Life Cycle, Disruption, Market Crisis
+- 2020-06-19 | [A Viral Market Update X: A Corporate Life Cycle Perspective](https://aswathdamodaran.blogspot.com/2020/06/a-viral-market-update-x-corporate-life.html) | Accounting Scandal, Active versus Passive Investing, Market Crisis
+- 2020-06-04 | [A Viral Market Update IX:  A Do-it-Yourself S&P 500 Valuation](https://aswathdamodaran.blogspot.com/2020/06/a-viral-market-update-ix-do-it-yourself.html) | Intrinsic Value, Market Crisis, Market Timing
+- 2020-05-13 | [A Viral Market Update VIII: A Crisis Test - Value vs Growth, Active vs Passive, Small Cap vs Large!](https://aswathdamodaran.blogspot.com/2020/05/a-viral-market-update-viii-crisis-test.html) | Active versus Passive Investing, Market Crisis, Small Cap Premium, Value vs Growth
+- 2020-04-24 | [A Viral Market Update VII: Mayhem with Multiples](https://aswathdamodaran.blogspot.com/2020/04/a-viral-market-update-vii-mayhem-with.html) | Equity Risk Premiums, Market Crisis, Pricing and Value
+- 2020-04-08 | [A Viral Market Meltdown VI: The Price of Risk](https://aswathdamodaran.blogspot.com/2020/04/a-viral-market-meltdown-vi-price-of-risk.html) | Equity Risk Premiums, Market Crisis, Price of Risk
+- 2020-03-31 | [A Viral Market Meltdown V: Back to Basics!](https://aswathdamodaran.blogspot.com/2020/03/a-viral-market-meltdown-v-bailouts-and.html) | Buybacks, Dividends, Market Crisis
+- 2020-03-23 | [A Viral Market Meltdown IV: Investing for a post-virus Economy](https://aswathdamodaran.blogspot.com/2020/03/a-viral-market-meltdown-iv-investing.html) | Debt, Market Crisis
+- 2020-03-21 | [Data Update 7 for 2020: Debt Delusions and Reality](https://aswathdamodaran.blogspot.com/2020/03/data-update-7-for-2020-debt-delusions.html) | Data Updates, Debt, Distress
+- 2020-03-21 | [Data Update 6 for 2020: Profitability, Returns and the value of Growth](https://aswathdamodaran.blogspot.com/2020/03/data-update-6-for-2020-profitability.html) | Data Updates, Excess Returns, Profitability
+- 2020-03-16 | [A Viral Market Meltdown III: Pricing or Value? Trading or Investing?](https://aswathdamodaran.blogspot.com/2020/03/a-viral-market-meltdown-iii-pricing-or.html) | Market Crisis, S&P 500
+- 2020-03-09 | [A Viral Market Meltdown Part II: Clues in the Debris!](https://aswathdamodaran.blogspot.com/2020/03/a-viral-market-meltdown-part-ii-clues.html)
+- 2020-02-27 | [Data Update 5: Relative Risk and Hurdle Rates](https://aswathdamodaran.blogspot.com/2020/02/data-update-5-relative-risk-and-hurdle.html) | Cost of capital, Data Updates, Defining and Measuring Risk
+- 2020-02-26 | [A Viral Market Meltdown: Fear or Fundamentals?](https://aswathdamodaran.blogspot.com/2020/02/a-viral-market-meltdown-fear-or.html) | Market Crisis, S&P 500
+- 2020-02-19 | [Data Update 4: Country Risk and Currency Questions!](https://aswathdamodaran.blogspot.com/2020/02/data-update-4-country-risk-and-currency.html) | Country Risk, Currency Risk, Data Update
+- 2020-02-10 | [Data Update 3 for 2020: The Price of Risk!](https://aswathdamodaran.blogspot.com/2020/02/data-update-3-for-2020-price-of-risk.html) | Data Update, Default Spreads, Equity Risk Premiums
+- 2020-02-06 | [A Do-it-yourself (DIY) Valuation of Tesla: Of Investment Regrets and Disagreements!](https://aswathdamodaran.blogspot.com/2020/02/a-do-it-yourself-diy-valuation-of-tesla.html) | Story telling, Tesla
+- 2020-01-30 | [An Ode to Luck: Revisiting my Tesla Valuation](https://aswathdamodaran.blogspot.com/2020/01/an-ode-to-luck-revisiting-my-tesla.html) | Pricing and Value, Tesla, Valuing Young companies
+- 2020-01-27 | [Data Update 2 for 2020: Retrospective on a Disruptive Decade](https://aswathdamodaran.blogspot.com/2020/01/data-update-2-for-2020-retrospective-on.html) | Data Update
+- 2020-01-13 | [Data Update 1 for 2020: Setting the table](https://aswathdamodaran.blogspot.com/2020/01/data-update-1-for-2020-setting-table.html) | Big Data, Crowd Wisdom, Data Update
+
+## 2019
+
+- 2019-12-29 | [The Market is Huge! Revisiting the Big Market Delusion](https://aswathdamodaran.blogspot.com/2019/12/the-market-is-huge-revisiting-big.html) | Bubbles, Overconfidence, Pricing
+- 2019-12-19 | [A Teaching Manifesto: An Invitation to my Spring 2020 classes](https://aswathdamodaran.blogspot.com/2019/12/a-teaching-manifesto-invitation-to-my.html) | Corporate Finance, Investment Philosophy, Teaching, Valuation
+- 2019-11-19 | [Regime Change and Value: A Follow up Post on Aramco](https://aswathdamodaran.blogspot.com/2019/11/regime-change-and-value-follow-up-post.html) | DCF Valuation, Decline and Distress, Politics
+- 2019-11-18 | [A coming out party for the world's most valuable company: Aramco's long awaited IPO!](https://aswathdamodaran.blogspot.com/2019/11/a-coming-out-party-for-worlds-most.html) | Commodity, Corporate Governance, Country Risk, IPO
+- 2019-11-15 | [The Softbank-WeWork End Game: Savior Economics or Sunk Cost Problem?](https://aswathdamodaran.blogspot.com/2019/11/the-softbank-wework-end-game-savior.html) | Investment Philosophy, IPO
+- 2019-10-18 | [Disrupting the IPO Process: Challenging the Banker-run Going-Public Model!](https://aswathdamodaran.blogspot.com/2019/10/disrupting-ipo-process-challenging.html) | Investment banking, IPO, Venture Capital
+- 2019-10-11 | [IPO Lessons for Public Market Investors](https://aswathdamodaran.blogspot.com/2019/10/ipo-lessons-for-public-market-investors.html) | IPO, Pricing and Value, Valuing Young companies, Venture Capital
+- 2019-10-01 | [US Equities: Resilient Force or Case Study in Denial?](https://aswathdamodaran.blogspot.com/2019/10/us-equities-resilient-force-or-case.html) | Equity Risk Premiums, Market Timing
+- 2019-09-17 | [Insights on VC Pricing: Lessons from Uber, WeWork and Peloton!](https://aswathdamodaran.blogspot.com/2019/09/insights-on-vc-pricing-lessons-from.html) | Story telling, Valuing Young companies, Venture Capital
+- 2019-09-09 | [Runaway Story or Meltdown in Motion? The Unraveling of the WeWork IPO](https://aswathdamodaran.blogspot.com/2019/09/runaway-story-or-meltdown-in-motion.html) | Disruption, IPO, Narrative Changes, Valuing Young companies
+- 2019-08-28 | [From Shareholder wealth to Stakeholder interests: CEO Capitulation or Empty Doublespeak?](https://aswathdamodaran.blogspot.com/2019/08/from-shareholder-wealth-to-stakeholder.html) | Corporate Governance, Shareholder Value
+- 2019-08-13 | [Country Risk: A Mid-year 2019 Update](https://aswathdamodaran.blogspot.com/2019/08/country-risk-mid-year-2019-update.html) | Country Risk, Equity Risk Premiums, Hurdle Rates
+- 2019-06-12 | [Meatless Future or Vegan Delusions? The Beyond Meat Valuation](https://aswathdamodaran.blogspot.com/2019/06/meatless-future-or-vegan-delusions.html) | Big Markets, Macro Delusions, Value of growth
+- 2019-06-03 | [Tesla's Travails: Curfew for a Corporate Teenager?](https://aswathdamodaran.blogspot.com/2019/06/teslas-travails-curfew-for-corporate.html) | Debt, Tesla, Value of growth
+- 2019-04-15 | [Uber's Coming out Party: Personal Mobility Pioneer or Car Service on Steroids?](https://aswathdamodaran.blogspot.com/2019/04/ubers-coming-out-party-personal.html) | IPO, Pricing and Value, Ride Sharing
+- 2019-03-07 | [Lyft Off? The First Ride Sharing IPO!](https://aswathdamodaran.blogspot.com/2019/03/lyft-off-first-ride-sharing-ipo.html) | IPO, Ride Sharing
+- 2019-02-27 | [The Perils of Investing Idol Worship: The Kraft Heinz Lessons!](https://aswathdamodaran.blogspot.com/2019/02/the-perils-of-investing-idol-worship.html) | Brand name premium, Earnings Reports, Value Investing, Warren Buffett
+- 2019-02-22 | [January 2019 Data Update 9: The Pricing Game](https://aswathdamodaran.blogspot.com/2019/02/january-2019-data-update-9-pricing-game.html) | Investing, Multiples, prices and value, Trading
+- 2019-02-08 | [January 2019 Data Update 8: Dividends and Buybacks - Fact and Fiction](https://aswathdamodaran.blogspot.com/2019/02/january-2019-data-update-8-dividends.html) | Dividends and cash balances, Stock Buybacks
+- 2019-02-05 | [January 2019 Data Update 7: Debt, neither poison nor nectar!](https://aswathdamodaran.blogspot.com/2019/02/january-2019-data-update-7-debt-neither.html) | Accounting Rules, Debt
+- 2019-01-27 | [January 2019 Data Update 6: Profitability and Value Creation!](https://aswathdamodaran.blogspot.com/2019/01/january-2019-data-update-6.html) | Corporate Governance, Excess Returns, Profitability
+- 2019-01-24 | [January 2019 Data Update 5: Hurdle Rates and Costs of Financing](https://aswathdamodaran.blogspot.com/2019/01/january-2019-data-update-5-hurdle-rates.html) | Cost of capital, Cost of equity, Country Risk, Currency Risk, Hurdle Rates
+- 2019-01-21 | [January 2019 Data Update 4: The Many Faces of Risk!](https://aswathdamodaran.blogspot.com/2019/01/january-2019-data-update-4-many-faces.html) | Data Update, Defining and Measuring Risk
+- 2019-01-11 | [Back to Class: A Teaching Manifesto!](https://aswathdamodaran.blogspot.com/2019/01/back-to-class-teaching-manifesto.html) | Teaching
+- 2019-01-09 | [January 2019 Data Update 3: Playing the Numbers Game!](https://aswathdamodaran.blogspot.com/2019/01/january-2018-data-update-3-playing.html) | Data Update
+- 2019-01-07 | [January 2019 Data Update 2: The Message from Bond Markets!](https://aswathdamodaran.blogspot.com/2019/01/january-2019-data-update-2-message-from.html) | Default Spreads, Interest Rates, The Fed
+- 2019-01-02 | [January 2019 Data Update 1: A reminder that equities are risky, in case you forgot!](https://aswathdamodaran.blogspot.com/2019/01/january-2019-data-update-1-reminder.html) | Data Updates, Equity Risk Premiums, Market Timing
+
+## 2018
+
+- 2018-12-07 | [Is there a signal in the noise? Yield Curves, Economic Growth and Stock Prices!](https://aswathdamodaran.blogspot.com/2018/12/is-there-signal-in-noise-yield-curves.html) | Interest Rates, Market Timing
+- 2018-12-03 | [Investing Whiplash: Looking for Closure with Apple and Amazon!](https://aswathdamodaran.blogspot.com/2018/12/investing-whiplash-looking-for-closure.html) | Amazon, Apple, Short selling, Value and Pricing
+- 2018-11-14 | [The GE End Game: Bataan Death March or Turnaround Play?](https://aswathdamodaran.blogspot.com/2018/11/the-ge-end-game-bataan-death-march-or.html) | CEO, Corporate Life Cycle, Decline and Distress
+- 2018-10-29 | [An October Surprise? Making Sense of the Market Mayhem!](https://aswathdamodaran.blogspot.com/2018/10/an-october-surprise-making-sense-of.html) | Equity Risk Premiums, Market Crisis
+- 2018-10-16 | [High and higher: The Money in Marijuana!](https://aswathdamodaran.blogspot.com/2018/10/high-and-higher-money-in-marijuana.html) | Big Markets, Value of growth
+- 2018-09-21 | [Amazon and Apple at a Trillion $: A Follow-up on Uncertainty and Catalysts!](https://aswathdamodaran.blogspot.com/2018/09/amazon-and-apple-at-trillion-follow-up.html) | Apple, Short selling, Value and Pricing
+- 2018-09-19 | [Apple and Amazon at a Trillion $: Looking Back and Looking Forward!](https://aswathdamodaran.blogspot.com/2018/09/apple-and-amazon-at-trillion-looking.html) | Amazon, Apple, Corporate Life Cycle
+- 2018-09-10 | [Trillion Dollar Toppers: Market Triggers, Value Drivers and Pricing Catalysts!](https://aswathdamodaran.blogspot.com/2018/09/trillion-dollar-toppers-market-triggers.html) | prices and value
+- 2018-08-15 | [Deja Vu In Turkey: Currency Crisis and Corporate Insanity!](https://aswathdamodaran.blogspot.com/2018/08/deja-vu-in-turkey-currency-crisis-and.html) | Corporate Finance, Country Risk, Financing Principle
+- 2018-08-10 | [The Privatization of Tesla: Stray Tweet or Game Changing News](https://aswathdamodaran.blogspot.com/2018/08/the-privatization-of-tesla.html) | Private Equity, Tesla
+- 2018-08-06 | [Country Risk: A Midyear Update for 2018](https://aswathdamodaran.blogspot.com/2018/08/country-risk-midyear-update-for-2018.html) | Country Risk, Equity Risk Premiums
+- 2018-07-25 | [Share Count Confusion: Dilution, Employee Options and Multiple Share Classes!](https://aswathdamodaran.blogspot.com/2018/07/share-count-confusion-dilution-employee.html) | DCF Valuation, dilution, stock based compensation, Tesla
+- 2018-06-28 | [Twists and Turns in the Tesla Story : A Boring, Boneheaded Update!](https://aswathdamodaran.blogspot.com/2018/06/twists-and-turns-in-tesla-story-boring.html) | DCF, Tesla, Value of growth
+- 2018-05-29 | [User and Subscriber Businesses: The Good, the Bad and the Ugly!](https://aswathdamodaran.blogspot.com/2018/05/user-and-subscriber-businesses-good-bad.html) | Bad businesses, Value of a user, Venture Capital
+- 2018-05-22 | [Walmart's India (Flipkart) Gambit: Growth Rebirth or Costly Facelift?](https://aswathdamodaran.blogspot.com/2018/05/walmarts-india-flipkart-gambit-growth.html) | Acquisitions, Corporate Life Cycle
+- 2018-04-26 | [Amazon: Glimpses of Shoeless Joe?](https://aswathdamodaran.blogspot.com/2018/04/amazon-glimpses-of-shoeless-joe.html) | Disruption, Value of growth
+- 2018-04-19 | [Alphabet Soup: Google is Alpha, but where are the Bets?](https://aswathdamodaran.blogspot.com/2018/04/alphabet-soup-google-is-alpha-but-where.html) | Tech, Value of growth
+- 2018-04-16 | [Netflix: The Future of Entertainment or House of Cards?](https://aswathdamodaran.blogspot.com/2018/04/netflix-future-of-entertainment-or.html) | Growth, Value of a user
+- 2018-04-10 | [The Facebook Feeding Frenzy: Time for a Pause!](https://aswathdamodaran.blogspot.com/2018/04/the-facebook-feeding-frenzy.html) | Corporate Crisis, Tech, Value of growth
+- 2018-04-07 | [Come easy, go easy: The Tech Takedown!](https://aswathdamodaran.blogspot.com/2018/04/come-easy-go-easy-tech-takedown.html) | Corporate Life Cycle, Tech
+- 2018-03-23 | [Spotify Loose Ends: Pricing, User Value and Big Data!](https://aswathdamodaran.blogspot.com/2018/03/spotify-loose-ends-pricing-user-value.html) | IPO, Pricing and Value, Value of a user
+- 2018-03-16 | [Stream On: An IPO Valuation of Spotify!](https://aswathdamodaran.blogspot.com/2018/03/stream-on-ipo-valuation-of-spotify.html) | IPO, Valuing Young companies
+- 2018-03-05 | [Damodaran Online: There is an App for that!](https://aswathdamodaran.blogspot.com/2018/03/damodaran-online-there-is-app-for-that.html) | Teaching, Website
+- 2018-03-02 | [Interest Rates and Stock Prices: It's Complicated!](https://aswathdamodaran.blogspot.com/2018/03/interest-rates-and-stock-prices-its.html) | Interest Rates, Intrinsic Value, Market Timing
+- 2018-02-10 | [Testing Times: Market Turmoil and Investment Serenity](https://aswathdamodaran.blogspot.com/2018/02/testing-times-market-turmoil-and.html)
+- 2018-02-05 | [January 2018 Data Update 10: The Price is Right!](https://aswathdamodaran.blogspot.com/2018/02/january-2018-data-update-10-price-is.html) | PE, Pricing and Value
+- 2018-02-04 | [January 2018 Data Update 9: Dividends, Stock Buybacks and Cash Holdings](https://aswathdamodaran.blogspot.com/2018/02/january-2018-data-update-9-dividends.html) | Data Update, Dividends and cash balances, Stock Buybacks
+- 2018-01-29 | [January 2018 Data Update 8: Debt and Taxes](https://aswathdamodaran.blogspot.com/2018/01/january-2018-data-update-8-debt-and.html) | Cost of capital, Debt, Taxes and value
+- 2018-01-27 | [January 2018 Data Update 7: Growth and Value](https://aswathdamodaran.blogspot.com/2018/01/january-2016-data-update-7-growth-and.html) | Excess Returns, Value of growth
+- 2018-01-26 | [January 2018 Data Update 6: A Cost of Capital Primer](https://aswathdamodaran.blogspot.com/2018/01/january-2018-data-update-6-cost-of.html) | Cost of capital, Cost of equity
+- 2018-01-25 | [January 2018 Data Update 5: Country Risk Update](https://aswathdamodaran.blogspot.com/2018/01/january-2018-data-update-5-country-risk.html) | Country Risk, Equity Risk Premiums
+- 2018-01-24 | [January 2018 Data Update 4: The Currency Conundrum](https://aswathdamodaran.blogspot.com/2018/01/january-2018-data-update-4-currency.html) | Risk free Rates
+- 2018-01-12 | [January 2018 Data Update 3: Taxing Questions on Value](https://aswathdamodaran.blogspot.com/2018/01/january-2018-data-update-3-taxing.html) | Data Update, Taxes and value
+- 2018-01-09 | [January 2018 Data Update 2: The Buoyancy of US Equities](https://aswathdamodaran.blogspot.com/2018/01/january-2017-data-update-2-buoyancy-of.html) | Data Update, Equity Risk Premiums
+- 2018-01-05 | [January 2018 Data Update 1: Numbers don't lie, or do they?](https://aswathdamodaran.blogspot.com/2018/01/january-2018-data-update-1-numbers-dont.html) | Data Update
+
+## 2017
+
+- 2017-10-27 | [Bitcoin Backlash: Back to the Drawing Board?](https://aswathdamodaran.blogspot.com/2017/10/bitcoin-backlash-back-to-drawing-board.html) | Asset, Bitcoin, Commodity, Crypto Currencies
+- 2017-10-24 | [The Bitcoin Boom: Asset, Currency, Commodity or Collectible?](https://aswathdamodaran.blogspot.com/2017/10/the-bitcoin-boom-asset-currency.html) | Bitcoin, Crypto Currencies, prices and value
+- 2017-10-17 | [Deconstructing Amazon Prime: Loss Leader or Value Creator?](https://aswathdamodaran.blogspot.com/2017/10/loss-leader-or-value-creator.html) | Value of a user, Value of growth
+- 2017-10-06 | [Tax Reform, 2017: Promise of Plenty or Poisoned Chalice?](https://aswathdamodaran.blogspot.com/2017/10/tax-reform-2017-promise-of-plenty-or.html)
+- 2017-08-11 | [A Tesla 2017 Update: A Disruptive Force and a Debt Puzzle!](https://aswathdamodaran.blogspot.com/2017/08/a-tesla-2017-update-disruptive-force.html) | Disruption, Tesla
+- 2017-08-01 | [The Crypto Currency Debate: Future of Money or Speculative Hype?](https://aswathdamodaran.blogspot.com/2017/08/the-crypto-currency-debate-future-of.html) | Bitcoin, Crypto Currencies
+- 2017-07-20 | [Online Teaching: Promise, Pitfalls and Potential!](https://aswathdamodaran.blogspot.com/2017/07/online-teaching-promise-pitfalls-and.html) | Classes, Teaching
+- 2017-07-13 | [The Dark Side of Globalization: An Update on Country Risk!](https://aswathdamodaran.blogspot.com/2017/07/the-dark-side-of-globalization-update.html) | Country Risk
+- 2017-07-05 | [User/Subscriber Economics: Value Dynamics](https://aswathdamodaran.blogspot.com/2017/07/usersubscriber-economics-value-dynamics.html) | Uber, Value of a user
+- 2017-06-28 | [User/Subscriber Economics: An Alternative View of Uber's Value](https://aswathdamodaran.blogspot.com/2017/06/usersubscriber-economics-alternative.html) | DCF Valuation, Uber, Value of a user
+- 2017-06-21 | [Uber's bad week: Doomsday Scenario or Business Reset?](https://aswathdamodaran.blogspot.com/2017/06/ubers-bad-week-doomsday-scenario-or.html) | Uber valuation, Valuing Young companies
+- 2017-06-06 | [A Tale of Two Markets: Politics and Investing!](https://aswathdamodaran.blogspot.com/2017/06/a-tale-of-two-markets-politics-and.html) | Defining and Measuring Risk, Value and Pricing
+- 2017-03-23 | [A Valeant Update: Damaged Goods or Deeply Discounted Drug Company?](https://aswathdamodaran.blogspot.com/2017/03/a-valeant-update-damaged-goods-or.html) | Accounting Scandal, Contrarian Investing, Value Investing
+- 2017-03-10 | [January 2017 Data Update 10: The Pricing Game!](https://aswathdamodaran.blogspot.com/2017/03/january-2017-data-update-10-pricing-game.html) | Data Updates, Pricing and Value
+- 2017-03-09 | [Explaining a Paradox: Why Good (Bad) Companies can be Bad (Good)
+Investments!](https://aswathdamodaran.blogspot.com/2017/03/explaining-paradox-why-good-bad.html) | Pricing and Value, Value Investing
+- 2017-02-17 | [My Snap Story: Valuing Snap ahead of it's IPO!](https://aswathdamodaran.blogspot.com/2017/02/a-snap-story-valuing-snap-ahead-of-its.html) | IPO, Narrative and Numbers
+- 2017-02-09 | [Apple: The Greatest Cash Machine in History?](https://aswathdamodaran.blogspot.com/2017/02/apple-greatest-cash-machine-in-history.html) | Apple, Dividends and cash balances, Narrative and Numbers
+- 2017-02-06 | [January 2017 Data Update 9: Dividends and Buybacks](https://aswathdamodaran.blogspot.com/2017/02/january-2017-data-update-9-dividends.html) | Data Update, Dividends and cash balances
+- 2017-02-01 | [January 2017 Data Update 8: The Dark and Light Sides of Debt](https://aswathdamodaran.blogspot.com/2017/02/january-2017-data-update-8-dark-and.html) | Data Update, Debt
+- 2017-01-30 | [January 2017 Data Update 7: Profitability, Excess Returns and Governance](https://aswathdamodaran.blogspot.com/2017/01/january-2017-data-update-7.html) | Data Update, Excess Returns
+- 2017-01-26 | [January 2017 Data Update 6: A Cost of Capital Update!](https://aswathdamodaran.blogspot.com/2017/01/january-2017-data-update-6-cost-of.html) | Cost of capital, Data Update
+- 2017-01-25 | [January 2017 Data Update 5: A Taxing Year Ahead?](https://aswathdamodaran.blogspot.com/2017/01/january-2017-data-update-5-taxing-year.html) | Data Update, Taxes and value
+- 2017-01-24 | [January 2017 Data Update 4: Country Risk Update](https://aswathdamodaran.blogspot.com/2017/01/january-2017-data-update-4-country-risk.html) | Country Risk, Data Update
+- 2017-01-20 | [January 2017 Data Update 3: Cracking the Currency Code](https://aswathdamodaran.blogspot.com/2017/01/january-2017-data-update-3-cracking.html) | Data Update
+- 2017-01-13 | [January 2017 Data Update 2: The Resilience of US Equities!](https://aswathdamodaran.blogspot.com/2017/01/january-2017-data-update-2-resilience.html) | Data Update
+- 2017-01-12 | [Almost time for class: My Line Up for the Spring Semester!](https://aswathdamodaran.blogspot.com/2017/01/almost-time-for-class-spring-semester.html) | Classes
+- 2017-01-11 | [Narrative and Numbers: How a number cruncher learned to tell stories!](https://aswathdamodaran.blogspot.com/2017/01/narrative-and-numbers-how-number.html) | Narrative and Numbers
+- 2017-01-09 | [January 2017 Data Update 1: The Promise and Perils of &quot;Big Data&quot;!](https://aswathdamodaran.blogspot.com/2017/01/january-2017-data-update-1-promise-and.html) | Data Update
+
+## 2016
+
+- 2016-12-28 | [Active Investing: Seeking the Elusive Edge!](https://aswathdamodaran.blogspot.com/2016/12/active-investing-seeking-elusive-edge.html) | Active versus Passive Investing
+- 2016-12-14 | [Active Investing: Rest in Peace or Resurgent Force?](https://aswathdamodaran.blogspot.com/2016/12/active-investing-rest-in-peace-or.html) | Active versus Passive Investing
+- 2016-11-30 | [Myth 5.5: The Terminal Value ate my DCF!](https://aswathdamodaran.blogspot.com/2016/11/myth-55-terminal-value-ate-my-dcf.html) | DCF Valuation
+- 2016-11-30 | [Myth 5.4: Negative Growth Rates forever? Impossible!](https://aswathdamodaran.blogspot.com/2016/11/myth-54-negative-growth-rates-forever.html) | DCF Valuation
+- 2016-11-30 | [Myth 5.3: Growth is good, more growth is better!](https://aswathdamodaran.blogspot.com/2016/11/myth-53-growth-is-good-more-growth-is.html) | DCF Valuation
+- 2016-11-30 | [Myth 5.2: As g-> r...To Infinity and Beyond!](https://aswathdamodaran.blogspot.com/2016/11/myth-52-as-g-rto-infinity-and-beyond.html) | DCF Valuation
+- 2016-11-30 | [Myth 5.1: If you don&#39;t believe in forever, you cannot do a DCF](https://aswathdamodaran.blogspot.com/2016/11/myth-51-if-you-don-believe-in-forever.html) | DCF Valuation
+- 2016-11-22 | [Faith, Feedback and Fear: Ready for the Valeant Test?](https://aswathdamodaran.blogspot.com/2016/11/faith-feedback-and-fear-returning-to.html) | Accounting Scandal, Contrarian Investing, DCF Valuation
+- 2016-11-17 | [Family Feuds: The Promise and Peril of Family Group Companies!](https://aswathdamodaran.blogspot.com/2016/11/the-4c-tradeoff-promise-and-peril-of.html) | Corporate Governance, Family Group companies
+- 2016-11-11 | [The Trump Effect on Markets: A Financial (not a Political) Analysis!](https://aswathdamodaran.blogspot.com/2016/11/the-trump-effect-on-markets-financial.html) | Disruption, Elections, Politics
+- 2016-11-04 | [Myth 4.5: DCFs break down with near-zero risk free rates!](https://aswathdamodaran.blogspot.com/2016/11/myth-45-dcfs-break-down-with-near-zero.html) | DCF Valuation, Discount Rates, Low Interest Rates
+- 2016-11-04 | [Myth 4.4: The D(discount) rate is a receptacle for your hopes and fears](https://aswathdamodaran.blogspot.com/2016/11/myth-44-ddiscount-rate-is-receptacle.html) | DCF Valuation, Discount Rates
+- 2016-11-04 | [Myth 4.3: The D cannot change (over time) in a DCF](https://aswathdamodaran.blogspot.com/2016/11/myth-43-d-cannot-change-over-time-in-dcf.html) | DCF Valuation, Discount Rates
+- 2016-11-04 | [Myth 4.2: It&#39;s all about D in the DCF](https://aswathdamodaran.blogspot.com/2016/11/myth-42-it-all-about-d-in-dcf.html) | DCF Valuation, Discount Rates
+- 2016-11-04 | [Myth 4.1: If you don&#39;t like betas (or modern portfolio theory),you cannot do a DCF!](https://aswathdamodaran.blogspot.com/2016/11/myth-41-if-you-don-like-betas-or-modern.html) | DCF Valuation, Discount Rates
+- 2016-10-06 | [Deutsche Bank: A Greek Tragedy at a German Institution?](https://aswathdamodaran.blogspot.com/2016/10/deutsche-bank-greek-tragedy-at-german.html) | Banks, Contrarian Investing, Valuation
+- 2016-10-02 | [Venture Capital: It is a pricing, not a value, game!](https://aswathdamodaran.blogspot.com/2016/10/venture-capital-it-is-pricing-not-value.html) | Pricing and Value, Venture Capital
+- 2016-09-14 | [Fairness Opinions: Fix them or Flush them!](https://aswathdamodaran.blogspot.com/2016/09/fairness-opinions-fix-them-or-get-rid.html) | Acquisitions, Fairness Opinions, Investment banking, Valuation
+- 2016-09-06 | [Keystone Kop Valuations: Lazard, Evercore and the TSLA/SCTY Deal](https://aswathdamodaran.blogspot.com/2016/09/keystone-kop-valuations-lazard-evercore.html) | Acquisitions, DCF Valuation, Investment banking
+- 2016-09-01 | [The School Bell Rings! It's Time for Class!](https://aswathdamodaran.blogspot.com/2016/09/the-school-bell-rings-its-time-for-class.html) | Classes, Valuation
+- 2016-08-31 | [Mean Reversion: Gravitational Super Force or Dangerous Delusion?](https://aswathdamodaran.blogspot.com/2016/08/mean-reversion-gravitational-super.html) | Contrarian Investing, Mean Reversion
+- 2016-08-24 | [Superman and Stocks: It&#39;s not the Cape (CAPE), it&#39;s the Kryptonite(Cash flow)!](https://aswathdamodaran.blogspot.com/2016/08/superman-and-stocks-it-not-cape-cape-it.html) | Bubbles, Market Timing, PE
+- 2016-08-19 | [The Bonfire of Venture Capital: The Good, Bad and Ugly Side of Cash Burn!](https://aswathdamodaran.blogspot.com/2016/08/the-bonfire-of-venture-capital-good-bad.html) | Start up Companies, Venture Capital
+- 2016-08-17 | [The Ride Sharing Business: Is a Bar Mitzvah moment approaching?](https://aswathdamodaran.blogspot.com/2016/08/the-ride-sharing-business-is-bar.html) | Ride Sharing Companies
+- 2016-08-15 | [Investing and Valuation Lessons from the Renaissance](https://aswathdamodaran.blogspot.com/2016/08/investing-and-valuation-lessons-from.html) | Investment Philosophy, Narrative and Numbers
+- 2016-07-22 | [May you live in &quot;exciting&quot; times! An Updated Picture of Country Risk](https://aswathdamodaran.blogspot.com/2016/07/may-you-live-in-times-updated-picture.html) | Country Risk
+- 2016-07-14 | [Tesla: It's a story stock, but what's the story?](https://aswathdamodaran.blogspot.com/2016/07/tesla-story-meets-numbers-promise-meets.html) | Corporate Governance, Corporate Life Cycle, Narrative and Numbers
+- 2016-06-29 | [The Brexit Effect: The Signals amidst the Noise](https://aswathdamodaran.blogspot.com/2016/06/the-brexit-effect-looking-for-signals.html) | Market Crisis
+- 2016-06-06 | [Icahn exits, Buffett enters, Whither Apple? Value and Price Effects of Big Name Investing](https://aswathdamodaran.blogspot.com/2016/06/icahn-buffett-and-apple-big-name.html) | Activist Investing, prices and value, Value Investing
+- 2016-05-23 | [DCF Myth 3.2: If you don&#39;t look, its not there!](https://aswathdamodaran.blogspot.com/2016/05/dcf-myth-32-if-you-don-look-its-not.html) | Defining and Measuring Risk, Financial Modeling, Valuation
+- 2016-05-03 | [DCF Myth 3.1: The Margin of Safety - Tool for Action or Excuse for Inaction?](https://aswathdamodaran.blogspot.com/2016/05/dcf-myth-31-margin-of-safety-tool-for.html) | Defining and Measuring Risk, Value and Pricing, Value Investing
+- 2016-05-02 | [DCF Myth 3: You cannot do a valuation, when there is too much uncertainty!](https://aswathdamodaran.blogspot.com/2016/05/dcf-myth-3-you-cannot-do-valuation-when.html) | Defining and Measuring Risk, Intrinsic Value, Start up Companies
+- 2016-04-20 | [Valeant: Information Vacuums, Management Credibility and Investment Value](https://aswathdamodaran.blogspot.com/2016/04/valeant-information-vacuums-management.html) | Contrarian Investing, Narrative Changes
+- 2016-03-11 | [Negative Interest Rates: Impossible, Unnatural or Just Unusual?](https://aswathdamodaran.blogspot.com/2016/03/negative-interest-rates-unreal.html) | Interest Rates, Low Interest Rates
+- 2016-02-23 | [Lazarus Rising or Icarus Falling? The GoPro and LinkedIn Question!](https://aswathdamodaran.blogspot.com/2016/02/lazarus-rising-or-icarus-falling-gopro.html) | Earnings Reports, Pricing and Value, Value of growth
+- 2016-02-19 | [Management Matters: Facebook and Twitter!](https://aswathdamodaran.blogspot.com/2016/02/management-matters-facebook-and-twitter.html) | Earnings Reports, Pricing and Value
+- 2016-02-17 | [The Disruptive Duo: Amazon and Netflix!](https://aswathdamodaran.blogspot.com/2016/02/the-disruptive-duo-amazon-and-netflix.html) | Pricing and Value, Value of growth
+- 2016-02-15 | [Race to the top: The Duel between Alphabet and Apple!](https://aswathdamodaran.blogspot.com/2016/02/race-to-top-duel-between-alphabet-and.html) | Earnings Reports, Pricing and Value
+- 2016-02-08 | [A Violent Earnings Season: Pricing and Value Perspectives](https://aswathdamodaran.blogspot.com/2016/02/a-violent-earnings-season-pricing-and.html) | Earnings Reports, prices and value
+- 2016-02-01 | [January 2016  Data Update 8: Pricing, with an end of month update](https://aswathdamodaran.blogspot.com/2016/02/january-2016-data-update-8-pricing-with.html) | Data Update, Market Crisis
+- 2016-01-30 | [Corporate Finance 101: A Big Picture, Applied Class!](https://aswathdamodaran.blogspot.com/2016/01/corporate-finance-101-big-picture.html) | Corporate Finance, Teaching
+- 2016-01-27 | [January 2016 Data Update 7: Dividends, Potential Dividends and Cash Balances](https://aswathdamodaran.blogspot.com/2016/01/january-2016-data-update-7-dividends.html) | Data Update, Dividends and cash balances
+- 2016-01-25 | [January 2016 Data Update 6: Debt, the double edged sword!](https://aswathdamodaran.blogspot.com/2016/01/january-2016-data-update-6-debt-double.html) | Data Update, Debt
+- 2016-01-20 | [January 2016 Data Update 5: Making a case for corporate governance](https://aswathdamodaran.blogspot.com/2016/01/january-2016-data-update-5-making-case.html) | Data Update, Investment Returns
+- 2016-01-13 | [January 2016 Data Update 4: The Costs of  Capital](https://aswathdamodaran.blogspot.com/2016/01/january-2016-data-update-4-costs-of.html) | Cost of capital, Cost of equity, Data Update
+- 2016-01-09 | [January 2016 Data Update 3: Country Risk and Pricing](https://aswathdamodaran.blogspot.com/2016/01/january-2016-data-update-3-country-risk.html) | Country Risk, Data Update
+- 2016-01-08 | [January 2016 Data Update 2: Interest Rates, Exchange Rates and Currencies](https://aswathdamodaran.blogspot.com/2016/01/january-2016-data-update-2-interest.html) | Data Update
+- 2016-01-04 | [January 2016 Data Update 1: The US Equity Markets](https://aswathdamodaran.blogspot.com/2016/01/january-2016-data-update-1-us-equity.html) | Data Observations, Data Update
+
+## 2015
+
+- 2015-12-28 | [Intergalactic Finance: Valuing the Star Wars Franchise](https://aswathdamodaran.blogspot.com/2015/12/intergalactic-finance-valuing-star-wars.html) | Value of a franchise
+- 2015-12-21 | [The Compressed Tech Life Cycle: The Investor Challenge](https://aswathdamodaran.blogspot.com/2015/12/the-compressed-tech-life-cycle-investor.html) | Corporate Life Cycle
+- 2015-12-18 | [The Compressed Tech Life Cycle: The Managerial Challenge](https://aswathdamodaran.blogspot.com/2015/12/the-compressed-tech-life-cycle.html) | Corporate Life Cycle
+- 2015-12-09 | [Aging in Dog Years? The Short, Glorious Life of a Successful Tech Company!](https://aswathdamodaran.blogspot.com/2015/12/aging-in-dog-years-short-glorious-life.html) | Corporate Life Cycle
+- 2015-12-07 | [The Yahoo! Chronicles! Is this the End Game?](https://aswathdamodaran.blogspot.com/2015/12/the-yahoo-chronicles-is-this-end-game.html) | Corporate Life Cycle, Tech
+- 2015-11-18 | [Value and Taxes: Breaking down the Pfizer- Allergan Deal](https://aswathdamodaran.blogspot.com/2015/11/value-and-taxes-breaking-down-pfizer.html)
+- 2015-11-12 | [Runaway Stories and Fairy Tale Endings: The Cautionary Tale of Theranos](https://aswathdamodaran.blogspot.com/2015/11/runaway-stories-and-fairy-tale-endings.html) | Narrative and Numbers, Start up Companies
+- 2015-11-11 | [Checkmate or Stalemate? Valeant's Fall from Investing Grace](https://aswathdamodaran.blogspot.com/2015/11/checkmate-or-stalemate-valeants-fall.html) | Accounting Scandal, Contrarian Investing, Drug Business
+- 2015-11-10 | [Divergence in the Drug Businesses: Pharmaceuticals and Biotechnology](https://aswathdamodaran.blogspot.com/2015/11/divergence-in-drug-businesses.html) | Corporate Life Cycle, Drug Business
+- 2015-10-23 | [Winning at a Loser's Game?  Control, Synergy and the ABInBev/SABMiller Merger!](https://aswathdamodaran.blogspot.com/2015/10/winning-at-losers-game-control-synergy.html) | Acquisitions, Control, Synergy
+- 2015-10-21 | [The Ride Sharing Business: Playing Pundit](https://aswathdamodaran.blogspot.com/2015/10/the-ride-sharing-business-playing-pundit.html) | Business Life Cycle, Disruption, Ride Sharing Companies
+- 2015-10-19 | [Dream Big or Stay Focused? Lyft's Counter to Uber!](https://aswathdamodaran.blogspot.com/2015/10/dream-big-or-stay-focused-lyfts-counter.html) | Narrative and Numbers, Pricing and Value, Ride Sharing, Start up Companies
+- 2015-10-15 | [The Ferrari IPO: A Price Premium for the Prancing Horse?](https://aswathdamodaran.blogspot.com/2015/10/the-ferrari-ipo-price-premium-for.html) | Brand name premium, IPO
+- 2015-10-12 | [On the Uber Rollercoaster: Narrative Tweaks, Twists and Turns!](https://aswathdamodaran.blogspot.com/2015/10/on-uber-rollercoaster-narrative-tweaks.html) | Narrative and Numbers, Ride Sharing, Start up Companies
+- 2015-10-01 | [Putting a Price Tag on Scandal: Sturm und Drang at Volkswagen!](https://aswathdamodaran.blogspot.com/2015/10/putting-price-tag-on-scandal-sturm-und.html) | Contrarian Investing, Value Investing
+- 2015-09-25 | [No Mas, No Mas! The Vale Chronicles (Continued)!](https://aswathdamodaran.blogspot.com/2015/09/no-mas-no-mas-vale-chronicles-continued.html) | Contrarian Investing, DCF Valuation, Investment Philosophy
+- 2015-09-09 | [What&#39;s in a name? Of Umlauts, The Alphabet and World Peace!](https://aswathdamodaran.blogspot.com/2015/09/what-in-name-of-umlauts-alphabets-and.html) | Corporate Name Changes, Pricing and Value, Valuation
+- 2015-09-04 | [The Fed, Interest Rates and Stock Prices: Fighting the Fear Factor](https://aswathdamodaran.blogspot.com/2015/09/the-fed-interest-rates-and-stock-prices.html) | Central Banks, Interest Rates, The Fed
+- 2015-08-28 | [Big Markets, Over Confidence and the Macro Delusion!](https://aswathdamodaran.blogspot.com/2015/08/big-markets-over-confidence-and-macro.html) | Bubbles, Macro Delusions, Social Media Company Valuations
+- 2015-08-26 | [Another Market Crisis? My Survival Manual/Journal!](https://aswathdamodaran.blogspot.com/2015/08/another-market-crisis-my-survival.html) | Investment Philosophy, Market Crisis, Market Timing
+- 2015-08-24 | [My Valuation Class: The Fall 2015 Model Preview](https://aswathdamodaran.blogspot.com/2015/08/my-valuation-class-fall-2015-model.html) | Education, Teaching, Valuation
+- 2015-08-21 | [Beijing Blunders: Bull in a China Shop!](https://aswathdamodaran.blogspot.com/2015/08/beijing-blunders-bull-in-china-shop.html) | Bubbles, China, Emerging Markets, Pricing and Value
+- 2015-08-15 | [Storied Asset Sales: Valuing and Pricing "Trophy" Assets](https://aswathdamodaran.blogspot.com/2015/08/valuing-and-pricing-trophy-assets.html) | Pricing and Value, Trophy Assets
+- 2015-08-12 | [Narrative Resets:  Revisiting a Tech Trio (Apple, Facebook and Twitter)](https://aswathdamodaran.blogspot.com/2015/08/narrative-resets-revisiting-tech-trio.html) | Earnings Reports, Narrative Changes, Value Investing
+- 2015-08-08 | [DCF Myth 2: A DCF is an exercise in modeling and number crunching!](https://aswathdamodaran.blogspot.com/2015/08/dcf-myth-2-dcf-is-exercise-in-modeling.html) | DCF Valuation, Financial Modeling, Intrinsic Value
+- 2015-07-30 | [Decoding Currency Risk: Pictures of Global Risk - Part IV](https://aswathdamodaran.blogspot.com/2015/07/decoding-currency-risk-pictures-of.html) | Country Risk, Currency Risk
+- 2015-07-29 | [Pricing Country Risk - Pictures of Global Risk - Part III](https://aswathdamodaran.blogspot.com/2015/07/pricing-country-risk-pictures-of-global.html) | Country Risk, Equity Risk Premiums
+- 2015-07-29 | [Valuing Country Risk: Pictures of Global Risk - Part II](https://aswathdamodaran.blogspot.com/2015/07/valuing-country-risk-pictures-of-global.html) | Country Risk, Equity Risk Premiums
+- 2015-07-15 | [Groundhog day in Greece, Hijinks in Brazil and Market Chaos in China: Pictures of Global Risk - Part I](https://aswathdamodaran.blogspot.com/2015/07/groundhog-day-in-greece-hijinks-in.html) | Country Risk, Equity Risk Premiums
+- 2015-06-10 | [Billion-dollar Tech Babies: A Blessing of Unicorns or a Parcel of Hogs?](https://aswathdamodaran.blogspot.com/2015/06/billion-dollar-tech-babies-blessing-of.html) | Start up Companies, Venture Capital
+- 2015-06-03 | [Cash, Debt and PE Ratios: Cash is an upper and debt is a downer!](https://aswathdamodaran.blogspot.com/2015/06/debt-cash-and-pe-why-cash-is-upper-and.html) | Cash, Debt, PE
+- 2015-05-27 | [The Value and Pricing of Cash: Why low interest rates & large cash balances skew PE ratios](https://aswathdamodaran.blogspot.com/2015/05/valuing-pricing-cash.html) | Cash, Low Interest Rates, PE
+- 2015-05-25 | [No Light at the end of the Tunnel: Investing in Bad Businesses](https://aswathdamodaran.blogspot.com/2015/05/no-light-at-end-of-tunnel-investing-in.html) | Business Life Cycle
+- 2015-04-29 | [Is your CEO worth his (her) pay? The Pricing and Valuing of Top Managers!](https://aswathdamodaran.blogspot.com/2015/04/is-your-ceo-worth-his-her-pay-pricing.html) | CEO, Management Compensation
+- 2015-04-20 | [The Search for Investment Serenity: The Look Back Test!](https://aswathdamodaran.blogspot.com/2015/04/the-search-for-investment-serenity-look.html) | Investment Philosophy
+- 2015-04-11 | [The Small Cap Premium: Where is the beef?](https://aswathdamodaran.blogspot.com/2015/04/the-small-cap-premium-fact-fiction-and.html) | Cost of equity, Discount Rates, Small Cap Premium, Valuation Practice
+- 2015-04-03 | [Dealing with Low Interest rates: Investing and Corporate Finance Lessons](https://aswathdamodaran.blogspot.com/2015/04/dealing-with-low-interest-rates.html) | Central Banks, Interest Rates
+- 2015-03-27 | [The GM Buyback: Beyond the Hysteria!](https://aswathdamodaran.blogspot.com/2015/03/the-gm-buyback-beyond-hysteria.html)
+- 2015-03-20 | [Illiquidity and Bubbles in Private Share Markets: Testing Mark Cuban's thesis!](https://aswathdamodaran.blogspot.com/2015/03/illiquidity-and-bubbles-in-private.html)
+- 2015-02-26 | [The Aging of the Tech Sector: The Pricing Divergence of Young and Old Tech Companies](https://aswathdamodaran.blogspot.com/2015/02/the-aging-of-tech-sector-pricing.html)
+- 2015-02-23 | [DCF Myth 1: If you have a D(discount rate) and a CF (cash flow), you have a DCF!](https://aswathdamodaran.blogspot.com/2015/02/dcf-myth-1-if-you-have-ddiscount-rate.html)
+- 2015-02-10 | [How low can you go? Doing the Petrobras Limbo!](https://aswathdamodaran.blogspot.com/2015/02/how-low-can-you-go-doing-petrobras-limbo.html)
+- 2015-02-04 | [Blood in the Shark Tank: Pre-money, Post-money and Play-money Valuations](https://aswathdamodaran.blogspot.com/2015/02/blood-in-shark-tank-pre-money-post.html)
+- 2015-02-01 | [Discounted Cashflow Valuations (DCF): Academic Exercise, Sales Pitch or Investor Tool?](https://aswathdamodaran.blogspot.com/2015/02/discounted-cashflow-valuations-dcf.html)
+- 2015-01-28 | [The Dance of the Disrupted: Observations from the front lines](https://aswathdamodaran.blogspot.com/2015/01/the-dance-of-disrupted-observations.html)
+- 2015-01-19 | [The X Factor in Value: Excess Returns in Theory and Practice](https://aswathdamodaran.blogspot.com/2015/01/the-x-factor-in-value-excess-returns-in.html)
+- 2015-01-19 | [Putting the D in the DCF: The Cost of Capital](https://aswathdamodaran.blogspot.com/2015/01/putting-d-in-dcf-cost-of-capital.html)
+- 2015-01-19 | [The Tax Story in 2015: Myths, Misconceptions and Reality Checks](https://aswathdamodaran.blogspot.com/2015/01/the-tax-story-in-2015-myths.html)
+- 2015-01-19 | [Country Risk, Return and Pricing: The Global Landscape in January 2015](https://aswathdamodaran.blogspot.com/2015/01/country-risk-return-and-pricing-global.html)
+- 2015-01-02 | [An ERP Retrospective: Looking back (2014) and Looking forward (2015)](https://aswathdamodaran.blogspot.com/2015/01/an-erp-retrospective-looking-back-2014.html)
+
+## 2014
+
+- 2014-12-22 | [The Oil Price Shock: Primary, Secondary and Collateral Effects](https://aswathdamodaran.blogspot.com/2014/12/the-oil-price-shock-primary-secondary.html)
+- 2014-12-02 | [Up, up and away! A crowd-valuation of Uber!](https://aswathdamodaran.blogspot.com/2014/12/up-up-and-away-crowd-valuation-of-uber.html)
+- 2014-11-20 | [Go where it is darkest: When company, country, currency and commodity risk collide!](https://aswathdamodaran.blogspot.com/2014/11/go-where-it-is-darkest-when-company.html)
+- 2014-11-17 | [Twitter&#39;s Bar Mitzvah! Is Social Media coming of age?](https://aswathdamodaran.blogspot.com/2014/11/twitter-bar-mitzvah-is-social-media.html)
+- 2014-11-07 | [Focus Pocus: Is breaking up a cure for corporate attention deficit disorder?](https://aswathdamodaran.blogspot.com/2014/11/focus-pocus-is-breaking-up-cure-for.html)
+- 2014-10-30 | [HP's Break Up : Value Enhancement, Pricing Game or Management Hype?](https://aswathdamodaran.blogspot.com/2014/10/hps-break-up-value-enhancement-pricing.html)
+- 2014-10-29 | ["If you build it (revenues), they (profits) will come": Amazon's Field of Dreams!](https://aswathdamodaran.blogspot.com/2014/10/if-you-build-it-revenues-they-profits.html)
+- 2014-10-24 | [Corporate Breakups: Value and Pricing Effects](https://aswathdamodaran.blogspot.com/2014/10/corporate-breakups-value-and-pricing.html)
+- 2014-10-16 | [Go Pro: Camera or Smartphone? Social Media or Electronics? Price or Value?](https://aswathdamodaran.blogspot.com/2014/10/go-pro-camera-or-smartphone-social.html)
+- 2014-09-30 | [The Walking Dead: Blackberry, Yahoo and the Zombie Apocalypse!](https://aswathdamodaran.blogspot.com/2014/09/the-walking-dead-blackberry-yahoo-and.html)
+- 2014-09-22 | [Stock Buybacks: They are big, they are back and they scare some people!](https://aswathdamodaran.blogspot.com/2014/09/stock-buybacks-they-are-big-they-are.html)
+- 2014-09-16 | [Alibaba's Governance by Politburo: Corporate Governance and Value](https://aswathdamodaran.blogspot.com/2014/09/alibabas-governance-by-politburo.html)
+- 2014-09-08 | [Alibaba's coming out party: Valued right, but is it priced right?](https://aswathdamodaran.blogspot.com/2014/09/alibabas-coming-out-party-valued-right.html)
+- 2014-09-02 | [The Education Business: A Road Map for Disruption](https://aswathdamodaran.blogspot.com/2014/09/the-education-business-road-map-for.html)
+- 2014-09-01 | [The Tax Dance: To Pass Through or Not to Pass Through Income?](https://aswathdamodaran.blogspot.com/2014/09/taxes-and-value-mlps-and-corporations.html)
+- 2014-08-08 | [Reacting to Earnings Reports: Let's get real!](https://aswathdamodaran.blogspot.com/2014/08/reacting-to-earnings-reports-lets-get.html)
+- 2014-08-06 | [Reacting to Earnings Reports: Pricing Metrics and Market Reactions](https://aswathdamodaran.blogspot.com/2014/08/reacting-to-earnings-reports-pricing.html)
+- 2014-08-06 | [Reacting to Earnings Reports: Narrative Adjustments and Value Effects](https://aswathdamodaran.blogspot.com/2014/08/reacting-to-earnings-reports-narrative.html)
+- 2014-08-01 | [The insanity of the US tax code: Bad Laws and Predictable Consequences](https://aswathdamodaran.blogspot.com/2014/08/the-insanity-of-us-tax-code-bad-laws.html)
+- 2014-07-26 | [Investment Advice from the Federal Reserve: Unusual, unwise and unseemly!](https://aswathdamodaran.blogspot.com/2014/07/investment-advice-from-federal-reserve.html)
+- 2014-07-16 | [Possible, Plausible and Probable: Big markets and Networking effects](https://aswathdamodaran.blogspot.com/2014/07/possible-plausible-and-probable-big.html)
+- 2014-06-24 | [Numbers and Narrative: Modeling, Story Telling and Investing](https://aswathdamodaran.blogspot.com/2014/06/numbers-and-narrative-modeling-story.html)
+- 2014-06-16 | [Bubble, Bubble, Toil and Trouble: The Costs and Benefits of Market Timing](https://aswathdamodaran.blogspot.com/2014/06/bubble-bubble-toil-and-trouble-costs.html)
+- 2014-06-09 | [A Disruptive Cab Ride to Riches: The Uber Payoff](https://aswathdamodaran.blogspot.com/2014/06/a-disruptive-cab-ride-to-riches-uber.html)
+- 2014-06-03 | [Ballmer's bid for the Clippers: Investment, Trade or Expensive Toy?](https://aswathdamodaran.blogspot.com/2014/06/ballmers-bid-for-clippers-investment.html)
+- 2014-05-10 | [Yahoo! A puzzle, a mystery and an enigma](https://aswathdamodaran.blogspot.com/2014/05/yahoo-puzzle-mystery-and-enigma.html)
+- 2014-05-08 | [Alibaba: A China Story with a profitable ending?](https://aswathdamodaran.blogspot.com/2014/05/alibaba-china-story-with-profitable.html)
+- 2014-04-29 | [Watch the Gap: Apple's long and twisted pricing journey](https://aswathdamodaran.blogspot.com/2014/04/watch-gap-apples-long-and-twisted.html)
+- 2014-03-25 | [Return to the firing line: Revisiting Tesla and hopefully living to tell the tale!](https://aswathdamodaran.blogspot.com/2014/03/return-to-firing-line-revisiting-tesla.html)
+- 2014-03-24 | [The impossible quest for fair markets: Pokemon cards, HFT and Life lessons](https://aswathdamodaran.blogspot.com/2014/03/the-impossible-quest-for-fair-markets.html)
+- 2014-03-23 | [Impactful information is not always insider and insider Information is not always impactful!](https://aswathdamodaran.blogspot.com/2014/03/impactful-information-is-not-always.html)
+- 2014-03-17 | [If it is a strategic growth investment in China, the numbers don't matter! Or do they?](https://aswathdamodaran.blogspot.com/2014/03/if-it-is-strategic-growth-investment-in.html)
+- 2014-03-09 | [Bitcoin Q & A: Bubble or Breakthrough? Both! Cult or Currency? Both!](https://aswathdamodaran.blogspot.com/2014/03/bitcoin-q-bubble-or-breakthrough-both.html)
+- 2014-03-02 | [If Tim Cook does not care about the "bloody ROI", does he care about the "bloody stock price"?](https://aswathdamodaran.blogspot.com/2014/03/if-tim-cook-does-not-care-about-bloody.html)
+- 2014-02-26 | [If we don't do it, our competitors will! Defensive Dealmaking or Panicky Preemption?](https://aswathdamodaran.blogspot.com/2014/02/if-we-dont-do-it-our-competitors-will_26.html)
+- 2014-02-20 | [Facebook buys Whatsapp for $19 billion: Value and Pricing Perspectives](https://aswathdamodaran.blogspot.com/2014/02/facebook-buys-whatsapp-for-19-billion.html)
+- 2014-02-18 | [Comcast bids for Time Warner Cable: Synergy, Reverse Synergy or Ego Trip?](https://aswathdamodaran.blogspot.com/2014/02/comcast-bids-for-time-warner-cable.html)
+- 2014-02-13 | [Stock-based Employee Compensation: Value and Pricing Effects](https://aswathdamodaran.blogspot.com/2014/02/stock-based-employee-compensation-value.html)
+- 2014-02-11 | [Incremental News, Price and Value: The Twitter Earnings Report & Market Reaction!](https://aswathdamodaran.blogspot.com/2014/02/incremental-news-price-and-value.html)
+- 2014-01-26 | [Experiments in online teaching: My Spring Classes and an Online Valuation Class](https://aswathdamodaran.blogspot.com/2014/01/its-personal-my-experiments-with-online.html)
+- 2014-01-26 | [The barbarians are at the gate! Of universities, moats and disruption!](https://aswathdamodaran.blogspot.com/2014/01/the-barbarians-are-at-gate-of.html)
+- 2014-01-26 | [The MOOC stumble:  Lessons from Napster and the Music Business!](https://aswathdamodaran.blogspot.com/2014/01/if-moocs-fail-is-online-education-done.html)
+- 2014-01-09 | [Numbers Time! Data update for 2014](https://aswathdamodaran.blogspot.com/2014/01/numbers-time-data-update-for-2014.html)
+- 2014-01-02 | [A good year ends, but what's next for stocks?](https://aswathdamodaran.blogspot.com/2014/01/a-good-year-ends-but-whats-next-for.html)
+
+## 2013
+
+- 2013-11-19 | [Value in the eye of the storm: Why you should welcome uncertainty!](https://aswathdamodaran.blogspot.com/2013/11/value-in-eye-of-storm-why-you-should.html)
+- 2013-11-18 | [Valuation Myths: Young companies cannot be valued](https://aswathdamodaran.blogspot.com/2013/11/valuation-myths-young-companies-cannot.html)
+- 2013-10-28 | [The Twitter IPO: Thoughts on the IPO End Game](https://aswathdamodaran.blogspot.com/2013/10/the-twitter-ipo-thoughts-on-ipo-end-game.html)
+- 2013-10-22 | [Valuing Athlete Earning Potential? Tracking Arian Foster!](https://aswathdamodaran.blogspot.com/2013/10/game-on-tracking-stock-on-arian-foster.html)
+- 2013-10-16 | [Chill, dude (Part II): Debt Default Drama Queens](https://aswathdamodaran.blogspot.com/2013/10/chill-dude-part-ii-debt-default-drama.html)
+- 2013-10-14 | [When the pieces add up to too much: Micro Dreams and Macro Delusions](https://aswathdamodaran.blogspot.com/2013/10/when-pieces-dont-add-up-micro-dreams.html)
+- 2013-10-10 | [Twitter IPO: Why a good trade be a bad investment (or vice versa)?](https://aswathdamodaran.blogspot.com/2013/10/twitter-ipo-why-good-trade-be-bad.html)
+- 2013-10-05 | [Twitter announces IPO: The Valuation](https://aswathdamodaran.blogspot.com/2013/10/twitter-announces-ipo-valuation.html)
+- 2013-10-01 | [The Brand Name Advantage: Valuable, Sustainable and Elusive](https://aswathdamodaran.blogspot.com/2013/10/the-brand-name-advantage-valuable.html)
+- 2013-09-27 | [Rebirth and Reincarnation: Escaping the corporate death spiral](https://aswathdamodaran.blogspot.com/2013/09/rebirth-and-reincarnation-escaping.html)
+- 2013-09-24 | [Decline and Denial: Thoughts on Blackberry Endgame and Microsoft as Value Trap](https://aswathdamodaran.blogspot.com/2013/09/decline-and-denial-requiem-for.html)
+- 2013-09-18 | [Twitter announces IPO: The Pricing Game begins](https://aswathdamodaran.blogspot.com/2013/09/twitter-announces-ipo-pricing-game.html)
+- 2013-09-11 | [Many a slip between the cup & the lip: From forward value to value per share today](https://aswathdamodaran.blogspot.com/2013/09/many-slip-between-cup-lip-from-forward.html)
+- 2013-09-09 | [Love the company! Love the product! Love the stock? An Update on Apple](https://aswathdamodaran.blogspot.com/2013/09/love-company-love-product-love-stock.html)
+- 2013-09-06 | [Tesla: A Follow up](https://aswathdamodaran.blogspot.com/2013/09/tesla-follow-up.html)
+- 2013-09-04 | [Valuation of the week 1: A Tesla Test](https://aswathdamodaran.blogspot.com/2013/09/valuation-of-week-1-tesla-test.html)
+- 2013-08-30 | [MOOCs and Books: Spanning the Digital Divide](https://aswathdamodaran.blogspot.com/2013/08/ebooks-and-moocs-spanning-digital-divide.html)
+- 2013-07-31 | [Market Mood Swings: Facebook Euphoria](https://aswathdamodaran.blogspot.com/2013/07/facebook-hits-ipo-price-mood-swings-in.html)
+- 2013-07-30 | [Market Multiples: Global Comparison and Analysis](https://aswathdamodaran.blogspot.com/2013/07/market-multiples-global-comparison-and.html)
+- 2013-07-29 | [Developed versus Emerging Markets: Convergence or Divergence?](https://aswathdamodaran.blogspot.com/2013/07/developed-versus-emerging-markets.html)
+- 2013-07-10 | [Rediscovering risk in emerging markets: A Country Risk Premium update](https://aswathdamodaran.blogspot.com/2013/07/rediscovering-risk-in-emerging-markets.html)
+- 2013-06-29 | [A tangled web of values: Enterprise value, Firm Value and Market Cap](https://aswathdamodaran.blogspot.com/2013/06/a-tangled-web-of-values-enterprise.html)
+- 2013-06-21 | [The Fed and Interest Rates: Lessons from Oz](https://aswathdamodaran.blogspot.com/2013/06/the-fed-and-interest-rates-lessons-from.html)
+- 2013-05-19 | [Equity Risk Premiums (ERP) and Stocks: Bullish or Bearish Indicator](https://aswathdamodaran.blogspot.com/2013/05/equity-risk-premiums-erp-and-stocks.html)
+- 2013-04-30 | [Apple: News, Noise and Value](https://aswathdamodaran.blogspot.com/2013/04/apple-calm-after-storm.html)
+- 2013-04-20 | [The Golden Rule? Thoughts on gold as an investment](https://aswathdamodaran.blogspot.com/2013/04/the-golden-rule-thoughts-on-gold-as.html)
+- 2013-03-28 | [A Sweet Spot for US Equities: Opportunity and Dangers](https://aswathdamodaran.blogspot.com/2013/03/a-sweet-spot-for-us-equities.html)
+- 2013-03-09 | [Marty Lipton: Shareholder Champion, Stakeholder Protector or Management Tool?](https://aswathdamodaran.blogspot.com/2013/03/marty-lipton-shareholder-champion.html)
+- 2013-02-13 | [Hundred dollar bills are hard to come by!](https://aswathdamodaran.blogspot.com/2013/02/hundred-dollar-bills-are-hard-to-come-by.html)
+- 2013-02-12 | [Michael Dell's Conflicted Buyout](https://aswathdamodaran.blogspot.com/2013/02/michael-dells-conflicted-buyout.html)
+- 2013-02-08 | [Financial Alchemy: David Einhorn’s “value” play for Apple](https://aswathdamodaran.blogspot.com/2013/02/financial-alchemy-david-einhorns-value.html)
+- 2013-02-07 | [Back to Apple: Thoughts on value, price and the confidence gap](https://aswathdamodaran.blogspot.com/2013/02/apple-redux-thoughts-on-value-price-and.html)
+- 2013-02-01 | [It's time: A new semester begins.. and you are welcome to join in...](https://aswathdamodaran.blogspot.com/2013/02/its-time-new-semester-begins-and-you.html)
+- 2013-01-31 | [Market Mayhem: Lessons for Apple](https://aswathdamodaran.blogspot.com/2013/01/market-mayhem-lessons-for-apple.html)
+- 2013-01-27 | [Are you a value investor? Take the Apple test](https://aswathdamodaran.blogspot.com/2013/01/are-you-value-investor-apple-test.html)
+- 2013-01-13 | [Data Update 2013: The Dark Side of Numbers](https://aswathdamodaran.blogspot.com/2013/01/data-update-2013-dark-side-of-numbers.html)
+
+## 2012
+
+- 2012-12-30 | [Death and Taxes at year end: Unpredictable Certainties](https://aswathdamodaran.blogspot.com/2012/12/death-and-taxes-at-year-end.html)
+- 2012-12-27 | [The year in review: Apple's universe?](https://aswathdamodaran.blogspot.com/2012/12/the-year-in-review-apples-universe.html)
+- 2012-12-19 | [Acquisition Alchemy: Creating value from deals](https://aswathdamodaran.blogspot.com/2012/12/acquisition-alchemy-creating-value-from.html)
+- 2012-12-16 | [Acquisition Accounting II: Goodwill, more plug than asset](https://aswathdamodaran.blogspot.com/2012/12/acquisition-accounting-ii-goodwill-more.html)
+- 2012-12-08 | [Acquisition Accounting I: Accretive (Dilutive) Deals can be bad (good) deals](https://aswathdamodaran.blogspot.com/2012/12/acquisition-accounting-i-accretive.html)
+- 2012-12-05 | [Acquisition Advice: Big deal or good deal?](https://aswathdamodaran.blogspot.com/2012/12/acquisition-advice-big-deal-or-good-deal.html)
+- 2012-12-04 | [Acquisition Hubris: Over confident CEOs and Compliant Boards](https://aswathdamodaran.blogspot.com/2012/12/acquisition-hubris-over-confident-ceos.html)
+- 2012-12-02 | [Acquisition Archives: Winners and Losers](https://aswathdamodaran.blogspot.com/2012/12/acquisition-archives-winners-and-losers.html) | Acquisitions
+- 2012-11-26 | [HP's Deal from Hell: The mark-it-up and write-it-down two-step](https://aswathdamodaran.blogspot.com/2012/11/hps-deal-from-hell-mark-it-up-and-write.html)
+- 2012-11-19 | [Much ado about liquidity? Lockup expirations and stock prices](https://aswathdamodaran.blogspot.com/2012/11/much-ado-about-liquidity-lockup.html) | Facebook, IPO, liquidity
+- 2012-11-15 | [Storms and Stocks: Dealing with Disruptive Shocks](https://aswathdamodaran.blogspot.com/2012/11/storms-and-stocks-dealing-with.html)
+- 2012-10-26 | [The Yankees' A Rod Problem: Sunk costs and investing](https://aswathdamodaran.blogspot.com/2012/10/the-yankees-rod-problem-sunk-costs-and.html)
+- 2012-10-18 | [Private Equity: Too disruptive or not disruptive enough?](https://aswathdamodaran.blogspot.com/2012/10/private-equity-villain-or-victim.html)
+- 2012-10-15 | [The disclosure dilemma: Why more disclosure has led to less information](https://aswathdamodaran.blogspot.com/2012/10/the-disclosure-dilemma-why-more.html) | Information
+- 2012-10-09 | [Winning (losing) by losing (winning): The power of expectations](https://aswathdamodaran.blogspot.com/2012/10/winning-losing-by-losing-winning-power.html)
+- 2012-09-27 | [The "dividend tax" cliff approaches: Implications for stocks](https://aswathdamodaran.blogspot.com/2012/09/the-dividend-tax-cliff-approaches.html)
+- 2012-09-17 | [Inspiration or Insanity? Fed action and Market Reaction](https://aswathdamodaran.blogspot.com/2012/09/inspiration-or-insanity-fed-action-and.html)
+- 2012-09-07 | [A new semester begins: Valuation class online](https://aswathdamodaran.blogspot.com/2012/09/a-new-semester-begins-valuation-class.html)
+- 2012-08-29 | [Apple's Crown Jewel: Valuing the iPhone Franchise](https://aswathdamodaran.blogspot.com/2012/08/apples-crown-jewel-valuing-iphone.html) | Value of a franchise
+- 2012-08-24 | [Groupon Gloom: Deal of the day or Death Spiral?](https://aswathdamodaran.blogspot.com/2012/08/groupon-gloom-deal-of-day-or-death.html)
+- 2012-08-20 | [Facebook face plant: Time to friend the company?](https://aswathdamodaran.blogspot.com/2012/08/facebook-face-plant-time-to-friend.html) | Facebook IPO
+- 2012-07-24 | [Earnings surprises, price reaction and value](https://aswathdamodaran.blogspot.com/2012/07/earnings-surprises-price-reaction-and.html) | Information, prices and value
+- 2012-07-02 | [Equity Risk Premiums: Globalization and Country risk](https://aswathdamodaran.blogspot.com/2012/07/equity-risk-premiums-globalization-and.html) | Equity Risk Premiums
+- 2012-06-29 | [Value Investing: Where is the beef?](https://aswathdamodaran.blogspot.com/2012/06/value-investing-where-is-beef.html) | Value Investing
+- 2012-06-25 | [Activist Value Investing: Be your own "change" agent](https://aswathdamodaran.blogspot.com/2012/06/activist-value-investing-be-your-own.html) | Value Investing
+- 2012-06-17 | [Contrarian Value Investing - Going against the flow....](https://aswathdamodaran.blogspot.com/2012/06/contrarian-investing-going-against-flow.html) | Value Investing
+- 2012-06-12 | [Passive Value investing: Screening for bargains](https://aswathdamodaran.blogspot.com/2012/06/passive-value-investing-screening-for.html) | Value Investing
+- 2012-06-08 | [Value Investing: An Identity Crisis?](https://aswathdamodaran.blogspot.com/2012/06/value-investing-identity-crisis.html) | Value Investing
+- 2012-05-29 | [How much is growth worth?](https://aswathdamodaran.blogspot.com/2012/05/how-much-is-growth-worth.html) | Value of growth
+- 2012-05-29 | [How much are you paying for growth?](https://aswathdamodaran.blogspot.com/2012/05/how-much-are-you-paying-for-growth.html) | Value of growth
+- 2012-05-23 | [Facebook: Sowing the wind, reaping the whirlwind](https://aswathdamodaran.blogspot.com/2012/05/facebook-sowing-wind-reaping-whirlwind.html) | Facebook IPO
+- 2012-05-17 | [Facebook and "Field of Dreams": Hoodies, Hubris and Hoopla](https://aswathdamodaran.blogspot.com/2012/05/facebook-hoodies-hubris-and-hoopla.html) | Facebook IPO
+- 2012-05-07 | [Lessons learned, unlearned and relearned: A semester of online class](https://aswathdamodaran.blogspot.com/2012/05/lessons-learned-unlearned-and-relearned.html) | Teaching
+- 2012-04-30 | [Governments and Value III: Bribery, Corruption and other "Dark" Costs](https://aswathdamodaran.blogspot.com/2012/04/governments-and-value-iii-bribery.html) | Governments and value
+- 2012-04-26 | [Governments and Value II: Subsidies and Value](https://aswathdamodaran.blogspot.com/2012/04/governments-and-value-ii-subsidies-and.html) | Governments and value
+- 2012-04-17 | [Governments and Value: Part 1 - Nationalization Risk](https://aswathdamodaran.blogspot.com/2012/04/governments-and-value-part-1.html) | Governments and value
+- 2012-04-13 | [Google splits its stock and spits on its stockholders](https://aswathdamodaran.blogspot.com/2012/04/google-splits-its-stock-and-spits-on.html) | Corporate Governance
+- 2012-04-06 | [Emotions, Intrinsic value and Dividend Clienteles: The Apple trade postscript](https://aswathdamodaran.blogspot.com/2012/04/emotions-intrinsic-value-and-dividend.html) | Value and Pricing
+- 2012-04-03 | [Apple: Know when to hold 'em, know when to fold 'em..](https://aswathdamodaran.blogspot.com/2012/04/apple-holding-versus-folding.html) | Value and Pricing
+- 2012-03-23 | [Equity Risk Premiums: The 2012 Edition](https://aswathdamodaran.blogspot.com/2012/03/equity-risk-premiums-2012-edition.html) | Equity Risk Premiums
+- 2012-03-18 | [Greg Smith on Goldman: An indictment of investment banking?](https://aswathdamodaran.blogspot.com/2012/03/greg-smith-on-goldman-indictment-of.html)
+- 2012-03-01 | [Apple: Thoughts on bias, value, excess cash and dividends](https://aswathdamodaran.blogspot.com/2012/03/apple-thoughts-on-bias-value-excess.html) | Dividends and cash balances
+- 2012-02-23 | [Facebook: Playing the "IPO pop" game?](https://aswathdamodaran.blogspot.com/2012/02/facebook-playing-ipo-pop-game.html) | Facebook IPO
+- 2012-02-16 | [The IPO of the decade? My valuation of Facebook](https://aswathdamodaran.blogspot.com/2012/02/ipo-of-decade-my-valuation-of-facebook.html) | Facebook IPO
+- 2012-02-04 | [Options and Taxes: Is a "Facebook" tax next?](https://aswathdamodaran.blogspot.com/2012/02/options-and-taxes-is-facebook-tax-next.html) | Taxes and value
+- 2012-01-26 | [Moneyball and Investing: Data, Information and my 2012 Update](https://aswathdamodaran.blogspot.com/2012/01/moneyball-and-investing-data.html) | Data Observations
+- 2012-01-25 | [My small challenge to the "university" business model](https://aswathdamodaran.blogspot.com/2012/01/university-business-model-is-failure.html) | Teaching
+- 2012-01-21 | [Snowmen and Shovels: Investing Lessons?](https://aswathdamodaran.blogspot.com/2012/01/snowmen-and-shovels-investing-lessons.html) | Investment Philosophy
+- 2012-01-14 | [Private Equity: Hero or Villain?](https://aswathdamodaran.blogspot.com/2012/01/private-equity-hero-or-villain.html) | Private Equity
+
+## 2011
+
+- 2011-12-31 | [Auld Lang Syne: Remembering 2011](https://aswathdamodaran.blogspot.com/2011/12/auld-lang-syne-remembering-2011.html) | Year end
+- 2011-12-17 | [Do markets punish long term thinking? Amazon as a case study](https://aswathdamodaran.blogspot.com/2011/12/do-markets-punish-long-term-thinking.html) | Value of growth
+- 2011-12-16 | [Living within your limits: Thoughts on Research In Motion (RIM)](https://aswathdamodaran.blogspot.com/2011/12/living-within-your-limits-thoughts-on.html)
+- 2011-11-27 | [How much diversification is too much?](https://aswathdamodaran.blogspot.com/2011/11/how-much-diversification-is-too-much.html)
+- 2011-11-04 | [Following up on Groupon](https://aswathdamodaran.blogspot.com/2011/11/following-up-on-groupon.html)
+- 2011-11-02 | [Are you ready to value Groupon?](https://aswathdamodaran.blogspot.com/2011/11/are-you-ready-to-value-groupon.html)
+- 2011-10-28 | [Growth (Part 4): Growth and Management Credibility](https://aswathdamodaran.blogspot.com/2011/10/growth-part-4-growth-and-management.html)
+- 2011-10-27 | [Growth (Part 3): The Value of Growth](https://aswathdamodaran.blogspot.com/2011/10/growth-part-3-value-of-growth.html)
+- 2011-10-26 | [Growth (Part 2): Scaling up Growth](https://aswathdamodaran.blogspot.com/2011/10/growth-part-2-scaling-up-growth.html)
+- 2011-10-26 | [Growth (Part 1): The Limits of Growth](https://aswathdamodaran.blogspot.com/2011/10/growth-part-1-limits-of-growth.html)
+- 2011-10-18 | [Growth and Value: Thoughts on Google, Groupon and Green Mountain](https://aswathdamodaran.blogspot.com/2011/10/growth-and-value-thoughts-on-google.html)
+- 2011-09-30 | [Risk free rates and value: Dealing with historically low risk free rates](https://aswathdamodaran.blogspot.com/2011/09/risk-free-rates-and-value-dealing-with.html)
+- 2011-09-23 | [Ruminations on Rogue Trading](https://aswathdamodaran.blogspot.com/2011/09/ruminations-on-rogue-trading.html)
+- 2011-09-22 | [The Buffett Plan: An apt name for a sanctimonious, hypocritical and superficial proposal](https://aswathdamodaran.blogspot.com/2011/09/buffett-plan-apt-name-for-sanctimonious.html)
+- 2011-09-21 | [Breaking up is easy to do...](https://aswathdamodaran.blogspot.com/2011/09/breaking-up-is-easy-to-do.html)
+- 2011-09-16 | [Operation Twist II: The Fed as Chubby Checker](https://aswathdamodaran.blogspot.com/2011/09/operation-twist-ii-fed-as-chubby.html)
+- 2011-09-07 | [Class is in session...](https://aswathdamodaran.blogspot.com/2011/09/class-is-in-session.html)
+- 2011-08-25 | [Buffett and Bank of America: Playing Poker with Patsies...](https://aswathdamodaran.blogspot.com/2011/08/buffett-and-bank-of-america-poker-and.html)
+- 2011-08-19 | [Trapped Cash: Measurement and Consequences](https://aswathdamodaran.blogspot.com/2011/08/trapped-cash-measurement-and.html)
+- 2011-08-08 | [Momentum versus Contrarian: Two Reads of the ERP](https://aswathdamodaran.blogspot.com/2011/08/momentum-versus-contrarian-two-reads-of.html)
+- 2011-08-06 | [Chill, dude! It is not the ratings downgrade.. It is how you react to it!](https://aswathdamodaran.blogspot.com/2011/08/chill-dude-it-is-not-ratings-downgrade.html)
+- 2011-07-28 | [A Sovereign Ratings Downgrade for the US? End of the world or bump in the road?](https://aswathdamodaran.blogspot.com/2011/07/sovereign-ratings-downgrade-for-us-end.html)
+- 2011-07-24 | [Stay Private vs Going Public: Changing landscape](https://aswathdamodaran.blogspot.com/2011/07/stay-private-vs-going-public-changing.html)
+- 2011-07-14 | [Default and Bankruptcy: Black, white and shades of grey](https://aswathdamodaran.blogspot.com/2011/07/default-and-bankruptcy-black-white-and.html)
+- 2011-06-15 | [From revenues to earnings: Operating, financing and capital expenses....](https://aswathdamodaran.blogspot.com/2011/06/from-revenues-to-earnings-operating.html)
+- 2011-06-09 | [There is an app for that....](https://aswathdamodaran.blogspot.com/2011/06/there-is-app-for-that.html)
+- 2011-06-08 | [Thoughts on intrinsic value](https://aswathdamodaran.blogspot.com/2011/06/thoughts-on-intrinsic-value.html)
+- 2011-05-20 | [Dual share structure: The Google model spreads](https://aswathdamodaran.blogspot.com/2011/05/dual-share-structure-google-model.html)
+- 2011-05-19 | [Valuing young growth companies: A postscript on Linkedin](https://aswathdamodaran.blogspot.com/2011/05/valuing-young-growth-companies.html)
+- 2011-05-18 | [Is Skype worth $8.5 billion? An exercise in valuing young, growth companies](https://aswathdamodaran.blogspot.com/2011/05/is-skype-worth-85-billion-exercise-in.html)
+- 2011-05-03 | [The Little Book of Valuation](https://aswathdamodaran.blogspot.com/2011/05/little-book-of-valuation.html)
+- 2011-04-30 | [Alternatives to the CAPM: Wrapping up](https://aswathdamodaran.blogspot.com/2011/04/alternatives-to-capm-wrapping-up.html)
+- 2011-04-30 | [Alternatives to the CAPM: Part 5. Risk Adjusting the cash flows](https://aswathdamodaran.blogspot.com/2011/04/alternatives-to-capm-5-risk-adjusting.html)
+- 2011-04-30 | [Alternatives to the CAPM: Part 4: Market-Implied cost of equity](https://aswathdamodaran.blogspot.com/2011/04/alternatives-to-capm-part-4-market.html)
+- 2011-04-30 | [Alternatives to the CAPM: Part 3: Connecting cost of debt to cost of equity](https://aswathdamodaran.blogspot.com/2011/04/alternatives-to-capm-part-3-connecting.html)
+- 2011-04-29 | [Alternatives to the CAPM: Part 2: Proxy Models](https://aswathdamodaran.blogspot.com/2011/04/alternatives-to-capm-part-2-proxy.html)
+- 2011-04-28 | [Alternatives to the CAPM: Part 1: Relative Risk Measures](https://aswathdamodaran.blogspot.com/2011/04/alternatives-to-capm-part-1-relative.html) | The
+- 2011-04-16 | [Margin of Safety: An alternative risk assessment tool?](https://aswathdamodaran.blogspot.com/2011/04/margin-of-safety-alternative-risk_16.html)
+- 2011-03-29 | [Breach of Trust: Bank Valuation after the banking crisis](https://aswathdamodaran.blogspot.com/2011/03/breach-of-trust-bank-valuation-after.html)
+- 2011-03-22 | [Catastrophe and consequences for value](https://aswathdamodaran.blogspot.com/2011/03/catastrophe-and-consequences-for-value.html)
+- 2011-03-13 | [A tide in the affairs of men...](https://aswathdamodaran.blogspot.com/2011/03/tide-in-affairs-of-men.html)
+- 2011-03-12 | [Luck versus skill: How can you tell?](https://aswathdamodaran.blogspot.com/2011/03/luck-versus-skill-how-can-you-tell.html)
+- 2011-03-01 | [Behavioral Economics: Thoughts on Value and Price](https://aswathdamodaran.blogspot.com/2011/03/behavioral-economics-thoughts-on-value.html)
+- 2011-02-28 | [Buffett and Black-Scholes](https://aswathdamodaran.blogspot.com/2011/02/buffett-and-black-scholes.html)
+- 2011-02-25 | [Equity Risk Premiums: The 2011 Edition](https://aswathdamodaran.blogspot.com/2011/02/equity-risk-premiums-2011-edition.html)
+- 2011-02-20 | [Merck and Pfizer: Thoughts on investing as a patriotic duty and market efficiency](https://aswathdamodaran.blogspot.com/2011/02/merck-and-pfizer-thoughts-on-investing.html)
+- 2011-02-18 | [Dividend Policy for the 21st century](https://aswathdamodaran.blogspot.com/2011/02/dividend-policy-for-21st-century.html)
+- 2011-02-06 | [The unemployment rate: A look at the sampling question.](https://aswathdamodaran.blogspot.com/2011/02/unemployment-rate-look-at-sampling.html)
+- 2011-02-01 | [The Shift to Buybacks: Implications for investors](https://aswathdamodaran.blogspot.com/2011/02/shift-to-buybacks-implications-for.html)
+- 2011-01-28 | [Tax policy](https://aswathdamodaran.blogspot.com/2011/01/tax-policy.html)
+- 2011-01-25 | [Buybacks and Stock Prices: Good or bad news?](https://aswathdamodaran.blogspot.com/2011/01/buybacks-and-stock-prices.html)
+- 2011-01-25 | [Stock Buybacks: What is happening and why?](https://aswathdamodaran.blogspot.com/2011/01/stock-buybacks-how-much-and-why.html)
+- 2011-01-19 | [How much cash is too much? Looking at Apple](https://aswathdamodaran.blogspot.com/2011/01/how-much-cash-is-too-much-looking-at.html)
+- 2011-01-15 | [Herding behavior: Why, so what and what if?](https://aswathdamodaran.blogspot.com/2011/01/herding-behavior-why-so-what-and-what.html)
+- 2011-01-05 | [The Facebook Valuation!](https://aswathdamodaran.blogspot.com/2011/01/facebook-valuation.html)
+
+## 2010
+
+- 2010-12-29 | [Corporate finance in illiquid markets](https://aswathdamodaran.blogspot.com/2010/12/corporate-finance-in-illiquid-markets.html)
+- 2010-12-27 | [Making money off illiquidity: Two Strategies](https://aswathdamodaran.blogspot.com/2010/12/making-money-off-illiquidity-two.html)
+- 2010-12-26 | [Asset selection & Valuation in Illiquid Markets](https://aswathdamodaran.blogspot.com/2010/12/asset-selection-valuation-in-illiquid.html)
+- 2010-12-24 | [Asset allocation for illiquid markets](https://aswathdamodaran.blogspot.com/2010/12/asset-allocation-for-illiquid-markets.html)
+- 2010-12-21 | [All assets are illiquid](https://aswathdamodaran.blogspot.com/2010/12/all-assets-are-illiquid.html)
+- 2010-11-30 | [Are complex models the answer?](https://aswathdamodaran.blogspot.com/2010/11/are-complex-models-answer.html)
+- 2010-11-24 | [The insider trading scandal: Thoughts about the hedge fund business](https://aswathdamodaran.blogspot.com/2010/11/insider-trading-scandal-thoughts-about.html)
+- 2010-11-19 | [How do you evaluate risk taking?](https://aswathdamodaran.blogspot.com/2010/11/how-do-you-evaluate-risk-taking.html) | I
+- 2010-11-15 | [Amateur Athletics](https://aswathdamodaran.blogspot.com/2010/11/amateur-athletics.html)
+- 2010-11-11 | [The secret to investment success: Self Awareness?](https://aswathdamodaran.blogspot.com/2010/11/secret-to-investment-success-self.html)
+- 2010-11-04 | [QE2 or the Titanic?](https://aswathdamodaran.blogspot.com/2010/11/qe2-or-titanic.html)
+- 2010-10-19 | [Nassim Taleb and the Nobel Committee](https://aswathdamodaran.blogspot.com/2010/10/nassim-taleb-and-nobel-committee.html)
+- 2010-10-13 | [Inflation, deflation and investing](https://aswathdamodaran.blogspot.com/2010/10/inflation-deflation-and-investing.html)
+- 2010-10-07 | [Jerome Kerviel is sentenced: Ruminations on risk and trading scandals](https://aswathdamodaran.blogspot.com/2010/10/jerome-kerviel-is-sentenced-ruminations.html)
+- 2010-10-04 | [High dividend stocks: Do they beat the market?](https://aswathdamodaran.blogspot.com/2010/10/high-dividend-stocks-do-they-beat.html)
+- 2010-09-25 | [A Corporate Governance Risk Manual](https://aswathdamodaran.blogspot.com/2010/09/corporate-governance-risk-manual.html)
+- 2010-09-19 | [Past performance is no guarantee of future performance... but is anyone listening?](https://aswathdamodaran.blogspot.com/2010/09/past-performance-is-no-guarantee-of.html)
+- 2010-09-17 | [Checks and Balances: Eisner and Disney](https://aswathdamodaran.blogspot.com/2010/09/checks-and-balances-eisner-and-disney.html)
+- 2010-09-09 | [Capital Structure: Optimal or Opportunisitic?](https://aswathdamodaran.blogspot.com/2010/09/capital-structure-optimal-or.html)
+- 2010-09-08 | [Time for class!!](https://aswathdamodaran.blogspot.com/2010/09/time-for-class.html)
+- 2010-09-01 | [Unstable risk premiums: A new paper](https://aswathdamodaran.blogspot.com/2010/09/unstable-risk-premiums-new-paper.html)
+- 2010-07-24 | [What if nothing is risk free?](https://aswathdamodaran.blogspot.com/2010/07/what-if-nothing-is-risk-free.html)
+- 2010-06-29 | [Will the financial overhaul bill fix what's wrong with banks?](https://aswathdamodaran.blogspot.com/2010/06/will-financial-overhaul-bill-fix-whats.html)
+- 2010-06-20 | [Valuation Approaches...](https://aswathdamodaran.blogspot.com/2010/06/valuation-approaches.html)
+- 2010-06-07 | [What is "fair value"?](https://aswathdamodaran.blogspot.com/2010/06/what-is-fair-value.html)
+- 2010-06-03 | [Parent versus Consolidated financial statements](https://aswathdamodaran.blogspot.com/2010/06/parent-versus-consolidated-financial.html)
+- 2010-05-28 | [Cash and Cross holdings](https://aswathdamodaran.blogspot.com/2010/05/cash-and-cross-holdings.html)
+- 2010-05-17 | ["We are not in Kansas anymore"](https://aswathdamodaran.blogspot.com/2010/05/we-are-not-in-kansas-anymore.html)
+- 2010-04-30 | [The Goldman indictment](https://aswathdamodaran.blogspot.com/2010/04/goldman-indictment.html)
+- 2010-04-16 | [Currency Choices in Valuation](https://aswathdamodaran.blogspot.com/2010/04/currency-choices-in-valuation.html)
+- 2010-04-09 | [Stock versus Flow: My thoughts](https://aswathdamodaran.blogspot.com/2010/04/stock-versus-flow-my-thoughts.html)
+- 2010-03-31 | [Goodwill: Plug Variable or Real Asset?](https://aswathdamodaran.blogspot.com/2010/03/goodwill-plug-variable-or-real-asset.html)
+- 2010-03-30 | [Accounting inconsistencies](https://aswathdamodaran.blogspot.com/2010/03/accounting-inconsistencies.html)
+- 2010-03-22 | [Government Default and Riskfree Rates](https://aswathdamodaran.blogspot.com/2010/03/government-default-and-riskfree-rates.html)
+- 2010-03-15 | [How do you measure profitability?](https://aswathdamodaran.blogspot.com/2010/03/how-do-you-measure-profitability.html)
+- 2010-03-09 | [Equity Risk Premiums and the Fear of Catastrophe](https://aswathdamodaran.blogspot.com/2010/03/equity-risk-premiums-and-fear-of.html)
+- 2010-02-21 | [The Fed Effect: Central Banks and Equity Value](https://aswathdamodaran.blogspot.com/2010/02/fed-effect-central-banks-and-equity.html)
+- 2010-02-15 | [Transactions Costs and Beating the Market](https://aswathdamodaran.blogspot.com/2010/02/transactions-costs-and-beating-market.html)
+- 2010-02-12 | [The Credit Default Swap (CDS) Market](https://aswathdamodaran.blogspot.com/2010/02/credit-default-swap-cds-market.html)
+- 2010-02-06 | [Thoughts on the riskfree rate](https://aswathdamodaran.blogspot.com/2010/02/thoughts-on-riskfree-rate.html)
+- 2010-01-31 | [Emerging versus Developed Markets: The margin shrinks in 2010](https://aswathdamodaran.blogspot.com/2010/01/emerging-versus-developed-markets.html)
+- 2010-01-18 | [Time to Split!!](https://aswathdamodaran.blogspot.com/2010/01/time-to-split.html)
+- 2010-01-09 | [Bounceback in Multiples: The 2010 story](https://aswathdamodaran.blogspot.com/2010/01/bounceback-in-multiples-2010-story.html)
+- 2010-01-09 | [Reversal in Risk Premiums (or premia): The 2010 story](https://aswathdamodaran.blogspot.com/2010/01/reversal-in-risk-premiums-or-premia.html)
+- 2010-01-08 | [Data Update for 2010](https://aswathdamodaran.blogspot.com/2010/01/data-update-for-2010.html)
+
+## 2009
+
+- 2009-12-31 | [The market value of Tiger Woods](https://aswathdamodaran.blogspot.com/2009/12/market-value-of-tiger-woods.html)
+- 2009-12-22 | [Greece, EU and more on Implicit Backing for Debt](https://aswathdamodaran.blogspot.com/2009/12/greece-eu-and-more-on-implicit-backing.html)
+- 2009-12-08 | [Dubai and the "implicit" guarantee](https://aswathdamodaran.blogspot.com/2009/12/dubai-and-implicit-guarantee.html)
+- 2009-11-28 | [The CRU Scandals: A Reflection on Academia](https://aswathdamodaran.blogspot.com/2009/11/cru-scandals-reflection-on-academia.html)
+- 2009-11-27 | [A tax on financial transactions: Good or Bad Idea?](https://aswathdamodaran.blogspot.com/2009/11/tax-on-financial-transactions-good-or.html)
+- 2009-11-23 | [Macro Bets: A general framework..](https://aswathdamodaran.blogspot.com/2009/11/macro-bets-general-framework.html)
+- 2009-11-15 | [The secrets behind John Paulson's success...](https://aswathdamodaran.blogspot.com/2009/11/secrets-behind-john-paulsons-success.html)
+- 2009-11-10 | [The Agency for Financial Stability? Good idea?](https://aswathdamodaran.blogspot.com/2009/11/agency-for-financial-stability-good.html)
+- 2009-11-05 | [Bad companies and good investments...](https://aswathdamodaran.blogspot.com/2009/11/bad-companies-and-good-investments.html)
+- 2009-10-24 | [Insider Trading: My Perspective..](https://aswathdamodaran.blogspot.com/2009/10/insider-trading-my-perspective.html)
+- 2009-10-22 | [Equity Risk Premiums: An Update](https://aswathdamodaran.blogspot.com/2009/10/equity-risk-premiums-update.html)
+- 2009-10-14 | [Bond Ratings: Why, how and what next?](https://aswathdamodaran.blogspot.com/2009/10/bond-ratings-why-how-and-what-next.html)
+- 2009-10-10 | [Crisis Lessons: Presentation...](https://aswathdamodaran.blogspot.com/2009/10/crisis-lessons-presentation.html)
+- 2009-10-06 | [Leveraged Buyouts](https://aswathdamodaran.blogspot.com/2009/10/leveraged-buyouts.html)
+- 2009-09-27 | [The dangers of relative valuation](https://aswathdamodaran.blogspot.com/2009/09/dangers-of-relative-valuation.html)
+- 2009-09-26 | [What is Twitter worth?](https://aswathdamodaran.blogspot.com/2009/09/what-is-twitter-worth.html)
+- 2009-09-20 | [Buybacks and Stock Prices..](https://aswathdamodaran.blogspot.com/2009/09/buybacks-and-stock-prices.html)
+- 2009-09-19 | [A Risk Argument: Democracies versus Dictatorships](https://aswathdamodaran.blogspot.com/2009/09/risk-argument-democracies-versus.html)
+- 2009-09-13 | [One year later: The lessons from the crisis](https://aswathdamodaran.blogspot.com/2009/09/one-year-later-lessons-from-crisis.html)
+- 2009-09-06 | [Access to webcasts...](https://aswathdamodaran.blogspot.com/2009/09/access-to-webcasts.html)
+- 2009-08-30 | [Commodity companies and commodity dependent markets](https://aswathdamodaran.blogspot.com/2009/08/commodity-companies-and-commodity.html)
+- 2009-08-28 | [Peru and Brazil](https://aswathdamodaran.blogspot.com/2009/08/peru-and-brazil.html)
+- 2009-08-24 | [Emerging Markets... and maturity....](https://aswathdamodaran.blogspot.com/2009/08/emerging-markets-and-maturity.html)
+- 2009-07-19 | [Behavioral Corporate Finance 1: The Objective in Decision Making:](https://aswathdamodaran.blogspot.com/2009/07/behavioral-corporate-finance-1.html)
+- 2009-07-12 | [Behavioral finance and corporate finance](https://aswathdamodaran.blogspot.com/2009/07/behavioral-finance-and-corporate.html)
+- 2009-07-06 | [Losers and Winners: The inevitable consequence of risk taking...](https://aswathdamodaran.blogspot.com/2009/07/losers-and-winners-inevitable.html)
+- 2009-06-30 | [Valuing declining and distressed companies](https://aswathdamodaran.blogspot.com/2009/06/valuing-declining-and-distressed.html)
+- 2009-06-19 | [Valuing Young Companies](https://aswathdamodaran.blogspot.com/2009/06/valuing-young-companies.html)
+- 2009-06-12 | [Macro and Market Timers](https://aswathdamodaran.blogspot.com/2009/06/macro-and-market-timers.html)
+- 2009-06-07 | [Culprit found for market crisis!!!!](https://aswathdamodaran.blogspot.com/2009/06/this-collapse-is-due-to-efficient.html)
+- 2009-05-31 | [MBAs and Ethics](https://aswathdamodaran.blogspot.com/2009/05/mbas-and-ethics.html)
+- 2009-05-22 | [Stockholder democracy...](https://aswathdamodaran.blogspot.com/2009/05/stockholder-democracy.html)
+- 2009-05-05 | [Keep it simple!!](https://aswathdamodaran.blogspot.com/2009/05/keep-it-simple.html)
+- 2009-05-02 | [Buffett and Munger... Shock value!](https://aswathdamodaran.blogspot.com/2009/05/buffett-and-munger-shock-value.html)
+- 2009-04-27 | [The future of the MBA](https://aswathdamodaran.blogspot.com/2009/04/future-of-mba.html)
+- 2009-04-19 | [Are accountants learning?](https://aswathdamodaran.blogspot.com/2009/04/are-accountants-learning.html)
+- 2009-04-19 | [Losing, sustaining and building on brand names](https://aswathdamodaran.blogspot.com/2009/04/losing-sustaining-and-building-on-brand.html)
+- 2009-04-10 | [Valuing brand names](https://aswathdamodaran.blogspot.com/2009/04/valuing-brand-names.html)
+- 2009-04-02 | [The power of a brand name](https://aswathdamodaran.blogspot.com/2009/04/power-of-brand-name.html)
+- 2009-03-22 | [Who uses preferred stock?](https://aswathdamodaran.blogspot.com/2009/03/who-uses-preferred-stock.html)
+- 2009-03-21 | [Preferred Stock: Fish or Fowl?](https://aswathdamodaran.blogspot.com/2009/03/preferred-stock-neither-fish-nor-fowl.html)
+- 2009-03-19 | [My thoughts on the AIG fiasco](https://aswathdamodaran.blogspot.com/2009/03/my-thoughts-on-aig-fiasco.html)
+- 2009-03-19 | [Dealing with Hybrids](https://aswathdamodaran.blogspot.com/2009/03/dealing-with-hybrids-convertibles.html)
+- 2009-03-11 | [The Yankee infield and debt...](https://aswathdamodaran.blogspot.com/2009/03/yankee-infield-and-debt.html)
+- 2009-03-07 | [What is debt?](https://aswathdamodaran.blogspot.com/2009/03/what-is-debt.html)
+- 2009-03-06 | [My favorite novels on financial markets](https://aswathdamodaran.blogspot.com/2009/03/my-favorite-novels-on-financial-markets.html)
+- 2009-03-05 | [Why I cannot stand George Soros!](https://aswathdamodaran.blogspot.com/2009/03/why-i-cannot-stand-george-soros.html)
+- 2009-03-02 | [Buffett: Man or Myth](https://aswathdamodaran.blogspot.com/2009/03/buffett-man-or-myth.html)
+- 2009-02-21 | [Fama-French and the Proxy Wars](https://aswathdamodaran.blogspot.com/2009/02/fama-french-and-proxy-wars.html)
+- 2009-02-17 | [Can betas be negative? (and other well used interview questions)](https://aswathdamodaran.blogspot.com/2009/02/can-betas-be-negative-and-other-well.html)
+- 2009-02-15 | [Alternatives to Regression Betas](https://aswathdamodaran.blogspot.com/2009/02/alterntive-to-regression-betas.html)
+- 2009-02-11 | [The problem with regression betas](https://aswathdamodaran.blogspot.com/2009/02/problem-with-regression-betas.html)
+- 2009-02-07 | [What betas can... and cannot do...](https://aswathdamodaran.blogspot.com/2009/02/what-betas-can-and-cannot-do.html)
+- 2009-02-05 | [Executive Compensation Caps](https://aswathdamodaran.blogspot.com/2009/02/executive-compenstion-caps.html)
+- 2009-02-02 | [Low riskfree rates...](https://aswathdamodaran.blogspot.com/2009/02/low-riskfree-rates.html)
+- 2009-01-28 | [Bias in Valuation](https://aswathdamodaran.blogspot.com/2009/01/bias-in-valuation.html)
+- 2009-01-26 | [Rebirths and Fresh starts!](https://aswathdamodaran.blogspot.com/2009/01/rebirths-and-fresh-starts.html)
+- 2009-01-20 | [Data update for January 2009](https://aswathdamodaran.blogspot.com/2009/01/data-update-for-january-2009.html)
+- 2009-01-18 | [Corporate Finance - post crisis](https://aswathdamodaran.blogspot.com/2009/01/corporate-finance-post-crisis.html)
+- 2009-01-07 | [Accounting Fraud](https://aswathdamodaran.blogspot.com/2009/01/accounting-fraud.html)
+
+## 2008
+
+- 2008-12-31 | [The Crisis of 2008: Lessons learned, unlearned and reinforced](https://aswathdamodaran.blogspot.com/2008/12/crisis-of-2008-lessons-learned.html)
+- 2008-12-27 | [Sticky dividends!](https://aswathdamodaran.blogspot.com/2008/12/sticky-dividends.html)
+- 2008-12-23 | [Hard wired to deceive?](https://aswathdamodaran.blogspot.com/2008/12/hard-wired-to-deceive.html)
+- 2008-12-18 | [To zero..and beyond...](https://aswathdamodaran.blogspot.com/2008/12/to-zeroand-beyond.html)
+- 2008-12-16 | [To Madoff or not to Madoff?](https://aswathdamodaran.blogspot.com/2008/12/to-madoff-or-not-to-madoff.html)
+- 2008-12-08 | [Enterprise value is negative... Is that possible?](https://aswathdamodaran.blogspot.com/2008/12/entperise-value-is-negative-is-that.html)
+- 2008-11-30 | [Corporate Hedging: Answers to questions](https://aswathdamodaran.blogspot.com/2008/11/corporate-hedging-answers-to-questions.html)
+- 2008-11-27 | [Happy Thanksgiving!](https://aswathdamodaran.blogspot.com/2008/11/happy-thanksgiving.html)
+- 2008-11-27 | [Corporate Hedging: The Down Side](https://aswathdamodaran.blogspot.com/2008/11/corporate-hedging-down-side.html)
+- 2008-11-25 | [Jekyll and Hyde revisited!](https://aswathdamodaran.blogspot.com/2008/11/jekyll-and-hyde-revisited.html)
+- 2008-11-23 | [Dividend Yield and T.Bond rate](https://aswathdamodaran.blogspot.com/2008/11/dividend-yield-and-tbond-rate.html)
+- 2008-11-16 | [Good companies in bad businesses](https://aswathdamodaran.blogspot.com/2008/11/good-companies-in-bad-businesses.html)
+- 2008-11-12 | [Some thoughts on Las Vegas!](https://aswathdamodaran.blogspot.com/2008/11/some-thoughts-on-las-vegas.html)
+- 2008-11-06 | [Blackstone's Woes: Some thoughts on Private Equity](https://aswathdamodaran.blogspot.com/2008/11/blackstones-woes-some-thoughts-on.html)
+- 2008-10-30 | [Another strange incident... in a market full of anomalies!](https://aswathdamodaran.blogspot.com/2008/10/another-strange-incident-in-market-full.html)
+- 2008-10-25 | [What is the message the market is sending?](https://aswathdamodaran.blogspot.com/2008/10/what-is-message-market-is-sending.html)
+- 2008-10-21 | [The New World Order: How this crisis affects valuation](https://aswathdamodaran.blogspot.com/2008/10/new-world-order-how-this-crisis-affects.html)
+- 2008-10-18 | [What is going on with the inflation indexed treasuries?](https://aswathdamodaran.blogspot.com/2008/10/what-is-going-with-inflation-indexed.html)
+- 2008-10-16 | [Is preferred stock equity?](https://aswathdamodaran.blogspot.com/2008/10/is-preferred-stock-equity.html) | Capital Structure, Corporate Finance, Preferred Stock
+- 2008-10-13 | [Black, blue and white swans: Comments on Taleb](https://aswathdamodaran.blogspot.com/2008/10/black-blue-and-white-swans-comments-on.html) | Black Swans, Book Reviews
+- 2008-10-12 | [Markets for sports outcomes- The long odds bias!](https://aswathdamodaran.blogspot.com/2008/10/markets-for-sports-outcomes-long-odds.html) | Investor Irrationality, Sports
+- 2008-10-10 | [Gold, fine art and collectibles...](https://aswathdamodaran.blogspot.com/2008/10/gold-fine-art-and-collectibles.html) | Collectibles, Gold
+- 2008-10-08 | [Diversification: Why is it not working?](https://aswathdamodaran.blogspot.com/2008/10/diversification-why-is-it-not-working.html) | Diversification, Market Crisis of 2008
+- 2008-10-07 | [Is it time to make the move?](https://aswathdamodaran.blogspot.com/2008/10/is-it-time-to-make-move.html) | Contrarian Investing, Market Crisis of 2008
+- 2008-10-05 | [Explaining the Market....](https://aswathdamodaran.blogspot.com/2008/10/explaining-market.html) | Market Crisis of 2008
+- 2008-10-02 | [The Buffett Gambit: Buying (Selling) Credibility](https://aswathdamodaran.blogspot.com/2008/10/buffett-gambit-buying-selling.html) | Market Crisis of 2008, Warren Buffett
+- 2008-10-01 | [Mark to Market or Not to Mark to Market?](https://aswathdamodaran.blogspot.com/2008/10/mark-to-market-or-not-to-mark-to-market.html) | Accounting Rules, Mark to Market
+- 2008-09-29 | [The Market Solution!](https://aswathdamodaran.blogspot.com/2008/09/market-solution.html) | Market Crisis of 2008
+- 2008-09-29 | [Step away from the ledge!](https://aswathdamodaran.blogspot.com/2008/09/step-away-from-ledge.html) | Market Crisis of 2008
+- 2008-09-28 | [II. Why did it happen?](https://aswathdamodaran.blogspot.com/2008/09/ii-why-did-it-happen.html) | Market Crisis of 2008
+- 2008-09-26 | [I. What happened?](https://aswathdamodaran.blogspot.com/2008/09/i-what-happened.html) | Market Crisis of 2008
+- 2008-09-25 | [GE's aborted buybacks...](https://aswathdamodaran.blogspot.com/2008/09/ges-aborted-buybacks.html) | Market Crisis of 2008, Stock Buybacks
+- 2008-09-25 | [The Bailout](https://aswathdamodaran.blogspot.com/2008/09/bailout.html) | Financial Crisis, Market Crisis of 2008
+- 2008-09-22 | [The end of investment banking?](https://aswathdamodaran.blogspot.com/2008/09/end-of-investment-banking.html) | Financial Services Business, Investment banking
+- 2008-09-22 | [Are you a contrarian?](https://aswathdamodaran.blogspot.com/2008/09/are-you-contrarian.html) | Contrarian Investing, Investment Philosophy
+- 2008-09-20 | [What is the risk free rate?](https://aswathdamodaran.blogspot.com/2008/09/what-is-risk-free-rate.html) | Risk free Rates
+- 2008-09-20 | [The key number for stocks: The Equity Risk Premium (ERP)](https://aswathdamodaran.blogspot.com/2008/09/key-number-for-stocks-equity-risk.html) | Equity Risk Premiums
+- 2008-09-19 | [Selling Short: The debate](https://aswathdamodaran.blogspot.com/2008/09/selling-short-debate.html) | Market Structure
+- 2008-09-19 | [The most exciting flat week ever?](https://aswathdamodaran.blogspot.com/2008/09/most-exciting-flat-week-ever.html) | Stock Market Reactions
+- 2008-09-17 | [Risk = Danger + Opportunity](https://aswathdamodaran.blogspot.com/2008/09/risk-danger-opportunity.html) | Defining and Measuring Risk, Equity Risk Premiums
+- 2008-09-17 | [Market Meltdown](https://aswathdamodaran.blogspot.com/2008/09/market-meltdown.html) | Stock Market Reactions
+- 2008-09-17 | [First thoughts](https://aswathdamodaran.blogspot.com/2008/09/first-thoughts.html) | Introduction to web site

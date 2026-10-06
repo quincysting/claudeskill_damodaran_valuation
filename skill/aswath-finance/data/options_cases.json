@@ -1,0 +1,1436 @@
+[
+ {
+  "name": "warrant.xls (spreadsheet default)",
+  "source": "https://pages.stern.nyu.edu/~adamodar/pc/warrant.xls",
+  "inputs": {
+   "tool": "warrant",
+   "price": 10.0,
+   "strike": 10.0,
+   "maturity": 5.0,
+   "sd": 0.4,
+   "dividend_yield": 0.0,
+   "riskfree": 0.02,
+   "warrants": 100.0,
+   "shares": 1000.0
+  },
+  "expected": {
+   "adjusted_price": 9.39645129349891,
+   "d1": 0.48941602786581,
+   "N(d1)": 0.6877264044651458,
+   "d2": -0.40501116313410596,
+   "N(d2)": 0.3427346526981513,
+   "value_per_option": 3.360996280621408
+  }
+ },
+ {
+  "name": "employeeoption.xls (spreadsheet default)",
+  "source": "https://pages.stern.nyu.edu/~adamodar/pc/employeeoption.xls",
+  "inputs": {
+   "tool": "employee_options",
+   "price": 20.83,
+   "strike": 22.68,
+   "maturity": 2.53,
+   "sd": 0.272,
+   "dividend_yield": 0.015,
+   "riskfree": 0.002,
+   "warrants": 520.0,
+   "shares": 5330.0,
+   "tax_rate": 0.26
+  },
+  "expected": {
+   "adjusted_price": 19.13946262651833,
+   "t": 2.53,
+   "d1": -0.25201271927320684,
+   "N(d1)": 0.40051561623942006,
+   "d2": -0.6846552044731696,
+   "N(d2)": 0.24678076127762832,
+   "value_per_option": 1.8114545483312297,
+   "value_all": 941.9563651322394,
+   "value_vesting_adjusted": 941.9563651322394,
+   "value_after_tax": 697.0477101978571
+  }
+ },
+ {
+  "name": "optst.xls (spreadsheet default)",
+  "source": "https://pages.stern.nyu.edu/~adamodar/pc/optst.xls",
+  "inputs": {
+   "tool": "short_term",
+   "price": 112.5,
+   "sd": 0.3,
+   "strike": 110.0,
+   "days": 52.0,
+   "riskfree": 0.08,
+   "dividends": [
+    [
+     1.1,
+     45.0
+    ]
+   ],
+   "replicate_sheet_bugs": true
+  },
+  "expected": {
+   "rate_used": 0.07688365361336424,
+   "t": 0.14246575342465753,
+   "pv_dividends": 1.0896121772784368,
+   "d1": 0.2658607524856055,
+   "N(d1)": 0.6048267737256611,
+   "d2": 0.1526268449833949,
+   "N(d2)": 0.5606537231047691,
+   "call": 6.390817891680754,
+   "put": 3.7707051791554136
+  }
+ },
+ {
+  "name": "optlt.xls (spreadsheet default)",
+  "source": "https://pages.stern.nyu.edu/~adamodar/pc/optlt.xls",
+  "inputs": {
+   "tool": "long_term",
+   "price": 500.0,
+   "strike": 600.0,
+   "maturity": 15.0,
+   "riskfree": 0.05,
+   "variance": 0.25,
+   "dividend_yield": 0.0
+  },
+  "expected": {
+   "d1": 1.2613937240902497,
+   "N(d1)": 0.896416485831996,
+   "d2": -0.6750979490134588,
+   "N(d2)": 0.24980676831305237,
+   "call": 377.40802571635203,
+   "put": 160.82795736096085
+  }
+ },
+ {
+  "name": "bstobin.xls (spreadsheet default)",
+  "source": "https://pages.stern.nyu.edu/~adamodar/pc/bstobin.xls",
+  "inputs": {
+   "tool": "binomial",
+   "sd": 0.42,
+   "riskfree": 0.05,
+   "dividend_yield": 0.2,
+   "periods_per_year": 1.0,
+   "price": 33.5
+  },
+  "expected": {
+   "up": 1.1993742950317767,
+   "down": 0.5177825046955519,
+   "tree.0.0": 33.5,
+   "tree.1.0": 40.17903888356452,
+   "tree.1.1": 17.345713907300986,
+   "tree.2.0": 48.189706436029546,
+   "tree.2.1": 20.804003389392008,
+   "tree.2.2": 8.981307192654773,
+   "tree.3.0": 57.79749518450121,
+   "tree.3.1": 24.951786898990733,
+   "tree.3.2": 10.771948982654145,
+   "tree.3.3": 4.650363733652964,
+   "tree.4.0": 69.32083004151364,
+   "tree.4.1": 29.926531821760133,
+   "tree.4.2": 12.91959871718908,
+   "tree.4.3": 5.5775267246913645,
+   "tree.4.4": 2.40787698175619,
+   "tree.5.0": 83.14162166205804,
+   "tree.5.1": 35.89311300646959,
+   "tree.5.2": 15.4954346035221,
+   "tree.5.3": 6.6895421834476,
+   "tree.5.4": 2.887945757517073,
+   "tree.5.5": 1.2467565746124858
+  }
+ },
+ {
+  "name": "delay.xls (spreadsheet default)",
+  "source": "https://pages.stern.nyu.edu/~adamodar/pc/delay.xls",
+  "inputs": {
+   "tool": "delay",
+   "pv_cash_flows": 350.0,
+   "sd": 0.223606797749979,
+   "investment": 500.0,
+   "years": 20.0,
+   "riskfree": 0.07
+  },
+  "expected": {
+   "y": 0.05,
+   "d1": 0.5433250560612678,
+   "N(d1)": 0.7065470206965581,
+   "d2": -0.4566749439387324,
+   "N(d2)": 0.323952368863168,
+   "value": 51.03060778564473
+  }
+ },
+ {
+  "name": "expand.xls (spreadsheet default)",
+  "source": "https://pages.stern.nyu.edu/~adamodar/pc/expand.xls",
+  "inputs": {
+   "tool": "expand",
+   "pv_expansion": 100.0,
+   "sd": 0.31622776601683794,
+   "investment": 150.0,
+   "years": 10.0,
+   "cost_of_delay": 0.0,
+   "riskfree": 0.065
+  },
+  "expected": {
+   "d1": 0.7445348918918357,
+   "N(d1)": 0.7717236029053196,
+   "d2": -0.25546510810816425,
+   "N(d2)": 0.3991819988550407,
+   "value": 45.91366879133774
+  }
+ },
+ {
+  "name": "abandon.xls (spreadsheet default)",
+  "source": "https://pages.stern.nyu.edu/~adamodar/pc/abandon.xls",
+  "inputs": {
+   "tool": "abandon",
+   "pv_cash_flows": 254.0,
+   "sd": 0.30000000000000004,
+   "project_life": 25.0,
+   "abandonment_value": 150.0,
+   "years": 10.0,
+   "riskfree": 0.07
+  },
+  "expected": {
+   "y": 0.04,
+   "d1": 1.3457588802773477,
+   "N(d1)": 0.9108097939223062,
+   "d2": 0.3970755822268337,
+   "N(d2)": 0.6543440910143499,
+   "value": 10.561506992482549
+  }
+ },
+ {
+  "name": "project.xls (spreadsheet default)",
+  "source": "https://pages.stern.nyu.edu/~adamodar/pc/project.xls",
+  "inputs": {
+   "tool": "patent",
+   "pv_cash_flows": 800000.0,
+   "sd": 0.3,
+   "development_cost": 1000000.0,
+   "years": 10.0,
+   "riskfree": 0.08
+  },
+  "expected": {
+   "y": 0.1,
+   "d1": 0.028309182570177654,
+   "N(d1)": 0.5112922727453957,
+   "d2": -0.9203741154803363,
+   "N(d2)": 0.1786886193894055,
+   "value": 70185.16020850421
+  }
+ },
+ {
+  "name": "natres.xls (spreadsheet default)",
+  "source": "https://pages.stern.nyu.edu/~adamodar/pc/natres.xls",
+  "inputs": {
+   "tool": "natural_resource",
+   "reserves": 100000.0,
+   "price": 22.5,
+   "unit_cost": 10.0,
+   "sd": 0.3,
+   "annual_cash_flow": 50000.0,
+   "development_cost": 1000000.0,
+   "years": 10.0,
+   "riskfree": 0.08
+  },
+  "expected": {
+   "S": 1250000.0,
+   "y": 0.04,
+   "d1": 1.1311926261582277,
+   "N(d1)": 0.8710129387079582,
+   "d2": 0.1825093281077137,
+   "N(d2)": 0.5724084740965663,
+   "value": 472622.0847477154
+  }
+ },
+ {
+  "name": "flexval.xls (spreadsheet default)",
+  "source": "https://pages.stern.nyu.edu/~adamodar/pc/flexval.xls",
+  "inputs": {
+   "tool": "flexibility",
+   "reinvestment_pct": 0.0913,
+   "sd": 0.6125,
+   "financeable_pct": 0.05,
+   "max_pct": 0.17,
+   "riskfree": 0.06,
+   "cost_of_capital": 0.1222,
+   "return_on_capital": 0.1869,
+   "history": {
+    "reinvestment": [
+     71.0,
+     33.0,
+     181.0,
+     55.0,
+     83.0,
+     233.0,
+     90.0,
+     211.0,
+     122.0,
+     445.0
+    ],
+    "firm_value": [
+     1000.0,
+     1071.0,
+     1156.0,
+     1211.0,
+     1413.0,
+     1666.0,
+     1870.0,
+     2001.0,
+     2133.0,
+     2225.0
+    ]
+   }
+  },
+  "expected": {
+   "avg_reinvestment_pct": 0.09131719969879529,
+   "sd_ln_reinvestment": 0.6125043783929958,
+   "d1": 1.3872749504861661,
+   "N(d1)": 0.9173209763695399,
+   "d2": 0.7747749504861661,
+   "N(d2)": 0.7807637426942364,
+   "d1_max": -0.6107257542030022,
+   "N(d1)_max": 0.270690520059676,
+   "d2_max": -1.2232257542030023,
+   "N(d2)_max": 0.11062228426417764,
+   "value": 0.02116950381026895
+  }
+ },
+ {
+  "name": "equity.xls (spreadsheet default)",
+  "source": "https://pages.stern.nyu.edu/~adamodar/pc/equity.xls",
+  "inputs": {
+   "tool": "equity_option",
+   "firm_value": 238511.0,
+   "face_value_debt": 364078.0,
+   "duration": 5.0,
+   "riskfree": 0.0075,
+   "dividends": 0.0,
+   "industry": "Retail (General)"
+  },
+  "expected": {
+   "variance": 0.1665129549342248,
+   "y": 0.0,
+   "d1": 0.03378781524114768,
+   "N(d1)": 0.5134768237860032,
+   "d2": -0.8786620599142627,
+   "N(d2)": 0.1897922678603365,
+   "value": 55913.91731710192,
+   "value_of_debt": 182597.0826828981,
+   "interest_rate_on_debt": 0.1479953275163235,
+   "default_probability": 0.8102077321396635
+  }
+ },
+ {
+  "name": "buffettoptions.xls (spreadsheet default)",
+  "source": "https://pages.stern.nyu.edu/~adamodar/pc/buffettoptions.xls",
+  "inputs": {
+   "tool": "long_term",
+   "price": 6.4,
+   "sd": 0.6,
+   "strike": 7.14,
+   "maturity": 10.0,
+   "riskfree_annual": 0.02,
+   "annual_dividends": 0.0
+  },
+  "expected": {
+   "r": 0.019801326693244747,
+   "y": 0.0,
+   "d1": 0.9953787975542182,
+   "N(d1)": 0.8402239666694311,
+   "d2": -0.9019877985468093,
+   "N(d2)": 0.18353167466687212,
+   "call": 4.302421738518705,
+   "put": 3.7597847801675393
+  }
+ },
+ {
+  "name": "Adani2023.xlsx option sheet",
+  "source": "Adani2023.xlsx 'Option value' sheet",
+  "inputs": {
+   "tool": "warrant",
+   "price": 1531,
+   "strike": 1.29,
+   "maturity": 7,
+   "sd": 0.45,
+   "dividend_yield": 0,
+   "riskfree": 0.0459,
+   "warrants": 7.72,
+   "shares": 1099.8
+  },
+  "expected": {
+   "adjusted_price": 1530.9934331895963,
+   "d1": 6.810986903277321,
+   "N(d1)": 0.9999999999951534,
+   "d2": 5.620398813298255,
+   "N(d2)": 0.9999999904741426,
+   "value_per_option": 1530.057917894002,
+   "value_all": 11812.047126141695
+  }
+ },
+ {
+  "name": "InstacartIPO.xlsx option sheet",
+  "source": "InstacartIPO.xlsx 'Option value' sheet",
+  "inputs": {
+   "tool": "warrant",
+   "price": 30,
+   "strike": 7.66,
+   "maturity": 5,
+   "sd": 0.5071,
+   "dividend_yield": 0,
+   "riskfree": 0.04,
+   "warrants": 29.91,
+   "shares": 322.94
+  },
+  "expected": {
+   "adjusted_price": 29.46970714322583,
+   "d1": 1.9315701974570212,
+   "N(d1)": 0.9732937113725814,
+   "d2": 0.7976601260668779,
+   "N(d2)": 0.7874661255013437,
+   "value_per_option": 23.744104496397153,
+   "value_all": 710.1861654872389
+  }
+ },
+ {
+  "name": "SpaceX2026IPO.xlsx option sheet",
+  "source": "SpaceX2026IPO.xlsx 'Option value' sheet",
+  "inputs": {
+   "tool": "warrant",
+   "price": 503.19771975566346,
+   "strike": 27.71666666666667,
+   "maturity": 6.11,
+   "sd": 0.4,
+   "dividend_yield": 0,
+   "riskfree": 0.042,
+   "warrants": 347.37,
+   "shares": 2416.6666666666665
+  },
+  "expected": {
+   "adjusted_price": 500.11805627247156,
+   "d1": 3.679676048758848,
+   "N(d1)": 0.999883234787144,
+   "d2": 2.6909394812141856,
+   "N(d2)": 0.9964374440557218,
+   "value_per_option": 478.6927170538274,
+   "value_all": 166283.48912298802
+  }
+ },
+ {
+  "name": "TeslaNov2021DIY.xlsx option sheet",
+  "source": "TeslaNov2021DIY.xlsx 'Option value' sheet",
+  "inputs": {
+   "tool": "warrant",
+   "price": 571.2882126917644,
+   "strike": 69.04,
+   "maturity": 5.8,
+   "sd": 0.3,
+   "dividend_yield": 0,
+   "riskfree": 0.0156,
+   "warrants": 101.62,
+   "shares": 1123
+  },
+  "expected": {
+   "adjusted_price": 565.5851684513417,
+   "d1": 3.397466491003629,
+   "N(d1)": 0.9996599354149963,
+   "d2": 2.6749708162760912,
+   "N(d2)": 0.9962632122210641,
+   "value_per_option": 502.5609735881773,
+   "value_all": 51070.24613603058
+  }
+ },
+ {
+  "name": "TeslaJan2023DIY.xlsx option sheet",
+  "source": "TeslaJan2023DIY.xlsx 'Option value' sheet",
+  "inputs": {
+   "tool": "warrant",
+   "price": 129.8992586590045,
+   "strike": 27.71666666666667,
+   "maturity": 6.11,
+   "sd": 0.4,
+   "dividend_yield": 0,
+   "riskfree": 0.0347,
+   "warrants": 347.37,
+   "shares": 3146
+  },
+  "expected": {
+   "adjusted_price": 127.50795800259998,
+   "d1": 2.2523308376434126,
+   "N(d1)": 0.9878493136024689,
+   "d2": 1.2635942700987504,
+   "N(d2)": 0.8968121543696033,
+   "value_per_option": 105.85084349919268,
+   "value_all": 36769.40750631456
+  }
+ },
+ {
+  "name": "Tesla2023OctDIY.xlsx option sheet",
+  "source": "Tesla2023OctDIY.xlsx 'Option value' sheet",
+  "inputs": {
+   "tool": "warrant",
+   "price": 179.55628050049813,
+   "strike": 27.71666666666667,
+   "maturity": 6.11,
+   "sd": 0.4,
+   "dividend_yield": 0,
+   "riskfree": 0.05,
+   "warrants": 347.37,
+   "shares": 3176
+  },
+  "expected": {
+   "adjusted_price": 177.35281101132972,
+   "d1": 2.680599869774161,
+   "N(d1)": 0.996325483420543,
+   "d2": 1.6918633022294989,
+   "N(d2)": 0.9546639797581888,
+   "value_per_option": 157.20651427413628,
+   "value_all": 54608.82686340672
+  }
+ },
+ {
+  "name": "TeslaJan2024DIY.xlsx option sheet",
+  "source": "TeslaJan2024DIY.xlsx 'Option value' sheet",
+  "inputs": {
+   "tool": "warrant",
+   "price": 183.75079597459424,
+   "strike": 35.11,
+   "maturity": 4.31,
+   "sd": 0.4,
+   "dividend_yield": 0,
+   "riskfree": 0.0408,
+   "warrants": 344.02,
+   "shares": 3174
+  },
+  "expected": {
+   "adjusted_price": 180.59030575835084,
+   "d1": 2.599153278530292,
+   "N(d1)": 0.9953272983171126,
+   "d2": 1.768731698849224,
+   "N(d2)": 0.9615306701567947,
+   "value_per_option": 151.43096634100144,
+   "value_all": 52095.281040631315
+  }
+ },
+ {
+  "name": "TeslaJan2025DIY.xlsx option sheet",
+  "source": "TeslaJan2025DIY.xlsx 'Option value' sheet",
+  "inputs": {
+   "tool": "warrant",
+   "price": 147.16403491013367,
+   "strike": 40.41,
+   "maturity": 4,
+   "sd": 0.3,
+   "dividend_yield": 0,
+   "riskfree": 0.0422,
+   "warrants": 344.5,
+   "shares": 3197
+  },
+  "expected": {
+   "adjusted_price": 143.49800954831503,
+   "d1": 2.693406475449408,
+   "N(d1)": 0.9964637007547692,
+   "d2": 2.0934064754494077,
+   "N(d2)": 0.9818435575653877,
+   "value_per_option": 109.4768685273157,
+   "value_all": 37714.78120766026
+  }
+ },
+ {
+  "name": "fcffsimpleginzu.xlsx option sheet",
+  "source": "fcffsimpleginzu.xlsx 'Option value' sheet",
+  "inputs": {
+   "tool": "warrant",
+   "price": 72.28,
+   "strike": 1.29,
+   "maturity": 7,
+   "sd": 0.45,
+   "dividend_yield": 0,
+   "riskfree": 0.0458,
+   "warrants": 7.72,
+   "shares": 4315
+  },
+  "expected": {
+   "adjusted_price": 72.27832556541918,
+   "d1": 4.245995843302064,
+   "N(d1)": 0.9999891187667749,
+   "d2": 3.0554077533229984,
+   "N(d2)": 0.9988762263505561,
+   "value_per_option": 71.34242074466547,
+   "value_all": 550.7634881488175
+  }
+ },
+ {
+  "name": "warrant branch: dividend yield 3%",
+  "source": "pycel recalculation of warrant.xls with {'D12': 0.03}",
+  "inputs": {
+   "tool": "warrant",
+   "price": 10,
+   "strike": 10,
+   "maturity": 5,
+   "sd": 0.4,
+   "dividend_yield": 0.03,
+   "riskfree": 0.02,
+   "warrants": 100,
+   "shares": 1000
+  },
+  "expected": {
+   "adjusted_price": 9.314141936616391,
+   "d1": 0.31187313952685164,
+   "N(d1)": 0.6224318078404995,
+   "d2": -0.5825540449684425,
+   "N(d2)": 0.28009675475641654,
+   "value_per_option": 2.4554563768743414
+  }
+ },
+ {
+  "name": "warrant branch: out of the money, 40% dilution",
+  "source": "pycel recalculation of warrant.xls with {'D9': 18, 'D14': 400}",
+  "inputs": {
+   "tool": "warrant",
+   "price": 10,
+   "strike": 18,
+   "maturity": 5,
+   "sd": 0.4,
+   "dividend_yield": 0,
+   "riskfree": 0.02,
+   "warrants": 400,
+   "shares": 1000
+  },
+  "expected": {
+   "adjusted_price": 7.418865648589999,
+   "d1": -0.4319734947111716,
+   "N(d1)": 0.3328920632677647,
+   "d2": -1.3263963402073065,
+   "N(d2)": 0.09235324921496568,
+   "value_per_option": 0.9653653274860567
+  }
+ },
+ {
+  "name": "employeeoption branch: maturity override 1.5y",
+  "source": "pycel recalculation of employeeoption.xls with {'F17': 'Yes'}",
+  "inputs": {
+   "tool": "employee_options",
+   "price": 20.83,
+   "strike": 22.68,
+   "maturity": 2.53,
+   "sd": 0.272,
+   "dividend_yield": 0.015,
+   "riskfree": 0.002,
+   "warrants": 520,
+   "shares": 5330,
+   "tax_rate": 0.26,
+   "maturity_override": 1.5
+  },
+  "expected": {
+   "adjusted_price": 19.084197331560457,
+   "t": 1.5,
+   "d1": -0.4101542231438087,
+   "N(d1)": 0.3408466757109745,
+   "d2": -0.7432847436796896,
+   "N(d2)": 0.22865462876999004,
+   "value_per_option": 1.189703762039863,
+   "value_all": 618.645944388259,
+   "value_vesting_adjusted": 618.6459443778406,
+   "value_after_tax": 457.79799883959544
+  }
+ },
+ {
+  "name": "employeeoption branch: vesting 90%",
+  "source": "pycel recalculation of employeeoption.xls with {'F21': 'Yes'}",
+  "inputs": {
+   "tool": "employee_options",
+   "price": 20.83,
+   "strike": 22.68,
+   "maturity": 2.53,
+   "sd": 0.272,
+   "dividend_yield": 0.015,
+   "riskfree": 0.002,
+   "warrants": 520,
+   "shares": 5330,
+   "tax_rate": 0.26,
+   "vesting_probability": 0.9
+  },
+  "expected": {
+   "adjusted_price": 19.13946262651833,
+   "t": 2.53,
+   "d1": -0.25201271927320684,
+   "N(d1)": 0.40051561623942006,
+   "d2": -0.6846552044731696,
+   "N(d2)": 0.24678076127762832,
+   "value_per_option": 1.8114545483312297,
+   "value_all": 941.9563651322394,
+   "value_vesting_adjusted": 847.7607286190155,
+   "value_after_tax": 697.0477101978571
+  }
+ },
+ {
+  "name": "employeeoption branch: no tax adjustment",
+  "source": "pycel recalculation of employeeoption.xls with {'F19': 'No'}",
+  "inputs": {
+   "tool": "employee_options",
+   "price": 20.83,
+   "strike": 22.68,
+   "maturity": 2.53,
+   "sd": 0.272,
+   "dividend_yield": 0.015,
+   "riskfree": 0.002,
+   "warrants": 520,
+   "shares": 5330,
+   "tax_rate": 0.0
+  },
+  "expected": {
+   "adjusted_price": 19.13946262651833,
+   "t": 2.53,
+   "d1": -0.25201271927320684,
+   "N(d1)": 0.40051561623942006,
+   "d2": -0.6846552044731696,
+   "N(d2)": 0.24678076127762832,
+   "value_per_option": 1.8114545483312297,
+   "value_all": 941.9563651322394,
+   "value_vesting_adjusted": 941.9563651322394,
+   "value_after_tax": 941.9563651322394
+  }
+ },
+ {
+  "name": "employeeoption branch: all switches on",
+  "source": "pycel recalculation of employeeoption.xls with {'F17': 'Yes', 'F21': 'Yes', 'F18': 4, 'F20': 0.35}",
+  "inputs": {
+   "tool": "employee_options",
+   "price": 20.83,
+   "strike": 22.68,
+   "maturity": 2.53,
+   "sd": 0.272,
+   "dividend_yield": 0.015,
+   "riskfree": 0.002,
+   "warrants": 520,
+   "shares": 5330,
+   "tax_rate": 0.35,
+   "maturity_override": 4,
+   "vesting_probability": 0.9
+  },
+  "expected": {
+   "adjusted_price": 19.19860968933287,
+   "t": 4,
+   "d1": -0.129921798024688,
+   "N(d1)": 0.44831396200547624,
+   "d2": -0.6739218337697201,
+   "N(d2)": 0.25018051876924574,
+   "value_per_option": 2.476894070558,
+   "value_all": 1287.9849257072226,
+   "value_vesting_adjusted": 1159.1864331479303,
+   "value_after_tax": 837.1902017179609
+  }
+ },
+ {
+  "name": "optst branch: no dividends",
+  "source": "pycel recalculation of optst.xls with {'G24': 0}",
+  "inputs": {
+   "tool": "short_term",
+   "price": 112.5,
+   "sd": 0.3,
+   "strike": 110,
+   "days": 52,
+   "riskfree": 0.08,
+   "dividends": [],
+   "replicate_sheet_bugs": false
+  },
+  "expected": {
+   "rate_used": 0.07688365361336424,
+   "t": 0.14246575342465753,
+   "pv_dividends": 0,
+   "d1": 0.3518124850849892,
+   "N(d1)": 0.6375105526580979,
+   "d2": 0.23857857758277862,
+   "N(d2)": 0.5942838109478501,
+   "call": 7.060840575402324,
+   "put": 3.362553506982877
+  }
+ },
+ {
+  "name": "optst branch: two dividends",
+  "source": "pycel recalculation of optst.xls with {'G24': 2, 'C30': 1.2, 'D30': 40, 'F37': 120}",
+  "inputs": {
+   "tool": "short_term",
+   "price": 112.5,
+   "sd": 0.3,
+   "strike": 110,
+   "days": 120,
+   "riskfree": 0.08,
+   "dividends": [
+    [
+     1.1,
+     45
+    ],
+    [
+     1.2,
+     40
+    ]
+   ],
+   "replicate_sheet_bugs": true
+  },
+  "expected": {
+   "rate_used": 0.07688365361336424,
+   "t": 0.3287671232876712,
+   "pv_dividends": 2.2795338337925095,
+   "d1": 0.24459294212923455,
+   "N(d1)": 0.5966141852675863,
+   "d2": 0.0725782884049358,
+   "N(d2)": 0.5289291477557638,
+   "call": 9.061836268134591,
+   "put": 6.040925141043203
+  }
+ },
+ {
+  "name": "optst branch: four dividends",
+  "source": "pycel recalculation of optst.xls with {'G24': 4, 'C30': 1, 'D30': 100, 'C31': 1, 'D31': 190, 'C32': 1.1, 'D32': 280, 'F37': 300}",
+  "inputs": {
+   "tool": "short_term",
+   "price": 112.5,
+   "sd": 0.3,
+   "strike": 110,
+   "days": 300,
+   "riskfree": 0.08,
+   "dividends": [
+    [
+     1.1,
+     45
+    ],
+    [
+     1,
+     100
+    ],
+    [
+     1,
+     190
+    ],
+    [
+     1.1,
+     280
+    ]
+   ],
+   "replicate_sheet_bugs": true
+  },
+  "expected": {
+   "rate_used": 0.07688365361336424,
+   "t": 0.821917808219178,
+   "pv_dividends": 4.06641506867483,
+   "d1": 0.3155972685197817,
+   "N(d1)": 0.6238458943954073,
+   "d2": 0.043618220172806976,
+   "N(d2)": 0.5173956360392655,
+   "call": 14.367365735531699,
+   "put": 8.957549435036029
+  }
+ },
+ {
+  "name": "optlt branch: dividend yield 2%",
+  "source": "pycel recalculation of optlt.xls with {'G5': 0.02}",
+  "inputs": {
+   "tool": "long_term",
+   "price": 500,
+   "strike": 600,
+   "maturity": 15,
+   "riskfree": 0.05,
+   "variance": 0.25,
+   "dividend_yield": 0.02
+  },
+  "expected": {
+   "d1": 1.1064743902419532,
+   "N(d1)": 0.8657393786357606,
+   "d2": -0.8300172828617554,
+   "N(d2)": 0.20326450609345875,
+   "call": 263.0685406047369,
+   "put": 176.07936190848676
+  }
+ },
+ {
+  "name": "optlt branch: in the money 5y",
+  "source": "pycel recalculation of optlt.xls with {'C4': 400, 'C5': 5, 'G4': 0.09}",
+  "inputs": {
+   "tool": "long_term",
+   "price": 500,
+   "strike": 400,
+   "maturity": 5,
+   "riskfree": 0.05,
+   "variance": 0.09,
+   "dividend_yield": 0
+  },
+  "expected": {
+   "d1": 1.0407309591944571,
+   "N(d1)": 0.850999784761087,
+   "d2": 0.3699105659445202,
+   "N(d2)": 0.6442754357422589,
+   "call": 224.79500683264675,
+   "put": 36.31532006120875
+  }
+ },
+ {
+  "name": "buffettoptions branch: dividends $0.20",
+  "source": "pycel recalculation of buffettoptions.xls with {'F23': 0.2}",
+  "inputs": {
+   "tool": "long_term",
+   "price": 6.4,
+   "sd": 0.6,
+   "strike": 7.14,
+   "maturity": 10,
+   "riskfree_annual": 0.02,
+   "annual_dividends": 0.2
+  },
+  "expected": {
+   "r": 0.019801326693244747,
+   "y": 0.03125,
+   "d1": 0.8306768360871151,
+   "N(d1)": 0.7969218922501707,
+   "d2": -1.0666897600139125,
+   "N(d2)": 0.14305597633104605,
+   "call": 2.8935284844392624,
+   "put": 4.0685515008295905
+  }
+ },
+ {
+  "name": "buffettoptions branch: dividend yield override 1%",
+  "source": "pycel recalculation of buffettoptions.xls with {'F25': 'Yes', 'F26': 0.01}",
+  "inputs": {
+   "tool": "long_term",
+   "price": 6.4,
+   "sd": 0.6,
+   "strike": 7.14,
+   "maturity": 10,
+   "riskfree_annual": 0.02,
+   "dividend_yield": 0.01
+  },
+  "expected": {
+   "r": 0.019801326693244747,
+   "y": 0.01,
+   "d1": 0.9426741698847452,
+   "N(d1)": 0.8270762053645919,
+   "d2": -0.9546924262162824,
+   "N(d2)": 0.16986663054134926,
+   "call": 3.7945942646165722,
+   "put": 3.8609978308352657
+  }
+ },
+ {
+  "name": "bstobin branch: quarterly periods",
+  "source": "pycel recalculation of bstobin.xls with {'B5': 4}",
+  "inputs": {
+   "tool": "binomial",
+   "sd": 0.42,
+   "riskfree": 0.05,
+   "dividend_yield": 0.2,
+   "periods_per_year": 4,
+   "price": 33.5
+  },
+  "expected": {
+   "up": 1.1623571857908752,
+   "down": 0.7637230924130737,
+   "tree.0.0": 33.5,
+   "tree.1.0": 38.93896572399432,
+   "tree.1.1": 25.584723595837968,
+   "tree.2.0": 45.26098661654939,
+   "tree.2.1": 29.738587318095625,
+   "tree.2.2": 19.539644223147107,
+   "tree.3.0": 52.609433029730816,
+   "tree.3.1": 34.56686066445784,
+   "tree.3.2": 22.712045870572208,
+   "tree.3.3": 14.922877510753159,
+   "tree.4.0": 61.15095252249143,
+   "tree.4.1": 40.17903888356452,
+   "tree.4.2": 26.39950972167158,
+   "tree.4.3": 17.345713907300983,
+   "tree.4.4": 11.396946160213913,
+   "tree.5.0": 71.07924908247456,
+   "tree.5.1": 46.702394564482205,
+   "tree.5.2": 30.68565982634103,
+   "tree.5.3": 20.161915202824016,
+   "tree.5.4": 13.247322265396365,
+   "tree.5.5": 8.704110965543876
+  }
+ },
+ {
+  "name": "bstobin branch: monthly, no yield",
+  "source": "pycel recalculation of bstobin.xls with {'B5': 12, 'B4': 0}",
+  "inputs": {
+   "tool": "binomial",
+   "sd": 0.42,
+   "riskfree": 0.05,
+   "dividend_yield": 0,
+   "periods_per_year": 12,
+   "price": 33.5
+  },
+  "expected": {
+   "up": 1.1253118792051358,
+   "down": 0.8830028154632533,
+   "tree.0.0": 33.5,
+   "tree.1.0": 37.69794795337205,
+   "tree.1.1": 29.580594318018985,
+   "tree.2.0": 42.421948653586504,
+   "tree.2.1": 33.28739418001471,
+   "tree.2.2": 26.119748065887077,
+   "tree.3.0": 47.73792275891121,
+   "tree.3.1": 37.45870009855445,
+   "tree.3.2": 29.3928627803881,
+   "tree.3.3": 23.063811081369153,
+   "tree.4.0": 53.720051569179994,
+   "tree.4.1": 42.152720200485916,
+   "tree.4.2": 33.07613765061723,
+   "tree.4.3": 25.953980589607756,
+   "tree.4.4": 20.365410120161542,
+   "tree.5.0": 60.45181218231074,
+   "tree.5.1": 47.434956782417096,
+   "tree.5.2": 37.220970616463816,
+   "tree.5.3": 29.20632267014512,
+   "tree.5.4": 22.917437933102274,
+   "tree.5.5": 17.982714474166475
+  }
+ },
+ {
+  "name": "delay branch: 10 years, rf 4%",
+  "source": "pycel recalculation of delay.xls with {'F8': 10, 'F11': 0.04}",
+  "inputs": {
+   "tool": "delay",
+   "pv_cash_flows": 350,
+   "sd": 0.22360679774997896,
+   "investment": 500,
+   "years": 10,
+   "riskfree": 0.04
+  },
+  "expected": {
+   "y": 0.1,
+   "d1": -0.9993892899074021,
+   "N(d1)": 0.15880307301855678,
+   "d2": -1.7064960710939496,
+   "N(d2)": 0.04395787859882405,
+   "value": 5.714211412434658
+  }
+ },
+ {
+  "name": "delay branch: PV above cost",
+  "source": "pycel recalculation of delay.xls with {'F5': 600}",
+  "inputs": {
+   "tool": "delay",
+   "pv_cash_flows": 600,
+   "sd": 0.22360679774997896,
+   "investment": 500,
+   "years": 20,
+   "riskfree": 0.07
+  },
+  "expected": {
+   "y": 0.05,
+   "d1": 1.0823215567939546,
+   "N(d1)": 0.8604451647214517,
+   "d2": 0.08232155679395459,
+   "N(d2)": 0.5328044936223791,
+   "value": 124.23006656297653
+  }
+ },
+ {
+  "name": "expand branch: cost of delay 3%",
+  "source": "pycel recalculation of expand.xls with {'G10': 0.03}",
+  "inputs": {
+   "tool": "expand",
+   "pv_expansion": 100,
+   "sd": 0.31622776601683794,
+   "investment": 150,
+   "years": 10,
+   "cost_of_delay": 0.03,
+   "riskfree": 0.065
+  },
+  "expected": {
+   "d1": 0.44453489189183565,
+   "N(d1)": 0.6716720459238705,
+   "d2": -0.5554651081081643,
+   "N(d2)": 0.2892882848161586,
+   "value": 27.105429891090058
+  }
+ },
+ {
+  "name": "expand branch: 5 years",
+  "source": "pycel recalculation of expand.xls with {'G9': 5, 'G8': 120}",
+  "inputs": {
+   "tool": "expand",
+   "pv_expansion": 100,
+   "sd": 0.31622776601683794,
+   "investment": 120,
+   "years": 5,
+   "cost_of_delay": 0.0,
+   "riskfree": 0.065
+  },
+  "expected": {
+   "d1": 0.5553311800335426,
+   "N(d1)": 0.710665922203288,
+   "d2": -0.15177560115300492,
+   "N(d2)": 0.43968196331204157,
+   "value": 32.94472277280879
+  }
+ },
+ {
+  "name": "abandon branch: rights for full life",
+  "source": "pycel recalculation of abandon.xls with {'F8': 25}",
+  "inputs": {
+   "tool": "abandon",
+   "pv_cash_flows": 254,
+   "sd": 0.3,
+   "project_life": 25,
+   "abandonment_value": 150,
+   "years": 25,
+   "riskfree": 0.07
+  },
+  "expected": {
+   "y": 0.04,
+   "d1": 1.601132648614854,
+   "N(d1)": 0.9453262288324714,
+   "d2": 0.10113264861485405,
+   "N(d2)": 0.540277419472548,
+   "value": 6.87437833522371
+  }
+ },
+ {
+  "name": "abandon branch: salvage 220, life 12",
+  "source": "pycel recalculation of abandon.xls with {'F7': 220, 'F6': 12, 'F8': 6}",
+  "inputs": {
+   "tool": "abandon",
+   "pv_cash_flows": 254,
+   "sd": 0.3,
+   "project_life": 12,
+   "abandonment_value": 220,
+   "years": 6,
+   "riskfree": 0.07
+  },
+  "expected": {
+   "y": 0.08333333333333333,
+   "d1": 0.4541173274275596,
+   "N(d1)": 0.6751278087705085,
+   "d2": -0.28072959540739373,
+   "N(d2)": 0.3894589036656962,
+   "value": 38.20448296177463
+  }
+ },
+ {
+  "name": "project branch: cost of delay override 5%",
+  "source": "pycel recalculation of project.xls with {'F30': 'Yes', 'F31': 0.05}",
+  "inputs": {
+   "tool": "patent",
+   "pv_cash_flows": 800000,
+   "sd": 0.3,
+   "development_cost": 1000000,
+   "years": 10,
+   "riskfree": 0.08,
+   "cost_of_delay": 0.05
+  },
+  "expected": {
+   "y": 0.05,
+   "d1": 0.5553554592649076,
+   "N(d1)": 0.7106742240640178,
+   "d2": -0.3933278387856062,
+   "N(d2)": 0.34703867969809404,
+   "value": 188902.0343124972
+  }
+ },
+ {
+  "name": "project branch: 20-year patent",
+  "source": "pycel recalculation of project.xls with {'E26': 20}",
+  "inputs": {
+   "tool": "patent",
+   "pv_cash_flows": 800000,
+   "sd": 0.3,
+   "development_cost": 1000000,
+   "years": 20,
+   "riskfree": 0.08
+  },
+  "expected": {
+   "y": 0.05,
+   "d1": 0.951712605590133,
+   "N(d1)": 0.8293786226804079,
+   "d2": -0.3899281809097408,
+   "N(d2)": 0.3482948273417893,
+   "value": 173769.5625091102
+  }
+ },
+ {
+  "name": "natres branch: price 15, 20 years",
+  "source": "pycel recalculation of natres.xls with {'F17': 15, 'E27': 20}",
+  "inputs": {
+   "tool": "natural_resource",
+   "reserves": 100000,
+   "price": 15,
+   "unit_cost": 10,
+   "sd": 0.3,
+   "annual_cash_flow": 50000,
+   "development_cost": 1000000,
+   "years": 20,
+   "riskfree": 0.08
+  },
+  "expected": {
+   "S": 500000,
+   "y": 0.1,
+   "d1": -0.14396340846482125,
+   "N(d1)": 0.442764682197541,
+   "d2": -1.485604194964695,
+   "N(d2)": 0.06869192240267746,
+   "value": 16092.18188872687
+  }
+ },
+ {
+  "name": "natres branch: high development cost",
+  "source": "pycel recalculation of natres.xls with {'F25': 2000000}",
+  "inputs": {
+   "tool": "natural_resource",
+   "reserves": 100000,
+   "price": 22.5,
+   "unit_cost": 10,
+   "sd": 0.3,
+   "annual_cash_flow": 50000,
+   "development_cost": 2000000,
+   "years": 10,
+   "riskfree": 0.08
+  },
+  "expected": {
+   "S": 1250000.0,
+   "y": 0.04,
+   "d1": 0.4005513447270903,
+   "N(d1)": 0.6556247630122601,
+   "d2": -0.5481319533234235,
+   "N(d2)": 0.29180065075931466,
+   "value": 287119.05838677613
+  }
+ },
+ {
+  "name": "flexval branch: a negative reinvestment year",
+  "source": "pycel recalculation of flexval.xls with {'Reinvestment Needs!B5': -40}",
+  "inputs": {
+   "tool": "flexibility",
+   "reinvestment_pct": 0.0913,
+   "sd": 0.6125,
+   "financeable_pct": 0.05,
+   "max_pct": 0.17,
+   "riskfree": 0.06,
+   "cost_of_capital": 0.1222,
+   "return_on_capital": 0.1869,
+   "history": {
+    "reinvestment": [
+     71,
+     33,
+     181,
+     -40,
+     83,
+     233,
+     90,
+     211,
+     122,
+     445
+    ],
+    "firm_value": [
+     1000,
+     1071,
+     1156,
+     1211,
+     1413,
+     1666,
+     1870,
+     2001,
+     2133,
+     2225
+    ]
+   }
+  },
+  "expected": {
+   "avg_reinvestment_pct": 0.08347244329912559,
+   "sd_ln_reinvestment": 0.9836353186162166,
+   "d1": 1.3872749504861661,
+   "N(d1)": 0.9173210307983501,
+   "d2": 0.7747749504861661,
+   "N(d2)": 0.7807636732217889,
+   "d1_max": -0.6107257542030022,
+   "N(d1)_max": 0.2706905765594262,
+   "d2_max": -1.2232257542030023,
+   "N(d2)_max": 0.11062222038609526,
+   "value": 0.0211695000274783
+  }
+ },
+ {
+  "name": "flexval branch: narrow flexibility band",
+  "source": "pycel recalculation of flexval.xls with {'F24': 0.08, 'F25': 0.12, 'F31': 0.15}",
+  "inputs": {
+   "tool": "flexibility",
+   "reinvestment_pct": 0.0913,
+   "sd": 0.6125,
+   "financeable_pct": 0.08,
+   "max_pct": 0.12,
+   "riskfree": 0.06,
+   "cost_of_capital": 0.1222,
+   "return_on_capital": 0.15,
+   "history": {
+    "reinvestment": [
+     71,
+     33,
+     181,
+     55,
+     83,
+     233,
+     90,
+     211,
+     122,
+     445
+    ],
+    "firm_value": [
+     1000,
+     1071,
+     1156,
+     1211,
+     1413,
+     1666,
+     1870,
+     2001,
+     2133,
+     2225
+    ]
+   }
+  },
+  "expected": {
+   "avg_reinvestment_pct": 0.09131719969879529,
+   "sd_ln_reinvestment": 0.6125043783929949,
+   "d1": 0.6199220864114959,
+   "N(d1)": 0.7323454580078921,
+   "d2": 0.007422086411495887,
+   "N(d2)": 0.5029609568930941,
+   "d1_max": -0.04206176356101735,
+   "N(d1)_max": 0.4832247307182873,
+   "d2_max": -0.6545617635610174,
+   "N(d2)_max": 0.2563749745154513,
+   "value": 0.0031450040172170232
+  }
+ },
+ {
+  "name": "equity branch: firm inputs variance",
+  "source": "pycel recalculation of equity.xls with {'F18': 'Firm inputs'}",
+  "inputs": {
+   "tool": "equity_option",
+   "firm_value": 238511,
+   "face_value_debt": 364078,
+   "duration": 5,
+   "riskfree": 0.0075,
+   "dividends": 0.0,
+   "firm_inputs": {
+    "sd_stock": 0.25,
+    "sd_bond": 0.1,
+    "correlation": 0.3,
+    "debt_ratio": 0.9
+   }
+  },
+  "expected": {
+   "variance": 0.010075,
+   "y": 0.0,
+   "d1": -1.6051468953900685,
+   "N(d1)": 0.05423074051408877,
+   "d2": -1.829590652264703,
+   "N(d2)": 0.033655586285175454,
+   "value": 1132.3579227338068,
+   "value_of_debt": 237378.64207726618,
+   "interest_rate_on_debt": 0.08930766384319888,
+   "default_probability": 0.9663444137148245
+  }
+ },
+ {
+  "name": "equity branch: direct variance",
+  "source": "pycel recalculation of equity.xls with {'F18': 'Direct Input'}",
+  "inputs": {
+   "tool": "equity_option",
+   "firm_value": 238511,
+   "face_value_debt": 364078,
+   "duration": 5,
+   "riskfree": 0.0075,
+   "dividends": 0.0,
+   "sd": 0.25
+  },
+  "expected": {
+   "variance": 0.0625,
+   "y": 0.0,
+   "d1": -0.41001025343295816,
+   "N(d1)": 0.3408992130090416,
+   "d2": -0.9690272478079056,
+   "N(d2)": 0.1662657971845094,
+   "value": 23002.472058566513,
+   "value_of_debt": 215508.52794143348,
+   "interest_rate_on_debt": 0.11057014740511462,
+   "default_probability": 0.8337342028154906
+  }
+ },
+ {
+  "name": "equity branch: industry Steel",
+  "source": "pycel recalculation of equity.xls with {'F27': 'Steel'}",
+  "inputs": {
+   "tool": "equity_option",
+   "firm_value": 238511,
+   "face_value_debt": 364078,
+   "duration": 5,
+   "riskfree": 0.0075,
+   "dividends": 0.0,
+   "industry": "Steel"
+  },
+  "expected": {
+   "variance": 0.10721463426103083,
+   "y": 0.0,
+   "d1": -0.16036724414701498,
+   "N(d1)": 0.4362958955108821,
+   "d2": -0.8925374233438695,
+   "N(d2)": 0.1860524715870091,
+   "value": 38816.88082641731,
+   "value_of_debt": 199694.1191735827,
+   "interest_rate_on_debt": 0.12762795071391286,
+   "default_probability": 0.8139475284129909
+  }
+ },
+ {
+  "name": "equity branch: dividends 5000",
+  "source": "pycel recalculation of equity.xls with {'F32': 5000}",
+  "inputs": {
+   "tool": "equity_option",
+   "firm_value": 238511,
+   "face_value_debt": 364078,
+   "duration": 5,
+   "riskfree": 0.0075,
+   "dividends": 5000,
+   "industry": "Retail (General)"
+  },
+  "expected": {
+   "variance": 0.1665129549342248,
+   "y": 0.02096339372188285,
+   "d1": -0.081086405758183,
+   "N(d1)": 0.46768661835966685,
+   "d2": -0.9935362809135935,
+   "N(d2)": 0.16022433941447617,
+   "value": 44261.011757594904,
+   "value_of_debt": 194249.9882424051,
+   "interest_rate_on_debt": 0.13387893498637027,
+   "default_probability": 0.8397756605855238
+  }
+ },
+ {
+  "name": "equity branch: dividend yield override 2%",
+  "source": "pycel recalculation of equity.xls with {'F34': 'Yes', 'F35': 0.02}",
+  "inputs": {
+   "tool": "equity_option",
+   "firm_value": 238511,
+   "face_value_debt": 364078,
+   "duration": 5,
+   "riskfree": 0.0075,
+   "dividends": 0.0,
+   "industry": "Retail (General)",
+   "dividend_yield": 0.02
+  },
+  "expected": {
+   "variance": 0.1665129549342248,
+   "y": 0.02,
+   "d1": -0.07580724605793773,
+   "N(d1)": 0.46978622559792466,
+   "d2": -0.9882571212133482,
+   "N(d2)": 0.16151336973607572,
+   "value": 44747.12407319383,
+   "value_of_debt": 193763.87592680618,
+   "interest_rate_on_debt": 0.13444729708517844,
+   "default_probability": 0.8384866302639242
+  }
+ }
+]

@@ -1,0 +1,32 @@
+year  growth   revenue      margin  EBIT(1-t)   reinvest     FCFF      WACC   ROIC
+   1  107.6%      38,762    8.5%      2,951     10,181     -7,229   8.37%   5.5%
+   2   62.2%      62,868   11.4%      6,449     12,217     -5,767   8.37%  10.2%
+   3   35.8%      85,367   14.8%     11,404     11,402          2   8.37%  15.1%
+   4   19.8%     102,242   18.5%     17,031      8,552      8,479   8.37%  19.6%
+   5   16.5%     119,116   22.2%     23,813      8,552     15,261   8.37%  24.9%
+   6   50.5%     179,293   24.9%     38,848     16,456     22,392   8.35%  37.3%
+   7   38.0%     247,505   28.0%     58,297     18,947     39,350   8.32%  48.4%
+   8   26.3%     312,503   31.4%     79,361     17,951     61,411   8.30%  56.9%
+   9   17.2%     366,251   34.7%     99,142     14,463     84,679   8.27%  63.0%
+  10   14.7%     420,000   38.1%    120,000     14,463    105,537   8.25%  69.8%
+term    4.6%     439,152   38.1%    125,472     38,143     87,329   8.25%  15.0%
+
+PV of FCFF yrs 1-10   161,882
+PV of terminal value  1,062,566  (TV 2,366,626, g 4.56%, r 8.25%, ROIC 15.00%)
+Operating assets      1,224,448
+Equity                1,301,299   options 0
+VALUE PER SHARE       97.83   price 135.00   price/value 138%
+
+DIAGNOSTICS (Ginzu 'Diagnostics' sheet)
+1 Revenue growth  industry  11.1% | last yr    n/a | next yr 107.6% | yrs 2-5  62.2%
+    ask: growth above industry -> is the company small? far from last year's growth -> why?
+2 Revenues        now 18,674 | yr1 38,762 | yr5 119,116 | yr10 420,000
+    ask: how big is the total market, what do its biggest firms earn, what share does year 10 imply?
+3 Operating margin industry   8.8% | now  21.5% | yr1   8.5% | yr5  22.2% | yr10  38.1%
+    ask: industry margins? unit economics (cost of the extra unit)? what does competition look like?
+4 Sales/capital   industry 2.74 | now 0.35 | yr1-5 path | yr6-10 path
+  ROIC  now   6.8% | marginal yrs1-10  87.4% | yr10  69.8% | stable  15.0% | value effect of reinvestment 34% of PV(NOPAT)
+    ask: bounce-back or new growth? excess capacity? does efficiency change with scale? comfortable with yr-10 ROIC?
+5 Cost of capital industry   7.6% | yrs 1-5   8.4% | compounded   8.3% | stable   8.2% | failure   0.0%
+    ask: vs industry? why does it change over time? is the failure rate consistent with the company?
+6 Value/price     72%  (Ginzu flags: <50% or >200% -> revisit growth, margin, sales/capital, terminal ROIC)

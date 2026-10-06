@@ -1,0 +1,22 @@
+[
+ {
+  "step": "Damodaran June 2026 value (IPO at $135)",
+  "value": 97.8277
+ },
+ {
+  "step": "Roll-forward: TTM base year, IPO cash received, 13.18bn shares",
+  "value": 97.7667
+ },
+ {
+  "step": "Riskfree 4.56% -> 5.17% (incl. terminal cost of capital 8.25% -> 8.86%)",
+  "value": 88.7771
+ },
+ {
+  "step": "Beta weights: April-stale mix -> TTM segment revenues",
+  "value": 81.2343
+ },
+ {
+  "step": "Country ERPs: Jan-2026 -> Damodaran's July-2026 update (final)",
+  "value": 81.4047
+ }
+]
